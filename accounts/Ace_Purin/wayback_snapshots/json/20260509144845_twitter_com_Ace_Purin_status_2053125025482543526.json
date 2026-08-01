@@ -1,0 +1,317 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1949348575378644992",
+    "conversation_id": "2053119419383988699",
+    "created_at": "2026-05-09T14:48:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-09T15:48:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053125025482543526"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2053116713692966913",
+          "start": 0,
+          "username": "FREUNDIS4021"
+        },
+        {
+          "end": 24,
+          "id": "2031715041196875776",
+          "start": 14,
+          "username": "YiJin_0v0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053125025482543526",
+    "in_reply_to_user_id": "2053116713692966913",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053119419383988699",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@FREUNDIS4021 @YiJin_0v0 wtf你咋又被封了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1256,
+        "media_key": "3_2053119413943943171",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH4lOqWWQAMvc31.jpg",
+        "width": 1169
+      },
+      {
+        "height": 431,
+        "media_key": "3_2053119413948227589",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH4lOqXXoAUCgnN.jpg",
+        "width": 476
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1949348575378644992",
+        "conversation_id": "2053119419383988699",
+        "created_at": "2026-05-09T14:48:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T15:48:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053125025482543526"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2053116713692966913",
+              "start": 0,
+              "username": "FREUNDIS4021"
+            },
+            {
+              "end": 24,
+              "id": "2031715041196875776",
+              "start": 14,
+              "username": "YiJin_0v0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053125025482543526",
+        "in_reply_to_user_id": "2053116713692966913",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053119419383988699",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FREUNDIS4021 @YiJin_0v0 wtf你咋又被封了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053119413943943171",
+            "3_2053119413948227589"
+          ]
+        },
+        "author_id": "2053116713692966913",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2053119419383988699",
+        "created_at": "2026-05-09T14:26:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T15:26:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053119419383988699"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/A6SW9Vc06F",
+              "end": 66,
+              "expanded_url": "https://x.com/FREUNDIS4021/status/2053119419383988699/photo/1",
+              "media_key": "3_2053119413943943171",
+              "start": 43,
+              "url": "https://t.co/A6SW9Vc06F"
+            },
+            {
+              "display_url": "pic.x.com/A6SW9Vc06F",
+              "end": 66,
+              "expanded_url": "https://x.com/FREUNDIS4021/status/2053119419383988699/photo/1",
+              "media_key": "3_2053119413948227589",
+              "start": 43,
+              "url": "https://t.co/A6SW9Vc06F"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053119419383988699",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 29,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "你们好我是bokuwayakudatazudesu。寻回卢关，一周被封三个号。谢谢。 https://t.co/A6SW9Vc06F"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-27T05:58:17.000Z",
+        "description": "如果能成为你害怕失去的人就好了｜💊 SH｜被block就是你的错",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ace_purin",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ace_purin",
+                "start": 0,
+                "url": "https://t.co/PkWlzvseLZ"
+              }
+            ]
+          }
+        },
+        "id": "1949348575378644992",
+        "location": "メジコン",
+        "name": "永雏布丁",
+        "pinned_tweet_id": "2033851547843719390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041031144146423808/f-TPgWl2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 172,
+          "following_count": 207,
+          "like_count": 2433,
+          "listed_count": 0,
+          "media_count": 64,
+          "tweet_count": 1709
+        },
+        "url": "https://t.co/PkWlzvseLZ",
+        "username": "Ace_Purin",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-09T14:16:39.000Z",
+        "description": "我是废物desu，卢关寻回中",
+        "id": "2053116713692966913",
+        "name": "我是废物",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053117224747945988/DuiogWip_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 20,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 2
+        },
+        "username": "FREUNDIS4021",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-11T12:53:23.000Z",
+        "description": "不发帖就是被抓进精神病院了【寻回推u】\n- ✰*🎀ੈ✩🍥✰*💗ੈ✩-\n生活在互联网！查成分回fo/我是低龄糖逼大傻福，十分抱歉！\n宇宙级严重失眠 -12现役初中生\n春风@ace31ch\n^✟❀永远纪念@wu_si787878❀@iirin_0917❀随时附体@Melody_0v0_❀✟",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 92,
+                "start": 84,
+                "username": "ace31ch"
+              },
+              {
+                "end": 112,
+                "start": 100,
+                "username": "wu_si787878"
+              },
+              {
+                "end": 124,
+                "start": 113,
+                "username": "iirin_0917"
+              },
+              {
+                "end": 141,
+                "start": 129,
+                "username": "Melody_0v0_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ii_rin",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ii_rin",
+                "start": 0,
+                "url": "https://t.co/BEawMTYyNs"
+              }
+            ]
+          }
+        },
+        "id": "2031715041196875776",
+        "location": "你看看你身后",
+        "name": "3.霖（完全病娇邪恶中二）",
+        "pinned_tweet_id": "2053020128930156785",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052347801045200896/4j5q_ZbS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 909,
+          "following_count": 681,
+          "like_count": 6181,
+          "listed_count": 2,
+          "media_count": 162,
+          "tweet_count": 3482
+        },
+        "url": "https://t.co/BEawMTYyNs",
+        "username": "YiJin_0v0",
+        "verified": false
+      }
+    ]
+  }
+}

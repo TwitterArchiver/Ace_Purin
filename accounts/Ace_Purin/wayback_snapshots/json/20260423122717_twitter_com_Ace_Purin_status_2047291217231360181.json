@@ -1,0 +1,302 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2046930618450403329"
+      ],
+      "media_source_tweet_id": [
+        "2046930623370305730"
+      ]
+    },
+    "author_id": "1949348575378644992",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2047291217231360181",
+    "created_at": "2026-04-23T12:27:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T13:27:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047291217231360181"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1988925214374412288",
+          "start": 3,
+          "username": "kitty_a2a"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/2T335EX9KO",
+          "end": 62,
+          "expanded_url": "https://x.com/kitty_a2a/status/2046930623370305730/photo/1",
+          "media_key": "3_2046930618450403329",
+          "start": 39,
+          "url": "https://t.co/2T335EX9KO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047291217231360181",
+    "lang": "ko",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 489
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046930623370305730",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @kitty_a2a: 내일 학교에서 시험보는데 공부 하나도 안함 https://t.co/2T335EX9KO"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 959,
+        "media_key": "3_2046930618450403329",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGgojWibYAEk3li.jpg",
+        "width": 959
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046930618450403329"
+          ],
+          "media_source_tweet_id": [
+            "2046930623370305730"
+          ]
+        },
+        "author_id": "1949348575378644992",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2047291217231360181",
+        "created_at": "2026-04-23T12:27:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T13:27:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047291217231360181"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1988925214374412288",
+              "start": 3,
+              "username": "kitty_a2a"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/2T335EX9KO",
+              "end": 62,
+              "expanded_url": "https://x.com/kitty_a2a/status/2046930623370305730/photo/1",
+              "media_key": "3_2046930618450403329",
+              "start": 39,
+              "url": "https://t.co/2T335EX9KO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047291217231360181",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 489
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046930623370305730",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @kitty_a2a: 내일 학교에서 시험보는데 공부 하나도 안함 https://t.co/2T335EX9KO"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046930618450403329"
+          ]
+        },
+        "author_id": "1988925214374412288",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2046930623370305730",
+        "created_at": "2026-04-22T12:34:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T13:34:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046930623370305730"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2T335EX9KO",
+              "end": 47,
+              "expanded_url": "https://x.com/kitty_a2a/status/2046930623370305730/photo/1",
+              "media_key": "3_2046930618450403329",
+              "start": 24,
+              "url": "https://t.co/2T335EX9KO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046930623370305730",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 55,
+          "impression_count": 20492,
+          "like_count": 2638,
+          "quote_count": 20,
+          "reply_count": 1,
+          "retweet_count": 489
+        },
+        "reply_settings": "following",
+        "text": "내일 학교에서 시험보는데 공부 하나도 안함 https://t.co/2T335EX9KO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-27T05:58:17.000Z",
+        "description": "如果能成为你害怕失去的人就好了｜💊 SH｜被block就是你的错",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ace_purin",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ace_purin",
+                "start": 0,
+                "url": "https://t.co/PkWlzvseLZ"
+              }
+            ]
+          }
+        },
+        "id": "1949348575378644992",
+        "location": "メジコン",
+        "name": "永雏布丁",
+        "pinned_tweet_id": "2033851547843719390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041031144146423808/f-TPgWl2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 117,
+          "following_count": 159,
+          "like_count": 1797,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 1230
+        },
+        "url": "https://t.co/PkWlzvseLZ",
+        "username": "Ace_Purin",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-13T11:01:44.000Z",
+        "description": "Main account→ @kitty_a1a",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 14,
+                "username": "kitty_a1a"
+              }
+            ]
+          }
+        },
+        "id": "1988925214374412288",
+        "name": "Cho",
+        "pinned_tweet_id": "2033851151624585493",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045709915797499904/1KyU_bd__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3883,
+          "following_count": 40,
+          "like_count": 7774,
+          "listed_count": 11,
+          "media_count": 105,
+          "tweet_count": 406
+        },
+        "username": "kitty_a2a",
+        "verified": false
+      }
+    ]
+  }
+}

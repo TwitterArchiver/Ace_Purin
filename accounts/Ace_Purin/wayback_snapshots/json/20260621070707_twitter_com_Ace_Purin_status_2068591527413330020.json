@@ -1,0 +1,290 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1949348575378644992",
+    "conversation_id": "2067898464592416891",
+    "created_at": "2026-06-21T07:07:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T08:07:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068591527413330020"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1903060182944583686",
+          "start": 0,
+          "username": "Nikumannbunnka"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068591527413330020",
+    "in_reply_to_user_id": "1903060182944583686",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067898464592416891",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Nikumannbunnka 卧槽"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2067898451938164736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLKmr5NawAAJTxi.jpg",
+        "width": 1306
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1949348575378644992",
+        "conversation_id": "2067898464592416891",
+        "created_at": "2026-06-21T07:07:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T08:07:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068591527413330020"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1903060182944583686",
+              "start": 0,
+              "username": "Nikumannbunnka"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068591527413330020",
+        "in_reply_to_user_id": "1903060182944583686",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067898464592416891",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nikumannbunnka 卧槽"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067898451938164736"
+          ]
+        },
+        "author_id": "1903060182944583686",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "2067898464592416891",
+        "created_at": "2026-06-19T09:13:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T10:13:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067898464592416891"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TaOtnlBzep",
+              "end": 177,
+              "expanded_url": "https://x.com/Nikumannbunnka/status/2067898464592416891/photo/1",
+              "media_key": "3_2067898451938164736",
+              "start": 154,
+              "url": "https://t.co/TaOtnlBzep"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067898464592416891",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {},
+          "text": "すば日々コラボカフェ　\n新規書き下ろし「メイド　間宮卓司」\n\n『素晴らしき日々 ～不連続存在～』× 肉包文化\n\n本コラボにあたり、肉包文化と Keroq様がタッグを組み、新規書き下ろしイラスト「メイド　間宮卓司」を公開いたします。\n\n開催期間｜2026.7.20 ～ 8.10\n会場｜上海市南京東路800号 第一百貨商業中心 C館 L6\n\nテーマフード、限定グッズ、フォトスポットなどの内容も順次登場予定。\n詳細は後日公開いたしますので、続報をお楽しみに。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1137,
+          "impression_count": 278397,
+          "like_count": 5307,
+          "quote_count": 388,
+          "reply_count": 31,
+          "retweet_count": 1233
+        },
+        "reply_settings": "everyone",
+        "text": "すば日々コラボカフェ　\n新規書き下ろし「メイド　間宮卓司」\n\n『素晴らしき日々 ～不連続存在～』× 肉包文化\n\n本コラボにあたり、肉包文化と Keroq様がタッグを組み、新規書き下ろしイラスト「メイド　間宮卓司」を公開いたします。\n\n開催期間｜2026.7.20 ～ 8.10\n会場｜上海市南京東路800号 https://t.co/TaOtnlBzep"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-27T05:58:17.000Z",
+        "description": "喜欢@qngshu988723424｜💊 SH｜被block就是你的错",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 2,
+                "username": "qngshu988723424"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ace_purin",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ace_purin",
+                "start": 0,
+                "url": "https://t.co/0tokBnS6A6"
+              }
+            ]
+          }
+        },
+        "id": "1949348575378644992",
+        "location": "メジコン",
+        "name": "永雏布丁",
+        "pinned_tweet_id": "2033851547843719390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041031144146423808/f-TPgWl2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 246,
+          "following_count": 287,
+          "like_count": 3422,
+          "listed_count": 0,
+          "media_count": 83,
+          "tweet_count": 2349
+        },
+        "url": "https://t.co/0tokBnS6A6",
+        "username": "Ace_Purin",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-21T12:26:46.000Z",
+        "description": "日本のアニメ・ゲーム・漫画コンテンツを中国で盛り上げる肉包文化公式アカウントです！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "nikumann.net",
+                "end": 23,
+                "expanded_url": "https://nikumann.net/",
+                "start": 0,
+                "url": "https://t.co/yG6otVduok"
+              }
+            ]
+          }
+        },
+        "id": "1903060182944583686",
+        "location": "Shanghai",
+        "name": "肉包文化",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060582865667313664/qp7-RWNZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 678,
+          "following_count": 17,
+          "like_count": 149,
+          "listed_count": 1,
+          "media_count": 35,
+          "tweet_count": 66
+        },
+        "url": "https://t.co/yG6otVduok",
+        "username": "Nikumannbunnka",
+        "verified": true
+      }
+    ]
+  }
+}

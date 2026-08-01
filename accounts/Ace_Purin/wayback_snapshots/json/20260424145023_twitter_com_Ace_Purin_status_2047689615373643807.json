@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1949348575378644992",
+    "conversation_id": "2047431920905236821",
+    "created_at": "2026-04-24T14:50:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T15:50:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047689615373643807"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1592719222940962817",
+          "start": 0,
+          "username": "mofuwo8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047689615373643807",
+    "in_reply_to_user_id": "1592719222940962817",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047431920905236821",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mofuwo8964 我一直觉得朴彩英应该投资个生物科技公司研究这个然后造福大家"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1949348575378644992",
+        "conversation_id": "2047431920905236821",
+        "created_at": "2026-04-24T14:50:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T15:50:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047689615373643807"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1592719222940962817",
+              "start": 0,
+              "username": "mofuwo8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047689615373643807",
+        "in_reply_to_user_id": "1592719222940962817",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047431920905236821",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mofuwo8964 我一直觉得朴彩英应该投资个生物科技公司研究这个然后造福大家"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592719222940962817",
+        "conversation_id": "2047431920905236821",
+        "created_at": "2026-04-23T21:46:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T22:46:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047431920905236821"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2047431920905236821",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 915,
+          "like_count": 23,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "有没有生物学家想个法子让人能够长出粉色头发 我有些疲倦了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-27T05:58:17.000Z",
+        "description": "如果能成为你害怕失去的人就好了｜💊 SH｜被block就是你的错",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ace_purin",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ace_purin",
+                "start": 0,
+                "url": "https://t.co/PkWlzvseLZ"
+              }
+            ]
+          }
+        },
+        "id": "1949348575378644992",
+        "location": "メジコン",
+        "name": "永雏布丁",
+        "pinned_tweet_id": "2033851547843719390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041031144146423808/f-TPgWl2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 120,
+          "following_count": 162,
+          "like_count": 1849,
+          "listed_count": 0,
+          "media_count": 52,
+          "tweet_count": 1262
+        },
+        "url": "https://t.co/PkWlzvseLZ",
+        "username": "Ace_Purin",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-16T03:20:40.000Z",
+        "description": "不擅长和人打交道，希望能找到动物朋友，请不要用人类的逻辑思考我的行为。互联网孤儿｜自闭症患者｜发疯的边缘人，单机生活。\n追加：粉红健全逼社达激女男权蛆死远点看了好想吐",
+        "id": "1592719222940962817",
+        "location": "你的腋下",
+        "name": "腋窝",
+        "pinned_tweet_id": "2046726622607446328",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044520565059604480/tRBz7R7r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2704,
+          "following_count": 864,
+          "like_count": 3177,
+          "listed_count": 6,
+          "media_count": 174,
+          "tweet_count": 2461
+        },
+        "username": "mofuwo8964",
+        "verified": true
+      }
+    ]
+  }
+}

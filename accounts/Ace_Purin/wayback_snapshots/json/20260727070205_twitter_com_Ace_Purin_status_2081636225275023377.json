@@ -1,0 +1,526 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1949348575378644992",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "id": "10027446894",
+          "name": "Jersey Shore"
+        }
+      },
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "description": "Acompanhe os casais mais loucos que se formaram ao longo de todas as temporadas do reality.",
+          "id": "10057062639",
+          "name": "Jersey Shore: Family Vacation"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to travel as airlines, travel agencies, hotels",
+          "id": "1557697439489880065",
+          "name": "Travel & Transportation Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Travel",
+          "id": "839159814991167489",
+          "name": "Travel"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "This entity includes all conversations about travel and vacation.",
+          "id": "839161975712067584",
+          "name": "Travel Actions"
+        }
+      }
+    ],
+    "conversation_id": "2081636225275023377",
+    "created_at": "2026-07-27T07:02:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T08:02:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2081636225275023377"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/nypost/status/…",
+          "end": 26,
+          "expanded_url": "https://twitter.com/nypost/status/2081434132710605246",
+          "start": 3,
+          "url": "https://t.co/XiHsHc0KFE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081636225275023377",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081434132710605246",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "2岁 https://t.co/XiHsHc0KFE"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 799,
+        "media_key": "3_2081434125123133440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOK9TxNXIAA4unc.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1949348575378644992",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10027446894",
+              "name": "Jersey Shore"
+            }
+          },
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "description": "Acompanhe os casais mais loucos que se formaram ao longo de todas as temporadas do reality.",
+              "id": "10057062639",
+              "name": "Jersey Shore: Family Vacation"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to travel as airlines, travel agencies, hotels",
+              "id": "1557697439489880065",
+              "name": "Travel & Transportation Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Travel",
+              "id": "839159814991167489",
+              "name": "Travel"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "This entity includes all conversations about travel and vacation.",
+              "id": "839161975712067584",
+              "name": "Travel Actions"
+            }
+          }
+        ],
+        "conversation_id": "2081636225275023377",
+        "created_at": "2026-07-27T07:02:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T08:02:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081636225275023377"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/nypost/status/…",
+              "end": 26,
+              "expanded_url": "https://twitter.com/nypost/status/2081434132710605246",
+              "start": 3,
+              "url": "https://t.co/XiHsHc0KFE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081636225275023377",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081434132710605246",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "2岁 https://t.co/XiHsHc0KFE"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081434125123133440"
+          ]
+        },
+        "author_id": "17469289",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10027446894",
+              "name": "Jersey Shore"
+            }
+          },
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "description": "Acompanhe os casais mais loucos que se formaram ao longo de todas as temporadas do reality.",
+              "id": "10057062639",
+              "name": "Jersey Shore: Family Vacation"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to  marketing and advertiser agencies, publishers of magazines, newspapers, blogs, books",
+              "id": "1557697121477832705",
+              "name": "Publisher & News Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to travel as airlines, travel agencies, hotels",
+              "id": "1557697439489880065",
+              "name": "Travel & Transportation Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "New York Post",
+              "id": "1065654169002885120",
+              "name": "New York Post"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "New York Post",
+              "id": "1065654169002885120",
+              "name": "New York Post"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196447117297905665",
+              "name": "News outlets"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Travel",
+              "id": "839159814991167489",
+              "name": "Travel"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "This entity includes all conversations about travel and vacation.",
+              "id": "839161975712067584",
+              "name": "Travel Actions"
+            }
+          }
+        ],
+        "conversation_id": "2081434132710605246",
+        "created_at": "2026-07-26T17:39:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T18:39:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081434132710605246"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "Thankfully, the boy was saved thanks to a Naloxone nasal spray -- or Narcan -- which is used to treat overdoses.",
+              "display_url": "trib.al/ZW34J7J",
+              "end": 90,
+              "expanded_url": "https://trib.al/ZW34J7J",
+              "start": 67,
+              "status": 200,
+              "title": "2-year-old boy overdosed on cocaine while on Jersey Shore vacation",
+              "unwound_url": "https://nypost.com/2026/07/26/us-news/jersey-shore-vacationer-charged-after-boy-2-overdosed-on-cocaine/?utm_medium=social&utm_campaign=nypost&utm_source=twitter",
+              "url": "https://t.co/OQTfHabnQC"
+            },
+            {
+              "display_url": "pic.x.com/DzKlDPqYvK",
+              "end": 114,
+              "expanded_url": "https://x.com/nypost/status/2081434132710605246/photo/1",
+              "media_key": "3_2081434125123133440",
+              "start": 91,
+              "url": "https://t.co/DzKlDPqYvK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081434132710605246",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 99,
+          "impression_count": 4366278,
+          "like_count": 544,
+          "quote_count": 195,
+          "reply_count": 184,
+          "retweet_count": 66
+        },
+        "reply_settings": "everyone",
+        "text": "2-year-old boy overdosed on cocaine while on Jersey Shore vacation https://t.co/OQTfHabnQC https://t.co/DzKlDPqYvK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-27T05:58:17.000Z",
+        "description": "爱人@qngshu988723424｜💊 SH｜被block就是你的错",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 2,
+                "username": "qngshu988723424"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ace_purin",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ace_purin",
+                "start": 0,
+                "url": "https://t.co/PkWlzvseLZ"
+              }
+            ]
+          }
+        },
+        "id": "1949348575378644992",
+        "location": "メジコン",
+        "name": "永雏布丁",
+        "pinned_tweet_id": "2033851547843719390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041031144146423808/f-TPgWl2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 296,
+          "following_count": 345,
+          "like_count": 3827,
+          "listed_count": 0,
+          "media_count": 90,
+          "tweet_count": 2648
+        },
+        "url": "https://t.co/PkWlzvseLZ",
+        "username": "Ace_Purin",
+        "verified": false
+      },
+      {
+        "created_at": "2008-11-18T19:46:36.000Z",
+        "description": "Breaking news, features and more from the NY Post. Follow ➡️ @pagesix, @nypmetro, @nypostbiz, @nypostsports, @nypfashion, @nypostopinion, @vrtpod, @_nynext",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 69,
+                "start": 61,
+                "username": "pagesix"
+              },
+              {
+                "end": 80,
+                "start": 71,
+                "username": "nypmetro"
+              },
+              {
+                "end": 92,
+                "start": 82,
+                "username": "nypostbiz"
+              },
+              {
+                "end": 107,
+                "start": 94,
+                "username": "nypostsports"
+              },
+              {
+                "end": 120,
+                "start": 109,
+                "username": "nypfashion"
+              },
+              {
+                "end": 136,
+                "start": 122,
+                "username": "nypostopinion"
+              },
+              {
+                "end": 145,
+                "start": 138,
+                "username": "vrtpod"
+              },
+              {
+                "end": 155,
+                "start": 147,
+                "username": "_nynext"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "nypost.com",
+                "end": 23,
+                "expanded_url": "http://www.nypost.com",
+                "start": 0,
+                "url": "https://t.co/PwCuyvBwqh"
+              }
+            ]
+          }
+        },
+        "id": "17469289",
+        "location": "New York, NY",
+        "name": "New York Post",
+        "pinned_tweet_id": "2073480018198716878",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073490215327715328/4wOfTM9__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4023606,
+          "following_count": 10018,
+          "like_count": 1997,
+          "listed_count": 24063,
+          "media_count": 712160,
+          "tweet_count": 858096
+        },
+        "url": "https://t.co/PwCuyvBwqh",
+        "username": "nypost",
+        "verified": true
+      }
+    ]
+  }
+}

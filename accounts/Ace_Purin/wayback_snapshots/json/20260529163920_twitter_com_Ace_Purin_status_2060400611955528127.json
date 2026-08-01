@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1949348575378644992",
+    "conversation_id": "2060308067380535324",
+    "created_at": "2026-05-29T16:39:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T17:39:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060400611955528127"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1632832954421633029",
+          "start": 0,
+          "username": "482xxnay"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060400611955528127",
+    "in_reply_to_user_id": "1632832954421633029",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060308067380535324",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "@482xxnay ？！强强？！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2060308051899322371",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJevQdlWEAMqbSX.jpg",
+        "width": 714
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1949348575378644992",
+        "conversation_id": "2060308067380535324",
+        "created_at": "2026-05-29T16:39:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T17:39:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060400611955528127"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1632832954421633029",
+              "start": 0,
+              "username": "482xxnay"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060400611955528127",
+        "in_reply_to_user_id": "1632832954421633029",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060308067380535324",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "@482xxnay ？！强强？！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060308051899322371"
+          ]
+        },
+        "author_id": "1632832954421633029",
+        "conversation_id": "2060308067380535324",
+        "created_at": "2026-05-29T10:31:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T11:31:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060308067380535324"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NIay4LsQpS",
+              "end": 60,
+              "expanded_url": "https://x.com/482xxnay/status/2060308067380535324/photo/1",
+              "media_key": "3_2060308051899322371",
+              "start": 37,
+              "url": "https://t.co/NIay4LsQpS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060308067380535324",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2116,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "following",
+        "text": "不要舌下含服愚昧\n我不知道单方会不会这样（\n暂时家里没了 舌下口腔破皮了 https://t.co/NIay4LsQpS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-27T05:58:17.000Z",
+        "description": "喜欢@qngshu988723424｜💊 SH｜被block就是你的错",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 2,
+                "username": "qngshu988723424"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ace_purin",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ace_purin",
+                "start": 0,
+                "url": "https://t.co/0tokBnS6A6"
+              }
+            ]
+          }
+        },
+        "id": "1949348575378644992",
+        "location": "メジコン",
+        "name": "永雏布丁",
+        "pinned_tweet_id": "2033851547843719390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041031144146423808/f-TPgWl2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 207,
+          "following_count": 245,
+          "like_count": 2907,
+          "listed_count": 0,
+          "media_count": 74,
+          "tweet_count": 2018
+        },
+        "url": "https://t.co/0tokBnS6A6",
+        "username": "Ace_Purin",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-06T19:58:19.000Z",
+        "description": "no way…！my life is so suck 自我生存娱乐空间 内可能含有NSFW 有SH pill 20+警告 they 我想复健产粮..懒惰的同人爱好者 是成年账户 全是翻译器 是精神病 温和随时锁推 业余的很笨 有不对的请不要说我对异形勃起欢迎讨论 不会讨厌谁叫我什么都可以不会外语一切用翻译器人很佛",
+        "id": "1632832954421633029",
+        "name": "im gay（盐被肉鸦制2.0）",
+        "pinned_tweet_id": "2060229801282306383",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052762986327240704/uZOTKK3r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 155,
+          "following_count": 581,
+          "like_count": 4041,
+          "listed_count": 0,
+          "media_count": 281,
+          "tweet_count": 4309
+        },
+        "username": "482xxnay",
+        "verified": false
+      }
+    ]
+  }
+}

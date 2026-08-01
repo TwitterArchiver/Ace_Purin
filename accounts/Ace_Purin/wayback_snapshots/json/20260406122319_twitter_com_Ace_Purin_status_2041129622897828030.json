@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1949348575378644992",
+    "conversation_id": "2041129622897828030",
+    "created_at": "2026-04-06T12:23:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-06T13:23:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2041129622897828030"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/wimzylens0/sta…",
+          "end": 25,
+          "expanded_url": "https://twitter.com/wimzylens0/status/2041021347661508986",
+          "start": 2,
+          "url": "https://t.co/K0CZa3uMwd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041129622897828030",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041021347661508986",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "码 https://t.co/K0CZa3uMwd"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2041021344721285120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFMqGWcaMAAL2zY.jpg",
+        "width": 1047
+      },
+      {
+        "height": 1457,
+        "media_key": "3_2041021344712921088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFMqGWaakAAxdKM.jpg",
+        "width": 1220
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1949348575378644992",
+        "conversation_id": "2041129622897828030",
+        "created_at": "2026-04-06T12:23:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T13:23:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041129622897828030"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/wimzylens0/sta…",
+              "end": 25,
+              "expanded_url": "https://twitter.com/wimzylens0/status/2041021347661508986",
+              "start": 2,
+              "url": "https://t.co/K0CZa3uMwd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041129622897828030",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041021347661508986",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "码 https://t.co/K0CZa3uMwd"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041021344721285120",
+            "3_2041021344712921088"
+          ]
+        },
+        "author_id": "1949220315336470529",
+        "conversation_id": "2041021347661508986",
+        "created_at": "2026-04-06T05:13:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T06:13:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041021347661508986"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5dCkfolrUi",
+              "end": 32,
+              "expanded_url": "https://x.com/wimzylens0/status/2041021347661508986/photo/1",
+              "media_key": "3_2041021344721285120",
+              "start": 9,
+              "url": "https://t.co/5dCkfolrUi"
+            },
+            {
+              "display_url": "pic.x.com/5dCkfolrUi",
+              "end": 32,
+              "expanded_url": "https://x.com/wimzylens0/status/2041021347661508986/photo/1",
+              "media_key": "3_2041021344712921088",
+              "start": 9,
+              "url": "https://t.co/5dCkfolrUi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041021347661508986",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1530,
+          "like_count": 15,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "奇怪的知识增加了 https://t.co/5dCkfolrUi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-27T05:58:17.000Z",
+        "description": "如果能成为你害怕失去的人就好了｜💊 SH｜被block就是你的错",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ace_purin",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ace_purin",
+                "start": 0,
+                "url": "https://t.co/PkWlzvseLZ"
+              }
+            ]
+          }
+        },
+        "id": "1949348575378644992",
+        "location": "メジコン",
+        "name": "永雏布丁",
+        "pinned_tweet_id": "2033851547843719390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041031144146423808/f-TPgWl2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 90,
+          "following_count": 126,
+          "like_count": 863,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 695
+        },
+        "url": "https://t.co/PkWlzvseLZ",
+        "username": "Ace_Purin",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-26T21:28:55.000Z",
+        "description": "Dreams shattered into gummy bears | \n🧸超可爱的妹妹：@caliE694030 | 饲养员：@allthistime42 (仅限猫猫本喵使用)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 45,
+                "username": "caliE694030"
+              },
+              {
+                "end": 78,
+                "start": 64,
+                "username": "allthistime42"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wimzylens.blogspot.com",
+                "end": 23,
+                "expanded_url": "https://wimzylens.blogspot.com",
+                "start": 0,
+                "url": "https://t.co/KTkSJFNezx"
+              }
+            ]
+          }
+        },
+        "id": "1949220315336470529",
+        "location": "dream",
+        "name": "Lens Zzz",
+        "pinned_tweet_id": "1994583508883575161",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039483243272298496/Gsg8QZFa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 205,
+          "following_count": 235,
+          "like_count": 12146,
+          "listed_count": 1,
+          "media_count": 178,
+          "tweet_count": 908
+        },
+        "url": "https://t.co/KTkSJFNezx",
+        "username": "wimzylens0",
+        "verified": false
+      }
+    ]
+  }
+}

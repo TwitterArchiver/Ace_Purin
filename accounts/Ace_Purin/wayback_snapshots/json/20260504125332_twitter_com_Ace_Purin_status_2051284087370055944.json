@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2051171770250776576"
+      ],
+      "media_source_tweet_id": [
+        "2051171778903568493"
+      ]
+    },
+    "author_id": "1949348575378644992",
+    "conversation_id": "2051284087370055944",
+    "created_at": "2026-05-04T12:53:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-04T13:53:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051284087370055944"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1512261155850719234",
+          "start": 3,
+          "username": "Dormicumproject"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/2w9IbzpYKT",
+          "end": 50,
+          "expanded_url": "https://x.com/Dormicumproject/status/2051171778903568493/photo/1",
+          "media_key": "3_2051171770250776576",
+          "start": 27,
+          "url": "https://t.co/2w9IbzpYKT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051284087370055944",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 397
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051171778903568493",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Dormicumproject: 心中デート https://t.co/2w9IbzpYKT"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 846,
+        "media_key": "3_2051171770250776576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHc524MbUAAd3cI.jpg",
+        "width": 962
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2051171770250776576"
+          ],
+          "media_source_tweet_id": [
+            "2051171778903568493"
+          ]
+        },
+        "author_id": "1949348575378644992",
+        "conversation_id": "2051284087370055944",
+        "created_at": "2026-05-04T12:53:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T13:53:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051284087370055944"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1512261155850719234",
+              "start": 3,
+              "username": "Dormicumproject"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/2w9IbzpYKT",
+              "end": 50,
+              "expanded_url": "https://x.com/Dormicumproject/status/2051171778903568493/photo/1",
+              "media_key": "3_2051171770250776576",
+              "start": 27,
+              "url": "https://t.co/2w9IbzpYKT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051284087370055944",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 397
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051171778903568493",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Dormicumproject: 心中デート https://t.co/2w9IbzpYKT"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2051171770250776576"
+          ]
+        },
+        "author_id": "1512261155850719234",
+        "conversation_id": "2051171778903568493",
+        "created_at": "2026-05-04T05:27:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T06:27:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051171778903568493"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2w9IbzpYKT",
+              "end": 29,
+              "expanded_url": "https://x.com/Dormicumproject/status/2051171778903568493/photo/1",
+              "media_key": "3_2051171770250776576",
+              "start": 6,
+              "url": "https://t.co/2w9IbzpYKT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051171778903568493",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 403,
+          "impression_count": 51674,
+          "like_count": 4704,
+          "quote_count": 38,
+          "reply_count": 7,
+          "retweet_count": 397
+        },
+        "reply_settings": "everyone",
+        "text": "心中デート https://t.co/2w9IbzpYKT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-27T05:58:17.000Z",
+        "description": "如果能成为你害怕失去的人就好了｜💊 SH｜被block就是你的错",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ace_purin",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ace_purin",
+                "start": 0,
+                "url": "https://t.co/PkWlzvseLZ"
+              }
+            ]
+          }
+        },
+        "id": "1949348575378644992",
+        "location": "メジコン",
+        "name": "永雏布丁",
+        "pinned_tweet_id": "2033851547843719390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041031144146423808/f-TPgWl2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 153,
+          "following_count": 192,
+          "like_count": 2219,
+          "listed_count": 0,
+          "media_count": 58,
+          "tweet_count": 1550
+        },
+        "url": "https://t.co/PkWlzvseLZ",
+        "username": "Ace_Purin",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-08T02:48:58.000Z",
+        "description": "心中デートしよ\n\n漫画はここから読めますhttps://t.co/SB66qxPOdk",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "lit.link/dormicum",
+                "end": 43,
+                "expanded_url": "https://lit.link/dormicum",
+                "start": 20,
+                "url": "https://t.co/SB66qxPOdk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/dormicum2os",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/dormicum2os",
+                "start": 0,
+                "url": "https://t.co/CtEGqQLjTn"
+              }
+            ]
+          }
+        },
+        "id": "1512261155850719234",
+        "name": "ドルミカム（Dormicum）",
+        "pinned_tweet_id": "2051168562988151084",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761010277162864640/PGZHn1CA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 162380,
+          "following_count": 0,
+          "like_count": 3403,
+          "listed_count": 659,
+          "media_count": 1115,
+          "tweet_count": 2159
+        },
+        "url": "https://t.co/CtEGqQLjTn",
+        "username": "Dormicumproject",
+        "verified": true
+      }
+    ]
+  }
+}

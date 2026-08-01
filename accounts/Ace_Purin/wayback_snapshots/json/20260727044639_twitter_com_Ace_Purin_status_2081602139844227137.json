@@ -1,0 +1,311 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2081430968070705152"
+      ],
+      "media_source_tweet_id": [
+        "2081431059011428503"
+      ]
+    },
+    "author_id": "1949348575378644992",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2081602139844227137",
+    "created_at": "2026-07-27T04:46:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T05:46:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081602139844227137"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2058448404645318657",
+          "start": 3,
+          "username": "tiredowl_12"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/72FaS9REPk",
+          "end": 64,
+          "expanded_url": "https://x.com/tiredowl_12/status/2081431059011428503/video/1",
+          "media_key": "13_2081430968070705152",
+          "start": 41,
+          "url": "https://t.co/72FaS9REPk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081602139844227137",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 115
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081431059011428503",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tiredowl_12: Bird❌ bird best friend✅ https://t.co/72FaS9REPk"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 11541,
+        "height": 768,
+        "media_key": "13_2081430968070705152",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2081430968070705152/img/rcg3DAGFK-BjNqgN.jpg",
+        "public_metrics": {
+          "view_count": 11120
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2081430968070705152/vid/avc1/320x340/VtgpUm94S8O541Mn.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2081430968070705152/vid/avc1/480x512/vW1ynfy65i0YXV1g.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2081430968070705152/vid/avc1/720x768/sqkxRIortsUgm4Rz.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2081430968070705152/pl/ARQxugHfpUChrAmL.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2081430968070705152"
+          ]
+        },
+        "author_id": "2058448404645318657",
+        "conversation_id": "2081431059011428503",
+        "created_at": "2026-07-26T17:26:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T18:26:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081431059011428503"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/72FaS9REPk",
+              "end": 47,
+              "expanded_url": "https://x.com/tiredowl_12/status/2081431059011428503/video/1",
+              "media_key": "13_2081430968070705152",
+              "start": 24,
+              "url": "https://t.co/72FaS9REPk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081431059011428503",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 98,
+          "impression_count": 23959,
+          "like_count": 1176,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 115
+        },
+        "reply_settings": "everyone",
+        "text": "Bird❌ bird best friend✅ https://t.co/72FaS9REPk"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2081430968070705152"
+          ],
+          "media_source_tweet_id": [
+            "2081431059011428503"
+          ]
+        },
+        "author_id": "1949348575378644992",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2081602139844227137",
+        "created_at": "2026-07-27T04:46:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T05:46:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081602139844227137"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2058448404645318657",
+              "start": 3,
+              "username": "tiredowl_12"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/72FaS9REPk",
+              "end": 64,
+              "expanded_url": "https://x.com/tiredowl_12/status/2081431059011428503/video/1",
+              "media_key": "13_2081430968070705152",
+              "start": 41,
+              "url": "https://t.co/72FaS9REPk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081602139844227137",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 115
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081431059011428503",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tiredowl_12: Bird❌ bird best friend✅ https://t.co/72FaS9REPk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-27T05:58:17.000Z",
+        "description": "爱人@qngshu988723424｜💊 SH｜被block就是你的错",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 2,
+                "username": "qngshu988723424"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ace_purin",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ace_purin",
+                "start": 0,
+                "url": "https://t.co/PkWlzvseLZ"
+              }
+            ]
+          }
+        },
+        "id": "1949348575378644992",
+        "location": "メジコン",
+        "name": "永雏布丁",
+        "pinned_tweet_id": "2033851547843719390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041031144146423808/f-TPgWl2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 295,
+          "following_count": 345,
+          "like_count": 3823,
+          "listed_count": 0,
+          "media_count": 90,
+          "tweet_count": 2645
+        },
+        "url": "https://t.co/PkWlzvseLZ",
+        "username": "Ace_Purin",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-24T07:23:00.000Z",
+        "description": "cute birds and animals memes",
+        "id": "2058448404645318657",
+        "name": "tired owl",
+        "pinned_tweet_id": "2079881083865518228",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058466100543922176/kBBfangc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 474,
+          "following_count": 205,
+          "like_count": 1059,
+          "listed_count": 1,
+          "media_count": 172,
+          "tweet_count": 228
+        },
+        "url": "",
+        "username": "tiredowl_12",
+        "verified": false
+      }
+    ]
+  }
+}

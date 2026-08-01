@@ -1,0 +1,301 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2079177817196277760"
+      ],
+      "media_source_tweet_id": [
+        "2079178034985480665"
+      ]
+    },
+    "author_id": "1949348575378644992",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2079393624601796627",
+    "created_at": "2026-07-21T02:30:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T03:30:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079393624601796627"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "945314922065305600",
+          "start": 3,
+          "username": "WkfxjfrP"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/F0r9XpwhMs",
+          "end": 67,
+          "expanded_url": "https://x.com/WkfxjfrP/status/2079178034985480665/photo/1",
+          "media_key": "3_2079177817196277760",
+          "start": 44,
+          "url": "https://t.co/F0r9XpwhMs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079393624601796627",
+    "lang": "ko",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 18745
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079178034985480665",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "mentionedUsers",
+    "text": "RT @WkfxjfrP: 평생 이렇게 붙어있어줘\n절대 내 손 놓고 어디가지 마 https://t.co/F0r9XpwhMs"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 871,
+        "media_key": "3_2079177817196277760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNq5NXLbMAA1Naf.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079177817196277760"
+          ]
+        },
+        "author_id": "945314922065305600",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2079178034985480665",
+        "created_at": "2026-07-20T12:14:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T13:14:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079178034985480665"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/F0r9XpwhMs",
+              "end": 53,
+              "expanded_url": "https://x.com/WkfxjfrP/status/2079178034985480665/photo/1",
+              "media_key": "3_2079177817196277760",
+              "start": 30,
+              "url": "https://t.co/F0r9XpwhMs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079178034985480665",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5653,
+          "impression_count": 3180889,
+          "like_count": 131779,
+          "quote_count": 1697,
+          "reply_count": 0,
+          "retweet_count": 18744
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "평생 이렇게 붙어있어줘\n절대 내 손 놓고 어디가지 마 https://t.co/F0r9XpwhMs"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079177817196277760"
+          ],
+          "media_source_tweet_id": [
+            "2079178034985480665"
+          ]
+        },
+        "author_id": "1949348575378644992",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2079393624601796627",
+        "created_at": "2026-07-21T02:30:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T03:30:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079393624601796627"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "945314922065305600",
+              "start": 3,
+              "username": "WkfxjfrP"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/F0r9XpwhMs",
+              "end": 67,
+              "expanded_url": "https://x.com/WkfxjfrP/status/2079178034985480665/photo/1",
+              "media_key": "3_2079177817196277760",
+              "start": 44,
+              "url": "https://t.co/F0r9XpwhMs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079393624601796627",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 18745
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079178034985480665",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "mentionedUsers",
+        "text": "RT @WkfxjfrP: 평생 이렇게 붙어있어줘\n절대 내 손 놓고 어디가지 마 https://t.co/F0r9XpwhMs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-27T05:58:17.000Z",
+        "description": "爱人@qngshu988723424｜💊 SH｜被block就是你的错",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 2,
+                "username": "qngshu988723424"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ace_purin",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ace_purin",
+                "start": 0,
+                "url": "https://t.co/PkWlzvseLZ"
+              }
+            ]
+          }
+        },
+        "id": "1949348575378644992",
+        "location": "メジコン",
+        "name": "永雏布丁",
+        "pinned_tweet_id": "2033851547843719390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041031144146423808/f-TPgWl2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 263,
+          "following_count": 316,
+          "like_count": 3715,
+          "listed_count": 0,
+          "media_count": 87,
+          "tweet_count": 2543
+        },
+        "url": "https://t.co/PkWlzvseLZ",
+        "username": "Ace_Purin",
+        "verified": false
+      },
+      {
+        "created_at": "2017-12-25T15:26:55.000Z",
+        "description": "재밌어보이는거 or 사람들이 봐줬으면하는거 저장용",
+        "id": "945314922065305600",
+        "name": "짤주워오는계정",
+        "pinned_tweet_id": "1447130110423748610",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1169070430583283712/oTJrXisj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2492062,
+          "following_count": 0,
+          "like_count": 81,
+          "listed_count": 397,
+          "media_count": 4905,
+          "tweet_count": 5088
+        },
+        "url": "",
+        "username": "WkfxjfrP",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1949348575378644992",
+    "conversation_id": "2039523914028814749",
+    "created_at": "2026-04-03T09:26:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-03T10:26:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039997963880329442"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1782303137136852992",
+          "start": 0,
+          "username": "cxxf1zh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039997963880329442",
+    "in_reply_to_user_id": "1782303137136852992",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039879246374719538",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cxxf1zh 少见不"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1949348575378644992",
+        "conversation_id": "2039523914028814749",
+        "created_at": "2026-04-03T09:26:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T10:26:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039997963880329442"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1782303137136852992",
+              "start": 0,
+              "username": "cxxf1zh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039997963880329442",
+        "in_reply_to_user_id": "1782303137136852992",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039879246374719538",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cxxf1zh 少见不"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1782303137136852992",
+        "conversation_id": "2039523914028814749",
+        "created_at": "2026-04-03T01:34:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T02:34:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039879246374719538"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1949348575378644992",
+              "start": 0,
+              "username": "Ace_Purin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039879246374719538",
+        "in_reply_to_user_id": "1949348575378644992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039523914028814749",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ace_Purin 哇！金色传说！！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-27T05:58:17.000Z",
+        "description": "如果能成为你害怕失去的人就好了｜💊 SH｜被block就是你的错",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ace_purin",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ace_purin",
+                "start": 0,
+                "url": "https://t.co/PkWlzvseLZ"
+              }
+            ]
+          }
+        },
+        "id": "1949348575378644992",
+        "location": "メジコン",
+        "name": "永雏布丁",
+        "pinned_tweet_id": "2033851547843719390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031639335355990017/gySUFS_N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 77,
+          "following_count": 106,
+          "like_count": 660,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 589
+        },
+        "url": "https://t.co/PkWlzvseLZ",
+        "username": "Ace_Purin",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-22T06:59:28.000Z",
+        "description": "是个INFP-T音乐制作人/DJ(我需要灵感🤤",
+        "id": "1782303137136852992",
+        "location": "Shibuya, Tokyo",
+        "name": "一澤子",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009290585430274048/oAhjPj-W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43,
+          "following_count": 68,
+          "like_count": 898,
+          "listed_count": 0,
+          "media_count": 77,
+          "tweet_count": 304
+        },
+        "username": "cxxf1zh",
+        "verified": false
+      }
+    ]
+  }
+}

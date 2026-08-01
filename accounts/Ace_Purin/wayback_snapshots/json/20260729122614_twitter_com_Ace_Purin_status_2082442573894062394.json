@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2082442554893893632",
+        "3_2082442555279790080",
+        "3_2082442555271294976",
+        "3_2082442555275489280"
+      ]
+    },
+    "author_id": "1949348575378644992",
+    "conversation_id": "2082442573894062394",
+    "created_at": "2026-07-29T12:26:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T13:26:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2082442573894062394"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/QCj3atrsV4",
+          "end": 138,
+          "expanded_url": "https://x.com/Ace_Purin/status/2082442573894062394/photo/1",
+          "media_key": "3_2082442554893893632",
+          "start": 115,
+          "url": "https://t.co/QCj3atrsV4"
+        },
+        {
+          "display_url": "pic.x.com/QCj3atrsV4",
+          "end": 138,
+          "expanded_url": "https://x.com/Ace_Purin/status/2082442573894062394/photo/1",
+          "media_key": "3_2082442555279790080",
+          "start": 115,
+          "url": "https://t.co/QCj3atrsV4"
+        },
+        {
+          "display_url": "pic.x.com/QCj3atrsV4",
+          "end": 138,
+          "expanded_url": "https://x.com/Ace_Purin/status/2082442573894062394/photo/1",
+          "media_key": "3_2082442555271294976",
+          "start": 115,
+          "url": "https://t.co/QCj3atrsV4"
+        },
+        {
+          "display_url": "pic.x.com/QCj3atrsV4",
+          "end": 138,
+          "expanded_url": "https://x.com/Ace_Purin/status/2082442573894062394/photo/1",
+          "media_key": "3_2082442555275489280",
+          "start": 115,
+          "url": "https://t.co/QCj3atrsV4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082442573894062394",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "1.截至目前十四条喵感觉一大半都是你发的！但是可爱而且实用性高喜欢你🥰\n2.我在平板人体支撑物上以近似复苏姿势阅览并回复人类智慧结晶，目标是待会吃点ブロン\n3.神了神在哪呢神在原后面\n4. Ciallo～(∠・ω&lt; )⌒☆ https://t.co/QCj3atrsV4"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 744,
+        "media_key": "3_2082442554893893632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOZSeG2bgAAORK_.jpg",
+        "width": 1024
+      },
+      {
+        "height": 948,
+        "media_key": "3_2082442555279790080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOZSeISb0AAeBFl.jpg",
+        "width": 1024
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2082442555271294976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOZSeIQaMAAzg5d.jpg",
+        "width": 434
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2082442555275489280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOZSeIRaMAAhxnk.jpg",
+        "width": 608
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082442554893893632",
+            "3_2082442555279790080",
+            "3_2082442555271294976",
+            "3_2082442555275489280"
+          ]
+        },
+        "author_id": "1949348575378644992",
+        "conversation_id": "2082442573894062394",
+        "created_at": "2026-07-29T12:26:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T13:26:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082442573894062394"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QCj3atrsV4",
+              "end": 138,
+              "expanded_url": "https://x.com/Ace_Purin/status/2082442573894062394/photo/1",
+              "media_key": "3_2082442554893893632",
+              "start": 115,
+              "url": "https://t.co/QCj3atrsV4"
+            },
+            {
+              "display_url": "pic.x.com/QCj3atrsV4",
+              "end": 138,
+              "expanded_url": "https://x.com/Ace_Purin/status/2082442573894062394/photo/1",
+              "media_key": "3_2082442555279790080",
+              "start": 115,
+              "url": "https://t.co/QCj3atrsV4"
+            },
+            {
+              "display_url": "pic.x.com/QCj3atrsV4",
+              "end": 138,
+              "expanded_url": "https://x.com/Ace_Purin/status/2082442573894062394/photo/1",
+              "media_key": "3_2082442555271294976",
+              "start": 115,
+              "url": "https://t.co/QCj3atrsV4"
+            },
+            {
+              "display_url": "pic.x.com/QCj3atrsV4",
+              "end": 138,
+              "expanded_url": "https://x.com/Ace_Purin/status/2082442573894062394/photo/1",
+              "media_key": "3_2082442555275489280",
+              "start": 115,
+              "url": "https://t.co/QCj3atrsV4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082442573894062394",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "1.截至目前十四条喵感觉一大半都是你发的！但是可爱而且实用性高喜欢你🥰\n2.我在平板人体支撑物上以近似复苏姿势阅览并回复人类智慧结晶，目标是待会吃点ブロン\n3.神了神在哪呢神在原后面\n4. Ciallo～(∠・ω&lt; )⌒☆ https://t.co/QCj3atrsV4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-27T05:58:17.000Z",
+        "description": "爱人@qngshu988723424｜💊 SH｜被block就是你的错",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 2,
+                "username": "qngshu988723424"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ace_purin",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ace_purin",
+                "start": 0,
+                "url": "https://t.co/PkWlzvseLZ"
+              }
+            ]
+          }
+        },
+        "id": "1949348575378644992",
+        "location": "メジコン",
+        "name": "永雏布丁",
+        "pinned_tweet_id": "2033851547843719390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041031144146423808/f-TPgWl2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 325,
+          "following_count": 381,
+          "like_count": 3977,
+          "listed_count": 0,
+          "media_count": 96,
+          "tweet_count": 2755
+        },
+        "url": "https://t.co/PkWlzvseLZ",
+        "username": "Ace_Purin",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1949348575378644992",
+    "conversation_id": "2033176736263983437",
+    "created_at": "2026-03-15T13:41:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-15T14:41:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033176736263983437"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1822447334749614080",
+          "start": 3,
+          "username": "chenwai29719"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033176736263983437",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 11
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033168559032168959",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @chenwai29719: dpt 1t 100mg 100r\n2t 188r\n3t 250r\n5t 420r\n\n之前的被举报了，现在点赞➕转帖此帖抽一人送1t，运费自理，3月20号开奖"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1949348575378644992",
+        "conversation_id": "2033176736263983437",
+        "created_at": "2026-03-15T13:41:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-15T14:41:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033176736263983437"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1822447334749614080",
+              "start": 3,
+              "username": "chenwai29719"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033176736263983437",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 11
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033168559032168959",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @chenwai29719: dpt 1t 100mg 100r\n2t 188r\n3t 250r\n5t 420r\n\n之前的被举报了，现在点赞➕转帖此帖抽一人送1t，运费自理，3月20号开奖"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1822447334749614080",
+        "conversation_id": "2033168559032168959",
+        "created_at": "2026-03-15T13:08:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-15T14:08:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033168559032168959"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2033168559032168959",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 153,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "dpt 1t 100mg 100r\n2t 188r\n3t 250r\n5t 420r\n\n之前的被举报了，现在点赞➕转帖此帖抽一人送1t，运费自理，3月20号开奖"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-27T05:58:17.000Z",
+        "description": "我好像在哪见过你｜💊 SH｜被block就是你的错",
+        "id": "1949348575378644992",
+        "location": "メジコン",
+        "name": "永雏布丁",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031639335355990017/gySUFS_N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 33,
+          "like_count": 14,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 73
+        },
+        "username": "Ace_Purin",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-11T01:38:11.000Z",
+        "description": "dpt全网最低价/小瓶笑气3r一瓶/07INFP/💊🩸/ftx/非二元性别/泛性恋/爱听摇滚金属/adhd+asd /精神病\n忘记回fo请私信   「诗」在小号@waichen187098",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 80,
+                "username": "waichen187098"
+              }
+            ]
+          }
+        },
+        "id": "1822447334749614080",
+        "location": "🚪52",
+        "name": "尘外(买dpt和笑气找我)",
+        "pinned_tweet_id": "2032178507309355256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005744135614128135/F2BQ5yAy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 362,
+          "following_count": 218,
+          "like_count": 152,
+          "listed_count": 2,
+          "media_count": 132,
+          "tweet_count": 661
+        },
+        "username": "chenwai29719",
+        "verified": false
+      }
+    ]
+  }
+}

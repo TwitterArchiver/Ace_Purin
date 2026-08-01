@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1949348575378644992",
+    "conversation_id": "2064560329837916301",
+    "created_at": "2026-06-10T04:08:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T05:08:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2064560329837916301"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/morgan_hip80/s…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/morgan_hip80/status/2064370233448550762",
+          "start": 5,
+          "url": "https://t.co/XK8vrLpumZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064560329837916301",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064370233448550762",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我要这个 https://t.co/XK8vrLpumZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 448,
+        "media_key": "3_2064370225944973312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKYdyHJX0AAljKm.jpg",
+        "width": 336
+      },
+      {
+        "height": 448,
+        "media_key": "3_2064370225919778816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKYdyHDXYAAE2Li.jpg",
+        "width": 336
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1949348575378644992",
+        "conversation_id": "2064560329837916301",
+        "created_at": "2026-06-10T04:08:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T05:08:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064560329837916301"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/morgan_hip80/s…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/morgan_hip80/status/2064370233448550762",
+              "start": 5,
+              "url": "https://t.co/XK8vrLpumZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064560329837916301",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064370233448550762",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我要这个 https://t.co/XK8vrLpumZ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064370225944973312",
+            "3_2064370225919778816"
+          ]
+        },
+        "author_id": "192501923",
+        "conversation_id": "2064370233448550762",
+        "created_at": "2026-06-09T15:33:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T16:33:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064370233448550762"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sp7kyUg9fo",
+              "end": 179,
+              "expanded_url": "https://x.com/morgan_hip80/status/2064370233448550762/photo/1",
+              "media_key": "3_2064370225944973312",
+              "start": 156,
+              "url": "https://t.co/sp7kyUg9fo"
+            },
+            {
+              "display_url": "pic.x.com/sp7kyUg9fo",
+              "end": 179,
+              "expanded_url": "https://x.com/morgan_hip80/status/2064370233448550762/photo/1",
+              "media_key": "3_2064370225919778816",
+              "start": 156,
+              "url": "https://t.co/sp7kyUg9fo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064370233448550762",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 731,
+          "impression_count": 191856,
+          "like_count": 2306,
+          "quote_count": 25,
+          "reply_count": 37,
+          "retweet_count": 67
+        },
+        "reply_settings": "everyone",
+        "text": "Sasha Shulgin created over 240 new psychedelics in his backyard.\n\nHis favorite? 2C-B.\n\nIt's described as a mix of MDMA &amp; LSD, just 4–6 hours in length. https://t.co/sp7kyUg9fo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-27T05:58:17.000Z",
+        "description": "喜欢@qngshu988723424｜💊 SH｜被block就是你的错",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 2,
+                "username": "qngshu988723424"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ace_purin",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ace_purin",
+                "start": 0,
+                "url": "https://t.co/0tokBnS6A6"
+              }
+            ]
+          }
+        },
+        "id": "1949348575378644992",
+        "location": "メジコン",
+        "name": "永雏布丁",
+        "pinned_tweet_id": "2033851547843719390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041031144146423808/f-TPgWl2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 225,
+          "following_count": 266,
+          "like_count": 3144,
+          "listed_count": 0,
+          "media_count": 79,
+          "tweet_count": 2162
+        },
+        "url": "https://t.co/0tokBnS6A6",
+        "username": "Ace_Purin",
+        "verified": false
+      },
+      {
+        "created_at": "2010-09-19T10:02:21.000Z",
+        "description": "The psychedelics experience is a doorway to a higher state of consciousness",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "signal.group/#CjQKIC71iWmT0…",
+                "end": 23,
+                "expanded_url": "https://signal.group/#CjQKIC71iWmT00GtuKzxpOTdHpWkrETIJgIpD7geZHzlEs8AEhBXTXMrd7AeIuI-3cmgmg9o",
+                "start": 0,
+                "url": "https://t.co/ZXEznQeKQS"
+              }
+            ]
+          }
+        },
+        "id": "192501923",
+        "name": "surender",
+        "pinned_tweet_id": "2064370464730792285",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050902154840256512/B6qRr2gl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 522,
+          "following_count": 1894,
+          "like_count": 10964,
+          "listed_count": 3,
+          "media_count": 119,
+          "tweet_count": 184
+        },
+        "url": "https://t.co/ZXEznQeKQS",
+        "username": "morgan_hip80",
+        "verified": false
+      }
+    ]
+  }
+}

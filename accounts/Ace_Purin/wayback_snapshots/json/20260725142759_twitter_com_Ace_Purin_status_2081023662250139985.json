@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1949348575378644992",
+    "conversation_id": "2081023662250139985",
+    "created_at": "2026-07-25T14:27:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T15:27:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2081023662250139985"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/kuukiwtf/statu…",
+          "end": 110,
+          "expanded_url": "https://twitter.com/kuukiwtf/status/2080875224292311505",
+          "start": 87,
+          "url": "https://t.co/XWHyaolgL8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081023662250139985",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080875224292311505",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "你们这群几把地雷女 又有钱买药吃 又有游戏机 电脑玩 每天不用上班上学的 想吃什么外卖点什么 想去哪里旅游就去哪里旅游 我不知道你们一天在网上到底在崩溃什么几把 在痛苦什么 https://t.co/XWHyaolgL8"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1949348575378644992",
+        "conversation_id": "2081023662250139985",
+        "created_at": "2026-07-25T14:27:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T15:27:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081023662250139985"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/kuukiwtf/statu…",
+              "end": 110,
+              "expanded_url": "https://twitter.com/kuukiwtf/status/2080875224292311505",
+              "start": 87,
+              "url": "https://t.co/XWHyaolgL8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081023662250139985",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080875224292311505",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你们这群几把地雷女 又有钱买药吃 又有游戏机 电脑玩 每天不用上班上学的 想吃什么外卖点什么 想去哪里旅游就去哪里旅游 我不知道你们一天在网上到底在崩溃什么几把 在痛苦什么 https://t.co/XWHyaolgL8"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2076841557802864640",
+        "conversation_id": "2080875224292311505",
+        "created_at": "2026-07-25T04:38:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T05:38:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080875224292311505"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/slearthly/stat…",
+              "end": 110,
+              "expanded_url": "https://twitter.com/slearthly/status/2080874399520129174",
+              "start": 87,
+              "url": "https://t.co/uiSlrq7YZR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080875224292311505",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 590,
+          "like_count": 23,
+          "quote_count": 1,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080874399520129174",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你们这群几把地雷女 又有钱买药吃 又有游戏机 电脑玩 每天不用上班上学的 想吃什么外卖点什么 想去哪里旅游就去哪里旅游 我不知道你们一天在网上到底在崩溃什么几把 在痛苦什么 https://t.co/uiSlrq7YZR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-27T05:58:17.000Z",
+        "description": "爱人@qngshu988723424｜💊 SH｜被block就是你的错",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 2,
+                "username": "qngshu988723424"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ace_purin",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ace_purin",
+                "start": 0,
+                "url": "https://t.co/PkWlzvseLZ"
+              }
+            ]
+          }
+        },
+        "id": "1949348575378644992",
+        "location": "メジコン",
+        "name": "永雏布丁",
+        "pinned_tweet_id": "2033851547843719390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041031144146423808/f-TPgWl2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 275,
+          "following_count": 335,
+          "like_count": 3779,
+          "listed_count": 0,
+          "media_count": 90,
+          "tweet_count": 2619
+        },
+        "url": "https://t.co/PkWlzvseLZ",
+        "username": "Ace_Purin",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-14T01:32:06.000Z",
+        "description": "#NONBINARY | 互fo喵♡\n(ᗜᴗᗜ) touhou project (ᗜᴗᗜ) \n♡ overdose ♡ \n\n@kuuki_official\n@voidsama777",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 10,
+                "start": 0,
+                "tag": "NONBINARY"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 77,
+                "start": 62,
+                "username": "kuuki_official"
+              },
+              {
+                "end": 90,
+                "start": 78,
+                "username": "voidsama777"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/kuuki_official",
+                "end": 23,
+                "expanded_url": "http://x.com/kuuki_official",
+                "start": 0,
+                "url": "https://t.co/h0TD3JJnFm"
+              }
+            ]
+          }
+        },
+        "id": "2076841557802864640",
+        "location": "✟ インタネット ✟",
+        "name": "𝕜𝕦𝕦𝕜𝕚",
+        "pinned_tweet_id": "2076844122519019904",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076842236499873793/hNvJPGAo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 346,
+          "following_count": 356,
+          "like_count": 5377,
+          "listed_count": 0,
+          "media_count": 140,
+          "tweet_count": 956
+        },
+        "url": "https://t.co/h0TD3JJnFm",
+        "username": "kuukiwtf",
+        "verified": true
+      }
+    ]
+  }
+}

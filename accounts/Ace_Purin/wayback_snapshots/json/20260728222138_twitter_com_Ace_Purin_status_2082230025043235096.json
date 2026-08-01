@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1949348575378644992",
+    "conversation_id": "2082224991538450527",
+    "created_at": "2026-07-28T22:21:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T23:21:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082230025043235096"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1560129741897682946",
+          "start": 0,
+          "username": "lili39311856"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082230025043235096",
+    "in_reply_to_user_id": "1560129741897682946",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082224991538450527",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lili39311856 没错应该给所有人发Xanax"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1949348575378644992",
+        "conversation_id": "2082224991538450527",
+        "created_at": "2026-07-28T22:21:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T23:21:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082230025043235096"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1560129741897682946",
+              "start": 0,
+              "username": "lili39311856"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082230025043235096",
+        "in_reply_to_user_id": "1560129741897682946",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082224991538450527",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lili39311856 没错应该给所有人发Xanax"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1560129741897682946",
+        "conversation_id": "2082224991538450527",
+        "created_at": "2026-07-28T22:01:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T23:01:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082224991538450527"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2082224991538450527",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "阿普唑仑神药来的，吃一片整个人就冷静了，心率也降下来了，也不想砍人了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-27T05:58:17.000Z",
+        "description": "爱人@qngshu988723424｜💊 SH｜被block就是你的错",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 2,
+                "username": "qngshu988723424"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ace_purin",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ace_purin",
+                "start": 0,
+                "url": "https://t.co/PkWlzvseLZ"
+              }
+            ]
+          }
+        },
+        "id": "1949348575378644992",
+        "location": "メジコン",
+        "name": "永雏布丁",
+        "pinned_tweet_id": "2033851547843719390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041031144146423808/f-TPgWl2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 300,
+          "following_count": 353,
+          "like_count": 3907,
+          "listed_count": 0,
+          "media_count": 92,
+          "tweet_count": 2707
+        },
+        "url": "https://t.co/PkWlzvseLZ",
+        "username": "Ace_Purin",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-18T05:01:44.000Z",
+        "description": "我生来就是为了获得幸福的\n生物女，不约\n我上推就是为了发泄负能量的",
+        "id": "1560129741897682946",
+        "name": "濑濑",
+        "pinned_tweet_id": "1688046639683088384",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074207876529135616/6uxiX5rn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 242,
+          "following_count": 95,
+          "like_count": 2448,
+          "listed_count": 1,
+          "media_count": 35,
+          "tweet_count": 405
+        },
+        "url": "",
+        "username": "lili39311856",
+        "verified": false
+      }
+    ]
+  }
+}

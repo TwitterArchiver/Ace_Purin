@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1949348575378644992",
+    "conversation_id": "2040698244897067286",
+    "created_at": "2026-04-05T08:25:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-05T09:25:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040707384411324474"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1419384632810917888",
+          "start": 0,
+          "username": "PHeeead"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040707384411324474",
+    "in_reply_to_user_id": "1419384632810917888",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040706963265499185",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@PHeeead 😡😡😡😡😡😡发牌员咋这样"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1949348575378644992",
+        "conversation_id": "2040698244897067286",
+        "created_at": "2026-04-05T08:25:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T09:25:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040707384411324474"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1419384632810917888",
+              "start": 0,
+              "username": "PHeeead"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040707384411324474",
+        "in_reply_to_user_id": "1419384632810917888",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040706963265499185",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PHeeead 😡😡😡😡😡😡发牌员咋这样"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1419384632810917888",
+        "conversation_id": "2040698244897067286",
+        "created_at": "2026-04-05T08:23:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T09:23:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040706963265499185"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1949348575378644992",
+              "start": 0,
+              "username": "Ace_Purin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040706963265499185",
+        "in_reply_to_user_id": "1949348575378644992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040706524654543004",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ace_Purin 发牌员故意的吧故意的吧故意的吧！要不就卡牌要不就差一点钱💔💔"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-27T05:58:17.000Z",
+        "description": "如果能成为你害怕失去的人就好了｜💊 SH｜被block就是你的错",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ace_purin",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ace_purin",
+                "start": 0,
+                "url": "https://t.co/PkWlzvseLZ"
+              }
+            ]
+          }
+        },
+        "id": "1949348575378644992",
+        "location": "メジコン",
+        "name": "永雏布丁",
+        "pinned_tweet_id": "2033851547843719390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040486756001427457/g14bHHET_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 88,
+          "following_count": 124,
+          "like_count": 783,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 659
+        },
+        "url": "https://t.co/PkWlzvseLZ",
+        "username": "Ace_Purin",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-25T19:51:08.000Z",
+        "description": "Love/有病的碎碎念/随笔/有空就会点赞评论但一发病就很爱删帖，回复不见了很正常♡",
+        "id": "1419384632810917888",
+        "name": "FD",
+        "pinned_tweet_id": "2036148355575980365",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040706333725642752/MD9Pl6X6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 12,
+          "like_count": 392,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 50
+        },
+        "username": "PHeeead",
+        "verified": false
+      }
+    ]
+  }
+}

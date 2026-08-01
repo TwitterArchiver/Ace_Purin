@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2080646771118866432"
+      ],
+      "media_source_tweet_id": [
+        "2080646781139116318"
+      ]
+    },
+    "author_id": "1949348575378644992",
+    "conversation_id": "2081019150185681133",
+    "created_at": "2026-07-25T14:10:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T15:10:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081019150185681133"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2038184435477319680",
+          "start": 3,
+          "username": "MIMIsamaOvo"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/UsoTKJsvAH",
+          "end": 47,
+          "expanded_url": "https://x.com/MIMIsamaOvo/status/2080646781139116318/photo/1",
+          "media_key": "3_2080646771118866432",
+          "start": 24,
+          "url": "https://t.co/UsoTKJsvAH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081019150185681133",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080646781139116318",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @MIMIsamaOvo: 以前的简中区 https://t.co/UsoTKJsvAH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1015,
+        "media_key": "3_2080646771118866432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN_xNu-agAAe33N.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080646771118866432"
+          ]
+        },
+        "author_id": "2038184435477319680",
+        "conversation_id": "2080646781139116318",
+        "created_at": "2026-07-24T13:30:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T14:30:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080646781139116318"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UsoTKJsvAH",
+              "end": 30,
+              "expanded_url": "https://x.com/MIMIsamaOvo/status/2080646781139116318/photo/1",
+              "media_key": "3_2080646771118866432",
+              "start": 7,
+              "url": "https://t.co/UsoTKJsvAH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080646781139116318",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2624,
+          "like_count": 117,
+          "quote_count": 2,
+          "reply_count": 5,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "以前的简中区 https://t.co/UsoTKJsvAH"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080646771118866432"
+          ],
+          "media_source_tweet_id": [
+            "2080646781139116318"
+          ]
+        },
+        "author_id": "1949348575378644992",
+        "conversation_id": "2081019150185681133",
+        "created_at": "2026-07-25T14:10:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T15:10:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081019150185681133"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2038184435477319680",
+              "start": 3,
+              "username": "MIMIsamaOvo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/UsoTKJsvAH",
+              "end": 47,
+              "expanded_url": "https://x.com/MIMIsamaOvo/status/2080646781139116318/photo/1",
+              "media_key": "3_2080646771118866432",
+              "start": 24,
+              "url": "https://t.co/UsoTKJsvAH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081019150185681133",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080646781139116318",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @MIMIsamaOvo: 以前的简中区 https://t.co/UsoTKJsvAH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-27T05:58:17.000Z",
+        "description": "爱人@qngshu988723424｜💊 SH｜被block就是你的错",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 2,
+                "username": "qngshu988723424"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ace_purin",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ace_purin",
+                "start": 0,
+                "url": "https://t.co/PkWlzvseLZ"
+              }
+            ]
+          }
+        },
+        "id": "1949348575378644992",
+        "location": "メジコン",
+        "name": "永雏布丁",
+        "pinned_tweet_id": "2033851547843719390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041031144146423808/f-TPgWl2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 274,
+          "following_count": 334,
+          "like_count": 3774,
+          "listed_count": 0,
+          "media_count": 90,
+          "tweet_count": 2616
+        },
+        "url": "https://t.co/PkWlzvseLZ",
+        "username": "Ace_Purin",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-29T09:21:29.000Z",
+        "description": "梦到什么发什么，关注mimi谢谢喵\n戒毒中day0",
+        "id": "2038184435477319680",
+        "location": "戒毒所",
+        "name": "MIMI",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069136182697672704/2H0_ygY3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 68,
+          "following_count": 45,
+          "like_count": 262,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 192
+        },
+        "url": "",
+        "username": "MIMIsamaOvo",
+        "verified": false
+      }
+    ]
+  }
+}

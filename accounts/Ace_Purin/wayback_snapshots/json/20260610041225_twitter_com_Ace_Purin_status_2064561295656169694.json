@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1949348575378644992",
+    "conversation_id": "2064517310002729088",
+    "created_at": "2026-06-10T04:12:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T05:12:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064561295656169694"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2015583135480811520",
+          "start": 0,
+          "username": "OvooLOO3o"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064561295656169694",
+    "in_reply_to_user_id": "2015583135480811520",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064517310002729088",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@OvooLOO3o 库迪闪购自取十块钱可以买一个面包+咖啡我昨天学的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1949348575378644992",
+        "conversation_id": "2064517310002729088",
+        "created_at": "2026-06-10T04:12:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T05:12:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064561295656169694"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2015583135480811520",
+              "start": 0,
+              "username": "OvooLOO3o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064561295656169694",
+        "in_reply_to_user_id": "2015583135480811520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064517310002729088",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OvooLOO3o 库迪闪购自取十块钱可以买一个面包+咖啡我昨天学的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2015583135480811520",
+        "conversation_id": "2064517310002729088",
+        "created_at": "2026-06-10T01:17:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T02:17:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064517310002729088"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2064517310002729088",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 75,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "十块钱吃饭还是喝咖啡 这是一个问题"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-27T05:58:17.000Z",
+        "description": "喜欢@qngshu988723424｜💊 SH｜被block就是你的错",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 2,
+                "username": "qngshu988723424"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ace_purin",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ace_purin",
+                "start": 0,
+                "url": "https://t.co/0tokBnS6A6"
+              }
+            ]
+          }
+        },
+        "id": "1949348575378644992",
+        "location": "メジコン",
+        "name": "永雏布丁",
+        "pinned_tweet_id": "2033851547843719390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041031144146423808/f-TPgWl2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 225,
+          "following_count": 266,
+          "like_count": 3148,
+          "listed_count": 0,
+          "media_count": 79,
+          "tweet_count": 2166
+        },
+        "url": "https://t.co/0tokBnS6A6",
+        "username": "Ace_Purin",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-26T00:30:52.000Z",
+        "description": "可以叫我小苏\n最近脑子o傻了表达不恰当的地方我将滑跪道歉\n小号@salmon__sukiii",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 31,
+                "username": "salmon__sukiii"
+              }
+            ]
+          }
+        },
+        "id": "2015583135480811520",
+        "name": "Arabidopsis thaliana (L.) Heynh.",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056951951657672704/rY5x-zpi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 569,
+          "following_count": 705,
+          "like_count": 21059,
+          "listed_count": 0,
+          "media_count": 285,
+          "tweet_count": 6445
+        },
+        "username": "OvooLOO3o",
+        "verified": false
+      }
+    ]
+  }
+}

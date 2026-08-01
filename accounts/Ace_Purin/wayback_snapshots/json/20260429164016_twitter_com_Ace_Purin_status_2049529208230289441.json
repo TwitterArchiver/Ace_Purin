@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1949348575378644992",
+    "conversation_id": "2049529208230289441",
+    "created_at": "2026-04-29T16:40:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-29T17:40:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2049529208230289441"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "NGL: Anonymous Q&A",
+          "display_url": "ngl.link/ace_purin",
+          "end": 34,
+          "expanded_url": "https://ngl.link/ace_purin",
+          "images": [
+            {
+              "height": 631,
+              "url": "https://pbs.twimg.com/news_img/2034946985527320578/7-T-sxpV?format=jpg&name=orig",
+              "width": 1201
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2034946985527320578/7-T-sxpV?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 11,
+          "status": 200,
+          "title": "@ace_purin: Send me anonymous messages!",
+          "unwound_url": "https://ngl.link/ace_purin",
+          "url": "https://t.co/8uUzplZpFv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049529208230289441",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我在药效里很无聊来嘛\nhttps://t.co/8uUzplZpFv"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1949348575378644992",
+        "conversation_id": "2049529208230289441",
+        "created_at": "2026-04-29T16:40:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T17:40:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049529208230289441"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "NGL: Anonymous Q&A",
+              "display_url": "ngl.link/ace_purin",
+              "end": 34,
+              "expanded_url": "https://ngl.link/ace_purin",
+              "images": [
+                {
+                  "height": 631,
+                  "url": "https://pbs.twimg.com/news_img/2034946985527320578/7-T-sxpV?format=jpg&name=orig",
+                  "width": 1201
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2034946985527320578/7-T-sxpV?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 11,
+              "status": 200,
+              "title": "@ace_purin: Send me anonymous messages!",
+              "unwound_url": "https://ngl.link/ace_purin",
+              "url": "https://t.co/8uUzplZpFv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049529208230289441",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我在药效里很无聊来嘛\nhttps://t.co/8uUzplZpFv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-27T05:58:17.000Z",
+        "description": "如果能成为你害怕失去的人就好了｜💊 SH｜被block就是你的错",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ace_purin",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ace_purin",
+                "start": 0,
+                "url": "https://t.co/PkWlzvseLZ"
+              }
+            ]
+          }
+        },
+        "id": "1949348575378644992",
+        "location": "メジコン",
+        "name": "永雏布丁",
+        "pinned_tweet_id": "2033851547843719390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041031144146423808/f-TPgWl2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 135,
+          "following_count": 175,
+          "like_count": 2065,
+          "listed_count": 0,
+          "media_count": 54,
+          "tweet_count": 1406
+        },
+        "url": "https://t.co/PkWlzvseLZ",
+        "username": "Ace_Purin",
+        "verified": false
+      }
+    ]
+  }
+}

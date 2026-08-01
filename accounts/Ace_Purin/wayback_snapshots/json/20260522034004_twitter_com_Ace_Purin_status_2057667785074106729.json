@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1949348575378644992",
+    "conversation_id": "2057098041111589079",
+    "created_at": "2026-05-22T03:40:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-22T04:40:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057667785074106729"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1818503849541578752",
+          "start": 0,
+          "username": "warma_official"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057667785074106729",
+    "in_reply_to_user_id": "1818503849541578752",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057473633237320174",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@warma_official （只是存在）"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 600,
+        "media_key": "3_2057473625754607616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI2dXJXWoAA_z-n.jpg",
+        "width": 556
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1949348575378644992",
+        "conversation_id": "2057098041111589079",
+        "created_at": "2026-05-22T03:40:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T04:40:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057667785074106729"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1818503849541578752",
+              "start": 0,
+              "username": "warma_official"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057667785074106729",
+        "in_reply_to_user_id": "1818503849541578752",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057473633237320174",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@warma_official （只是存在）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057473625754607616"
+          ]
+        },
+        "author_id": "1818503849541578752",
+        "conversation_id": "2057098041111589079",
+        "created_at": "2026-05-21T14:48:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T15:48:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057473633237320174"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1949348575378644992",
+              "start": 0,
+              "username": "Ace_Purin"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/GnmGi5HJz6",
+              "end": 71,
+              "expanded_url": "https://x.com/warma_official/status/2057473633237320174/photo/1",
+              "media_key": "3_2057473625754607616",
+              "start": 48,
+              "url": "https://t.co/GnmGi5HJz6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057473633237320174",
+        "in_reply_to_user_id": "1949348575378644992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057098041111589079",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ace_Purin 在布丁身边有安心感 无论你干什么还是不干什么 只要在身边都会觉得很有趣！ https://t.co/GnmGi5HJz6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-27T05:58:17.000Z",
+        "description": "喜欢@qngshu988723424｜💊 SH｜被block就是你的错",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 2,
+                "username": "qngshu988723424"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ace_purin",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ace_purin",
+                "start": 0,
+                "url": "https://t.co/0tokBnS6A6"
+              }
+            ]
+          }
+        },
+        "id": "1949348575378644992",
+        "location": "メジコン",
+        "name": "永雏布丁",
+        "pinned_tweet_id": "2033851547843719390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041031144146423808/f-TPgWl2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 188,
+          "following_count": 222,
+          "like_count": 2682,
+          "listed_count": 0,
+          "media_count": 68,
+          "tweet_count": 1874
+        },
+        "url": "https://t.co/0tokBnS6A6",
+        "username": "Ace_Purin",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-31T04:28:07.000Z",
+        "description": "宇宙第一的大元帅MOKA！/习惯是一次性刷所有贴！/\n“元帅最近似乎有中二病！”我的副官最近这么说我！气死了！/\n我最近在推特大街游荡 为了认识很多有趣的人！/一旦关注我则会被我天天不定时打扰（分享生活 讲笑话）！一定要慎重关注啊！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "imoka.com",
+                "end": 23,
+                "expanded_url": "http://imoka.com",
+                "start": 0,
+                "url": "https://t.co/M38SvexDHD"
+              }
+            ]
+          }
+        },
+        "id": "1818503849541578752",
+        "location": "那个有外星人的星球",
+        "name": "MOKA",
+        "pinned_tweet_id": "2045196846025556054",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026815407924146176/vkUaIZbG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 60,
+          "following_count": 41,
+          "like_count": 854,
+          "listed_count": 0,
+          "media_count": 357,
+          "tweet_count": 1119
+        },
+        "url": "https://t.co/M38SvexDHD",
+        "username": "warma_official",
+        "verified": false
+      }
+    ]
+  }
+}

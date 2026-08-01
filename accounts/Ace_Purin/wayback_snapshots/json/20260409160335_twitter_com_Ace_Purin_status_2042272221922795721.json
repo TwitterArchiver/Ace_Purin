@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1949348575378644992",
+    "conversation_id": "2042215638094229511",
+    "created_at": "2026-04-09T16:03:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-09T17:03:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042272221922795721"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1800150674761728000",
+          "start": 0,
+          "username": "0___qwq___0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042272221922795721",
+    "in_reply_to_user_id": "1800150674761728000",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042215638094229511",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@0___qwq___0 好萌呀"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2042215630884233216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFdoS9Ga4AAMcK2.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1949348575378644992",
+        "conversation_id": "2042215638094229511",
+        "created_at": "2026-04-09T16:03:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T17:03:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042272221922795721"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1800150674761728000",
+              "start": 0,
+              "username": "0___qwq___0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042272221922795721",
+        "in_reply_to_user_id": "1800150674761728000",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042215638094229511",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0___qwq___0 好萌呀"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042215630884233216"
+          ]
+        },
+        "author_id": "1800150674761728000",
+        "conversation_id": "2042215638094229511",
+        "created_at": "2026-04-09T12:18:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T13:18:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042215638094229511"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6RHt5aAO29",
+              "end": 51,
+              "expanded_url": "https://x.com/0___qwq___0/status/2042215638094229511/photo/1",
+              "media_key": "3_2042215630884233216",
+              "start": 28,
+              "url": "https://t.co/6RHt5aAO29"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042215638094229511",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 189,
+          "like_count": 20,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "画了抖音互关的愈美片拟人。（宅味比较冲介意的自避好吗🧎 https://t.co/6RHt5aAO29"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-27T05:58:17.000Z",
+        "description": "如果能成为你害怕失去的人就好了｜💊 SH｜被block就是你的错",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ace_purin",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ace_purin",
+                "start": 0,
+                "url": "https://t.co/PkWlzvseLZ"
+              }
+            ]
+          }
+        },
+        "id": "1949348575378644992",
+        "location": "メジコン",
+        "name": "永雏布丁",
+        "pinned_tweet_id": "2033851547843719390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041031144146423808/f-TPgWl2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 99,
+          "following_count": 135,
+          "like_count": 1138,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 818
+        },
+        "url": "https://t.co/PkWlzvseLZ",
+        "username": "Ace_Purin",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-10T12:59:13.000Z",
+        "description": "she/they/any｜pan｜11.4.3｜乱发东西，不为本账号任何内容负责｜mostly nonsense｜some fanart ｜Think twice before you follow|⚠️ sh&od",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/qwq89065",
+                "end": 23,
+                "expanded_url": "https://ngl.link/qwq89065",
+                "start": 0,
+                "url": "https://t.co/B0VUQT66x1"
+              }
+            ]
+          }
+        },
+        "id": "1800150674761728000",
+        "location": "my room",
+        "name": "qwq",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039522552243228672/01UbFAUs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 164,
+          "following_count": 625,
+          "like_count": 1720,
+          "listed_count": 0,
+          "media_count": 56,
+          "tweet_count": 1216
+        },
+        "url": "https://t.co/B0VUQT66x1",
+        "username": "0___qwq___0",
+        "verified": false
+      }
+    ]
+  }
+}

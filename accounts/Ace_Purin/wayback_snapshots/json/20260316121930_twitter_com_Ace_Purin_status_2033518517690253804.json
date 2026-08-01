@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1949348575378644992",
+    "conversation_id": "2033500367615652239",
+    "created_at": "2026-03-16T12:19:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-16T13:19:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033518517690253804"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1688959853346140178",
+          "start": 0,
+          "username": "Ellieo07"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033518517690253804",
+    "in_reply_to_user_id": "1688959853346140178",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033500367615652239",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ellieo07 前一个小时吃点昂丹司琼止吐"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1949348575378644992",
+        "conversation_id": "2033500367615652239",
+        "created_at": "2026-03-16T12:19:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-16T13:19:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033518517690253804"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1688959853346140178",
+              "start": 0,
+              "username": "Ellieo07"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033518517690253804",
+        "in_reply_to_user_id": "1688959853346140178",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033500367615652239",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ellieo07 前一个小时吃点昂丹司琼止吐"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1688959853346140178",
+        "conversation_id": "2033500367615652239",
+        "created_at": "2026-03-16T11:07:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-16T12:07:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033500367615652239"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2033500367615652239",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 164,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "说起来到底多少玉米能出现幻觉？我每次o十几片只能感觉到头晕和解离还有想吐 不过如果玉米不会让我想吐的话我会把它当午饭吃的 可惜我实在不喜欢想吐的感觉 有点像在晕车"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-27T05:58:17.000Z",
+        "description": "我好像在哪见过你｜💊 SH｜被block就是你的错",
+        "id": "1949348575378644992",
+        "location": "メジコン",
+        "name": "永雏布丁",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031639335355990017/gySUFS_N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 40,
+          "like_count": 48,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 102
+        },
+        "username": "Ace_Purin",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-08T17:06:38.000Z",
+        "description": "解离中   直fo基本都会回的💕欢迎来找我玩 男的婉拒",
+        "id": "1688959853346140178",
+        "name": "estelle",
+        "pinned_tweet_id": "2032137448562831599",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031192448437985280/bKRLmS5c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 165,
+          "following_count": 165,
+          "like_count": 384,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 324
+        },
+        "username": "Ellieo07",
+        "verified": false
+      }
+    ]
+  }
+}

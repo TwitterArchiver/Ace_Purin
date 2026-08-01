@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2034193479669272577"
+      ]
+    },
+    "author_id": "1949348575378644992",
+    "conversation_id": "2032145510572998776",
+    "created_at": "2026-03-18T09:01:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-18T10:01:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2034193485612642770"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1427877766481858560",
+          "start": 0,
+          "username": "RangerDie1"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Xfp9Af637p",
+          "end": 35,
+          "expanded_url": "https://x.com/Ace_Purin/status/2034193485612642770/photo/1",
+          "media_key": "3_2034193479669272577",
+          "start": 12,
+          "url": "https://t.co/Xfp9Af637p"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034193485612642770",
+    "in_reply_to_user_id": "1427877766481858560",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032145510572998776",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RangerDie1 https://t.co/Xfp9Af637p"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 822,
+        "media_key": "3_2034193479669272577",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDroMTAaUAENKRw.jpg",
+        "width": 672
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2034193479669272577"
+          ]
+        },
+        "author_id": "1949348575378644992",
+        "conversation_id": "2032145510572998776",
+        "created_at": "2026-03-18T09:01:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-18T10:01:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034193485612642770"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1427877766481858560",
+              "start": 0,
+              "username": "RangerDie1"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Xfp9Af637p",
+              "end": 35,
+              "expanded_url": "https://x.com/Ace_Purin/status/2034193485612642770/photo/1",
+              "media_key": "3_2034193479669272577",
+              "start": 12,
+              "url": "https://t.co/Xfp9Af637p"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034193485612642770",
+        "in_reply_to_user_id": "1427877766481858560",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032145510572998776",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RangerDie1 https://t.co/Xfp9Af637p"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1427877766481858560",
+        "conversation_id": "2032145510572998776",
+        "created_at": "2026-03-12T17:23:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-12T18:23:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032145510572998776"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2032145510572998776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 226,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "舍友老是打呼噜怎么悄无声息的解决掉（解决呼噜或者舍友都行）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-27T05:58:17.000Z",
+        "description": "我好像在哪见过你｜💊 SH｜被block就是你的错",
+        "id": "1949348575378644992",
+        "location": "メジコン",
+        "name": "永雏布丁",
+        "pinned_tweet_id": "2033851547843719390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031639335355990017/gySUFS_N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 55,
+          "like_count": 100,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 156
+        },
+        "username": "Ace_Purin",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-18T06:19:31.000Z",
+        "description": "07北京男大，泛性恋（大概吧）打电动&看番中，有时会发疯，想找个女朋友（bushi",
+        "id": "1427877766481858560",
+        "location": "beijing",
+        "name": "我自乘风归去",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984453877270487040/OyU8q_TD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 434,
+          "following_count": 7180,
+          "like_count": 48866,
+          "listed_count": 1,
+          "media_count": 65,
+          "tweet_count": 1711
+        },
+        "username": "RangerDie1",
+        "verified": false
+      }
+    ]
+  }
+}

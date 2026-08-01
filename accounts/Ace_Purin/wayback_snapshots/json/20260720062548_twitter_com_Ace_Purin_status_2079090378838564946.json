@@ -1,0 +1,302 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2078776774176178176"
+      ],
+      "media_source_tweet_id": [
+        "2078776783437185061"
+      ]
+    },
+    "author_id": "1949348575378644992",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2079090378838564946",
+    "created_at": "2026-07-20T06:25:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T07:25:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079090378838564946"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1664040280138436620",
+          "start": 3,
+          "username": "ContextBirds"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/SNf7ZBb6H6",
+          "end": 61,
+          "expanded_url": "https://x.com/ContextBirds/status/2078776783437185061/photo/1",
+          "media_key": "3_2078776774176178176",
+          "start": 38,
+          "url": "https://t.co/SNf7ZBb6H6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079090378838564946",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3028
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078776783437185061",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ContextBirds: Is this cannibalism https://t.co/SNf7ZBb6H6"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 848,
+        "media_key": "3_2078776774176178176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNlMdlgagAA5VnP.jpg",
+        "width": 1100
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078776774176178176"
+          ]
+        },
+        "author_id": "1664040280138436620",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2078776783437185061",
+        "created_at": "2026-07-19T09:39:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T10:39:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078776783437185061"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SNf7ZBb6H6",
+              "end": 43,
+              "expanded_url": "https://x.com/ContextBirds/status/2078776783437185061/photo/1",
+              "media_key": "3_2078776774176178176",
+              "start": 20,
+              "url": "https://t.co/SNf7ZBb6H6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078776783437185061",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 977,
+          "impression_count": 329980,
+          "like_count": 24972,
+          "quote_count": 102,
+          "reply_count": 78,
+          "retweet_count": 3028
+        },
+        "reply_settings": "everyone",
+        "text": "Is this cannibalism https://t.co/SNf7ZBb6H6"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078776774176178176"
+          ],
+          "media_source_tweet_id": [
+            "2078776783437185061"
+          ]
+        },
+        "author_id": "1949348575378644992",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2079090378838564946",
+        "created_at": "2026-07-20T06:25:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T07:25:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079090378838564946"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1664040280138436620",
+              "start": 3,
+              "username": "ContextBirds"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/SNf7ZBb6H6",
+              "end": 61,
+              "expanded_url": "https://x.com/ContextBirds/status/2078776783437185061/photo/1",
+              "media_key": "3_2078776774176178176",
+              "start": 38,
+              "url": "https://t.co/SNf7ZBb6H6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079090378838564946",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3028
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078776783437185061",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ContextBirds: Is this cannibalism https://t.co/SNf7ZBb6H6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-27T05:58:17.000Z",
+        "description": "爱人@qngshu988723424｜💊 SH｜被block就是你的错",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 2,
+                "username": "qngshu988723424"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ace_purin",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ace_purin",
+                "start": 0,
+                "url": "https://t.co/PkWlzvseLZ"
+              }
+            ]
+          }
+        },
+        "id": "1949348575378644992",
+        "location": "メジコン",
+        "name": "永雏布丁",
+        "pinned_tweet_id": "2033851547843719390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041031144146423808/f-TPgWl2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 263,
+          "following_count": 317,
+          "like_count": 3703,
+          "listed_count": 0,
+          "media_count": 87,
+          "tweet_count": 2534
+        },
+        "url": "https://t.co/PkWlzvseLZ",
+        "username": "Ace_Purin",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-31T22:45:04.000Z",
+        "description": "Follow for daily birds content",
+        "id": "1664040280138436620",
+        "location": "Turn on notifs 🔔",
+        "name": "Out of Context Birds",
+        "pinned_tweet_id": "2077745734485770319",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1681788053344403456/E9n1y4v6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 97787,
+          "following_count": 110,
+          "like_count": 4751,
+          "listed_count": 297,
+          "media_count": 3091,
+          "tweet_count": 3545
+        },
+        "url": "",
+        "username": "ContextBirds",
+        "verified": true
+      }
+    ]
+  }
+}

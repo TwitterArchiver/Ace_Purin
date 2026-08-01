@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1949348575378644992",
+    "conversation_id": "2039656071397289986",
+    "created_at": "2026-04-02T11:05:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-02T12:05:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039660598536044659"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2027758990097321985",
+          "start": 0,
+          "username": "Kikorilkawaiii"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039660598536044659",
+    "in_reply_to_user_id": "2027758990097321985",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039656071397289986",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kikorilkawaiii 或许宇宙汉堡王？杀顾客给顾客做菜吃一种模拟经营肉鸽"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1949348575378644992",
+        "conversation_id": "2039656071397289986",
+        "created_at": "2026-04-02T11:05:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T12:05:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039660598536044659"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2027758990097321985",
+              "start": 0,
+              "username": "Kikorilkawaiii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039660598536044659",
+        "in_reply_to_user_id": "2027758990097321985",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039656071397289986",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kikorilkawaiii 或许宇宙汉堡王？杀顾客给顾客做菜吃一种模拟经营肉鸽"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2027758990097321985",
+        "conversation_id": "2039656071397289986",
+        "created_at": "2026-04-02T10:47:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T11:47:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039656071397289986"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2039656071397289986",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有人给我推荐点steam游戏吗 我已经把所有好玩的游戏都玩了个遍了。。我想玩模拟经营的游戏！！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-27T05:58:17.000Z",
+        "description": "如果能成为你害怕失去的人就好了｜💊 SH｜被block就是你的错",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ace_purin",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ace_purin",
+                "start": 0,
+                "url": "https://t.co/PkWlzvseLZ"
+              }
+            ]
+          }
+        },
+        "id": "1949348575378644992",
+        "location": "メジコン",
+        "name": "永雏布丁",
+        "pinned_tweet_id": "2033851547843719390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031639335355990017/gySUFS_N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 74,
+          "following_count": 99,
+          "like_count": 593,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 552
+        },
+        "url": "https://t.co/PkWlzvseLZ",
+        "username": "Ace_Purin",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-28T14:54:53.000Z",
+        "description": "我是kikori 无业游民｜脑子不正常｜intp｜直fo就是觉得你很好想和你玩🥺🥺不太会说话 社交系统混乱。。互fo只互一个圈子的哦忘记了dd我！不加墙内联系方式orz……",
+        "id": "2027758990097321985",
+        "name": "きこり🎶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027759833924227072/5vaks4uo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 157,
+          "following_count": 159,
+          "like_count": 246,
+          "listed_count": 1,
+          "media_count": 10,
+          "tweet_count": 492
+        },
+        "username": "Kikorilkawaiii",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1949348575378644992",
+    "conversation_id": "2059631413595615617",
+    "created_at": "2026-05-28T04:29:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T05:29:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059854470897696929"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2042165921200902145",
+          "start": 0,
+          "username": "1239ovo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059854470897696929",
+    "in_reply_to_user_id": "2042165921200902145",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059631413595615617",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@1239ovo 巨萌！客人不多的情况下女仆表现出来的是会一直陪你聊天给我哄成小宝宝了！起码我去的那天离开真的是恋恋不舍…🥺"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 870,
+        "media_key": "3_2059631384462045184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJVH1O8bMAAnRaB.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1949348575378644992",
+        "conversation_id": "2059631413595615617",
+        "created_at": "2026-05-28T04:29:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T05:29:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059854470897696929"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2042165921200902145",
+              "start": 0,
+              "username": "1239ovo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059854470897696929",
+        "in_reply_to_user_id": "2042165921200902145",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059631413595615617",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@1239ovo 巨萌！客人不多的情况下女仆表现出来的是会一直陪你聊天给我哄成小宝宝了！起码我去的那天离开真的是恋恋不舍…🥺"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059631384462045184"
+          ]
+        },
+        "author_id": "2042165921200902145",
+        "conversation_id": "2059631413595615617",
+        "created_at": "2026-05-27T13:42:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T14:42:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059631413595615617"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 64,
+              "start": 58,
+              "tag": "女仆咖啡厅"
+            },
+            {
+              "end": 68,
+              "start": 65,
+              "tag": "评价"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/lcwoplUBvP",
+              "end": 92,
+              "expanded_url": "https://x.com/1239ovo/status/2059631413595615617/photo/1",
+              "media_key": "3_2059631384462045184",
+              "start": 69,
+              "url": "https://t.co/lcwoplUBvP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059631413595615617",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 15055,
+          "like_count": 22,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "无限萌界这家女仆店怎么样呀，看起来很可爱，就是不知道知道里面的消费是多少有人去过嘛值得么，想在6.1儿童节去qwq\n#女仆咖啡厅 #评价 https://t.co/lcwoplUBvP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-27T05:58:17.000Z",
+        "description": "喜欢@qngshu988723424｜💊 SH｜被block就是你的错",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 2,
+                "username": "qngshu988723424"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ace_purin",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ace_purin",
+                "start": 0,
+                "url": "https://t.co/0tokBnS6A6"
+              }
+            ]
+          }
+        },
+        "id": "1949348575378644992",
+        "location": "メジコン",
+        "name": "永雏布丁",
+        "pinned_tweet_id": "2033851547843719390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041031144146423808/f-TPgWl2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 200,
+          "following_count": 240,
+          "like_count": 2866,
+          "listed_count": 0,
+          "media_count": 74,
+          "tweet_count": 1986
+        },
+        "url": "https://t.co/0tokBnS6A6",
+        "username": "Ace_Purin",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-09T09:01:40.000Z",
+        "description": "眠眠喵谢谢关注 UvU半绿低精力之人小女孩可以和我互关，乱七八糟的日常和碎碎念，最喜欢轻松熊和miku，偶尔看看动漫，不线下不约，喜欢我可以给我打钱入门，将会获得一个萌萌的我@11I1018",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 95,
+                "start": 87,
+                "username": "11I1018"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/1239ovo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/1239ovo",
+                "start": 0,
+                "url": "https://t.co/JE8bT4K4Mh"
+              }
+            ]
+          }
+        },
+        "id": "2042165921200902145",
+        "location": "提问箱➡️",
+        "name": "我泪泪的",
+        "pinned_tweet_id": "2059803780628218169",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059316638772867073/W3cWE-C9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 589,
+          "following_count": 6,
+          "like_count": 11,
+          "listed_count": 1,
+          "media_count": 14,
+          "tweet_count": 72
+        },
+        "url": "https://t.co/JE8bT4K4Mh",
+        "username": "1239ovo",
+        "verified": false
+      }
+    ]
+  }
+}

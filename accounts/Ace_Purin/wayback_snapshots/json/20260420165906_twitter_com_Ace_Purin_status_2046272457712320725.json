@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1949348575378644992",
+    "conversation_id": "2046244651032572034",
+    "created_at": "2026-04-20T16:59:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-20T17:59:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046272457712320725"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1541798404321292293",
+          "start": 0,
+          "username": "pao79617382"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046272457712320725",
+    "in_reply_to_user_id": "1541798404321292293",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046244651032572034",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pao79617382 神经痛犯一下"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1949348575378644992",
+        "conversation_id": "2046244651032572034",
+        "created_at": "2026-04-20T16:59:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T17:59:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046272457712320725"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1541798404321292293",
+              "start": 0,
+              "username": "pao79617382"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046272457712320725",
+        "in_reply_to_user_id": "1541798404321292293",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046244651032572034",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pao79617382 神经痛犯一下"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1541798404321292293",
+        "conversation_id": "2046244651032572034",
+        "created_at": "2026-04-20T15:08:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T16:08:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046244651032572034"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2046244651032572034",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 84,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "很伤心。说不出什么滋味。想念右美到愈美也买不到，为啥要紧普瑞这种安全药。让我们去嗑两个晚安还是别的策划药还是自杀。钟到底在不在意oder为什么要嗑。我现在是那种可以没药但不能没药，家里也不能。加上最近好焦虑对pr更依赖……一次二三十t早晚要吃完。我们还有未来吗。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-27T05:58:17.000Z",
+        "description": "如果能成为你害怕失去的人就好了｜💊 SH｜被block就是你的错",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ace_purin",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ace_purin",
+                "start": 0,
+                "url": "https://t.co/PkWlzvseLZ"
+              }
+            ]
+          }
+        },
+        "id": "1949348575378644992",
+        "location": "メジコン",
+        "name": "永雏布丁",
+        "pinned_tweet_id": "2033851547843719390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041031144146423808/f-TPgWl2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 117,
+          "following_count": 160,
+          "like_count": 1687,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 1164
+        },
+        "url": "https://t.co/PkWlzvseLZ",
+        "username": "Ace_Purin",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-28T14:59:39.000Z",
+        "description": "我是槿爻。09生理女性向女/水瓶/双相/血od有/友跨/直fo是喜欢你/互关欢迎fo我必回/我会评论装熟欢迎互动（英/日语学习中）不键政不吵架不站队专心经营我的糖逼生活。os我该取个什么样的ID能让妹子爱上我。现在这个只是我个人属性。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/2872121",
+                "end": 23,
+                "expanded_url": "https://ngl.link/2872121",
+                "start": 0,
+                "url": "https://t.co/y7Yg6JKBLv"
+              }
+            ]
+          }
+        },
+        "id": "1541798404321292293",
+        "location": "埃弗拉德金库",
+        "name": "理查德斯特林的梦幻之逼",
+        "pinned_tweet_id": "2044419277202264126",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023229153244540928/2_YKTroh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 60,
+          "following_count": 196,
+          "like_count": 8145,
+          "listed_count": 1,
+          "media_count": 45,
+          "tweet_count": 375
+        },
+        "url": "https://t.co/y7Yg6JKBLv",
+        "username": "pao79617382",
+        "verified": false
+      }
+    ]
+  }
+}

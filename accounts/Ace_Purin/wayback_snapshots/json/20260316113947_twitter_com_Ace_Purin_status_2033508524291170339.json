@@ -1,0 +1,115 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2033508510567366656"
+      ]
+    },
+    "author_id": "1949348575378644992",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2033508524291170339",
+    "created_at": "2026-03-16T11:39:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-16T12:39:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2033508524291170339"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 13,
+          "start": 7,
+          "tag": "shtwt"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/QWem916d0n",
+          "end": 37,
+          "expanded_url": "https://x.com/Ace_Purin/status/2033508524291170339/photo/1",
+          "media_key": "3_2033508510567366656",
+          "start": 14,
+          "url": "https://t.co/QWem916d0n"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033508524291170339",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我真是雏草姬 #shtwt https://t.co/QWem916d0n"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2033508524291170339].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2033508524291170339",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2033508524291170339"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1947,
+        "media_key": "3_2033508510567366656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDh5N2QaAAAA1w8.jpg",
+        "width": 1461
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-27T05:58:17.000Z",
+        "description": "我好像在哪见过你｜💊 SH｜被block就是你的错",
+        "id": "1949348575378644992",
+        "location": "メジコン",
+        "name": "永雏布丁",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031639335355990017/gySUFS_N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 38,
+          "like_count": 40,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 96
+        },
+        "username": "Ace_Purin",
+        "verified": false
+      }
+    ]
+  }
+}

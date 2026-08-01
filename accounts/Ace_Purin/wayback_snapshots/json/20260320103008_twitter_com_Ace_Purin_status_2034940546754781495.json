@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2034632589378801664"
+      ],
+      "media_source_tweet_id": [
+        "2034632598513975567"
+      ]
+    },
+    "author_id": "1949348575378644992",
+    "conversation_id": "2034940546754781495",
+    "created_at": "2026-03-20T10:30:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-20T11:30:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2034940546754781495"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1911628907842818049",
+          "start": 3,
+          "username": "codyhunk"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/HHCca8m1g3",
+          "end": 41,
+          "expanded_url": "https://x.com/codyhunk/status/2034632598513975567/photo/1",
+          "media_key": "3_2034632589378801664",
+          "start": 18,
+          "url": "https://t.co/HHCca8m1g3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034940546754781495",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 63
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034632598513975567",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @codyhunk: 我哭了 https://t.co/HHCca8m1g3"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 555,
+        "media_key": "3_2034632589378801664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDx3j2JbUAAxrcg.jpg",
+        "width": 717
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2034632589378801664"
+          ],
+          "media_source_tweet_id": [
+            "2034632598513975567"
+          ]
+        },
+        "author_id": "1949348575378644992",
+        "conversation_id": "2034940546754781495",
+        "created_at": "2026-03-20T10:30:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-20T11:30:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034940546754781495"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1911628907842818049",
+              "start": 3,
+              "username": "codyhunk"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/HHCca8m1g3",
+              "end": 41,
+              "expanded_url": "https://x.com/codyhunk/status/2034632598513975567/photo/1",
+              "media_key": "3_2034632589378801664",
+              "start": 18,
+              "url": "https://t.co/HHCca8m1g3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034940546754781495",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 63
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034632598513975567",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @codyhunk: 我哭了 https://t.co/HHCca8m1g3"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2034632589378801664"
+          ]
+        },
+        "author_id": "1911628907842818049",
+        "conversation_id": "2034632598513975567",
+        "created_at": "2026-03-19T14:06:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-19T15:06:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2034632598513975567"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HHCca8m1g3",
+              "end": 27,
+              "expanded_url": "https://x.com/codyhunk/status/2034632598513975567/photo/1",
+              "media_key": "3_2034632589378801664",
+              "start": 4,
+              "url": "https://t.co/HHCca8m1g3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034632598513975567",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 21,
+          "impression_count": 23707,
+          "like_count": 1063,
+          "quote_count": 2,
+          "reply_count": 7,
+          "retweet_count": 63
+        },
+        "reply_settings": "everyone",
+        "text": "我哭了 https://t.co/HHCca8m1g3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-27T05:58:17.000Z",
+        "description": "如果能成为你害怕失去的人就好了｜💊 SH｜被block就是你的错",
+        "id": "1949348575378644992",
+        "location": "メジコン",
+        "name": "永雏布丁",
+        "pinned_tweet_id": "2033851547843719390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031639335355990017/gySUFS_N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 62,
+          "like_count": 144,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 214
+        },
+        "username": "Ace_Purin",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-14T03:54:03.000Z",
+        "description": "夜之城老鼠人",
+        "id": "1911628907842818049",
+        "location": "night city",
+        "name": "夜之城鼠鼠",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010660572497666048/CL2FTU_a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12581,
+          "following_count": 1397,
+          "like_count": 23331,
+          "listed_count": 34,
+          "media_count": 5521,
+          "tweet_count": 8493
+        },
+        "username": "codyhunk",
+        "verified": true
+      }
+    ]
+  }
+}

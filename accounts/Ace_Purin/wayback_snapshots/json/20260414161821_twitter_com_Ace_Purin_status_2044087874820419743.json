@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1949348575378644992",
+    "conversation_id": "2044043802642657765",
+    "created_at": "2026-04-14T16:18:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-14T17:18:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044087874820419743"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1782303137136852992",
+          "start": 0,
+          "username": "h1zh816060"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044087874820419743",
+    "in_reply_to_user_id": "1782303137136852992",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044043802642657765",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@h1zh816060 帅的"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2044043767058255872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HF3m-fDb0AAUL2H.jpg",
+        "width": 1080
+      },
+      {
+        "height": 3060,
+        "media_key": "3_2044043767221760005",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HF3m-fqasAUYoSZ.jpg",
+        "width": 4080
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2044043767054028801",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HF3m-fCbUAE76Jk.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1949348575378644992",
+        "conversation_id": "2044043802642657765",
+        "created_at": "2026-04-14T16:18:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T17:18:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044087874820419743"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1782303137136852992",
+              "start": 0,
+              "username": "h1zh816060"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044087874820419743",
+        "in_reply_to_user_id": "1782303137136852992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044043802642657765",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@h1zh816060 帅的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2044043767058255872",
+            "3_2044043767221760005",
+            "3_2044043767054028801"
+          ]
+        },
+        "author_id": "1782303137136852992",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2044043802642657765",
+        "created_at": "2026-04-14T13:23:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T14:23:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044043802642657765"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/u9ozxLT870",
+              "end": 45,
+              "expanded_url": "https://x.com/h1zh816060/status/2044043802642657765/photo/1",
+              "media_key": "3_2044043767058255872",
+              "start": 22,
+              "url": "https://t.co/u9ozxLT870"
+            },
+            {
+              "display_url": "pic.x.com/u9ozxLT870",
+              "end": 45,
+              "expanded_url": "https://x.com/h1zh816060/status/2044043802642657765/photo/1",
+              "media_key": "3_2044043767221760005",
+              "start": 22,
+              "url": "https://t.co/u9ozxLT870"
+            },
+            {
+              "display_url": "pic.x.com/u9ozxLT870",
+              "end": 45,
+              "expanded_url": "https://x.com/h1zh816060/status/2044043802642657765/photo/1",
+              "media_key": "3_2044043767054028801",
+              "start": 22,
+              "url": "https://t.co/u9ozxLT870"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044043802642657765",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 111,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "OD的时代结束力(悲) 现在是大RC时代！ https://t.co/u9ozxLT870"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-27T05:58:17.000Z",
+        "description": "如果能成为你害怕失去的人就好了｜💊 SH｜被block就是你的错",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ace_purin",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ace_purin",
+                "start": 0,
+                "url": "https://t.co/PkWlzvseLZ"
+              }
+            ]
+          }
+        },
+        "id": "1949348575378644992",
+        "location": "メジコン",
+        "name": "永雏布丁",
+        "pinned_tweet_id": "2033851547843719390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041031144146423808/f-TPgWl2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 106,
+          "following_count": 146,
+          "like_count": 1499,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 1004
+        },
+        "url": "https://t.co/PkWlzvseLZ",
+        "username": "Ace_Purin",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-22T06:59:28.000Z",
+        "description": "是个牛逼超级双双双向INFP-T音乐制作人/DJ/下北沢传奇吉他手(勉強中😉",
+        "id": "1782303137136852992",
+        "location": "Suginami-ku, Tokyo",
+        "name": "一澤子",
+        "pinned_tweet_id": "2035385903506759842",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041814931683848192/zcl-cu0Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 64,
+          "following_count": 79,
+          "like_count": 969,
+          "listed_count": 0,
+          "media_count": 91,
+          "tweet_count": 400
+        },
+        "username": "h1zh816060",
+        "verified": false
+      }
+    ]
+  }
+}

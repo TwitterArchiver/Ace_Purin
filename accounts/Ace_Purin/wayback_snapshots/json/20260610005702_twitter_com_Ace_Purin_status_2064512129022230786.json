@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1949348575378644992",
+    "conversation_id": "2064225854008574133",
+    "created_at": "2026-06-10T00:57:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T01:57:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064512129022230786"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1949843658561433600",
+          "start": 0,
+          "username": "_licgu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064512129022230786",
+    "in_reply_to_user_id": "1949843658561433600",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064289428819095807",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_licgu 尼古丁不耐受摄入会想吐"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1949348575378644992",
+        "conversation_id": "2064225854008574133",
+        "created_at": "2026-06-10T00:57:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T01:57:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064512129022230786"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1949843658561433600",
+              "start": 0,
+              "username": "_licgu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064512129022230786",
+        "in_reply_to_user_id": "1949843658561433600",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064289428819095807",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_licgu 尼古丁不耐受摄入会想吐"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1949843658561433600",
+        "conversation_id": "2064225854008574133",
+        "created_at": "2026-06-09T10:12:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T11:12:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064289428819095807"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1949348575378644992",
+              "start": 0,
+              "username": "Ace_Purin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064289428819095807",
+        "in_reply_to_user_id": "1949348575378644992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 431,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064225854008574133",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ace_Purin ……尼古丁贴片/口香糖？但耐受极快、成瘾性强"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-27T05:58:17.000Z",
+        "description": "喜欢@qngshu988723424｜💊 SH｜被block就是你的错",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 2,
+                "username": "qngshu988723424"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ace_purin",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ace_purin",
+                "start": 0,
+                "url": "https://t.co/0tokBnS6A6"
+              }
+            ]
+          }
+        },
+        "id": "1949348575378644992",
+        "location": "メジコン",
+        "name": "永雏布丁",
+        "pinned_tweet_id": "2033851547843719390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041031144146423808/f-TPgWl2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 225,
+          "following_count": 263,
+          "like_count": 3125,
+          "listed_count": 0,
+          "media_count": 79,
+          "tweet_count": 2148
+        },
+        "url": "https://t.co/0tokBnS6A6",
+        "username": "Ace_Purin",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-28T14:46:13.000Z",
+        "description": "LLM | English/中文 | 画 | CNS-pharmacology | TRD | AFX | Bach | Prokofiev | 中文屋 | poststructuralism | evolution | applied math | neurodiverse | copyleft | 不会写bio",
+        "id": "1949843658561433600",
+        "name": "Siri Keeton",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055687905914585088/W1-VFs9X_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 52,
+          "like_count": 11176,
+          "listed_count": 0,
+          "media_count": 105,
+          "tweet_count": 1173
+        },
+        "username": "_licgu",
+        "verified": false
+      }
+    ]
+  }
+}

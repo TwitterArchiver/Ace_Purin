@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1949348575378644992",
+    "conversation_id": "2079890695410639116",
+    "created_at": "2026-07-22T13:56:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-22T14:56:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079928621599474029"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1790416151375233027",
+          "start": 0,
+          "username": "2025shushufuhuo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079928621599474029",
+    "in_reply_to_user_id": "1790416151375233027",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079902439340134409",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@2025shushufuhuo 一个月不用再打开就发了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1949348575378644992",
+        "conversation_id": "2079890695410639116",
+        "created_at": "2026-07-22T13:56:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T14:56:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079928621599474029"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1790416151375233027",
+              "start": 0,
+              "username": "2025shushufuhuo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079928621599474029",
+        "in_reply_to_user_id": "1790416151375233027",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079902439340134409",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@2025shushufuhuo 一个月不用再打开就发了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790416151375233027",
+        "conversation_id": "2079890695410639116",
+        "created_at": "2026-07-22T12:12:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T13:12:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079902439340134409"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1949348575378644992",
+              "start": 0,
+              "username": "Ace_Purin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079902439340134409",
+        "in_reply_to_user_id": "1949348575378644992",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079890695410639116",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ace_Purin 什麽券這麽好，發我一份（bushi）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-27T05:58:17.000Z",
+        "description": "爱人@qngshu988723424｜💊 SH｜被block就是你的错",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 2,
+                "username": "qngshu988723424"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ace_purin",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ace_purin",
+                "start": 0,
+                "url": "https://t.co/PkWlzvseLZ"
+              }
+            ]
+          }
+        },
+        "id": "1949348575378644992",
+        "location": "メジコン",
+        "name": "永雏布丁",
+        "pinned_tweet_id": "2033851547843719390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041031144146423808/f-TPgWl2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 265,
+          "following_count": 322,
+          "like_count": 3697,
+          "listed_count": 0,
+          "media_count": 87,
+          "tweet_count": 2564
+        },
+        "url": "https://t.co/PkWlzvseLZ",
+        "username": "Ace_Purin",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-14T16:17:41.000Z",
+        "description": "永遠嚮往自由，永遠追求文明與愛/支持民主文明製度，不支持威權以及極端宗教/LGBT友好/自由派，光谱偏向社会自由主义/獨立主義/支黑友好/安人友好\n自由左友好\n\n請使用they/ta\n\n炼铜人士中立\n\n目前是友oder普人（非健全人捏），但未來說不定有可能翻車。\n\n鍵政/聊天/日常bot\n\n小粉紅/威權左滚，禁fo🚫",
+        "id": "1790416151375233027",
+        "name": "芝士球大牢鼠（teachersexual版）🏳️‍⚧️",
+        "pinned_tweet_id": "2079905483834425836",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1941497188103659520/qVRjInzq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 78,
+          "following_count": 263,
+          "like_count": 26,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 298
+        },
+        "url": "",
+        "username": "2025shushufuhuo",
+        "verified": false
+      }
+    ]
+  }
+}

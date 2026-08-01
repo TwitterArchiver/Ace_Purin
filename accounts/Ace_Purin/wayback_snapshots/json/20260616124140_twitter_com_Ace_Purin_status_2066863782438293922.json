@@ -1,0 +1,199 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1949348575378644992",
+    "conversation_id": "2066863782438293922",
+    "created_at": "2026-06-16T12:41:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T13:41:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066863782438293922"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1578837160773533697",
+          "start": 3,
+          "username": "lloronnna"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066863782438293922",
+    "lang": "es",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3027
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066226917615804546",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @lloronnna: “esta noche me suicido” \neso digo desde los 12…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1949348575378644992",
+        "conversation_id": "2066863782438293922",
+        "created_at": "2026-06-16T12:41:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T13:41:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066863782438293922"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1578837160773533697",
+              "start": 3,
+              "username": "lloronnna"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066863782438293922",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3027
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066226917615804546",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @lloronnna: “esta noche me suicido” \neso digo desde los 12…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1578837160773533697",
+        "conversation_id": "2066226917615804546",
+        "created_at": "2026-06-14T18:31:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T19:31:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066226917615804546"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2066226917615804546",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 254,
+          "impression_count": 102855,
+          "like_count": 9970,
+          "quote_count": 73,
+          "reply_count": 21,
+          "retweet_count": 3027
+        },
+        "reply_settings": "everyone",
+        "text": "“esta noche me suicido” \neso digo desde los 12…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-27T05:58:17.000Z",
+        "description": "喜欢@qngshu988723424｜💊 SH｜被block就是你的错",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 2,
+                "username": "qngshu988723424"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ace_purin",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ace_purin",
+                "start": 0,
+                "url": "https://t.co/0tokBnS6A6"
+              }
+            ]
+          }
+        },
+        "id": "1949348575378644992",
+        "location": "メジコン",
+        "name": "永雏布丁",
+        "pinned_tweet_id": "2033851547843719390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041031144146423808/f-TPgWl2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 239,
+          "following_count": 273,
+          "like_count": 3330,
+          "listed_count": 0,
+          "media_count": 80,
+          "tweet_count": 2277
+        },
+        "url": "https://t.co/0tokBnS6A6",
+        "username": "Ace_Purin",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-08T19:58:16.000Z",
+        "description": "uwu",
+        "id": "1578837160773533697",
+        "location": "    ",
+        "name": "ela",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066065535683502080/PU93vVAV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 268,
+          "following_count": 161,
+          "like_count": 1316,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 283
+        },
+        "username": "lloronnna",
+        "verified": false
+      }
+    ]
+  }
+}

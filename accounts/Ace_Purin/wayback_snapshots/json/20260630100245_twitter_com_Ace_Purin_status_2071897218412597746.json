@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2071897210975879168"
+      ]
+    },
+    "author_id": "1949348575378644992",
+    "conversation_id": "2071897218412597746",
+    "created_at": "2026-06-30T10:02:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-30T11:02:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2071897218412597746"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/hXgZ1BgavQ",
+          "end": 43,
+          "expanded_url": "https://x.com/Ace_Purin/status/2071897218412597746/photo/1",
+          "media_key": "3_2071897210975879168",
+          "start": 20,
+          "url": "https://t.co/hXgZ1BgavQ"
+        },
+        {
+          "display_url": "x.com/xccpma/status/…",
+          "end": 67,
+          "expanded_url": "https://twitter.com/xccpma/status/2071784230485737811",
+          "start": 44,
+          "url": "https://t.co/xXz9xz7Etd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071897218412597746",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071784230485737811",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "永雏布丁太小资历了居然没一个能连成线的 https://t.co/hXgZ1BgavQ https://t.co/xXz9xz7Etd"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 780,
+        "media_key": "3_2071897210975879168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMDbiTdXAAAffqC.jpg",
+        "width": 680
+      },
+      {
+        "height": 780,
+        "media_key": "3_2071784222935912448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMB0xiNakAAfS5b.jpg",
+        "width": 680
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071897210975879168"
+          ]
+        },
+        "author_id": "1949348575378644992",
+        "conversation_id": "2071897218412597746",
+        "created_at": "2026-06-30T10:02:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T11:02:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071897218412597746"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hXgZ1BgavQ",
+              "end": 43,
+              "expanded_url": "https://x.com/Ace_Purin/status/2071897218412597746/photo/1",
+              "media_key": "3_2071897210975879168",
+              "start": 20,
+              "url": "https://t.co/hXgZ1BgavQ"
+            },
+            {
+              "display_url": "x.com/xccpma/status/…",
+              "end": 67,
+              "expanded_url": "https://twitter.com/xccpma/status/2071784230485737811",
+              "start": 44,
+              "url": "https://t.co/xXz9xz7Etd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071897218412597746",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071784230485737811",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "永雏布丁太小资历了居然没一个能连成线的 https://t.co/hXgZ1BgavQ https://t.co/xXz9xz7Etd"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071784222935912448"
+          ]
+        },
+        "author_id": "1844356739539533829",
+        "conversation_id": "2071784230485737811",
+        "created_at": "2026-06-30T02:33:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T03:33:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071784230485737811"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/K1Q3z5wBUE",
+              "end": 68,
+              "expanded_url": "https://x.com/xccpma/status/2071784230485737811/photo/1",
+              "media_key": "3_2071784222935912448",
+              "start": 45,
+              "url": "https://t.co/K1Q3z5wBUE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071784230485737811",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 1072,
+          "like_count": 19,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "做了个危险操作bingo，连成线你就是传奇耐杀王😢\n\n（每一种都极危险勿模仿，请珍爱生命 https://t.co/K1Q3z5wBUE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-27T05:58:17.000Z",
+        "description": "爱人@qngshu988723424｜💊 SH｜被block就是你的错",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 2,
+                "username": "qngshu988723424"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ace_purin",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ace_purin",
+                "start": 0,
+                "url": "https://t.co/PkWlzvseLZ"
+              }
+            ]
+          }
+        },
+        "id": "1949348575378644992",
+        "location": "メジコン",
+        "name": "永雏布丁",
+        "pinned_tweet_id": "2033851547843719390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041031144146423808/f-TPgWl2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 254,
+          "following_count": 296,
+          "like_count": 3498,
+          "listed_count": 0,
+          "media_count": 85,
+          "tweet_count": 2415
+        },
+        "url": "https://t.co/PkWlzvseLZ",
+        "username": "Ace_Purin",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-10T12:38:17.000Z",
+        "description": "这都是要应验的，不要干这种事情（欢迎互fo）",
+        "id": "1844356739539533829",
+        "name": "担麦人",
+        "pinned_tweet_id": "2071035320339136731",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048433578531557377/aCKL5-8-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 256,
+          "following_count": 124,
+          "like_count": 190,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 43
+        },
+        "url": "",
+        "username": "xccpma",
+        "verified": false
+      }
+    ]
+  }
+}

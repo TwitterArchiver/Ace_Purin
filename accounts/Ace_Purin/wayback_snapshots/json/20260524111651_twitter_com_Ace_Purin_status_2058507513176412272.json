@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1949348575378644992",
+    "conversation_id": "2058230363034681630",
+    "created_at": "2026-05-24T11:16:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-24T12:16:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058507513176412272"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1843735518401703937",
+          "start": 0,
+          "username": "fakeeco_077"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058507513176412272",
+    "in_reply_to_user_id": "1843735518401703937",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058230363034681630",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fakeeco_077 没有线下单杀的力气了，线上也懒得管了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1949348575378644992",
+        "conversation_id": "2058230363034681630",
+        "created_at": "2026-05-24T11:16:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T12:16:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058507513176412272"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1843735518401703937",
+              "start": 0,
+              "username": "fakeeco_077"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058507513176412272",
+        "in_reply_to_user_id": "1843735518401703937",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058230363034681630",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fakeeco_077 没有线下单杀的力气了，线上也懒得管了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843735518401703937",
+        "conversation_id": "2058230363034681630",
+        "created_at": "2026-05-23T16:55:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T17:55:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058230363034681630"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2058230363034681630",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 695,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "如果换以前我一定会翻遍所有社交平台诅咒然后线下杀过去恐吓 但是我现在已经没有力气干那种事了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-27T05:58:17.000Z",
+        "description": "喜欢@qngshu988723424｜💊 SH｜被block就是你的错",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 2,
+                "username": "qngshu988723424"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ace_purin",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ace_purin",
+                "start": 0,
+                "url": "https://t.co/0tokBnS6A6"
+              }
+            ]
+          }
+        },
+        "id": "1949348575378644992",
+        "location": "メジコン",
+        "name": "永雏布丁",
+        "pinned_tweet_id": "2033851547843719390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041031144146423808/f-TPgWl2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 191,
+          "following_count": 228,
+          "like_count": 2754,
+          "listed_count": 0,
+          "media_count": 70,
+          "tweet_count": 1926
+        },
+        "url": "https://t.co/0tokBnS6A6",
+        "username": "Ace_Purin",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-08T19:29:47.000Z",
+        "description": "喜欢我就多给我钱让我生活得好一点 前世@momoko8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 19,
+                "username": "momoko8964"
+              }
+            ]
+          }
+        },
+        "id": "1843735518401703937",
+        "location": "🚪88 288",
+        "name": "苦桃",
+        "pinned_tweet_id": "2037453649769591129",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056381618231918592/K69HyFD2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 980,
+          "following_count": 112,
+          "like_count": 3213,
+          "listed_count": 1,
+          "media_count": 155,
+          "tweet_count": 1185
+        },
+        "username": "fakeeco_077",
+        "verified": false
+      }
+    ]
+  }
+}

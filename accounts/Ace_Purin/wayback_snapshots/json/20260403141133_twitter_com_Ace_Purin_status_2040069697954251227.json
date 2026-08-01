@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2040069692199763968"
+      ]
+    },
+    "author_id": "1949348575378644992",
+    "conversation_id": "2040069697954251227",
+    "created_at": "2026-04-03T14:11:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-03T15:11:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2040069697954251227"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ZhWbICXcSr",
+          "end": 55,
+          "expanded_url": "https://x.com/Ace_Purin/status/2040069697954251227/photo/1",
+          "media_key": "3_2040069692199763968",
+          "start": 32,
+          "url": "https://t.co/ZhWbICXcSr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040069697954251227",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "何流量你们能不能fo一下我 本蛆唯一的存在感就是从网上得来的了 https://t.co/ZhWbICXcSr"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 349,
+        "media_key": "3_2040069692199763968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HE_Ik4ibgAAIENk.jpg",
+        "width": 1178
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2040069692199763968"
+          ]
+        },
+        "author_id": "1949348575378644992",
+        "conversation_id": "2040069697954251227",
+        "created_at": "2026-04-03T14:11:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T15:11:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040069697954251227"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZhWbICXcSr",
+              "end": 55,
+              "expanded_url": "https://x.com/Ace_Purin/status/2040069697954251227/photo/1",
+              "media_key": "3_2040069692199763968",
+              "start": 32,
+              "url": "https://t.co/ZhWbICXcSr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040069697954251227",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "何流量你们能不能fo一下我 本蛆唯一的存在感就是从网上得来的了 https://t.co/ZhWbICXcSr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-27T05:58:17.000Z",
+        "description": "如果能成为你害怕失去的人就好了｜💊 SH｜被block就是你的错",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ace_purin",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ace_purin",
+                "start": 0,
+                "url": "https://t.co/PkWlzvseLZ"
+              }
+            ]
+          }
+        },
+        "id": "1949348575378644992",
+        "location": "メジコン",
+        "name": "永雏布丁",
+        "pinned_tweet_id": "2033851547843719390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031639335355990017/gySUFS_N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 79,
+          "following_count": 108,
+          "like_count": 682,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 606
+        },
+        "url": "https://t.co/PkWlzvseLZ",
+        "username": "Ace_Purin",
+        "verified": false
+      }
+    ]
+  }
+}

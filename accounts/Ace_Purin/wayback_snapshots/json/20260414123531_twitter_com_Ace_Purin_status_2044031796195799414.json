@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2043914923257016321"
+      ],
+      "media_source_tweet_id": [
+        "2043914943406452997"
+      ]
+    },
+    "author_id": "1949348575378644992",
+    "conversation_id": "2044031796195799414",
+    "created_at": "2026-04-14T12:35:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-14T13:35:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044031796195799414"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1507396901594820608",
+          "start": 3,
+          "username": "hgds0"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/IsCOlOvVK1",
+          "end": 34,
+          "expanded_url": "https://x.com/hgds0/status/2043914943406452997/photo/1",
+          "media_key": "3_2043914923257016321",
+          "start": 11,
+          "url": "https://t.co/IsCOlOvVK1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044031796195799414",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 368
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043914943406452997",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hgds0: https://t.co/IsCOlOvVK1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1148,
+        "media_key": "3_2043914923257016321",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HF1xyyfasAEIBx7.jpg",
+        "width": 1148
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2043914923257016321"
+          ],
+          "media_source_tweet_id": [
+            "2043914943406452997"
+          ]
+        },
+        "author_id": "1949348575378644992",
+        "conversation_id": "2044031796195799414",
+        "created_at": "2026-04-14T12:35:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T13:35:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044031796195799414"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1507396901594820608",
+              "start": 3,
+              "username": "hgds0"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/IsCOlOvVK1",
+              "end": 34,
+              "expanded_url": "https://x.com/hgds0/status/2043914943406452997/photo/1",
+              "media_key": "3_2043914923257016321",
+              "start": 11,
+              "url": "https://t.co/IsCOlOvVK1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044031796195799414",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 368
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043914943406452997",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hgds0: https://t.co/IsCOlOvVK1"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2043914923257016321"
+          ]
+        },
+        "author_id": "1507396901594820608",
+        "conversation_id": "2043914943406452997",
+        "created_at": "2026-04-14T04:51:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T05:51:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043914943406452997"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IsCOlOvVK1",
+              "end": 23,
+              "expanded_url": "https://x.com/hgds0/status/2043914943406452997/photo/1",
+              "media_key": "3_2043914923257016321",
+              "start": 0,
+              "url": "https://t.co/IsCOlOvVK1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043914943406452997",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 78,
+          "impression_count": 56847,
+          "like_count": 2626,
+          "quote_count": 55,
+          "reply_count": 34,
+          "retweet_count": 368
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/IsCOlOvVK1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-27T05:58:17.000Z",
+        "description": "如果能成为你害怕失去的人就好了｜💊 SH｜被block就是你的错",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ace_purin",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ace_purin",
+                "start": 0,
+                "url": "https://t.co/PkWlzvseLZ"
+              }
+            ]
+          }
+        },
+        "id": "1949348575378644992",
+        "location": "メジコン",
+        "name": "永雏布丁",
+        "pinned_tweet_id": "2033851547843719390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041031144146423808/f-TPgWl2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 106,
+          "following_count": 146,
+          "like_count": 1489,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 998
+        },
+        "url": "https://t.co/PkWlzvseLZ",
+        "username": "Ace_Purin",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-25T16:40:26.000Z",
+        "description": "接受投稿 过稿即回复 /部分作品搬运 侵删/推广自辩‼️",
+        "id": "1507396901594820608",
+        "name": "恋",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853640703144046592/OC2mQ87G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 95183,
+          "following_count": 2470,
+          "like_count": 43984,
+          "listed_count": 133,
+          "media_count": 3978,
+          "tweet_count": 8364
+        },
+        "username": "hgds0",
+        "verified": true
+      }
+    ]
+  }
+}

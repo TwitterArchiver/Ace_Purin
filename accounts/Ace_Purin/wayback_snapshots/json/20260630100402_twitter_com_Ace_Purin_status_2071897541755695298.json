@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1949348575378644992",
+    "conversation_id": "2071854368819917017",
+    "created_at": "2026-06-30T10:04:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-30T11:04:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071897541755695298"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2071829712306118656",
+          "start": 0,
+          "username": "PHeeeead"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071897541755695298",
+    "in_reply_to_user_id": "2071829712306118656",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071854368819917017",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@PHeeeead 其实bzd堆量感觉意义不是很大 达到舒缓抗焦虑就好了 fd宝宝你号咋没了我哭🥲"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1949348575378644992",
+        "conversation_id": "2071854368819917017",
+        "created_at": "2026-06-30T10:04:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T11:04:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071897541755695298"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2071829712306118656",
+              "start": 0,
+              "username": "PHeeeead"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071897541755695298",
+        "in_reply_to_user_id": "2071829712306118656",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071854368819917017",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PHeeeead 其实bzd堆量感觉意义不是很大 达到舒缓抗焦虑就好了 fd宝宝你号咋没了我哭🥲"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2071829712306118656",
+        "conversation_id": "2071854368819917017",
+        "created_at": "2026-06-30T07:12:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T08:12:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071854368819917017"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2071854368819917017",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "可以，阿普唑仑1t 2t 3t 3.5t 4t 4.5t 5t全试过了，怎么感觉没区别……？最开始是3t，过一天加成4t，心情不好5t，心情还行遵医嘱改成了1t，有区别吗！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-27T05:58:17.000Z",
+        "description": "爱人@qngshu988723424｜💊 SH｜被block就是你的错",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 2,
+                "username": "qngshu988723424"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ace_purin",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ace_purin",
+                "start": 0,
+                "url": "https://t.co/PkWlzvseLZ"
+              }
+            ]
+          }
+        },
+        "id": "1949348575378644992",
+        "location": "メジコン",
+        "name": "永雏布丁",
+        "pinned_tweet_id": "2033851547843719390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041031144146423808/f-TPgWl2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 254,
+          "following_count": 298,
+          "like_count": 3500,
+          "listed_count": 0,
+          "media_count": 85,
+          "tweet_count": 2416
+        },
+        "url": "https://t.co/PkWlzvseLZ",
+        "username": "Ace_Purin",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-30T05:36:15.000Z",
+        "description": "互fo🆗，寻找前世互关中｜爱删帖，发病了会胡说八道｜💊｜前世 https://t.co/bwDP6Vj1qL",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.com/PHeeead",
+                "end": 54,
+                "expanded_url": "https://x.com/PHeeead",
+                "start": 31,
+                "url": "https://t.co/bwDP6Vj1qL"
+              }
+            ]
+          }
+        },
+        "id": "2071829712306118656",
+        "name": "𝑭𝑫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071830638424997888/sWq9AkOw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 38,
+          "like_count": 32,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 8
+        },
+        "url": "",
+        "username": "PHeeeead",
+        "verified": false
+      }
+    ]
+  }
+}

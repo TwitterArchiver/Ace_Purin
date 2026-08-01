@@ -1,0 +1,293 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1949348575378644992",
+    "conversation_id": "2077329812348432397",
+    "created_at": "2026-07-15T09:49:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-15T10:49:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077329812348432397"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1492982864635383809",
+          "start": 3,
+          "username": "sk1nn7_b1tch"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "t.co/hV",
+          "end": 139,
+          "start": 124,
+          "url": "https://t.co/hV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077329812348432397",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 473
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077006458323898564",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sk1nn7_b1tch: “Can’t wait to live alone!”\nType shit I’ll be pulling once I’ll live alone\n\nSigh I miss cutting my wrist🥀 https://t.co/hV…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 519,
+        "media_key": "3_2077006451466276864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNMCXPfXkAAK9fh.jpg",
+        "width": 700
+      },
+      {
+        "height": 447,
+        "media_key": "3_2077006451466268672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNMCXPfXcAAPfgX.jpg",
+        "width": 447
+      },
+      {
+        "height": 309,
+        "media_key": "3_2077006451487170560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNMCXPkWYAAjY7N.jpg",
+        "width": 550
+      },
+      {
+        "height": 959,
+        "media_key": "3_2077006451462004736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNMCXPeWYAAjJIF.jpg",
+        "width": 981
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1949348575378644992",
+        "conversation_id": "2077329812348432397",
+        "created_at": "2026-07-15T09:49:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T10:49:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077329812348432397"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1492982864635383809",
+              "start": 3,
+              "username": "sk1nn7_b1tch"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "t.co/hV",
+              "end": 139,
+              "start": 124,
+              "url": "https://t.co/hV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077329812348432397",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 473
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077006458323898564",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @sk1nn7_b1tch: “Can’t wait to live alone!”\nType shit I’ll be pulling once I’ll live alone\n\nSigh I miss cutting my wrist🥀 https://t.co/hV…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077006451466276864",
+            "3_2077006451466268672",
+            "3_2077006451487170560",
+            "3_2077006451462004736"
+          ]
+        },
+        "author_id": "1492982864635383809",
+        "conversation_id": "2077006458323898564",
+        "created_at": "2026-07-14T12:25:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T13:25:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077006458323898564"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hV9qgr9zU5",
+              "end": 129,
+              "expanded_url": "https://x.com/sk1nn7_b1tch/status/2077006458323898564/photo/1",
+              "media_key": "3_2077006451466276864",
+              "start": 106,
+              "url": "https://t.co/hV9qgr9zU5"
+            },
+            {
+              "display_url": "pic.x.com/hV9qgr9zU5",
+              "end": 129,
+              "expanded_url": "https://x.com/sk1nn7_b1tch/status/2077006458323898564/photo/1",
+              "media_key": "3_2077006451466268672",
+              "start": 106,
+              "url": "https://t.co/hV9qgr9zU5"
+            },
+            {
+              "display_url": "pic.x.com/hV9qgr9zU5",
+              "end": 129,
+              "expanded_url": "https://x.com/sk1nn7_b1tch/status/2077006458323898564/photo/1",
+              "media_key": "3_2077006451487170560",
+              "start": 106,
+              "url": "https://t.co/hV9qgr9zU5"
+            },
+            {
+              "display_url": "pic.x.com/hV9qgr9zU5",
+              "end": 129,
+              "expanded_url": "https://x.com/sk1nn7_b1tch/status/2077006458323898564/photo/1",
+              "media_key": "3_2077006451462004736",
+              "start": 106,
+              "url": "https://t.co/hV9qgr9zU5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077006458323898564",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 47,
+          "impression_count": 8065,
+          "like_count": 1647,
+          "quote_count": 6,
+          "reply_count": 4,
+          "retweet_count": 473
+        },
+        "reply_settings": "everyone",
+        "text": "“Can’t wait to live alone!”\nType shit I’ll be pulling once I’ll live alone\n\nSigh I miss cutting my wrist🥀 https://t.co/hV9qgr9zU5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-27T05:58:17.000Z",
+        "description": "爱人@qngshu988723424｜💊 SH｜被block就是你的错",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 2,
+                "username": "qngshu988723424"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ace_purin",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ace_purin",
+                "start": 0,
+                "url": "https://t.co/PkWlzvseLZ"
+              }
+            ]
+          }
+        },
+        "id": "1949348575378644992",
+        "location": "メジコン",
+        "name": "永雏布丁",
+        "pinned_tweet_id": "2033851547843719390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041031144146423808/f-TPgWl2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 261,
+          "following_count": 309,
+          "like_count": 3587,
+          "listed_count": 0,
+          "media_count": 87,
+          "tweet_count": 2481
+        },
+        "url": "https://t.co/PkWlzvseLZ",
+        "username": "Ace_Purin",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-13T22:04:04.000Z",
+        "description": "❥ she/him // 7teen // autism + bpd // ⊱ ana + mia // forced sh recovery // ♡eng/pl♥︎",
+        "id": "1492982864635383809",
+        "location": "175cm/hbmi 24/lbmi 19/cbmi 20",
+        "name": "Dave Miller of edtwt(-10,9/38,5kg)",
+        "pinned_tweet_id": "1837573456856338456",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067160375280156672/X12QhFZH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2523,
+          "following_count": 2521,
+          "like_count": 33493,
+          "listed_count": 11,
+          "media_count": 1066,
+          "tweet_count": 13037
+        },
+        "url": "",
+        "username": "sk1nn7_b1tch",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2034840941555752960"
+      ]
+    },
+    "author_id": "1949348575378644992",
+    "conversation_id": "2034840960430141894",
+    "created_at": "2026-03-20T03:54:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-20T04:54:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2034840960430141894"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/8fgTFzVkXn",
+          "end": 30,
+          "expanded_url": "https://x.com/Ace_Purin/status/2034840960430141894/photo/1",
+          "media_key": "3_2034840941555752960",
+          "start": 7,
+          "url": "https://t.co/8fgTFzVkXn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034840960430141894",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "你俩打一架吧 https://t.co/8fgTFzVkXn"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 900,
+        "media_key": "3_2034840941555752960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HD01DifaIAALatt.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2034840941555752960"
+          ]
+        },
+        "author_id": "1949348575378644992",
+        "conversation_id": "2034840960430141894",
+        "created_at": "2026-03-20T03:54:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-20T04:54:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2034840960430141894"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8fgTFzVkXn",
+              "end": 30,
+              "expanded_url": "https://x.com/Ace_Purin/status/2034840960430141894/photo/1",
+              "media_key": "3_2034840941555752960",
+              "start": 7,
+              "url": "https://t.co/8fgTFzVkXn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034840960430141894",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你俩打一架吧 https://t.co/8fgTFzVkXn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-27T05:58:17.000Z",
+        "description": "如果能成为你害怕失去的人就好了｜💊 SH｜被block就是你的错",
+        "id": "1949348575378644992",
+        "location": "メジコン",
+        "name": "永雏布丁",
+        "pinned_tweet_id": "2033851547843719390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031639335355990017/gySUFS_N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 61,
+          "like_count": 135,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 207
+        },
+        "username": "Ace_Purin",
+        "verified": false
+      }
+    ]
+  }
+}

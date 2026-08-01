@@ -1,0 +1,289 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1949348575378644992",
+    "conversation_id": "2058234587075981724",
+    "created_at": "2026-05-23T17:20:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-23T18:20:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058236690544919007"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1818503849541578752",
+          "start": 0,
+          "username": "warma_official"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058236690544919007",
+    "in_reply_to_user_id": "1818503849541578752",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058234587075981724",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@warma_official 交到朋友真好呀🤤"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2155,
+        "media_key": "3_2058234548744228864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJBRasZWEAARTez.jpg",
+        "width": 798
+      },
+      {
+        "height": 1912,
+        "media_key": "3_2058234576565063680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJBRcUCWUAA33fU.jpg",
+        "width": 804
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2058234539982393344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJBRaLwXEAArpBv.jpg",
+        "width": 920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1949348575378644992",
+        "conversation_id": "2058234587075981724",
+        "created_at": "2026-05-23T17:20:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T18:20:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058236690544919007"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1818503849541578752",
+              "start": 0,
+              "username": "warma_official"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058236690544919007",
+        "in_reply_to_user_id": "1818503849541578752",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058234587075981724",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@warma_official 交到朋友真好呀🤤"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058234548744228864",
+            "3_2058234576565063680",
+            "3_2058234539982393344"
+          ]
+        },
+        "author_id": "1818503849541578752",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2058234587075981724",
+        "created_at": "2026-05-23T17:12:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T18:12:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058234587075981724"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kYche3Y3W3",
+              "end": 169,
+              "expanded_url": "https://x.com/warma_official/status/2058234587075981724/photo/1",
+              "media_key": "3_2058234548744228864",
+              "start": 146,
+              "url": "https://t.co/kYche3Y3W3"
+            },
+            {
+              "display_url": "pic.x.com/kYche3Y3W3",
+              "end": 169,
+              "expanded_url": "https://x.com/warma_official/status/2058234587075981724/photo/1",
+              "media_key": "3_2058234576565063680",
+              "start": 146,
+              "url": "https://t.co/kYche3Y3W3"
+            },
+            {
+              "display_url": "pic.x.com/kYche3Y3W3",
+              "end": 169,
+              "expanded_url": "https://x.com/warma_official/status/2058234587075981724/photo/1",
+              "media_key": "3_2058234539982393344",
+              "start": 146,
+              "url": "https://t.co/kYche3Y3W3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058234587075981724",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "看！这是我的的好朋友！\n我和她....当初是因为同样被老师讨厌（她是因为没有巴结老师 而我是因为没有服从错误）而我们两个人都很内向 所以那我们两个人排在一起恶心我们俩 但是让他没有想到的是 这次调整作为 让梵高拿起了画笔 让贝多芬重新获得听力 让两个孤独的人找到了彼此...(后续在评论！) https://t.co/kYche3Y3W3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-27T05:58:17.000Z",
+        "description": "喜欢@qngshu988723424｜💊 SH｜被block就是你的错",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 2,
+                "username": "qngshu988723424"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ace_purin",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ace_purin",
+                "start": 0,
+                "url": "https://t.co/0tokBnS6A6"
+              }
+            ]
+          }
+        },
+        "id": "1949348575378644992",
+        "location": "メジコン",
+        "name": "永雏布丁",
+        "pinned_tweet_id": "2033851547843719390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041031144146423808/f-TPgWl2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 190,
+          "following_count": 226,
+          "like_count": 2725,
+          "listed_count": 0,
+          "media_count": 69,
+          "tweet_count": 1909
+        },
+        "url": "https://t.co/0tokBnS6A6",
+        "username": "Ace_Purin",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-31T04:28:07.000Z",
+        "description": "宇宙第一的大元帅MOKA！/习惯是一次性刷所有贴！/\n“元帅最近似乎有中二病！”我的副官最近这么说我！气死了！/\n我最近在推特大街游荡 为了认识很多有趣的人！/一旦关注我则会被我天天不定时打扰（分享生活 讲笑话）！一定要慎重关注啊！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "imoka.com",
+                "end": 23,
+                "expanded_url": "http://imoka.com",
+                "start": 0,
+                "url": "https://t.co/M38SvexDHD"
+              }
+            ]
+          }
+        },
+        "id": "1818503849541578752",
+        "location": "那个有外星人的星球",
+        "name": "MOKA",
+        "pinned_tweet_id": "2045196337701163266",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026815407924146176/vkUaIZbG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 60,
+          "following_count": 43,
+          "like_count": 886,
+          "listed_count": 0,
+          "media_count": 388,
+          "tweet_count": 1153
+        },
+        "url": "https://t.co/M38SvexDHD",
+        "username": "warma_official",
+        "verified": false
+      }
+    ]
+  }
+}

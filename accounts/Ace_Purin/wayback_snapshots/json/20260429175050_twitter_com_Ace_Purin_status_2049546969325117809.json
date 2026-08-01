@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1949348575378644992",
+    "conversation_id": "2049546969325117809",
+    "created_at": "2026-04-29T17:50:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-29T18:50:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049546969325117809"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1473529668263628805",
+          "start": 3,
+          "username": "real39715698"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049546969325117809",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 469
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046964695115120678",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @real39715698: 我并不想发展任何成年人的亲密关系，我只想像小时候放学到邻居家同学家写作业，吃麦当劳，和打4399小游戏一样，跟人玩。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1949348575378644992",
+        "conversation_id": "2049546969325117809",
+        "created_at": "2026-04-29T17:50:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T18:50:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049546969325117809"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1473529668263628805",
+              "start": 3,
+              "username": "real39715698"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049546969325117809",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 469
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046964695115120678",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @real39715698: 我并不想发展任何成年人的亲密关系，我只想像小时候放学到邻居家同学家写作业，吃麦当劳，和打4399小游戏一样，跟人玩。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1473529668263628805",
+        "conversation_id": "2046964695115120678",
+        "created_at": "2026-04-22T14:49:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T15:49:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046964695115120678"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2046964695115120678",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 122,
+          "impression_count": 122273,
+          "like_count": 3631,
+          "quote_count": 52,
+          "reply_count": 265,
+          "retweet_count": 469
+        },
+        "reply_settings": "everyone",
+        "text": "我并不想发展任何成年人的亲密关系，我只想像小时候放学到邻居家同学家写作业，吃麦当劳，和打4399小游戏一样，跟人玩。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-27T05:58:17.000Z",
+        "description": "如果能成为你害怕失去的人就好了｜💊 SH｜被block就是你的错",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ace_purin",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ace_purin",
+                "start": 0,
+                "url": "https://t.co/PkWlzvseLZ"
+              }
+            ]
+          }
+        },
+        "id": "1949348575378644992",
+        "location": "メジコン",
+        "name": "永雏布丁",
+        "pinned_tweet_id": "2033851547843719390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041031144146423808/f-TPgWl2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 136,
+          "following_count": 177,
+          "like_count": 2067,
+          "listed_count": 0,
+          "media_count": 55,
+          "tweet_count": 1412
+        },
+        "url": "https://t.co/PkWlzvseLZ",
+        "username": "Ace_Purin",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-22T05:43:52.000Z",
+        "description": "我的邪恶比格人格@Miao991ovo\n和我丸https://t.co/FMgiCVkSMp",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 8,
+                "username": "Miao991ovo"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/real81029",
+                "end": 46,
+                "expanded_url": "https://ngl.link/real81029",
+                "start": 23,
+                "url": "https://t.co/FMgiCVkSMp"
+              }
+            ]
+          }
+        },
+        "id": "1473529668263628805",
+        "name": "real",
+        "pinned_tweet_id": "2004595570166608367",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038619700847071232/6s0yTHOZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 678,
+          "following_count": 178,
+          "like_count": 16130,
+          "listed_count": 1,
+          "media_count": 252,
+          "tweet_count": 2481
+        },
+        "username": "real39715698",
+        "verified": false
+      }
+    ]
+  }
+}

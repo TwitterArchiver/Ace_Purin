@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1949348575378644992",
+    "conversation_id": "2059145702274654504",
+    "created_at": "2026-05-26T05:32:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T06:32:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2059145702274654504"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/123456wwerr/st…",
+          "end": 129,
+          "expanded_url": "https://twitter.com/123456wwerr/status/2058982301103780086",
+          "start": 106,
+          "url": "https://t.co/UFZXZRUrP8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059145702274654504",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058982301103780086",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "【不道歉启事】\n我在这里发布不道歉声明\n为了防止有人最讨厌事后道歉，以及我的言行很危险，放在这里以防不时之需，证明我并没有事后道歉，事前也不道歉。 本人在这里不道歉，绝对会做出同样的行为，请接受我最诚挚的恶意。 https://t.co/UFZXZRUrP8"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1949348575378644992",
+        "conversation_id": "2059145702274654504",
+        "created_at": "2026-05-26T05:32:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T06:32:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059145702274654504"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/123456wwerr/st…",
+              "end": 129,
+              "expanded_url": "https://twitter.com/123456wwerr/status/2058982301103780086",
+              "start": 106,
+              "url": "https://t.co/UFZXZRUrP8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059145702274654504",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058982301103780086",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "【不道歉启事】\n我在这里发布不道歉声明\n为了防止有人最讨厌事后道歉，以及我的言行很危险，放在这里以防不时之需，证明我并没有事后道歉，事前也不道歉。 本人在这里不道歉，绝对会做出同样的行为，请接受我最诚挚的恶意。 https://t.co/UFZXZRUrP8"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866050038088024064",
+        "conversation_id": "2058982301103780086",
+        "created_at": "2026-05-25T18:43:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T19:43:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058982301103780086"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/3ch4O1H/status…",
+              "end": 129,
+              "expanded_url": "https://twitter.com/3ch4O1H/status/2058971112927871192",
+              "start": 106,
+              "url": "https://t.co/Q0aRBrGA3x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058982301103780086",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 137,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058971112927871192",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "【道歉启事】\n 我在这里发布道歉声明\n 为了防止有人最讨厌事后道歉，以及我的言行很危险，放在这里以防不时之需，证明我并没有事后道歉，而是事前道歉 本人在这里鞠躬道歉，绝对不会做出同样的行为，请接受我最诚挚的歉意 https://t.co/Q0aRBrGA3x"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-27T05:58:17.000Z",
+        "description": "喜欢@qngshu988723424｜💊 SH｜被block就是你的错",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 2,
+                "username": "qngshu988723424"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ace_purin",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ace_purin",
+                "start": 0,
+                "url": "https://t.co/0tokBnS6A6"
+              }
+            ]
+          }
+        },
+        "id": "1949348575378644992",
+        "location": "メジコン",
+        "name": "永雏布丁",
+        "pinned_tweet_id": "2033851547843719390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041031144146423808/f-TPgWl2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 193,
+          "following_count": 232,
+          "like_count": 2799,
+          "listed_count": 0,
+          "media_count": 70,
+          "tweet_count": 1948
+        },
+        "url": "https://t.co/0tokBnS6A6",
+        "username": "Ace_Purin",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-09T09:19:43.000Z",
+        "description": "恒人党委员会荣誉会员，悲观主义者，重度抑郁（非常严重），中度焦虑，没有逻辑，没有情商和口才，高强度玩游戏看动漫小说脱离社会太久\n经常找我聊天的朋友@bazhuayu98808\n@ningmeng______",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 87,
+                "start": 73,
+                "username": "bazhuayu98808"
+              },
+              {
+                "end": 103,
+                "start": 88,
+                "username": "ningmeng______"
+              }
+            ]
+          }
+        },
+        "id": "1866050038088024064",
+        "location": "Hokkaidō, Japan",
+        "name": "荻原沙优",
+        "pinned_tweet_id": "2007153346533306830",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020775111813713921/6QpcftfD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 696,
+          "following_count": 428,
+          "like_count": 128004,
+          "listed_count": 3,
+          "media_count": 783,
+          "tweet_count": 19246
+        },
+        "username": "123456wwerr",
+        "verified": false
+      }
+    ]
+  }
+}

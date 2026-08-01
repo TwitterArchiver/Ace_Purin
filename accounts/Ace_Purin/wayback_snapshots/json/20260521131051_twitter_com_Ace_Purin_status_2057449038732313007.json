@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1949348575378644992",
+    "conversation_id": "2057128449224114310",
+    "created_at": "2026-05-21T13:10:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-21T14:10:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057449038732313007"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2057360462262538240",
+          "start": 0,
+          "username": "Paquuq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057449038732313007",
+    "in_reply_to_user_id": "2057360462262538240",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057401604865720629",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Paquuq 🥺🥺很美，但盐对我也是很重要的人，你什么错都没有"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1949348575378644992",
+        "conversation_id": "2057128449224114310",
+        "created_at": "2026-05-21T13:10:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T14:10:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057449038732313007"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2057360462262538240",
+              "start": 0,
+              "username": "Paquuq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057449038732313007",
+        "in_reply_to_user_id": "2057360462262538240",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057401604865720629",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Paquuq 🥺🥺很美，但盐对我也是很重要的人，你什么错都没有"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057360462262538240",
+        "conversation_id": "2057128449224114310",
+        "created_at": "2026-05-21T10:02:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T11:02:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057401604865720629"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1949348575378644992",
+              "start": 0,
+              "username": "Ace_Purin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057401604865720629",
+        "in_reply_to_user_id": "1949348575378644992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 31,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057128449224114310",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ace_Purin 我想要钉子钉入身体 缠上线 代表我一生的纹路 吃了药物 然后在山里的湖边自残 自焚的时候上吊 最后我认为我该受到惩罚 绳子会定时断掉 掉进湖里 我会留下一个电脑 我会安慰大家和说我最后想说的话我是罪人 我会录视频 记录下来……我太微不足道了 我只是世界的一粒沙子"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-27T05:58:17.000Z",
+        "description": "喜欢@qngshu988723424｜💊 SH｜被block就是你的错",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 2,
+                "username": "qngshu988723424"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ace_purin",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ace_purin",
+                "start": 0,
+                "url": "https://t.co/0tokBnS6A6"
+              }
+            ]
+          }
+        },
+        "id": "1949348575378644992",
+        "location": "メジコン",
+        "name": "永雏布丁",
+        "pinned_tweet_id": "2033851547843719390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041031144146423808/f-TPgWl2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 185,
+          "following_count": 220,
+          "like_count": 2691,
+          "listed_count": 0,
+          "media_count": 68,
+          "tweet_count": 1869
+        },
+        "url": "https://t.co/0tokBnS6A6",
+        "username": "Ace_Purin",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-21T07:19:39.000Z",
+        "description": "",
+        "id": "2057360462262538240",
+        "name": "Paqu",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057360829020794880/Ltocs0aH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 32,
+          "like_count": 2,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 3
+        },
+        "username": "Paquuq",
+        "verified": false
+      }
+    ]
+  }
+}

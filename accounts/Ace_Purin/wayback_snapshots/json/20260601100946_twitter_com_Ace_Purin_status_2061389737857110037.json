@@ -1,0 +1,313 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1949348575378644992",
+    "conversation_id": "2061094322343497857",
+    "created_at": "2026-06-01T10:09:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-01T11:09:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061389737857110037"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1619331344705916931",
+          "start": 0,
+          "username": "Mikasuda765"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061389737857110037",
+    "in_reply_to_user_id": "1619331344705916931",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061094322343497857",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Mikasuda765 每个差分都好萌哦"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2061094318644117504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJp6XNdbwAAWBr-.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2061094318790881280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJp6XOAbMAAp7IH.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2061094319281573888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJp6XP1akAASvTm.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2061094319386423296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJp6XQOacAAeK5Y.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1949348575378644992",
+        "conversation_id": "2061094322343497857",
+        "created_at": "2026-06-01T10:09:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T11:09:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061389737857110037"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1619331344705916931",
+              "start": 0,
+              "username": "Mikasuda765"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061389737857110037",
+        "in_reply_to_user_id": "1619331344705916931",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061094322343497857",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Mikasuda765 每个差分都好萌哦"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061094318644117504",
+            "3_2061094318790881280",
+            "3_2061094319281573888",
+            "3_2061094319386423296"
+          ]
+        },
+        "author_id": "1619331344705916931",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2061094322343497857",
+        "created_at": "2026-05-31T14:35:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T15:35:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061094322343497857"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZefEKFcpGb",
+              "end": 35,
+              "expanded_url": "https://x.com/Mikasuda765/status/2061094322343497857/photo/1",
+              "media_key": "3_2061094318644117504",
+              "start": 12,
+              "url": "https://t.co/ZefEKFcpGb"
+            },
+            {
+              "display_url": "pic.x.com/ZefEKFcpGb",
+              "end": 35,
+              "expanded_url": "https://x.com/Mikasuda765/status/2061094322343497857/photo/1",
+              "media_key": "3_2061094318790881280",
+              "start": 12,
+              "url": "https://t.co/ZefEKFcpGb"
+            },
+            {
+              "display_url": "pic.x.com/ZefEKFcpGb",
+              "end": 35,
+              "expanded_url": "https://x.com/Mikasuda765/status/2061094322343497857/photo/1",
+              "media_key": "3_2061094319281573888",
+              "start": 12,
+              "url": "https://t.co/ZefEKFcpGb"
+            },
+            {
+              "display_url": "pic.x.com/ZefEKFcpGb",
+              "end": 35,
+              "expanded_url": "https://x.com/Mikasuda765/status/2061094322343497857/photo/1",
+              "media_key": "3_2061094319386423296",
+              "start": 12,
+              "url": "https://t.co/ZefEKFcpGb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061094322343497857",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 99,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的赛博电子女儿啊啊啊 https://t.co/ZefEKFcpGb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-27T05:58:17.000Z",
+        "description": "喜欢@qngshu988723424｜💊 SH｜被block就是你的错",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 2,
+                "username": "qngshu988723424"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ace_purin",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ace_purin",
+                "start": 0,
+                "url": "https://t.co/0tokBnS6A6"
+              }
+            ]
+          }
+        },
+        "id": "1949348575378644992",
+        "location": "メジコン",
+        "name": "永雏布丁",
+        "pinned_tweet_id": "2033851547843719390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041031144146423808/f-TPgWl2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 211,
+          "following_count": 246,
+          "like_count": 2940,
+          "listed_count": 0,
+          "media_count": 76,
+          "tweet_count": 2036
+        },
+        "url": "https://t.co/0tokBnS6A6",
+        "username": "Ace_Purin",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-28T13:47:43.000Z",
+        "description": "无趣之人，以前挺有意思（也许……/一个笨蛋/你永远活在我的回忆之中@jkdghalf411/傻逼二椅子舍友@tonghua245/最好的小猫@yuganbb823",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 33,
+                "username": "jkdghalf411"
+              },
+              {
+                "end": 64,
+                "start": 53,
+                "username": "tonghua245"
+              },
+              {
+                "end": 81,
+                "start": 70,
+                "username": "yuganbb823"
+              }
+            ]
+          }
+        },
+        "id": "1619331344705916931",
+        "location": "猫窝",
+        "name": "寄生铃兰",
+        "pinned_tweet_id": "1911568567470002635",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059711828922646528/mSicUfQ1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1302,
+          "following_count": 3105,
+          "like_count": 2548,
+          "listed_count": 0,
+          "media_count": 62,
+          "tweet_count": 954
+        },
+        "username": "Mikasuda765",
+        "verified": false
+      }
+    ]
+  }
+}

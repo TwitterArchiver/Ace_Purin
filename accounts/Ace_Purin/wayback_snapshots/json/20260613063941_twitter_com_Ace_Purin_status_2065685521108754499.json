@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1949348575378644992",
+    "conversation_id": "2065590552947786024",
+    "created_at": "2026-06-13T06:39:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T07:39:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065685521108754499"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1807697795190849536",
+          "start": 0,
+          "username": "raino222"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065685521108754499",
+    "in_reply_to_user_id": "1807697795190849536",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065590552947786024",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@raino222 我笑吐了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1949348575378644992",
+        "conversation_id": "2065590552947786024",
+        "created_at": "2026-06-13T06:39:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T07:39:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065685521108754499"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1807697795190849536",
+              "start": 0,
+              "username": "raino222"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065685521108754499",
+        "in_reply_to_user_id": "1807697795190849536",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065590552947786024",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@raino222 我笑吐了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1807697795190849536",
+        "conversation_id": "2065590552947786024",
+        "created_at": "2026-06-13T00:22:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T01:22:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065590552947786024"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/TTBRAr12/statu…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/TTBRAr12/status/2064766772373590382",
+              "start": 4,
+              "url": "https://t.co/8HnUREoinO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065590552947786024",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064766772373590382",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "拉完了 https://t.co/8HnUREoinO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-27T05:58:17.000Z",
+        "description": "喜欢@qngshu988723424｜💊 SH｜被block就是你的错",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 2,
+                "username": "qngshu988723424"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ace_purin",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ace_purin",
+                "start": 0,
+                "url": "https://t.co/0tokBnS6A6"
+              }
+            ]
+          }
+        },
+        "id": "1949348575378644992",
+        "location": "メジコン",
+        "name": "永雏布丁",
+        "pinned_tweet_id": "2033851547843719390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041031144146423808/f-TPgWl2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 236,
+          "following_count": 274,
+          "like_count": 3236,
+          "listed_count": 0,
+          "media_count": 79,
+          "tweet_count": 2218
+        },
+        "url": "https://t.co/0tokBnS6A6",
+        "username": "Ace_Purin",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-01T08:48:43.000Z",
+        "description": "别这样对我。",
+        "id": "1807697795190849536",
+        "location": "Tokyo-to, Japan",
+        "name": "孤儿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064692522446946304/h8OnSvTb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 39,
+          "like_count": 473,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 256
+        },
+        "username": "raino222",
+        "verified": false
+      }
+    ]
+  }
+}

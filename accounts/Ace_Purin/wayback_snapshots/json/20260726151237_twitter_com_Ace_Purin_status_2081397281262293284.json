@@ -1,0 +1,155 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "poll_ids": [
+        "2081397278020087808"
+      ]
+    },
+    "author_id": "1949348575378644992",
+    "conversation_id": "2081397281262293284",
+    "created_at": "2026-07-26T15:12:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T16:12:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081397281262293284"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2081397281262293284",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "你们爱吃什么"
+  },
+  "includes": {
+    "polls": [
+      {
+        "duration_minutes": 1440,
+        "end_datetime": "2026-07-27T15:12:36.000Z",
+        "id": "2081397278020087808",
+        "options": [
+          {
+            "label": "肯德基",
+            "position": 1,
+            "votes": 0
+          },
+          {
+            "label": "麦当劳",
+            "position": 2,
+            "votes": 0
+          },
+          {
+            "label": "汉堡王",
+            "position": 3,
+            "votes": 0
+          },
+          {
+            "label": "必胜客",
+            "position": 4,
+            "votes": 0
+          }
+        ],
+        "voting_status": "open"
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "poll_ids": [
+            "2081397278020087808"
+          ]
+        },
+        "author_id": "1949348575378644992",
+        "conversation_id": "2081397281262293284",
+        "created_at": "2026-07-26T15:12:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T16:12:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081397281262293284"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2081397281262293284",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你们爱吃什么"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-27T05:58:17.000Z",
+        "description": "爱人@qngshu988723424｜💊 SH｜被block就是你的错",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 2,
+                "username": "qngshu988723424"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ace_purin",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ace_purin",
+                "start": 0,
+                "url": "https://t.co/PkWlzvseLZ"
+              }
+            ]
+          }
+        },
+        "id": "1949348575378644992",
+        "location": "メジコン",
+        "name": "永雏布丁",
+        "pinned_tweet_id": "2033851547843719390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041031144146423808/f-TPgWl2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 290,
+          "following_count": 340,
+          "like_count": 3803,
+          "listed_count": 0,
+          "media_count": 90,
+          "tweet_count": 2640
+        },
+        "url": "https://t.co/PkWlzvseLZ",
+        "username": "Ace_Purin",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1949348575378644992",
+    "conversation_id": "2039243228806107377",
+    "created_at": "2026-04-01T16:07:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-01T17:07:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039374103447237090"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2022371961503092736",
+          "start": 0,
+          "username": "asusu593407"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039374103447237090",
+    "in_reply_to_user_id": "2022371961503092736",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039283881279725926",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@asusu593407 不要线上买卖精二哇"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1949348575378644992",
+        "conversation_id": "2039243228806107377",
+        "created_at": "2026-04-01T16:07:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T17:07:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039374103447237090"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2022371961503092736",
+              "start": 0,
+              "username": "asusu593407"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039374103447237090",
+        "in_reply_to_user_id": "2022371961503092736",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039283881279725926",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@asusu593407 不要线上买卖精二哇"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022371961503092736",
+        "conversation_id": "2039243228806107377",
+        "created_at": "2026-04-01T10:09:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T11:09:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039283881279725926"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1949348575378644992",
+              "start": 0,
+              "username": "Ace_Purin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039283881279725926",
+        "in_reply_to_user_id": "1949348575378644992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 34,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039246517836578901",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ace_Purin 希望安全吧具体情况可以看我转帖。！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-27T05:58:17.000Z",
+        "description": "如果能成为你害怕失去的人就好了｜💊 SH｜被block就是你的错",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ace_purin",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ace_purin",
+                "start": 0,
+                "url": "https://t.co/PkWlzvseLZ"
+              }
+            ]
+          }
+        },
+        "id": "1949348575378644992",
+        "location": "メジコン",
+        "name": "永雏布丁",
+        "pinned_tweet_id": "2033851547843719390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031639335355990017/gySUFS_N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 72,
+          "following_count": 99,
+          "like_count": 550,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 522
+        },
+        "url": "https://t.co/PkWlzvseLZ",
+        "username": "Ace_Purin",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-13T18:07:15.000Z",
+        "description": "🚪52纯绿陪聊情绪价值高ww你好宝宝♡(◜ω◝)♡祝你天天开心！\n我会一个个回fo的（微查成分）     \n｜双相｜抑郁｜重焦｜强迫型人格｜厌食｜餐券｜od｜绘画｜Cosplay｜亚文化｜无性恋\n温良小女孩不键政，不吵架，不参与任何争议性话题\n｜私信随时欢迎♡(◜ω◝)♡\n｜梦想是成为一个温暖的、幸福的人。",
+        "id": "2022371961503092736",
+        "location": "幸福的柔软棉花糖星球",
+        "name": "Asu@我可以永远幸福吗",
+        "pinned_tweet_id": "2036918447016423592",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036920103540056067/FkWRXzWf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 72,
+          "following_count": 121,
+          "like_count": 56,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 190
+        },
+        "username": "asusu593407",
+        "verified": false
+      }
+    ]
+  }
+}

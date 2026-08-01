@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2059562075035402240"
+      ]
+    },
+    "author_id": "1949348575378644992",
+    "conversation_id": "2059562084858491132",
+    "created_at": "2026-05-27T09:07:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T10:07:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2059562084858491132"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/lONPAz2idd",
+          "end": 28,
+          "expanded_url": "https://x.com/Ace_Purin/status/2059562084858491132/photo/1",
+          "media_key": "3_2059562075035402240",
+          "start": 5,
+          "url": "https://t.co/lONPAz2idd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059562084858491132",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "猜成分喵 https://t.co/lONPAz2idd"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 272,
+        "media_key": "3_2059562075035402240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJUIy5NaAAAcyyl.jpg",
+        "width": 88
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059562075035402240"
+          ]
+        },
+        "author_id": "1949348575378644992",
+        "conversation_id": "2059562084858491132",
+        "created_at": "2026-05-27T09:07:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T10:07:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059562084858491132"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lONPAz2idd",
+              "end": 28,
+              "expanded_url": "https://x.com/Ace_Purin/status/2059562084858491132/photo/1",
+              "media_key": "3_2059562075035402240",
+              "start": 5,
+              "url": "https://t.co/lONPAz2idd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059562084858491132",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "猜成分喵 https://t.co/lONPAz2idd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-27T05:58:17.000Z",
+        "description": "喜欢@qngshu988723424｜💊 SH｜被block就是你的错",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 2,
+                "username": "qngshu988723424"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ace_purin",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ace_purin",
+                "start": 0,
+                "url": "https://t.co/0tokBnS6A6"
+              }
+            ]
+          }
+        },
+        "id": "1949348575378644992",
+        "location": "メジコン",
+        "name": "永雏布丁",
+        "pinned_tweet_id": "2033851547843719390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041031144146423808/f-TPgWl2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 196,
+          "following_count": 235,
+          "like_count": 2834,
+          "listed_count": 0,
+          "media_count": 72,
+          "tweet_count": 1966
+        },
+        "url": "https://t.co/0tokBnS6A6",
+        "username": "Ace_Purin",
+        "verified": false
+      }
+    ]
+  }
+}

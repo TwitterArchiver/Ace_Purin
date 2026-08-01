@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1949348575378644992",
+    "conversation_id": "2037888433419358693",
+    "created_at": "2026-03-28T13:58:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-28T14:58:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037891991498084432"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1537009225716576257",
+          "start": 0,
+          "username": "JINPINGslutflop"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037891991498084432",
+    "in_reply_to_user_id": "1537009225716576257",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037888433419358693",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JINPINGslutflop 除了sns就右佐+酒剧烈去抑制非常的爽哇非常开心\n严格意义上来说右美沙芬也是精品神药xx"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1949348575378644992",
+        "conversation_id": "2037888433419358693",
+        "created_at": "2026-03-28T13:58:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T14:58:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037891991498084432"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1537009225716576257",
+              "start": 0,
+              "username": "JINPINGslutflop"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037891991498084432",
+        "in_reply_to_user_id": "1537009225716576257",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037888433419358693",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JINPINGslutflop 除了sns就右佐+酒剧烈去抑制非常的爽哇非常开心\n严格意义上来说右美沙芬也是精品神药xx"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1537009225716576257",
+        "conversation_id": "2037888433419358693",
+        "created_at": "2026-03-28T13:43:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T14:43:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037888433419358693"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2037888433419358693",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 37,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有没有啥好玩的精神药品"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-27T05:58:17.000Z",
+        "description": "如果能成为你害怕失去的人就好了｜💊 SH｜被block就是你的错",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ace_purin",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ace_purin",
+                "start": 0,
+                "url": "https://t.co/PkWlzvseLZ"
+              }
+            ]
+          }
+        },
+        "id": "1949348575378644992",
+        "location": "メジコン",
+        "name": "永雏布丁",
+        "pinned_tweet_id": "2033851547843719390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031639335355990017/gySUFS_N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 67,
+          "following_count": 91,
+          "like_count": 397,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 419
+        },
+        "url": "https://t.co/PkWlzvseLZ",
+        "username": "Ace_Purin",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-15T09:49:00.000Z",
+        "description": "╭(°ㅂ°`)╮",
+        "id": "1537009225716576257",
+        "name": "咩记营养快餐",
+        "pinned_tweet_id": "2036118695387480065",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028751493055356928/inRXyw9r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 963,
+          "following_count": 2370,
+          "like_count": 98479,
+          "listed_count": 3,
+          "media_count": 1400,
+          "tweet_count": 10819
+        },
+        "username": "JINPINGslutflop",
+        "verified": false
+      }
+    ]
+  }
+}

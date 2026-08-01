@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1949348575378644992",
+    "conversation_id": "2068569079225757832",
+    "created_at": "2026-06-21T05:37:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T06:37:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2068569079225757832"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/chrnqklak/stat…",
+          "end": 168,
+          "expanded_url": "https://twitter.com/chrnqklak/status/2067906497582096575",
+          "start": 145,
+          "url": "https://t.co/JzZ2otbs5D"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068569079225757832",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067906497582096575",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "严禁任何人碰苯二氮卓类药物！\n\n阿普唑仑、劳拉西泮、氯硝西泮等，一律禁碰！苯二氮卓类会让你瞬间产生极强生理和心理依赖。\n一旦成瘾，戒断反应是生不如死的折磨！\n你会变成只为benzos而活的“bzd鬼”，满脑子只有对药物的疯狂渴求，彻底毁掉正常人生。\n\n哪怕用策划药，也绝不能沾苯二氮卓类！ https://t.co/JzZ2otbs5D"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1949348575378644992",
+        "conversation_id": "2068569079225757832",
+        "created_at": "2026-06-21T05:37:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T06:37:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068569079225757832"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/chrnqklak/stat…",
+              "end": 168,
+              "expanded_url": "https://twitter.com/chrnqklak/status/2067906497582096575",
+              "start": 145,
+              "url": "https://t.co/JzZ2otbs5D"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068569079225757832",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067906497582096575",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "严禁任何人碰苯二氮卓类药物！\n\n阿普唑仑、劳拉西泮、氯硝西泮等，一律禁碰！苯二氮卓类会让你瞬间产生极强生理和心理依赖。\n一旦成瘾，戒断反应是生不如死的折磨！\n你会变成只为benzos而活的“bzd鬼”，满脑子只有对药物的疯狂渴求，彻底毁掉正常人生。\n\n哪怕用策划药，也绝不能沾苯二氮卓类！ https://t.co/JzZ2otbs5D"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2067890605670518784",
+        "conversation_id": "2067906497582096575",
+        "created_at": "2026-06-19T09:45:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T10:45:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067906497582096575"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2067906497582096575",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8415,
+          "like_count": 19,
+          "quote_count": 7,
+          "reply_count": 3,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "严禁任何人碰阿片类药物！\n\n曲马多、羟考酮、白兔、1161、复方甘草片等，一律禁碰！阿片类会让你瞬间产生极强生理和心理依赖。\n一旦成瘾，戒断反应是生不如死的折磨！\n你会变成只为阿片而活的“阿片鬼”，满脑子只有对药物的疯狂渴求，彻底毁掉正常人生。\n\n哪怕用策划药，也绝不能沾阿片类！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-27T05:58:17.000Z",
+        "description": "喜欢@qngshu988723424｜💊 SH｜被block就是你的错",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 2,
+                "username": "qngshu988723424"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ace_purin",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ace_purin",
+                "start": 0,
+                "url": "https://t.co/0tokBnS6A6"
+              }
+            ]
+          }
+        },
+        "id": "1949348575378644992",
+        "location": "メジコン",
+        "name": "永雏布丁",
+        "pinned_tweet_id": "2033851547843719390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041031144146423808/f-TPgWl2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 245,
+          "following_count": 286,
+          "like_count": 3414,
+          "listed_count": 0,
+          "media_count": 83,
+          "tweet_count": 2341
+        },
+        "url": "https://t.co/0tokBnS6A6",
+        "username": "Ace_Purin",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-19T08:42:46.000Z",
+        "description": "有机化学爱好者/\n\nhttps://t.co/OE1NrppKMc",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/anan995555",
+                "end": 33,
+                "expanded_url": "https://t.me/anan995555",
+                "start": 10,
+                "url": "https://t.co/OE1NrppKMc"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/anan995555",
+                "end": 23,
+                "expanded_url": "https://t.me/anan995555",
+                "start": 0,
+                "url": "https://t.co/OE1NrppKMc"
+              }
+            ]
+          }
+        },
+        "id": "2067890605670518784",
+        "location": "哈尔滨",
+        "name": "戒掉4-ho-met回归正常-永久抵制阿片类",
+        "pinned_tweet_id": "2067906497582096575",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067891161940058112/ZWrrnrd7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 224,
+          "like_count": 127,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 24
+        },
+        "url": "https://t.co/OE1NrppKMc",
+        "username": "Chrnqklak",
+        "verified": false
+      }
+    ]
+  }
+}

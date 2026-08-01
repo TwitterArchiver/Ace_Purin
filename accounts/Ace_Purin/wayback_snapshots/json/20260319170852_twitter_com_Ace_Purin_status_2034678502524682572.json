@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1949348575378644992",
+    "conversation_id": "2034670803992920186",
+    "created_at": "2026-03-19T17:08:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-19T18:08:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2034678502524682572"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1889663600467554304",
+          "start": 0,
+          "username": "lhvlin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034678502524682572",
+    "in_reply_to_user_id": "1889663600467554304",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034670803992920186",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lhvlin 宝宝你dxm过敏的话思诺思吧 去精神科说失眠入睡困难以前吃过点菜即可 或者ブロン就是现在有点贵 pdd有 还是喜欢pr但是苦于买不到就加巴喷丁/克利加巴林"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1949348575378644992",
+        "conversation_id": "2034670803992920186",
+        "created_at": "2026-03-19T17:08:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-19T18:08:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034678502524682572"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1889663600467554304",
+              "start": 0,
+              "username": "lhvlin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034678502524682572",
+        "in_reply_to_user_id": "1889663600467554304",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034670803992920186",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lhvlin 宝宝你dxm过敏的话思诺思吧 去精神科说失眠入睡困难以前吃过点菜即可 或者ブロン就是现在有点贵 pdd有 还是喜欢pr但是苦于买不到就加巴喷丁/克利加巴林"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1889663600467554304",
+        "conversation_id": "2034670803992920186",
+        "created_at": "2026-03-19T16:38:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-19T17:38:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2034670803992920186"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2034670803992920186",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "没有pr了还能o啥？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-27T05:58:17.000Z",
+        "description": "我好像在哪见过你｜💊 SH｜被block就是你的错",
+        "id": "1949348575378644992",
+        "location": "メジコン",
+        "name": "永雏布丁",
+        "pinned_tweet_id": "2033851547843719390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031639335355990017/gySUFS_N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39,
+          "following_count": 61,
+          "like_count": 135,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 204
+        },
+        "username": "Ace_Purin",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-12T13:12:04.000Z",
+        "description": "🚪5.20｜纯绿",
+        "id": "1889663600467554304",
+        "location": "我无处不在",
+        "name": "你怎么哭了",
+        "pinned_tweet_id": "1892982873407332648",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033518538888249344/747OXgnI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 33,
+          "like_count": 989,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 54
+        },
+        "username": "lhvlin",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,306 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2043900846639816705"
+      ],
+      "media_source_tweet_id": [
+        "2043900848497971417"
+      ]
+    },
+    "author_id": "1949348575378644992",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2044024511054655958",
+    "created_at": "2026-04-14T12:06:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-14T13:06:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044024511054655958"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1309708058239684608",
+          "start": 3,
+          "username": "APsychedelics"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/58135eyRCj",
+          "end": 59,
+          "expanded_url": "https://x.com/APsychedelics/status/2043900848497971417/photo/1",
+          "media_key": "3_2043900846639816705",
+          "start": 36,
+          "url": "https://t.co/58135eyRCj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044024511054655958",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 15
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043900848497971417",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @APsychedelics: Shape of drugs 📐 https://t.co/58135eyRCj"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 634,
+        "media_key": "3_2043900846639816705",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HF1k_bAWIAEXkX4.jpg",
+        "width": 500
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2043900846639816705"
+          ],
+          "media_source_tweet_id": [
+            "2043900848497971417"
+          ]
+        },
+        "author_id": "1949348575378644992",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2044024511054655958",
+        "created_at": "2026-04-14T12:06:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T13:06:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044024511054655958"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1309708058239684608",
+              "start": 3,
+              "username": "APsychedelics"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/58135eyRCj",
+              "end": 59,
+              "expanded_url": "https://x.com/APsychedelics/status/2043900848497971417/photo/1",
+              "media_key": "3_2043900846639816705",
+              "start": 36,
+              "url": "https://t.co/58135eyRCj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044024511054655958",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 15
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043900848497971417",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @APsychedelics: Shape of drugs 📐 https://t.co/58135eyRCj"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2043900846639816705"
+          ]
+        },
+        "author_id": "1309708058239684608",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2043900848497971417",
+        "created_at": "2026-04-14T03:55:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T04:55:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043900848497971417"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/58135eyRCj",
+              "end": 40,
+              "expanded_url": "https://x.com/APsychedelics/status/2043900848497971417/photo/1",
+              "media_key": "3_2043900846639816705",
+              "start": 17,
+              "url": "https://t.co/58135eyRCj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043900848497971417",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 40,
+          "impression_count": 5945,
+          "like_count": 199,
+          "quote_count": 1,
+          "reply_count": 8,
+          "retweet_count": 15
+        },
+        "reply_settings": "everyone",
+        "text": "Shape of drugs 📐 https://t.co/58135eyRCj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-27T05:58:17.000Z",
+        "description": "如果能成为你害怕失去的人就好了｜💊 SH｜被block就是你的错",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ace_purin",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ace_purin",
+                "start": 0,
+                "url": "https://t.co/PkWlzvseLZ"
+              }
+            ]
+          }
+        },
+        "id": "1949348575378644992",
+        "location": "メジコン",
+        "name": "永雏布丁",
+        "pinned_tweet_id": "2033851547843719390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041031144146423808/f-TPgWl2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 106,
+          "following_count": 146,
+          "like_count": 1483,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 996
+        },
+        "url": "https://t.co/PkWlzvseLZ",
+        "username": "Ace_Purin",
+        "verified": false
+      },
+      {
+        "created_at": "2020-09-26T04:15:38.000Z",
+        "description": "Bored? Join the 24/7 discussion in the Super Psychedelic Hæven channel on Telegram! Link below ⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/psychhaeven",
+                "end": 23,
+                "expanded_url": "https://t.me/psychhaeven",
+                "start": 0,
+                "url": "https://t.co/UnANRzyAdb"
+              }
+            ]
+          }
+        },
+        "id": "1309708058239684608",
+        "location": "Spaceship Earth",
+        "name": "👾 𝐀𝐥𝐢𝐞𝐧𝐬 & 𝐏𝐬𝐲𝐜𝐡𝐞𝐝𝐞𝐥𝐢𝐜𝐬 🌵",
+        "pinned_tweet_id": "1907841187915968859",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1684640764330987520/9RWz9rO__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13590,
+          "following_count": 666,
+          "like_count": 50696,
+          "listed_count": 60,
+          "media_count": 29824,
+          "tweet_count": 39809
+        },
+        "url": "https://t.co/UnANRzyAdb",
+        "username": "APsychedelics",
+        "verified": false
+      }
+    ]
+  }
+}

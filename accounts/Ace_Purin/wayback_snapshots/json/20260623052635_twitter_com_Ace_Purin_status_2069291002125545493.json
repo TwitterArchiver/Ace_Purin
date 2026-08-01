@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1949348575378644992",
+    "conversation_id": "2069291002125545493",
+    "created_at": "2026-06-23T05:26:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T06:26:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2069291002125545493"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/nanwhju/status…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/nanwhju/status/2069168673072595396",
+          "start": 5,
+          "url": "https://t.co/KIovTmAjZ9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069291002125545493",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069168673072595396",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "菜单分享 https://t.co/KIovTmAjZ9"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1949348575378644992",
+        "conversation_id": "2069291002125545493",
+        "created_at": "2026-06-23T05:26:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T06:26:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069291002125545493"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/nanwhju/status…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/nanwhju/status/2069168673072595396",
+              "start": 5,
+              "url": "https://t.co/KIovTmAjZ9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069291002125545493",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069168673072595396",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "菜单分享 https://t.co/KIovTmAjZ9"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2052994836266196992",
+        "conversation_id": "2069168673072595396",
+        "created_at": "2026-06-22T21:20:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T22:20:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069168673072595396"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2069168673072595396",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 598,
+          "like_count": 14,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "阿片类就是魔鬼，魔鬼的名单来了。\n\n复方甘草片，吗啡，羟考酮，氢可酮，芬太尼（我称之为恶魔），氢吗啡酮，美沙酮，哌替啶，曲马多，可待因，白兔、1161，氧吗啡酮，丁丙诺啡，他喷他多，右丙氧芬， 芬太尼类似物（卡芬太尼、舒芬太尼、阿芬太尼、瑞芬太尼），鸦片，海洛因（毒）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-27T05:58:17.000Z",
+        "description": "喜欢@qngshu988723424｜💊 SH｜被block就是你的错",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 2,
+                "username": "qngshu988723424"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ace_purin",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ace_purin",
+                "start": 0,
+                "url": "https://t.co/0tokBnS6A6"
+              }
+            ]
+          }
+        },
+        "id": "1949348575378644992",
+        "location": "メジコン",
+        "name": "永雏布丁",
+        "pinned_tweet_id": "2033851547843719390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041031144146423808/f-TPgWl2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 248,
+          "following_count": 290,
+          "like_count": 3441,
+          "listed_count": 0,
+          "media_count": 83,
+          "tweet_count": 2372
+        },
+        "url": "https://t.co/0tokBnS6A6",
+        "username": "Ace_Purin",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-09T06:11:46.000Z",
+        "description": "楠教授三世：https://t.co/RgOC6C06xC",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/anan995555",
+                "end": 29,
+                "expanded_url": "https://t.me/anan995555",
+                "start": 6,
+                "url": "https://t.co/RgOC6C06xC"
+              }
+            ]
+          }
+        },
+        "id": "2052994836266196992",
+        "location": "专注一款产品",
+        "name": "分享4-ho-met不好体验//全网倡议禁止阿片类",
+        "pinned_tweet_id": "2067212147084640626",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053016318086201344/0a8jdtk3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 135,
+          "following_count": 121,
+          "like_count": 367,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 94
+        },
+        "url": "",
+        "username": "Nanwhju",
+        "verified": false
+      }
+    ]
+  }
+}

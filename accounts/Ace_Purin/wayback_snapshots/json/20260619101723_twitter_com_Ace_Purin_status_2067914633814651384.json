@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1949348575378644992",
+    "conversation_id": "2067816686162686315",
+    "created_at": "2026-06-19T10:17:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T11:17:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067914633814651384"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2066343787933368321",
+          "start": 0,
+          "username": "ccaki__lonely"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067914633814651384",
+    "in_reply_to_user_id": "2066343787933368321",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067897408022000002",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ccaki__lonely 好喵好喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1949348575378644992",
+        "conversation_id": "2067816686162686315",
+        "created_at": "2026-06-19T10:17:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T11:17:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067914633814651384"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2066343787933368321",
+              "start": 0,
+              "username": "ccaki__lonely"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067914633814651384",
+        "in_reply_to_user_id": "2066343787933368321",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067897408022000002",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ccaki__lonely 好喵好喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2066343787933368321",
+        "conversation_id": "2067816686162686315",
+        "created_at": "2026-06-19T09:08:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T10:08:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067897408022000002"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1949348575378644992",
+              "start": 0,
+              "username": "Ace_Purin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067897408022000002",
+        "in_reply_to_user_id": "1949348575378644992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067816686162686315",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ace_Purin 普瑞dxm奢侈品之类的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-27T05:58:17.000Z",
+        "description": "喜欢@qngshu988723424｜💊 SH｜被block就是你的错",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 2,
+                "username": "qngshu988723424"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ace_purin",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ace_purin",
+                "start": 0,
+                "url": "https://t.co/0tokBnS6A6"
+              }
+            ]
+          }
+        },
+        "id": "1949348575378644992",
+        "location": "メジコン",
+        "name": "永雏布丁",
+        "pinned_tweet_id": "2033851547843719390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041031144146423808/f-TPgWl2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 242,
+          "following_count": 280,
+          "like_count": 3392,
+          "listed_count": 0,
+          "media_count": 83,
+          "tweet_count": 2314
+        },
+        "url": "https://t.co/0tokBnS6A6",
+        "username": "Ace_Purin",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-15T02:18:52.000Z",
+        "description": "🇭🇰HK | 前世@ccaki_lonely | LGBT gay饰演者 边缘超8cult片导演 | 爱癌晚期 | 港版右美唯一药商 | 二型bpd患者",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 9,
+                "username": "ccaki_lonely"
+              }
+            ]
+          }
+        },
+        "id": "2066343787933368321",
+        "name": "橙子是唯一的彌賽亞",
+        "pinned_tweet_id": "2066346699707277622",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066345056387354624/Tu20i7fr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 100,
+          "following_count": 39,
+          "like_count": 3,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 19
+        },
+        "url": "",
+        "username": "ccaki__lonely",
+        "verified": false
+      }
+    ]
+  }
+}

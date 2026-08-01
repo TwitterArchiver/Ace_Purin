@@ -1,0 +1,299 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2048452308678172673"
+      ],
+      "media_source_tweet_id": [
+        "2048452327430873509"
+      ]
+    },
+    "author_id": "1949348575378644992",
+    "conversation_id": "2050922076387897452",
+    "created_at": "2026-05-03T12:55:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-03T13:55:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050922076387897452"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 20,
+          "start": 15,
+          "tag": "gore"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1652852984009613317",
+          "start": 3,
+          "username": "droggarme"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/2XYDAHfGAk",
+          "end": 44,
+          "expanded_url": "https://x.com/droggarme/status/2048452327430873509/video/1",
+          "media_key": "7_2048452308678172673",
+          "start": 21,
+          "url": "https://t.co/2XYDAHfGAk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050922076387897452",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4927
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048452327430873509",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @droggarme: #gore https://t.co/2XYDAHfGAk"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 6698,
+        "height": 240,
+        "media_key": "7_2048452308678172673",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2048452308678172673/pu/img/OfgMhKOMMrlBv2AP.jpg",
+        "public_metrics": {
+          "view_count": 137215
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2048452308678172673/pu/vid/avc1/240x240/b8hkLmVM5sa3e7Lg.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2048452308678172673/pu/pl/P9gQEXZi1X8Alo3f.m3u8?tag=12"
+          }
+        ],
+        "width": 240
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2048452308678172673"
+          ],
+          "media_source_tweet_id": [
+            "2048452327430873509"
+          ]
+        },
+        "author_id": "1949348575378644992",
+        "conversation_id": "2050922076387897452",
+        "created_at": "2026-05-03T12:55:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T13:55:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050922076387897452"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 20,
+              "start": 15,
+              "tag": "gore"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1652852984009613317",
+              "start": 3,
+              "username": "droggarme"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/2XYDAHfGAk",
+              "end": 44,
+              "expanded_url": "https://x.com/droggarme/status/2048452327430873509/video/1",
+              "media_key": "7_2048452308678172673",
+              "start": 21,
+              "url": "https://t.co/2XYDAHfGAk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050922076387897452",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4927
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048452327430873509",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @droggarme: #gore https://t.co/2XYDAHfGAk"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2048452308678172673"
+          ]
+        },
+        "author_id": "1652852984009613317",
+        "conversation_id": "2048452327430873509",
+        "created_at": "2026-04-26T17:21:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T18:21:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048452327430873509"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 5,
+              "start": 0,
+              "tag": "gore"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/2XYDAHfGAk",
+              "end": 29,
+              "expanded_url": "https://x.com/droggarme/status/2048452327430873509/video/1",
+              "media_key": "7_2048452308678172673",
+              "start": 6,
+              "url": "https://t.co/2XYDAHfGAk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048452327430873509",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2630,
+          "impression_count": 288055,
+          "like_count": 27490,
+          "quote_count": 66,
+          "reply_count": 58,
+          "retweet_count": 4927
+        },
+        "reply_settings": "everyone",
+        "text": "#gore https://t.co/2XYDAHfGAk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-27T05:58:17.000Z",
+        "description": "如果能成为你害怕失去的人就好了｜💊 SH｜被block就是你的错",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ace_purin",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ace_purin",
+                "start": 0,
+                "url": "https://t.co/PkWlzvseLZ"
+              }
+            ]
+          }
+        },
+        "id": "1949348575378644992",
+        "location": "メジコン",
+        "name": "永雏布丁",
+        "pinned_tweet_id": "2033851547843719390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041031144146423808/f-TPgWl2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 145,
+          "following_count": 186,
+          "like_count": 2152,
+          "listed_count": 0,
+          "media_count": 58,
+          "tweet_count": 1493
+        },
+        "url": "https://t.co/PkWlzvseLZ",
+        "username": "Ace_Purin",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-01T01:51:15.000Z",
+        "description": "⠀★    ⠀いつか私はここにいなくなるだろう",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "subtwt.com",
+                "end": 23,
+                "expanded_url": "http://subtwt.com",
+                "start": 0,
+                "url": "https://t.co/3HVIoEfKND"
+              }
+            ]
+          }
+        },
+        "id": "1652852984009613317",
+        "location": "🇨🇱",
+        "name": "Jayden",
+        "pinned_tweet_id": "2038257058072395828",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036226265536249856/spE2asyU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1861,
+          "following_count": 181,
+          "like_count": 9121,
+          "listed_count": 3,
+          "media_count": 1939,
+          "tweet_count": 21142
+        },
+        "url": "https://t.co/3HVIoEfKND",
+        "username": "droggarme",
+        "verified": false
+      }
+    ]
+  }
+}

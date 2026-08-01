@@ -1,0 +1,282 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2062709984601784320"
+      ],
+      "media_source_tweet_id": [
+        "2063691208518500435"
+      ]
+    },
+    "author_id": "1949348575378644992",
+    "conversation_id": "2063899846634066148",
+    "created_at": "2026-06-08T08:24:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T09:24:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063899846634066148"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1231897060573577218",
+          "start": 3,
+          "username": "OwlEveryDay"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/2mlwAThXBf",
+          "end": 40,
+          "expanded_url": "https://x.com/OwlEveryDay/status/2063691208518500435/video/1",
+          "media_key": "13_2062709984601784320",
+          "start": 17,
+          "url": "https://t.co/2mlwAThXBf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063899846634066148",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 73
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063691208518500435",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @OwlEveryDay: https://t.co/2mlwAThXBf"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 17533,
+        "height": 960,
+        "media_key": "13_2062709984601784320",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2062709984601784320/img/0jAwwBLAAZ01XOCd.jpg",
+        "public_metrics": {
+          "view_count": 2493
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2062709984601784320/vid/avc1/320x320/PYhPvjhC0z24ZaoD.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2062709984601784320/vid/avc1/540x540/b0eycBQVfIS1QGJK.mp4?tag=14"
+          },
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2062709984601784320/vid/avc1/720x720/eTOZFPcFsDqtOPd9.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2062709984601784320/pl/p2TcRJqiGrGqZ8t0.m3u8?tag=14"
+          }
+        ],
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2062709984601784320"
+          ],
+          "media_source_tweet_id": [
+            "2063691208518500435"
+          ]
+        },
+        "author_id": "1949348575378644992",
+        "conversation_id": "2063899846634066148",
+        "created_at": "2026-06-08T08:24:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T09:24:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063899846634066148"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1231897060573577218",
+              "start": 3,
+              "username": "OwlEveryDay"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/2mlwAThXBf",
+              "end": 40,
+              "expanded_url": "https://x.com/OwlEveryDay/status/2063691208518500435/video/1",
+              "media_key": "13_2062709984601784320",
+              "start": 17,
+              "url": "https://t.co/2mlwAThXBf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063899846634066148",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 73
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063691208518500435",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @OwlEveryDay: https://t.co/2mlwAThXBf"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2062709984601784320"
+          ]
+        },
+        "author_id": "1231897060573577218",
+        "conversation_id": "2063691208518500435",
+        "created_at": "2026-06-07T18:35:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T19:35:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063691208518500435"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2mlwAThXBf",
+              "end": 23,
+              "expanded_url": "https://x.com/OwlEveryDay/status/2063691208518500435/video/1",
+              "media_key": "13_2062709984601784320",
+              "start": 0,
+              "url": "https://t.co/2mlwAThXBf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063691208518500435",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 78,
+          "impression_count": 9658,
+          "like_count": 569,
+          "quote_count": 9,
+          "reply_count": 4,
+          "retweet_count": 73
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/2mlwAThXBf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-27T05:58:17.000Z",
+        "description": "喜欢@qngshu988723424｜💊 SH｜被block就是你的错",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 2,
+                "username": "qngshu988723424"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ace_purin",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ace_purin",
+                "start": 0,
+                "url": "https://t.co/0tokBnS6A6"
+              }
+            ]
+          }
+        },
+        "id": "1949348575378644992",
+        "location": "メジコン",
+        "name": "永雏布丁",
+        "pinned_tweet_id": "2033851547843719390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041031144146423808/f-TPgWl2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 221,
+          "following_count": 263,
+          "like_count": 3080,
+          "listed_count": 0,
+          "media_count": 79,
+          "tweet_count": 2105
+        },
+        "url": "https://t.co/0tokBnS6A6",
+        "username": "Ace_Purin",
+        "verified": false
+      },
+      {
+        "created_at": "2020-02-24T11:02:06.000Z",
+        "description": "Owl pictures and/or videos every day.",
+        "id": "1231897060573577218",
+        "name": "Owl Every Day",
+        "pinned_tweet_id": "2052093789939138561",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1231922064476512256/A8U-ntKm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12345,
+          "following_count": 0,
+          "like_count": 1534,
+          "listed_count": 38,
+          "media_count": 2312,
+          "tweet_count": 2340
+        },
+        "username": "OwlEveryDay",
+        "verified": false
+      }
+    ]
+  }
+}

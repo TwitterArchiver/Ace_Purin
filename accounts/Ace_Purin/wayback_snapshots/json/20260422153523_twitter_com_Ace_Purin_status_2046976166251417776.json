@@ -1,0 +1,109 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2046976139936325632"
+      ]
+    },
+    "author_id": "1949348575378644992",
+    "conversation_id": "2046976166251417776",
+    "created_at": "2026-04-22T15:35:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-22T16:35:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2046976166251417776"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/RLJfzJAusx",
+          "end": 47,
+          "expanded_url": "https://x.com/Ace_Purin/status/2046976166251417776/photo/1",
+          "media_key": "3_2046976139936325632",
+          "start": 24,
+          "url": "https://t.co/RLJfzJAusx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046976166251417776",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "有人能懂吗血祭出来个哪吒真是魔童降世了，左半边 https://t.co/RLJfzJAusx"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2046976166251417776].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2046976166251417776",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2046976166251417776"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2046976139936325632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGhR9DSa4AAIvAX.jpg",
+        "width": 2048
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-27T05:58:17.000Z",
+        "description": "如果能成为你害怕失去的人就好了｜💊 SH｜被block就是你的错",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ace_purin",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ace_purin",
+                "start": 0,
+                "url": "https://t.co/PkWlzvseLZ"
+              }
+            ]
+          }
+        },
+        "id": "1949348575378644992",
+        "location": "メジコン",
+        "name": "永雏布丁",
+        "pinned_tweet_id": "2033851547843719390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041031144146423808/f-TPgWl2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 117,
+          "following_count": 160,
+          "like_count": 1766,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 1209
+        },
+        "url": "https://t.co/PkWlzvseLZ",
+        "username": "Ace_Purin",
+        "verified": false
+      }
+    ]
+  }
+}

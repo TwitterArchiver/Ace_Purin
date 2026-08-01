@@ -1,0 +1,279 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1949348575378644992",
+    "conversation_id": "2061388414101107003",
+    "created_at": "2026-06-30T04:57:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-30T05:57:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071820435709444368"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1502618677664882689",
+          "start": 0,
+          "username": "jingjiehaoshan2"
+        },
+        {
+          "end": 25,
+          "id": "1733217384050384896",
+          "start": 17,
+          "username": "KK_Paqu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071820435709444368",
+    "in_reply_to_user_id": "1502618677664882689",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 2,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071532711676932187",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jingjiehaoshan2 @KK_Paqu 黑叉坏喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1949348575378644992",
+        "conversation_id": "2061388414101107003",
+        "created_at": "2026-06-30T04:57:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T05:57:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071820435709444368"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1502618677664882689",
+              "start": 0,
+              "username": "jingjiehaoshan2"
+            },
+            {
+              "end": 25,
+              "id": "1733217384050384896",
+              "start": 17,
+              "username": "KK_Paqu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071820435709444368",
+        "in_reply_to_user_id": "1502618677664882689",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071532711676932187",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jingjiehaoshan2 @KK_Paqu 黑叉坏喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1502618677664882689",
+        "conversation_id": "2061388414101107003",
+        "created_at": "2026-06-29T09:54:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T10:54:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071532711676932187"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1949348575378644992",
+              "start": 0,
+              "username": "Ace_Purin"
+            },
+            {
+              "end": 19,
+              "id": "1733217384050384896",
+              "start": 11,
+              "username": "KK_Paqu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071532711676932187",
+        "in_reply_to_user_id": "1949348575378644992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 24,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061388414101107003",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ace_Purin @KK_Paqu 我就说怎么刷不到了喵"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-27T05:58:17.000Z",
+        "description": "爱人@qngshu988723424｜💊 SH｜被block就是你的错",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 2,
+                "username": "qngshu988723424"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ace_purin",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ace_purin",
+                "start": 0,
+                "url": "https://t.co/PkWlzvseLZ"
+              }
+            ]
+          }
+        },
+        "id": "1949348575378644992",
+        "location": "メジコン",
+        "name": "永雏布丁",
+        "pinned_tweet_id": "2033851547843719390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041031144146423808/f-TPgWl2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 253,
+          "following_count": 296,
+          "like_count": 3497,
+          "listed_count": 0,
+          "media_count": 84,
+          "tweet_count": 2413
+        },
+        "url": "https://t.co/PkWlzvseLZ",
+        "username": "Ace_Purin",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-12T12:13:14.000Z",
+        "description": "#马克思主义菜鸟 互of看情况 不主动B人 19岁 性别是武装直升机 CSGO苦手 爱上火车 爱是自由意志的最低解放 要马列主义，不要修正主义，要团结，不要分裂，要光明正大，不要阴谋诡计",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 8,
+                "start": 0,
+                "tag": "马克思主义菜鸟"
+              }
+            ]
+          }
+        },
+        "id": "1502618677664882689",
+        "location": "世界社会主义共和国",
+        "name": "警戒号上的理想主义者",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1502619071241621505/Ya90V3pK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2035,
+          "following_count": 2938,
+          "like_count": 207293,
+          "listed_count": 7,
+          "media_count": 1608,
+          "tweet_count": 19852
+        },
+        "url": "",
+        "username": "jingjiehaoshan2",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-08T20:10:25.000Z",
+        "description": "Oktopus-Typ-Seite. Kein Sozialkram, draußen bleiben! Bock auf meine Army-Maske? Cool, oder?@482xxnay说让我学中文！\nthey 随你喜欢 oc 游戏",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 100,
+                "start": 91,
+                "username": "482xxnay"
+              }
+            ]
+          }
+        },
+        "id": "1733217384050384896",
+        "location": "Tyrol, AUT",
+        "name": "盐和肉鸦都被制了3.0",
+        "pinned_tweet_id": "1733249302708064727",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063849171778682880/Rht4UaWo_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 158,
+          "following_count": 210,
+          "like_count": 844,
+          "listed_count": 0,
+          "media_count": 96,
+          "tweet_count": 657
+        },
+        "url": "",
+        "username": "KK_Paqu",
+        "verified": false
+      }
+    ]
+  }
+}

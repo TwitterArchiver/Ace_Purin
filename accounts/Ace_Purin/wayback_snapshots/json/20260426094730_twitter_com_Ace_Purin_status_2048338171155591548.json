@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2048021362254778368"
+      ],
+      "media_source_tweet_id": [
+        "2048021461256819055"
+      ]
+    },
+    "author_id": "1949348575378644992",
+    "conversation_id": "2048338171155591548",
+    "created_at": "2026-04-26T09:47:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-26T10:47:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048338171155591548"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1677533186597990400",
+          "start": 3,
+          "username": "majidawan764334"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/4ClEHsQTI1",
+          "end": 44,
+          "expanded_url": "https://x.com/majidawan764334/status/2048021461256819055/video/1",
+          "media_key": "7_2048021362254778368",
+          "start": 21,
+          "url": "https://t.co/4ClEHsQTI1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048338171155591548",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1378
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048021461256819055",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @majidawan764334: https://t.co/4ClEHsQTI1"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 8533,
+        "height": 720,
+        "media_key": "7_2048021362254778368",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2048021362254778368/pu/img/A0FkaGID5mYSG_tD.jpg",
+        "public_metrics": {
+          "view_count": 48415
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2048021362254778368/pu/vid/avc1/478x270/9YCYPuo5KWjQ_2zV.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2048021362254778368/pu/vid/avc1/638x360/1lM9iGJ-lo2muNDW.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2048021362254778368/pu/vid/avc1/1276x720/wo264tsOujupbTHt.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2048021362254778368/pu/pl/b_5TBSflKjY8HN6H.m3u8"
+          }
+        ],
+        "width": 1276
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2048021362254778368"
+          ],
+          "media_source_tweet_id": [
+            "2048021461256819055"
+          ]
+        },
+        "author_id": "1949348575378644992",
+        "conversation_id": "2048338171155591548",
+        "created_at": "2026-04-26T09:47:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T10:47:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048338171155591548"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1677533186597990400",
+              "start": 3,
+              "username": "majidawan764334"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/4ClEHsQTI1",
+              "end": 44,
+              "expanded_url": "https://x.com/majidawan764334/status/2048021461256819055/video/1",
+              "media_key": "7_2048021362254778368",
+              "start": 21,
+              "url": "https://t.co/4ClEHsQTI1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048338171155591548",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1378
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048021461256819055",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @majidawan764334: https://t.co/4ClEHsQTI1"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2048021362254778368"
+          ]
+        },
+        "author_id": "1677533186597990400",
+        "conversation_id": "2048021461256819055",
+        "created_at": "2026-04-25T12:49:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T13:49:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048021461256819055"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4ClEHsQTI1",
+              "end": 23,
+              "expanded_url": "https://x.com/majidawan764334/status/2048021461256819055/video/1",
+              "media_key": "7_2048021362254778368",
+              "start": 0,
+              "url": "https://t.co/4ClEHsQTI1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048021461256819055",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 903,
+          "impression_count": 158877,
+          "like_count": 7962,
+          "quote_count": 113,
+          "reply_count": 14,
+          "retweet_count": 1378
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/4ClEHsQTI1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-27T05:58:17.000Z",
+        "description": "如果能成为你害怕失去的人就好了｜💊 SH｜被block就是你的错",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ace_purin",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ace_purin",
+                "start": 0,
+                "url": "https://t.co/PkWlzvseLZ"
+              }
+            ]
+          }
+        },
+        "id": "1949348575378644992",
+        "location": "メジコン",
+        "name": "永雏布丁",
+        "pinned_tweet_id": "2033851547843719390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041031144146423808/f-TPgWl2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 127,
+          "following_count": 166,
+          "like_count": 1964,
+          "listed_count": 0,
+          "media_count": 52,
+          "tweet_count": 1335
+        },
+        "url": "https://t.co/PkWlzvseLZ",
+        "username": "Ace_Purin",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-08T04:21:20.000Z",
+        "description": "wlg fan club 🐈 dm for submissions +\ncredit! (can't always respond but 😘 them all) forced blue check 👎 (gfy EM) IG: @",
+        "id": "1677533186597990400",
+        "location": "United States",
+        "name": "Cutes Animals",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962138061380210688/nMzPVxw6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6950,
+          "following_count": 6331,
+          "like_count": 14281,
+          "listed_count": 17,
+          "media_count": 2849,
+          "tweet_count": 7400
+        },
+        "username": "majidawan764334",
+        "verified": true
+      }
+    ]
+  }
+}

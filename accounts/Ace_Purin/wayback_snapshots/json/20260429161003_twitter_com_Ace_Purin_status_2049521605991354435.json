@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1949348575378644992",
+    "conversation_id": "2049518632141828322",
+    "created_at": "2026-04-29T16:10:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-29T17:10:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049521605991354435"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1537009225716576257",
+          "start": 0,
+          "username": "JINPINGslutflop"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049521605991354435",
+    "in_reply_to_user_id": "1537009225716576257",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049518632141828322",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JINPINGslutflop 我也在耶耶"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1949348575378644992",
+        "conversation_id": "2049518632141828322",
+        "created_at": "2026-04-29T16:10:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T17:10:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049521605991354435"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1537009225716576257",
+              "start": 0,
+              "username": "JINPINGslutflop"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049521605991354435",
+        "in_reply_to_user_id": "1537009225716576257",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049518632141828322",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JINPINGslutflop 我也在耶耶"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1537009225716576257",
+        "conversation_id": "2049518632141828322",
+        "created_at": "2026-04-29T15:58:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T16:58:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049518632141828322"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2049518632141828322",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 26,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我在sns药效里 谁和我说话"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-27T05:58:17.000Z",
+        "description": "如果能成为你害怕失去的人就好了｜💊 SH｜被block就是你的错",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ace_purin",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ace_purin",
+                "start": 0,
+                "url": "https://t.co/PkWlzvseLZ"
+              }
+            ]
+          }
+        },
+        "id": "1949348575378644992",
+        "location": "メジコン",
+        "name": "永雏布丁",
+        "pinned_tweet_id": "2033851547843719390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041031144146423808/f-TPgWl2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 134,
+          "following_count": 175,
+          "like_count": 2063,
+          "listed_count": 0,
+          "media_count": 54,
+          "tweet_count": 1404
+        },
+        "url": "https://t.co/PkWlzvseLZ",
+        "username": "Ace_Purin",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-15T09:49:00.000Z",
+        "description": "（ゝ。∂）我爱的🍊@__Ju___ju__",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 9,
+                "username": "__Ju___ju__"
+              }
+            ]
+          }
+        },
+        "id": "1537009225716576257",
+        "name": "咩工刀",
+        "pinned_tweet_id": "2036118695387480065",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043588276389322752/v3VfQHO7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 990,
+          "following_count": 2421,
+          "like_count": 103929,
+          "listed_count": 3,
+          "media_count": 1446,
+          "tweet_count": 11272
+        },
+        "username": "JINPINGslutflop",
+        "verified": false
+      }
+    ]
+  }
+}

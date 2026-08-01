@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1949348575378644992",
+    "conversation_id": "2051003915047481493",
+    "created_at": "2026-05-03T18:42:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-03T19:42:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051009494948479066"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1975516163078594560",
+          "start": 0,
+          "username": "Freundis21"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051009494948479066",
+    "in_reply_to_user_id": "1975516163078594560",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051003915047481493",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Freundis21 好舒服"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2051003908718256128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHahMDQW4AAhlj6.jpg",
+        "width": 2033
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2051003908709822464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHahMDOWMAAGHRZ.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1949348575378644992",
+        "conversation_id": "2051003915047481493",
+        "created_at": "2026-05-03T18:42:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T19:42:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051009494948479066"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1975516163078594560",
+              "start": 0,
+              "username": "Freundis21"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051009494948479066",
+        "in_reply_to_user_id": "1975516163078594560",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051003915047481493",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Freundis21 好舒服"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2051003908718256128",
+            "3_2051003908709822464"
+          ]
+        },
+        "author_id": "1975516163078594560",
+        "conversation_id": "2051003915047481493",
+        "created_at": "2026-05-03T18:20:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T19:20:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051003915047481493"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yMQbZqPMgz",
+              "end": 82,
+              "expanded_url": "https://x.com/Freundis21/status/2051003915047481493/photo/1",
+              "media_key": "3_2051003908718256128",
+              "start": 59,
+              "url": "https://t.co/yMQbZqPMgz"
+            },
+            {
+              "display_url": "pic.x.com/yMQbZqPMgz",
+              "end": 82,
+              "expanded_url": "https://x.com/Freundis21/status/2051003915047481493/photo/1",
+              "media_key": "3_2051003908709822464",
+              "start": 59,
+              "url": "https://t.co/yMQbZqPMgz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051003915047481493",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 40,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "Amphetamine anorexia和Cannabis-induced hyperphagia决赛我宣布前者获胜 https://t.co/yMQbZqPMgz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-27T05:58:17.000Z",
+        "description": "如果能成为你害怕失去的人就好了｜💊 SH｜被block就是你的错",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ace_purin",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ace_purin",
+                "start": 0,
+                "url": "https://t.co/PkWlzvseLZ"
+              }
+            ]
+          }
+        },
+        "id": "1949348575378644992",
+        "location": "メジコン",
+        "name": "永雏布丁",
+        "pinned_tweet_id": "2033851547843719390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041031144146423808/f-TPgWl2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 148,
+          "following_count": 189,
+          "like_count": 2201,
+          "listed_count": 0,
+          "media_count": 58,
+          "tweet_count": 1533
+        },
+        "url": "https://t.co/PkWlzvseLZ",
+        "username": "Ace_Purin",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-07T10:59:00.000Z",
+        "description": "提问https://t.co/8kDSGb7b5b",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "miyu.link/Freundis",
+                "end": 25,
+                "expanded_url": "https://miyu.link/Freundis",
+                "start": 2,
+                "url": "https://t.co/8kDSGb7b5b"
+              }
+            ]
+          }
+        },
+        "id": "1975516163078594560",
+        "name": "Bokuwayakudatazudesu",
+        "pinned_tweet_id": "2050110085599289357",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979709468096053248/NP6_6sIl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1212,
+          "following_count": 990,
+          "like_count": 7992,
+          "listed_count": 1,
+          "media_count": 311,
+          "tweet_count": 1426
+        },
+        "username": "Freundis21",
+        "verified": false
+      }
+    ]
+  }
+}

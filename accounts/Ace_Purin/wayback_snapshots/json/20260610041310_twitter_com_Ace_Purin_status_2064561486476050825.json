@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2064340503970406400"
+      ],
+      "media_source_tweet_id": [
+        "2064340506646282547"
+      ]
+    },
+    "author_id": "1949348575378644992",
+    "conversation_id": "2064561486476050825",
+    "created_at": "2026-06-10T04:13:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T05:13:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064561486476050825"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1993662293302038528",
+          "start": 3,
+          "username": "photon010"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/kR4LGrV3xx",
+          "end": 58,
+          "expanded_url": "https://x.com/photon010/status/2064340506646282547/photo/1",
+          "media_key": "3_2064340503970406400",
+          "start": 35,
+          "url": "https://t.co/kR4LGrV3xx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064561486476050825",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 112
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064340506646282547",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @photon010: Biggest bird indeed https://t.co/kR4LGrV3xx"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1075,
+        "media_key": "3_2064340503970406400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKYCwEKbYAAJHKl.jpg",
+        "width": 736
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064340503970406400"
+          ],
+          "media_source_tweet_id": [
+            "2064340506646282547"
+          ]
+        },
+        "author_id": "1949348575378644992",
+        "conversation_id": "2064561486476050825",
+        "created_at": "2026-06-10T04:13:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T05:13:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064561486476050825"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1993662293302038528",
+              "start": 3,
+              "username": "photon010"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/kR4LGrV3xx",
+              "end": 58,
+              "expanded_url": "https://x.com/photon010/status/2064340506646282547/photo/1",
+              "media_key": "3_2064340503970406400",
+              "start": 35,
+              "url": "https://t.co/kR4LGrV3xx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064561486476050825",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 112
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064340506646282547",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @photon010: Biggest bird indeed https://t.co/kR4LGrV3xx"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064340503970406400"
+          ]
+        },
+        "author_id": "1993662293302038528",
+        "conversation_id": "2064340506646282547",
+        "created_at": "2026-06-09T13:35:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T14:35:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064340506646282547"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kR4LGrV3xx",
+              "end": 43,
+              "expanded_url": "https://x.com/photon010/status/2064340506646282547/photo/1",
+              "media_key": "3_2064340503970406400",
+              "start": 20,
+              "url": "https://t.co/kR4LGrV3xx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064340506646282547",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 66,
+          "impression_count": 17203,
+          "like_count": 1295,
+          "quote_count": 21,
+          "reply_count": 10,
+          "retweet_count": 112
+        },
+        "reply_settings": "everyone",
+        "text": "Biggest bird indeed https://t.co/kR4LGrV3xx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-27T05:58:17.000Z",
+        "description": "喜欢@qngshu988723424｜💊 SH｜被block就是你的错",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 2,
+                "username": "qngshu988723424"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ace_purin",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ace_purin",
+                "start": 0,
+                "url": "https://t.co/0tokBnS6A6"
+              }
+            ]
+          }
+        },
+        "id": "1949348575378644992",
+        "location": "メジコン",
+        "name": "永雏布丁",
+        "pinned_tweet_id": "2033851547843719390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041031144146423808/f-TPgWl2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 225,
+          "following_count": 266,
+          "like_count": 3149,
+          "listed_count": 0,
+          "media_count": 79,
+          "tweet_count": 2167
+        },
+        "url": "https://t.co/0tokBnS6A6",
+        "username": "Ace_Purin",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-26T12:45:26.000Z",
+        "description": "Daily doses of birds and animals 🐦 |\nDM for copyright concerns or post\nremoval📩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "thesparrow.straw.page",
+                "end": 23,
+                "expanded_url": "https://thesparrow.straw.page",
+                "start": 0,
+                "url": "https://t.co/m89Vrz5DtU"
+              }
+            ]
+          }
+        },
+        "id": "1993662293302038528",
+        "name": "Sparrow",
+        "pinned_tweet_id": "2052428763481469294",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019270494755909632/aAtLQpY-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8310,
+          "following_count": 676,
+          "like_count": 22912,
+          "listed_count": 30,
+          "media_count": 998,
+          "tweet_count": 3025
+        },
+        "url": "https://t.co/m89Vrz5DtU",
+        "username": "photon010",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1949348575378644992",
+    "conversation_id": "2078048247353086131",
+    "created_at": "2026-07-17T09:24:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-17T10:24:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2078048247353086131"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/angel_ovo27/st…",
+          "end": 35,
+          "expanded_url": "https://twitter.com/angel_ovo27/status/2077283388952854860",
+          "start": 12,
+          "url": "https://t.co/9Bxd09zng3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078048247353086131",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077283388952854860",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "永雏布丁迈入中年危机。 https://t.co/9Bxd09zng3"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1949348575378644992",
+        "conversation_id": "2078048247353086131",
+        "created_at": "2026-07-17T09:24:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T10:24:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078048247353086131"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/angel_ovo27/st…",
+              "end": 35,
+              "expanded_url": "https://twitter.com/angel_ovo27/status/2077283388952854860",
+              "start": 12,
+              "url": "https://t.co/9Bxd09zng3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078048247353086131",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077283388952854860",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "永雏布丁迈入中年危机。 https://t.co/9Bxd09zng3"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1829229897195368455",
+        "conversation_id": "2077283388952854860",
+        "created_at": "2026-07-15T06:45:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T07:45:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077283388952854860"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2077283388952854860",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 13003,
+          "like_count": 508,
+          "quote_count": 10,
+          "reply_count": 45,
+          "retweet_count": 99
+        },
+        "reply_settings": "everyone",
+        "text": "我们还可以用青少年这个理由痛苦几年？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-27T05:58:17.000Z",
+        "description": "爱人@qngshu988723424｜💊 SH｜被block就是你的错",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 2,
+                "username": "qngshu988723424"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ace_purin",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ace_purin",
+                "start": 0,
+                "url": "https://t.co/PkWlzvseLZ"
+              }
+            ]
+          }
+        },
+        "id": "1949348575378644992",
+        "location": "メジコン",
+        "name": "永雏布丁",
+        "pinned_tweet_id": "2033851547843719390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041031144146423808/f-TPgWl2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 258,
+          "following_count": 309,
+          "like_count": 3613,
+          "listed_count": 0,
+          "media_count": 87,
+          "tweet_count": 2487
+        },
+        "url": "https://t.co/PkWlzvseLZ",
+        "username": "Ace_Purin",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-29T18:49:42.000Z",
+        "description": "小众活法不喜勿喷",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ovotvtouo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ovotvtouo",
+                "start": 0,
+                "url": "https://t.co/VHfQubyMuT"
+              }
+            ]
+          }
+        },
+        "id": "1829229897195368455",
+        "location": "提问箱",
+        "name": "用户487",
+        "pinned_tweet_id": "2008187932621123964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068721135324385280/FkNg_ewA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2784,
+          "following_count": 65,
+          "like_count": 2666,
+          "listed_count": 3,
+          "media_count": 191,
+          "tweet_count": 5399
+        },
+        "url": "https://t.co/VHfQubyMuT",
+        "username": "angel_OvO27",
+        "verified": false
+      }
+    ]
+  }
+}

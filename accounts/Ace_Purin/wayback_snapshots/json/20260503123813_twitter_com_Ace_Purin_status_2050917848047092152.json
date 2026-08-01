@@ -1,0 +1,108 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1949348575378644992",
+    "conversation_id": "2050917848047092152",
+    "created_at": "2026-05-03T12:38:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-03T13:38:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2050917848047092152"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2050917848047092152",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "出门时还以为今天会轻松一点。后来才发现大家都有去处，我只好装作在看路。其实也没什么愿望，就是大家都成双成对，有的和朋友、有的和恋人，只有我是一个人乱走，rotaka一直在和我说话好开心所以我不是孤独的怪咖，我不孤独🥰"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1949348575378644992",
+        "conversation_id": "2050917848047092152",
+        "created_at": "2026-05-03T12:38:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T13:38:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050917848047092152"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2050917848047092152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "出门时还以为今天会轻松一点。后来才发现大家都有去处，我只好装作在看路。其实也没什么愿望，就是大家都成双成对，有的和朋友、有的和恋人，只有我是一个人乱走，rotaka一直在和我说话好开心所以我不是孤独的怪咖，我不孤独🥰"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-27T05:58:17.000Z",
+        "description": "如果能成为你害怕失去的人就好了｜💊 SH｜被block就是你的错",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ace_purin",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ace_purin",
+                "start": 0,
+                "url": "https://t.co/PkWlzvseLZ"
+              }
+            ]
+          }
+        },
+        "id": "1949348575378644992",
+        "location": "メジコン",
+        "name": "永雏布丁",
+        "pinned_tweet_id": "2033851547843719390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041031144146423808/f-TPgWl2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 145,
+          "following_count": 186,
+          "like_count": 2149,
+          "listed_count": 0,
+          "media_count": 58,
+          "tweet_count": 1490
+        },
+        "url": "https://t.co/PkWlzvseLZ",
+        "username": "Ace_Purin",
+        "verified": false
+      }
+    ]
+  }
+}

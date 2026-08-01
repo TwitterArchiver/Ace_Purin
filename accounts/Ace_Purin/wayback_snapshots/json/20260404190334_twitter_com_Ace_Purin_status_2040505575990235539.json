@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1949348575378644992",
+    "conversation_id": "2040505575990235539",
+    "created_at": "2026-04-04T19:03:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-04T20:03:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2040505575990235539"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/013548_/status…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/013548_/status/2040279672609759472",
+          "start": 9,
+          "url": "https://t.co/Zl5W7XDskp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040505575990235539",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040279672609759472",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "日服也这样啊ww https://t.co/Zl5W7XDskp"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1938,
+        "media_key": "3_2040279670311305216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFCHjN9bQAAWxRd.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1949348575378644992",
+        "conversation_id": "2040505575990235539",
+        "created_at": "2026-04-04T19:03:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T20:03:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040505575990235539"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/013548_/status…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/013548_/status/2040279672609759472",
+              "start": 9,
+              "url": "https://t.co/Zl5W7XDskp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040505575990235539",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040279672609759472",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "日服也这样啊ww https://t.co/Zl5W7XDskp"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2040279670311305216"
+          ]
+        },
+        "author_id": "1961758127034146816",
+        "conversation_id": "2040279672609759472",
+        "created_at": "2026-04-04T04:05:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T05:05:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040279672609759472"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NegzSYC5OK",
+              "end": 50,
+              "expanded_url": "https://x.com/013548_/status/2040279672609759472/photo/1",
+              "media_key": "3_2040279670311305216",
+              "start": 27,
+              "url": "https://t.co/NegzSYC5OK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040279672609759472",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 574,
+          "impression_count": 1678245,
+          "like_count": 10182,
+          "quote_count": 786,
+          "reply_count": 33,
+          "retweet_count": 556
+        },
+        "reply_settings": "everyone",
+        "text": "病み垢の自認クズ男ってこんな感じで調べてんのかな爆笑 https://t.co/NegzSYC5OK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-27T05:58:17.000Z",
+        "description": "如果能成为你害怕失去的人就好了｜💊 SH｜被block就是你的错",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ace_purin",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ace_purin",
+                "start": 0,
+                "url": "https://t.co/PkWlzvseLZ"
+              }
+            ]
+          }
+        },
+        "id": "1949348575378644992",
+        "location": "メジコン",
+        "name": "永雏布丁",
+        "pinned_tweet_id": "2033851547843719390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040486756001427457/g14bHHET_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 88,
+          "following_count": 124,
+          "like_count": 756,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 643
+        },
+        "url": "https://t.co/PkWlzvseLZ",
+        "username": "Ace_Purin",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-30T11:49:33.000Z",
+        "description": "251♥︎⁡@third_my_life",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 6,
+                "username": "third_my_life"
+              }
+            ]
+          }
+        },
+        "id": "1961758127034146816",
+        "name": "ヤク中女児",
+        "pinned_tweet_id": "2040276735380611080",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038451865759936512/HbtV6dov_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2646,
+          "following_count": 92,
+          "like_count": 4615,
+          "listed_count": 14,
+          "media_count": 12,
+          "tweet_count": 167
+        },
+        "username": "013548_",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1949348575378644992",
+    "conversation_id": "2034482197856706611",
+    "created_at": "2026-03-19T04:25:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-19T05:25:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2034486367099719827"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1688959853346140178",
+          "start": 0,
+          "username": "Ellieo07"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034486367099719827",
+    "in_reply_to_user_id": "1688959853346140178",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034482197856706611",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ellieo07 缺业绩了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1949348575378644992",
+        "conversation_id": "2034482197856706611",
+        "created_at": "2026-03-19T04:25:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-19T05:25:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034486367099719827"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1688959853346140178",
+              "start": 0,
+              "username": "Ellieo07"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034486367099719827",
+        "in_reply_to_user_id": "1688959853346140178",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034482197856706611",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ellieo07 缺业绩了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1688959853346140178",
+        "conversation_id": "2034482197856706611",
+        "created_at": "2026-03-19T04:08:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-19T05:08:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2034482197856706611"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2034482197856706611",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 43,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "老铁们我今天又被晶了，你们根本就不知道多搞笑一件事，我以为我在黑叉发的东西被晶了或者骂那个举头三尺有神明被晶了，结果是因为昨天因为舍友太死妈在微博发了句好想砍死舍友被晶，说是我发这个搞得公安很紧张，最后阿瑟说了句没啥事你删了就走吧然后我就走了我的发克呀我他妈当时就无语了差点笑出来"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-27T05:58:17.000Z",
+        "description": "我好像在哪见过你｜💊 SH｜被block就是你的错",
+        "id": "1949348575378644992",
+        "location": "メジコン",
+        "name": "永雏布丁",
+        "pinned_tweet_id": "2033851547843719390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031639335355990017/gySUFS_N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 0,
+          "like_count": 7,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 175
+        },
+        "username": "Ace_Purin",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-08T17:06:38.000Z",
+        "description": "互fo私信只fo有逼的",
+        "id": "1688959853346140178",
+        "location": "月球",
+        "name": "estelle",
+        "pinned_tweet_id": "2032137448562831599",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031192448437985280/bKRLmS5c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 199,
+          "following_count": 172,
+          "like_count": 451,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 389
+        },
+        "username": "Ellieo07",
+        "verified": false
+      }
+    ]
+  }
+}

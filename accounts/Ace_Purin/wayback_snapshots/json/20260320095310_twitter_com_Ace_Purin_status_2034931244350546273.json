@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1949348575378644992",
+    "conversation_id": "2034669465489875299",
+    "created_at": "2026-03-20T09:53:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-20T10:53:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2034931244350546273"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1872813701159411712",
+          "start": 0,
+          "username": "mamgo347785"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034931244350546273",
+    "in_reply_to_user_id": "1872813701159411712",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034669465489875299",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mamgo347785 剧烈安心"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2034669460301463553",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDyZGBCawAE2hPP.jpg",
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1949348575378644992",
+        "conversation_id": "2034669465489875299",
+        "created_at": "2026-03-20T09:53:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-20T10:53:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034931244350546273"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1872813701159411712",
+              "start": 0,
+              "username": "mamgo347785"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034931244350546273",
+        "in_reply_to_user_id": "1872813701159411712",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034669465489875299",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mamgo347785 剧烈安心"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2034669460301463553"
+          ]
+        },
+        "author_id": "1872813701159411712",
+        "conversation_id": "2034669465489875299",
+        "created_at": "2026-03-19T16:32:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-19T17:32:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2034669465489875299"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ANPxV4T2Td",
+              "end": 29,
+              "expanded_url": "https://x.com/mamgo347785/status/2034669465489875299/photo/1",
+              "media_key": "3_2034669460301463553",
+              "start": 6,
+              "url": "https://t.co/ANPxV4T2Td"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034669465489875299",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 188,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "安全感满满 https://t.co/ANPxV4T2Td"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-27T05:58:17.000Z",
+        "description": "如果能成为你害怕失去的人就好了｜💊 SH｜被block就是你的错",
+        "id": "1949348575378644992",
+        "location": "メジコン",
+        "name": "永雏布丁",
+        "pinned_tweet_id": "2033851547843719390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031639335355990017/gySUFS_N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 62,
+          "like_count": 143,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 212
+        },
+        "username": "Ace_Purin",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-28T01:16:03.000Z",
+        "description": "可以叫我芒果或者玛丽鱼",
+        "id": "1872813701159411712",
+        "name": "ma mgo",
+        "pinned_tweet_id": "2011105271574372627",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995903518566436864/d9Gh6QGY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 86,
+          "following_count": 144,
+          "like_count": 1262,
+          "listed_count": 0,
+          "media_count": 133,
+          "tweet_count": 991
+        },
+        "username": "mamgo347785",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,289 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2077057359692886016"
+      ],
+      "media_source_tweet_id": [
+        "2077057428483678566"
+      ]
+    },
+    "author_id": "1949348575378644992",
+    "conversation_id": "2077386410500485602",
+    "created_at": "2026-07-15T13:34:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-15T14:34:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077386410500485602"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1773008546721873920",
+          "start": 3,
+          "username": "The_Regal_Raven"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/0mXscnSEDW",
+          "end": 85,
+          "expanded_url": "https://x.com/The_Regal_Raven/status/2077057428483678566/video/1",
+          "media_key": "13_2077057359692886016",
+          "start": 62,
+          "url": "https://t.co/0mXscnSEDW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077386410500485602",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 115
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077057428483678566",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @The_Regal_Raven: A creature that merrily eats you finger. https://t.co/0mXscnSEDW"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10745,
+        "height": 1620,
+        "media_key": "13_2077057359692886016",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2077057359692886016/img/t52ckHT6pGS9FuN5.jpg",
+        "public_metrics": {
+          "view_count": 7015
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2077057359692886016/vid/avc1/320x480/z_W5pZAXbKjl6rpR.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2077057359692886016/vid/avc1/1080x1620/UZbNttzEU_FVS_iP.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2077057359692886016/pl/jUC4A9GstPdUhl1V.m3u8"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2077057359692886016/vid/avc1/480x720/f4bcnbZytFvqRGOX.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2077057359692886016/vid/avc1/720x1080/DZD6JChZqTceJIb0.mp4"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2077057359692886016"
+          ],
+          "media_source_tweet_id": [
+            "2077057428483678566"
+          ]
+        },
+        "author_id": "1949348575378644992",
+        "conversation_id": "2077386410500485602",
+        "created_at": "2026-07-15T13:34:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T14:34:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077386410500485602"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1773008546721873920",
+              "start": 3,
+              "username": "The_Regal_Raven"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0mXscnSEDW",
+              "end": 85,
+              "expanded_url": "https://x.com/The_Regal_Raven/status/2077057428483678566/video/1",
+              "media_key": "13_2077057359692886016",
+              "start": 62,
+              "url": "https://t.co/0mXscnSEDW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077386410500485602",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 115
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077057428483678566",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @The_Regal_Raven: A creature that merrily eats you finger. https://t.co/0mXscnSEDW"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2077057359692886016"
+          ]
+        },
+        "author_id": "1773008546721873920",
+        "conversation_id": "2077057428483678566",
+        "created_at": "2026-07-14T15:47:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T16:47:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077057428483678566"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0mXscnSEDW",
+              "end": 64,
+              "expanded_url": "https://x.com/The_Regal_Raven/status/2077057428483678566/video/1",
+              "media_key": "13_2077057359692886016",
+              "start": 41,
+              "url": "https://t.co/0mXscnSEDW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077057428483678566",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 109,
+          "impression_count": 16472,
+          "like_count": 1227,
+          "quote_count": 10,
+          "reply_count": 10,
+          "retweet_count": 115
+        },
+        "reply_settings": "everyone",
+        "text": "A creature that merrily eats you finger. https://t.co/0mXscnSEDW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-27T05:58:17.000Z",
+        "description": "爱人@qngshu988723424｜💊 SH｜被block就是你的错",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 2,
+                "username": "qngshu988723424"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ace_purin",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ace_purin",
+                "start": 0,
+                "url": "https://t.co/PkWlzvseLZ"
+              }
+            ]
+          }
+        },
+        "id": "1949348575378644992",
+        "location": "メジコン",
+        "name": "永雏布丁",
+        "pinned_tweet_id": "2033851547843719390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041031144146423808/f-TPgWl2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 261,
+          "following_count": 312,
+          "like_count": 3599,
+          "listed_count": 0,
+          "media_count": 87,
+          "tweet_count": 2484
+        },
+        "url": "https://t.co/PkWlzvseLZ",
+        "username": "Ace_Purin",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-27T15:26:13.000Z",
+        "description": "VALHALLA CALLING ME !!!",
+        "id": "1773008546721873920",
+        "location": "valhalla",
+        "name": "Raven",
+        "pinned_tweet_id": "2071805017707991210",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049109559000879104/Lu1mJTJB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14348,
+          "following_count": 247,
+          "like_count": 44032,
+          "listed_count": 43,
+          "media_count": 3302,
+          "tweet_count": 10884
+        },
+        "url": "",
+        "username": "The_Regal_Raven",
+        "verified": true
+      }
+    ]
+  }
+}

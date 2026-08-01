@@ -1,0 +1,408 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2077280635702661120"
+      ],
+      "media_source_tweet_id": [
+        "2077280648763765084"
+      ]
+    },
+    "author_id": "1949348575378644992",
+    "conversation_id": "2077287169270727083",
+    "created_at": "2026-07-15T07:00:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-15T08:00:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077287169270727083"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 40,
+          "start": 34,
+          "tag": "友達募集中"
+        },
+        {
+          "end": 54,
+          "start": 41,
+          "tag": "病み垢さんとつながりたい"
+        },
+        {
+          "end": 61,
+          "start": 55,
+          "tag": "病み垢女子"
+        },
+        {
+          "end": 74,
+          "start": 62,
+          "tag": "病み垢女子と繋がりたい"
+        },
+        {
+          "end": 82,
+          "start": 75,
+          "tag": "通話相手募集"
+        },
+        {
+          "end": 91,
+          "start": 84,
+          "tag": "いいねでDM"
+        },
+        {
+          "end": 99,
+          "start": 93,
+          "tag": "自撮り界隈"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2013233628847980544",
+          "start": 3,
+          "username": "Asukai_Yuki"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/7ft0mQwIMr",
+          "end": 123,
+          "expanded_url": "https://x.com/Asukai_Yuki/status/2077280648763765084/photo/1",
+          "media_key": "3_2077280635702661120",
+          "start": 100,
+          "url": "https://t.co/7ft0mQwIMr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077287169270727083",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077280648763765084",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Asukai_Yuki: ↑\n欢迎和我交朋友以及互关互转\n #友達募集中 #病み垢さんとつながりたい #病み垢女子 #病み垢女子と繋がりたい #通話相手募集  #いいねでDM  #自撮り界隈 https://t.co/7ft0mQwIMr"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1007,
+        "media_key": "3_2077280635702661120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNP7u3Xa0AADEi_.jpg",
+        "width": 759
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077280635702661120"
+          ],
+          "media_source_tweet_id": [
+            "2077280648763765084"
+          ]
+        },
+        "author_id": "1949348575378644992",
+        "conversation_id": "2077287169270727083",
+        "created_at": "2026-07-15T07:00:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T08:00:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077287169270727083"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 40,
+              "start": 34,
+              "tag": "友達募集中"
+            },
+            {
+              "end": 54,
+              "start": 41,
+              "tag": "病み垢さんとつながりたい"
+            },
+            {
+              "end": 61,
+              "start": 55,
+              "tag": "病み垢女子"
+            },
+            {
+              "end": 74,
+              "start": 62,
+              "tag": "病み垢女子と繋がりたい"
+            },
+            {
+              "end": 82,
+              "start": 75,
+              "tag": "通話相手募集"
+            },
+            {
+              "end": 91,
+              "start": 84,
+              "tag": "いいねでDM"
+            },
+            {
+              "end": 99,
+              "start": 93,
+              "tag": "自撮り界隈"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2013233628847980544",
+              "start": 3,
+              "username": "Asukai_Yuki"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/7ft0mQwIMr",
+              "end": 123,
+              "expanded_url": "https://x.com/Asukai_Yuki/status/2077280648763765084/photo/1",
+              "media_key": "3_2077280635702661120",
+              "start": 100,
+              "url": "https://t.co/7ft0mQwIMr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077287169270727083",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077280648763765084",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Asukai_Yuki: ↑\n欢迎和我交朋友以及互关互转\n #友達募集中 #病み垢さんとつながりたい #病み垢女子 #病み垢女子と繋がりたい #通話相手募集  #いいねでDM  #自撮り界隈 https://t.co/7ft0mQwIMr"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077280635702661120"
+          ]
+        },
+        "author_id": "2013233628847980544",
+        "conversation_id": "2077280648763765084",
+        "created_at": "2026-07-15T06:34:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T07:34:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077280648763765084"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 23,
+              "start": 17,
+              "tag": "友達募集中"
+            },
+            {
+              "end": 37,
+              "start": 24,
+              "tag": "病み垢さんとつながりたい"
+            },
+            {
+              "end": 44,
+              "start": 38,
+              "tag": "病み垢女子"
+            },
+            {
+              "end": 57,
+              "start": 45,
+              "tag": "病み垢女子と繋がりたい"
+            },
+            {
+              "end": 65,
+              "start": 58,
+              "tag": "通話相手募集"
+            },
+            {
+              "end": 74,
+              "start": 67,
+              "tag": "いいねでDM"
+            },
+            {
+              "end": 82,
+              "start": 76,
+              "tag": "自撮り界隈"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/7ft0mQwIMr",
+              "end": 106,
+              "expanded_url": "https://x.com/Asukai_Yuki/status/2077280648763765084/photo/1",
+              "media_key": "3_2077280635702661120",
+              "start": 83,
+              "url": "https://t.co/7ft0mQwIMr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077280648763765084",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 25,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "↑\n欢迎和我交朋友以及互关互转\n #友達募集中 #病み垢さんとつながりたい #病み垢女子 #病み垢女子と繋がりたい #通話相手募集  #いいねでDM  #自撮り界隈 https://t.co/7ft0mQwIMr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-27T05:58:17.000Z",
+        "description": "爱人@qngshu988723424｜💊 SH｜被block就是你的错",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 2,
+                "username": "qngshu988723424"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ace_purin",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ace_purin",
+                "start": 0,
+                "url": "https://t.co/PkWlzvseLZ"
+              }
+            ]
+          }
+        },
+        "id": "1949348575378644992",
+        "location": "メジコン",
+        "name": "永雏布丁",
+        "pinned_tweet_id": "2033851547843719390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041031144146423808/f-TPgWl2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 261,
+          "following_count": 309,
+          "like_count": 3572,
+          "listed_count": 0,
+          "media_count": 86,
+          "tweet_count": 2474
+        },
+        "url": "https://t.co/PkWlzvseLZ",
+        "username": "Ace_Purin",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-19T12:54:43.000Z",
+        "description": "🏳️‍⚧️🏳️‍🌈enby | 餐券女 | bripop、bipolar | 天真的和感伤的吉他手 | 红色担当❤️ | 🚪52/99/150纯绿聊天\n\n前世/oc堆放处： @SUNSET_ROCK_\n好朋友：@0803SUHONG @zou_hua62172 @hynsug_aaugcx",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 100,
+                "start": 87,
+                "username": "SUNSET_ROCK_"
+              },
+              {
+                "end": 116,
+                "start": 105,
+                "username": "0803SUHONG"
+              },
+              {
+                "end": 130,
+                "start": 117,
+                "username": "zou_hua62172"
+              },
+              {
+                "end": 145,
+                "start": 131,
+                "username": "hynsug_aaugcx"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mikanseinonatsu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mikanseinonatsu",
+                "start": 0,
+                "url": "https://t.co/1wmN2eVRYQ"
+              }
+            ]
+          }
+        },
+        "id": "2013233628847980544",
+        "location": "纯绿🚪52/99/150没福利纯圈钱",
+        "name": "飞鸟井郁希",
+        "pinned_tweet_id": "2077280648763765084",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068746223201501184/TohRyGWK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 465,
+          "following_count": 242,
+          "like_count": 385,
+          "listed_count": 1,
+          "media_count": 295,
+          "tweet_count": 3083
+        },
+        "url": "https://t.co/1wmN2eVRYQ",
+        "username": "Asukai_Yuki",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1949348575378644992",
+    "conversation_id": "2063527205297402138",
+    "created_at": "2026-06-07T07:43:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T08:43:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063527205297402138"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2034393753000243200",
+          "start": 3,
+          "username": "ismattesito"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063527205297402138",
+    "lang": "es",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1228
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063267360547410192",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ismattesito: \"¡estoy feliz!\" *me corto*\n\"estoy triste.\" *me corto*\n\"estoy enojado.\" *me corto*\n\"estoy desesperado.\" *me corto*\n\"no sien…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1949348575378644992",
+        "conversation_id": "2063527205297402138",
+        "created_at": "2026-06-07T07:43:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T08:43:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063527205297402138"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2034393753000243200",
+              "start": 3,
+              "username": "ismattesito"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063527205297402138",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1228
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063267360547410192",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ismattesito: \"¡estoy feliz!\" *me corto*\n\"estoy triste.\" *me corto*\n\"estoy enojado.\" *me corto*\n\"estoy desesperado.\" *me corto*\n\"no sien…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2034393753000243200",
+        "conversation_id": "2063267360547410192",
+        "created_at": "2026-06-06T14:30:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T15:30:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063267360547410192"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2063267360547410192",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 103,
+          "impression_count": 20769,
+          "like_count": 3091,
+          "quote_count": 14,
+          "reply_count": 8,
+          "retweet_count": 1228
+        },
+        "reply_settings": "everyone",
+        "text": "\"¡estoy feliz!\" *me corto*\n\"estoy triste.\" *me corto*\n\"estoy enojado.\" *me corto*\n\"estoy desesperado.\" *me corto*\n\"no siento nada.\" *me corto*"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-27T05:58:17.000Z",
+        "description": "喜欢@qngshu988723424｜💊 SH｜被block就是你的错",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 2,
+                "username": "qngshu988723424"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ace_purin",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ace_purin",
+                "start": 0,
+                "url": "https://t.co/0tokBnS6A6"
+              }
+            ]
+          }
+        },
+        "id": "1949348575378644992",
+        "location": "メジコン",
+        "name": "永雏布丁",
+        "pinned_tweet_id": "2033851547843719390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041031144146423808/f-TPgWl2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 215,
+          "following_count": 259,
+          "like_count": 3039,
+          "listed_count": 0,
+          "media_count": 78,
+          "tweet_count": 2088
+        },
+        "url": "https://t.co/0tokBnS6A6",
+        "username": "Ace_Purin",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-18T22:17:28.000Z",
+        "description": "𓏵  𝘀𝘁𝘂𝗽𝗶𝗱 ı͜n  ᥣov︢ᥱ \n                     ʚ   ヒナタ  𝇁  ˒ ‘\n                                                        𝟳𝟬𝟳 ೨౿",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "matteittodeidad.straw.page",
+                "end": 23,
+                "expanded_url": "https://matteittodeidad.straw.page/",
+                "start": 0,
+                "url": "https://t.co/149Ro99qGU"
+              }
+            ]
+          }
+        },
+        "id": "2034393753000243200",
+        "location": "Villapene",
+        "name": "suicidio",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059996986619625472/s6iWlroV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 450,
+          "following_count": 78,
+          "like_count": 6240,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 7167
+        },
+        "url": "https://t.co/149Ro99qGU",
+        "username": "ismattesito",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1949348575378644992",
+    "conversation_id": "2082189525665861771",
+    "created_at": "2026-07-28T22:24:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T23:24:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082230799106285808"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2047419861606051840",
+          "start": 0,
+          "username": "Kanaderu_kas"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082230799106285808",
+    "in_reply_to_user_id": "2047419861606051840",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082189525665861771",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kanaderu_kas 马斯克牛福"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2082189517893849088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOVsVaka0AAN1_m.jpg",
+        "width": 472
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1949348575378644992",
+        "conversation_id": "2082189525665861771",
+        "created_at": "2026-07-28T22:24:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T23:24:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082230799106285808"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2047419861606051840",
+              "start": 0,
+              "username": "Kanaderu_kas"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082230799106285808",
+        "in_reply_to_user_id": "2047419861606051840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082189525665861771",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kanaderu_kas 马斯克牛福"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082189517893849088"
+          ]
+        },
+        "author_id": "2047419861606051840",
+        "conversation_id": "2082189525665861771",
+        "created_at": "2026-07-28T19:40:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T20:40:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082189525665861771"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6fqFVsdl2f",
+              "end": 31,
+              "expanded_url": "https://x.com/Kanaderu_kas/status/2082189525665861771/photo/1",
+              "media_key": "3_2082189517893849088",
+              "start": 8,
+              "url": "https://t.co/6fqFVsdl2f"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082189525665861771",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "牛魔的我干啥了 https://t.co/6fqFVsdl2f"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-27T05:58:17.000Z",
+        "description": "爱人@qngshu988723424｜💊 SH｜被block就是你的错",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 2,
+                "username": "qngshu988723424"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ace_purin",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ace_purin",
+                "start": 0,
+                "url": "https://t.co/PkWlzvseLZ"
+              }
+            ]
+          }
+        },
+        "id": "1949348575378644992",
+        "location": "メジコン",
+        "name": "永雏布丁",
+        "pinned_tweet_id": "2033851547843719390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041031144146423808/f-TPgWl2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 300,
+          "following_count": 353,
+          "like_count": 3911,
+          "listed_count": 0,
+          "media_count": 92,
+          "tweet_count": 2709
+        },
+        "url": "https://t.co/PkWlzvseLZ",
+        "username": "Ace_Purin",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-23T21:00:32.000Z",
+        "description": "极速互fo没回关就是在睡觉/19岁/简中🇨🇳繁中🇭🇰日语🇯🇵/🩸🔪/od/重躁鬱/强迫/精神分裂/人格分裂/解离型漫游/倾诉欲望高/打扰到您的话抱歉/",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kanaderu_kas",
+                "end": 23,
+                "expanded_url": "https://ngl.link/kanaderu_kas",
+                "start": 0,
+                "url": "https://t.co/J7o7eFQA18"
+              }
+            ]
+          }
+        },
+        "id": "2047419861606051840",
+        "location": "塔不灭喵",
+        "name": "Kanaderu",
+        "pinned_tweet_id": "2061135115192045576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072458347316740096/1CZZGaRs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 90,
+          "following_count": 91,
+          "like_count": 541,
+          "listed_count": 0,
+          "media_count": 107,
+          "tweet_count": 446
+        },
+        "url": "https://t.co/J7o7eFQA18",
+        "username": "Kanaderu_kas",
+        "verified": false
+      }
+    ]
+  }
+}

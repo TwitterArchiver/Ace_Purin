@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1949348575378644992",
+    "conversation_id": "2066098764885225667",
+    "created_at": "2026-06-15T04:00:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T05:00:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066370199256002915"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1636326380618260485",
+          "start": 0,
+          "username": "qiosh1337012"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066370199256002915",
+    "in_reply_to_user_id": "1636326380618260485",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066180735497642283",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qiosh1337012 那很舒服"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1949348575378644992",
+        "conversation_id": "2066098764885225667",
+        "created_at": "2026-06-15T04:00:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T05:00:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066370199256002915"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1636326380618260485",
+              "start": 0,
+              "username": "qiosh1337012"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066370199256002915",
+        "in_reply_to_user_id": "1636326380618260485",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066180735497642283",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qiosh1337012 那很舒服"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1636326380618260485",
+        "conversation_id": "2066098764885225667",
+        "created_at": "2026-06-14T15:27:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T16:27:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066180735497642283"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1949348575378644992",
+              "start": 0,
+              "username": "Ace_Purin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066180735497642283",
+        "in_reply_to_user_id": "1949348575378644992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066098764885225667",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ace_Purin 其实已经瘫软在地了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-27T05:58:17.000Z",
+        "description": "喜欢@qngshu988723424｜💊 SH｜被block就是你的错",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 2,
+                "username": "qngshu988723424"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ace_purin",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ace_purin",
+                "start": 0,
+                "url": "https://t.co/0tokBnS6A6"
+              }
+            ]
+          }
+        },
+        "id": "1949348575378644992",
+        "location": "メジコン",
+        "name": "永雏布丁",
+        "pinned_tweet_id": "2033851547843719390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041031144146423808/f-TPgWl2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 236,
+          "following_count": 271,
+          "like_count": 3279,
+          "listed_count": 0,
+          "media_count": 80,
+          "tweet_count": 2248
+        },
+        "url": "https://t.co/0tokBnS6A6",
+        "username": "Ace_Purin",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-16T11:19:54.000Z",
+        "description": "中二，夜晚会产生些许情绪波动。从不后悔之人。拥有全部罪孽，憧憬成为拥有全部美德之人。不o不割不跨（但是完全理解，大概是因为这些人身上有我想要的情绪。黑色情绪什么的很好吃。）想进所有圈子当透明人，只是看着就好。喜欢视奸。",
+        "id": "1636326380618260485",
+        "name": "弱肉强食",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926678169794351104/vXztDiNR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 27,
+          "like_count": 12,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 52
+        },
+        "username": "qiosh1337012",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1949348575378644992",
+    "conversation_id": "2066363014274851065",
+    "created_at": "2026-06-15T04:51:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T05:51:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066383044848828888"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1384831606276476930",
+          "start": 0,
+          "username": "Xxx_kkkl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066383044848828888",
+    "in_reply_to_user_id": "1384831606276476930",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066363014274851065",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Xxx_kkkl 抖u要开始买飘飘糖了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1471,
+        "media_key": "3_2066363007660371968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK0yNRiasAAjJvv.jpg",
+        "width": 1290
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1949348575378644992",
+        "conversation_id": "2066363014274851065",
+        "created_at": "2026-06-15T04:51:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T05:51:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066383044848828888"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1384831606276476930",
+              "start": 0,
+              "username": "Xxx_kkkl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066383044848828888",
+        "in_reply_to_user_id": "1384831606276476930",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066363014274851065",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xxx_kkkl 抖u要开始买飘飘糖了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066363007660371968"
+          ]
+        },
+        "author_id": "1384831606276476930",
+        "conversation_id": "2066363014274851065",
+        "created_at": "2026-06-15T03:31:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T04:31:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066363014274851065"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mwyINKtEkW",
+              "end": 32,
+              "expanded_url": "https://x.com/Xxx_kkkl/status/2066363014274851065/photo/1",
+              "media_key": "3_2066363007660371968",
+              "start": 9,
+              "url": "https://t.co/mwyINKtEkW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066363014274851065",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 637,
+          "like_count": 17,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "晚安已成下位…. https://t.co/mwyINKtEkW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-27T05:58:17.000Z",
+        "description": "喜欢@qngshu988723424｜💊 SH｜被block就是你的错",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 2,
+                "username": "qngshu988723424"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ace_purin",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ace_purin",
+                "start": 0,
+                "url": "https://t.co/0tokBnS6A6"
+              }
+            ]
+          }
+        },
+        "id": "1949348575378644992",
+        "location": "メジコン",
+        "name": "永雏布丁",
+        "pinned_tweet_id": "2033851547843719390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041031144146423808/f-TPgWl2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 236,
+          "following_count": 272,
+          "like_count": 3289,
+          "listed_count": 0,
+          "media_count": 80,
+          "tweet_count": 2255
+        },
+        "url": "https://t.co/0tokBnS6A6",
+        "username": "Ace_Purin",
+        "verified": false
+      },
+      {
+        "created_at": "2021-04-21T11:29:28.000Z",
+        "description": "活人死的",
+        "id": "1384831606276476930",
+        "name": "Jahseh（4.0）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065751551243886592/8KJyvMdm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 141,
+          "following_count": 59,
+          "like_count": 53,
+          "listed_count": 3,
+          "media_count": 3,
+          "tweet_count": 64
+        },
+        "username": "Xxx_kkkl",
+        "verified": false
+      }
+    ]
+  }
+}

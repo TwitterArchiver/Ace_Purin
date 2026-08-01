@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1949348575378644992",
+    "conversation_id": "2073438609592697147",
+    "created_at": "2026-07-04T16:07:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-04T17:07:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2073438609592697147"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/clip_station_/…",
+          "end": 26,
+          "expanded_url": "https://twitter.com/clip_station_/status/2073109518029046134",
+          "start": 3,
+          "url": "https://t.co/XdfdIZgFJi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073438609592697147",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073109518029046134",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我： https://t.co/XdfdIZgFJi"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 22293,
+        "height": 720,
+        "media_key": "13_2072839025560358912",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2072839025560358912/img/u2dl0-JDYxG34Uf-.jpg",
+        "public_metrics": {
+          "view_count": 186123
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2072839025560358912/vid/avc1/480x270/VUGiR99sa3vUDTyr.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2072839025560358912/vid/avc1/640x360/W0U4sBUJUt_YgFXG.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2072839025560358912/vid/avc1/1280x720/80VrGaBBi-uNSq4o.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2072839025560358912/pl/nIC7jE4cDb0hweO3.m3u8?v=44b"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1949348575378644992",
+        "conversation_id": "2073438609592697147",
+        "created_at": "2026-07-04T16:07:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T17:07:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073438609592697147"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/clip_station_/…",
+              "end": 26,
+              "expanded_url": "https://twitter.com/clip_station_/status/2073109518029046134",
+              "start": 3,
+              "url": "https://t.co/XdfdIZgFJi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073438609592697147",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073109518029046134",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我： https://t.co/XdfdIZgFJi"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2072839025560358912"
+          ]
+        },
+        "author_id": "1848085006272593920",
+        "conversation_id": "2073109518029046134",
+        "created_at": "2026-07-03T18:20:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T19:20:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073109518029046134"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EbWkS4KREu",
+              "end": 189,
+              "expanded_url": "https://x.com/Clip_Station_/status/2073109518029046134/video/1",
+              "media_key": "13_2072839025560358912",
+              "start": 166,
+              "url": "https://t.co/EbWkS4KREu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073109518029046134",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 334,
+          "impression_count": 444896,
+          "like_count": 1631,
+          "quote_count": 10,
+          "reply_count": 21,
+          "retweet_count": 48
+        },
+        "reply_settings": "everyone",
+        "text": "This streamer was 15 years clean and wanted to help a junkie off the street get his life together. They both ended up completely hooked on fentanyl live on stream... https://t.co/EbWkS4KREu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-27T05:58:17.000Z",
+        "description": "爱人@qngshu988723424｜💊 SH｜被block就是你的错",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 2,
+                "username": "qngshu988723424"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ace_purin",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ace_purin",
+                "start": 0,
+                "url": "https://t.co/PkWlzvseLZ"
+              }
+            ]
+          }
+        },
+        "id": "1949348575378644992",
+        "location": "メジコン",
+        "name": "永雏布丁",
+        "pinned_tweet_id": "2033851547843719390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041031144146423808/f-TPgWl2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 258,
+          "following_count": 305,
+          "like_count": 3531,
+          "listed_count": 0,
+          "media_count": 85,
+          "tweet_count": 2436
+        },
+        "url": "https://t.co/PkWlzvseLZ",
+        "username": "Ace_Purin",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-20T19:33:07.000Z",
+        "description": "Your daily station for viral clips from around the web.",
+        "id": "1848085006272593920",
+        "name": "Clip Station",
+        "pinned_tweet_id": "2069222911886414280",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002034399521525760/uy7tAy8y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 163525,
+          "following_count": 40,
+          "like_count": 823,
+          "listed_count": 111,
+          "media_count": 1039,
+          "tweet_count": 1051
+        },
+        "url": "",
+        "username": "Clip_Station_",
+        "verified": true
+      }
+    ]
+  }
+}

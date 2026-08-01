@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1949348575378644992",
+    "conversation_id": "2047277689925677403",
+    "created_at": "2026-04-23T11:33:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T12:33:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047277689925677403"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "3772450034",
+          "start": 3,
+          "username": "Mg3Si4O10_OH_2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047277689925677403",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 209
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047148490246238574",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Mg3Si4O10_OH_2: 本日誕生日です！！！！！！！！！！！！\n38歳になりました！！！！！！！！！！！！\n祝ってください！！！！！！！！！！！！！\n\nお友達から鳩のケツから泡が出るソープディスペンサーをプレゼントしてもらいました！！！！！！！！！\nすごくいい！…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 3558,
+        "height": 1280,
+        "media_key": "13_2047148434600452096",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2047148434600452096/img/0Qv0NI18texzSfRv.jpg",
+        "public_metrics": {
+          "view_count": 5779
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2047148434600452096/vid/avc1/320x568/gymvbqPOq2zZYeW8.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2047148434600452096/vid/avc1/480x852/AHEsl0fLUVeMtr-1.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2047148434600452096/vid/avc1/720x1280/9Cg41EVAFL1H_G7m.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2047148434600452096/pl/BTePa1pdykkKmcQP.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1949348575378644992",
+        "conversation_id": "2047277689925677403",
+        "created_at": "2026-04-23T11:33:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T12:33:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047277689925677403"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "3772450034",
+              "start": 3,
+              "username": "Mg3Si4O10_OH_2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047277689925677403",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 209
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047148490246238574",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Mg3Si4O10_OH_2: 本日誕生日です！！！！！！！！！！！！\n38歳になりました！！！！！！！！！！！！\n祝ってください！！！！！！！！！！！！！\n\nお友達から鳩のケツから泡が出るソープディスペンサーをプレゼントしてもらいました！！！！！！！！！\nすごくいい！…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2047148434600452096"
+          ]
+        },
+        "author_id": "3772450034",
+        "conversation_id": "2047148490246238574",
+        "created_at": "2026-04-23T03:00:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T04:00:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047148490246238574"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ifmEHQWWgg",
+              "end": 168,
+              "expanded_url": "https://x.com/Mg3Si4O10_OH_2/status/2047148490246238574/video/1",
+              "media_key": "13_2047148434600452096",
+              "start": 145,
+              "url": "https://t.co/ifmEHQWWgg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047148490246238574",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 66,
+          "impression_count": 18172,
+          "like_count": 855,
+          "quote_count": 22,
+          "reply_count": 28,
+          "retweet_count": 209
+        },
+        "reply_settings": "everyone",
+        "text": "本日誕生日です！！！！！！！！！！！！\n38歳になりました！！！！！！！！！！！！\n祝ってください！！！！！！！！！！！！！\n\nお友達から鳩のケツから泡が出るソープディスペンサーをプレゼントしてもらいました！！！！！！！！！\nすごくいい！！！！！！！\nあと2つくらいほしい！！！！！！！！ https://t.co/ifmEHQWWgg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-27T05:58:17.000Z",
+        "description": "如果能成为你害怕失去的人就好了｜💊 SH｜被block就是你的错",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ace_purin",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ace_purin",
+                "start": 0,
+                "url": "https://t.co/PkWlzvseLZ"
+              }
+            ]
+          }
+        },
+        "id": "1949348575378644992",
+        "location": "メジコン",
+        "name": "永雏布丁",
+        "pinned_tweet_id": "2033851547843719390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041031144146423808/f-TPgWl2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 116,
+          "following_count": 158,
+          "like_count": 1786,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 1225
+        },
+        "url": "https://t.co/PkWlzvseLZ",
+        "username": "Ace_Purin",
+        "verified": false
+      },
+      {
+        "created_at": "2015-10-03T17:53:32.000Z",
+        "description": "2026年4/8〜4/12茨城県日立市角記念市民ギャラリーで個展します。トリチャンゴシゴシアカウント🪈文鳥互助会笛担当🐦LINEスタンプ→https://t.co/lP5EjUhO5i 🚫Reupload 🚫AI",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "line.me/S/sticker/3208…",
+                "end": 92,
+                "expanded_url": "https://line.me/S/sticker/32084805/?lang=ja&utm_source=gnsh_stickerDetail",
+                "start": 69,
+                "url": "https://t.co/lP5EjUhO5i"
+              }
+            ]
+          }
+        },
+        "id": "3772450034",
+        "name": "セミのぬけがら𓆦𖠣4/8~12個展",
+        "pinned_tweet_id": "2027941990890160413",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1640367632540110848/ub7eCpsq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2314,
+          "following_count": 255,
+          "like_count": 217320,
+          "listed_count": 60,
+          "media_count": 17316,
+          "tweet_count": 38502
+        },
+        "username": "Mg3Si4O10_OH_2",
+        "verified": false
+      }
+    ]
+  }
+}

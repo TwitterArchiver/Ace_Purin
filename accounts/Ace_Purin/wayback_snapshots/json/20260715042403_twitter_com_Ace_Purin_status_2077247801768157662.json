@@ -1,0 +1,311 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2077009047975555072"
+      ],
+      "media_source_tweet_id": [
+        "2077009269262872888"
+      ]
+    },
+    "author_id": "1949348575378644992",
+    "conversation_id": "2077247801768157662",
+    "created_at": "2026-07-15T04:24:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-15T05:24:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077247801768157662"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1751497892001685504",
+          "start": 3,
+          "username": "45_206MHz"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/MSGDnjeS0U",
+          "end": 58,
+          "expanded_url": "https://x.com/45_206MHz/status/2077009269262872888/video/1",
+          "media_key": "13_2077009047975555072",
+          "start": 35,
+          "url": "https://t.co/MSGDnjeS0U"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077247801768157662",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 14
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077009269262872888",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @45_206MHz: 目前动物学家并不知道这个步伐有什么意义 https://t.co/MSGDnjeS0U"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 17700,
+        "height": 720,
+        "media_key": "13_2077009047975555072",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2077009047975555072/img/KLtl_TdXVg3sPAjl.jpg",
+        "public_metrics": {
+          "view_count": 3370
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2077009047975555072/vid/avc1/320x320/9MER8IIIwONHlDIS.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2077009047975555072/vid/avc1/540x540/nYZUWJ8FBEiQzvuj.mp4"
+          },
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2077009047975555072/vid/avc1/720x720/L4Wlqm33C4Q9OZuR.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2077009047975555072/pl/bbza7u6J18kHtTSU.m3u8?v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2077009047975555072"
+          ],
+          "media_source_tweet_id": [
+            "2077009269262872888"
+          ]
+        },
+        "author_id": "1949348575378644992",
+        "conversation_id": "2077247801768157662",
+        "created_at": "2026-07-15T04:24:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T05:24:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077247801768157662"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1751497892001685504",
+              "start": 3,
+              "username": "45_206MHz"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/MSGDnjeS0U",
+              "end": 58,
+              "expanded_url": "https://x.com/45_206MHz/status/2077009269262872888/video/1",
+              "media_key": "13_2077009047975555072",
+              "start": 35,
+              "url": "https://t.co/MSGDnjeS0U"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077247801768157662",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 14
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077009269262872888",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @45_206MHz: 目前动物学家并不知道这个步伐有什么意义 https://t.co/MSGDnjeS0U"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2077009047975555072"
+          ]
+        },
+        "author_id": "1751497892001685504",
+        "conversation_id": "2077009269262872888",
+        "created_at": "2026-07-14T12:36:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T13:36:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077009269262872888"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MSGDnjeS0U",
+              "end": 43,
+              "expanded_url": "https://x.com/45_206MHz/status/2077009269262872888/video/1",
+              "media_key": "13_2077009047975555072",
+              "start": 20,
+              "url": "https://t.co/MSGDnjeS0U"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077009269262872888",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 19,
+          "impression_count": 8683,
+          "like_count": 198,
+          "quote_count": 3,
+          "reply_count": 20,
+          "retweet_count": 14
+        },
+        "reply_settings": "everyone",
+        "text": "目前动物学家并不知道这个步伐有什么意义 https://t.co/MSGDnjeS0U"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-27T05:58:17.000Z",
+        "description": "爱人@qngshu988723424｜💊 SH｜被block就是你的错",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 2,
+                "username": "qngshu988723424"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ace_purin",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ace_purin",
+                "start": 0,
+                "url": "https://t.co/PkWlzvseLZ"
+              }
+            ]
+          }
+        },
+        "id": "1949348575378644992",
+        "location": "メジコン",
+        "name": "永雏布丁",
+        "pinned_tweet_id": "2033851547843719390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041031144146423808/f-TPgWl2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 261,
+          "following_count": 309,
+          "like_count": 3570,
+          "listed_count": 0,
+          "media_count": 86,
+          "tweet_count": 2468
+        },
+        "url": "https://t.co/PkWlzvseLZ",
+        "username": "Ace_Purin",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-28T06:50:23.000Z",
+        "description": "zh-CN | en-AU/NZ\nany pronoun\n叫我 45 就好啦\ngender apathetic\n里推: @45_206io | 🐱: @MomoseReina",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 69,
+                "start": 60,
+                "username": "45_206io"
+              },
+              {
+                "end": 87,
+                "start": 75,
+                "username": "MomoseReina"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "45.206mhz.com",
+                "end": 23,
+                "expanded_url": "http://45.206mhz.com",
+                "start": 0,
+                "url": "https://t.co/bRhXiVkO12"
+              }
+            ]
+          }
+        },
+        "id": "1751497892001685504",
+        "location": "maimai DX Circle (Int’l)",
+        "name": "45.206 MHᴢ 🇳🇿",
+        "pinned_tweet_id": "2076918385678676330",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039289556911194112/f7iNbdDq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3419,
+          "following_count": 499,
+          "like_count": 38114,
+          "listed_count": 1,
+          "media_count": 921,
+          "tweet_count": 4823
+        },
+        "url": "https://t.co/bRhXiVkO12",
+        "username": "45_206MHz",
+        "verified": true
+      }
+    ]
+  }
+}

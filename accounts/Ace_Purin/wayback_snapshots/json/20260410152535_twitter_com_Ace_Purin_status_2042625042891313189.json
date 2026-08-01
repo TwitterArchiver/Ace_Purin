@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2042625036922867712",
+        "3_2042625036939595781"
+      ]
+    },
+    "author_id": "1949348575378644992",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2042625042891313189",
+    "created_at": "2026-04-10T15:25:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-10T16:25:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2042625042891313189"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Z1aKSr0PIc",
+          "end": 30,
+          "expanded_url": "https://x.com/Ace_Purin/status/2042625042891313189/photo/1",
+          "media_key": "3_2042625036922867712",
+          "start": 7,
+          "url": "https://t.co/Z1aKSr0PIc"
+        },
+        {
+          "display_url": "pic.x.com/Z1aKSr0PIc",
+          "end": 30,
+          "expanded_url": "https://x.com/Ace_Purin/status/2042625042891313189/photo/1",
+          "media_key": "3_2042625036939595781",
+          "start": 7,
+          "url": "https://t.co/Z1aKSr0PIc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042625042891313189",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "和老公用这个 https://t.co/Z1aKSr0PIc"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1181,
+        "media_key": "3_2042625036922867712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFjcphcbUAAfDqa.jpg",
+        "width": 1179
+      },
+      {
+        "height": 1186,
+        "media_key": "3_2042625036939595781",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFjcphgakAUQzL1.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042625036922867712",
+            "3_2042625036939595781"
+          ]
+        },
+        "author_id": "1949348575378644992",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2042625042891313189",
+        "created_at": "2026-04-10T15:25:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T16:25:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042625042891313189"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Z1aKSr0PIc",
+              "end": 30,
+              "expanded_url": "https://x.com/Ace_Purin/status/2042625042891313189/photo/1",
+              "media_key": "3_2042625036922867712",
+              "start": 7,
+              "url": "https://t.co/Z1aKSr0PIc"
+            },
+            {
+              "display_url": "pic.x.com/Z1aKSr0PIc",
+              "end": 30,
+              "expanded_url": "https://x.com/Ace_Purin/status/2042625042891313189/photo/1",
+              "media_key": "3_2042625036939595781",
+              "start": 7,
+              "url": "https://t.co/Z1aKSr0PIc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042625042891313189",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "和老公用这个 https://t.co/Z1aKSr0PIc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-27T05:58:17.000Z",
+        "description": "如果能成为你害怕失去的人就好了｜💊 SH｜被block就是你的错",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ace_purin",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ace_purin",
+                "start": 0,
+                "url": "https://t.co/PkWlzvseLZ"
+              }
+            ]
+          }
+        },
+        "id": "1949348575378644992",
+        "location": "メジコン",
+        "name": "永雏布丁",
+        "pinned_tweet_id": "2033851547843719390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041031144146423808/f-TPgWl2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 103,
+          "following_count": 142,
+          "like_count": 1270,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 884
+        },
+        "url": "https://t.co/PkWlzvseLZ",
+        "username": "Ace_Purin",
+        "verified": false
+      }
+    ]
+  }
+}

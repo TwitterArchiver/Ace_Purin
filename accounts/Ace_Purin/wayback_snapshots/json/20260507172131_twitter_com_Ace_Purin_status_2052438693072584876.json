@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2052298207531843584"
+      ],
+      "media_source_tweet_id": [
+        "2052298213424836935"
+      ]
+    },
+    "author_id": "1949348575378644992",
+    "conversation_id": "2052438693072584876",
+    "created_at": "2026-05-07T17:21:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T18:21:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052438693072584876"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1678295518412431361",
+          "start": 3,
+          "username": "snnm_122"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/WCNqWqeDXf",
+          "end": 52,
+          "expanded_url": "https://x.com/snnm_122/status/2052298213424836935/photo/1",
+          "media_key": "3_2052298207531843584",
+          "start": 29,
+          "url": "https://t.co/WCNqWqeDXf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052438693072584876",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 154
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052298213424836935",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @snnm_122: 俺らの💊あるある。\n\n1/2 https://t.co/WCNqWqeDXf"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2052298207531843584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHs6WKEbQAA0c7t.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052298207531843584"
+          ],
+          "media_source_tweet_id": [
+            "2052298213424836935"
+          ]
+        },
+        "author_id": "1949348575378644992",
+        "conversation_id": "2052438693072584876",
+        "created_at": "2026-05-07T17:21:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T18:21:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052438693072584876"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1678295518412431361",
+              "start": 3,
+              "username": "snnm_122"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/WCNqWqeDXf",
+              "end": 52,
+              "expanded_url": "https://x.com/snnm_122/status/2052298213424836935/photo/1",
+              "media_key": "3_2052298207531843584",
+              "start": 29,
+              "url": "https://t.co/WCNqWqeDXf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052438693072584876",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 154
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052298213424836935",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @snnm_122: 俺らの💊あるある。\n\n1/2 https://t.co/WCNqWqeDXf"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052298207531843584"
+          ]
+        },
+        "author_id": "1678295518412431361",
+        "conversation_id": "2052298213424836935",
+        "created_at": "2026-05-07T08:03:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T09:03:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052298213424836935"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WCNqWqeDXf",
+              "end": 38,
+              "expanded_url": "https://x.com/snnm_122/status/2052298213424836935/photo/1",
+              "media_key": "3_2052298207531843584",
+              "start": 15,
+              "url": "https://t.co/WCNqWqeDXf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052298213424836935",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 393,
+          "impression_count": 97723,
+          "like_count": 3425,
+          "quote_count": 18,
+          "reply_count": 6,
+          "retweet_count": 154
+        },
+        "reply_settings": "everyone",
+        "text": "俺らの💊あるある。\n\n1/2 https://t.co/WCNqWqeDXf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-27T05:58:17.000Z",
+        "description": "如果能成为你害怕失去的人就好了｜💊 SH｜被block就是你的错",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ace_purin",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ace_purin",
+                "start": 0,
+                "url": "https://t.co/PkWlzvseLZ"
+              }
+            ]
+          }
+        },
+        "id": "1949348575378644992",
+        "location": "メジコン",
+        "name": "永雏布丁",
+        "pinned_tweet_id": "2033851547843719390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041031144146423808/f-TPgWl2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 168,
+          "following_count": 204,
+          "like_count": 2385,
+          "listed_count": 0,
+          "media_count": 63,
+          "tweet_count": 1682
+        },
+        "url": "https://t.co/PkWlzvseLZ",
+        "username": "Ace_Purin",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-10T06:50:15.000Z",
+        "description": "しののめ かえる ☁️🐸 I don't understand English",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@snnm_122",
+                "end": 23,
+                "expanded_url": "https://skeb.jp/@snnm_122",
+                "start": 0,
+                "url": "https://t.co/pCCMGZHiF7"
+              }
+            ]
+          }
+        },
+        "id": "1678295518412431361",
+        "location": "有償依頼受付中",
+        "name": "東雲蛙",
+        "pinned_tweet_id": "1891744281494213048",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039202416600784896/t_XmGIR0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9720,
+          "following_count": 30,
+          "like_count": 618,
+          "listed_count": 21,
+          "media_count": 270,
+          "tweet_count": 1349
+        },
+        "url": "https://t.co/pCCMGZHiF7",
+        "username": "snnm_122",
+        "verified": false
+      }
+    ]
+  }
+}

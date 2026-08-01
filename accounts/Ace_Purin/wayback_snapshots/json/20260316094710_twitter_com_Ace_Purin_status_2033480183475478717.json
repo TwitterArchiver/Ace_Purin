@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2033288525076889600"
+      ],
+      "media_source_tweet_id": [
+        "2033470325057319291"
+      ]
+    },
+    "author_id": "1949348575378644992",
+    "conversation_id": "2033480183475478717",
+    "created_at": "2026-03-16T09:47:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-16T10:47:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033480183475478717"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1659962043460354050",
+          "start": 3,
+          "username": "SalviaSWC"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/DQG99n0YIr",
+          "end": 125,
+          "expanded_url": "https://x.com/SalviaSWC/status/2033470325057319291/photo/1",
+          "media_key": "3_2033288525076889600",
+          "start": 102,
+          "url": "https://t.co/DQG99n0YIr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033480183475478717",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033470325057319291",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @SalviaSWC: 药物报告连载day6——解离剂\n\n好欸，窝野喜欢解离剂能够让人彻底消失的感觉，那种彻底的逃离感🤤\n\n不过文中的660mg右美沙芬的剂量感觉太大了，不需要那么多就能有药效的🥹 https://t.co/DQG99n0YIr"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2055,
+        "media_key": "3_2033288525076889600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDexJAcWAAAJVhG.png",
+        "width": 2024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2033288525076889600"
+          ],
+          "media_source_tweet_id": [
+            "2033470325057319291"
+          ]
+        },
+        "author_id": "1949348575378644992",
+        "conversation_id": "2033480183475478717",
+        "created_at": "2026-03-16T09:47:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-16T10:47:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033480183475478717"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1659962043460354050",
+              "start": 3,
+              "username": "SalviaSWC"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/DQG99n0YIr",
+              "end": 125,
+              "expanded_url": "https://x.com/SalviaSWC/status/2033470325057319291/photo/1",
+              "media_key": "3_2033288525076889600",
+              "start": 102,
+              "url": "https://t.co/DQG99n0YIr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033480183475478717",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033470325057319291",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @SalviaSWC: 药物报告连载day6——解离剂\n\n好欸，窝野喜欢解离剂能够让人彻底消失的感觉，那种彻底的逃离感🤤\n\n不过文中的660mg右美沙芬的剂量感觉太大了，不需要那么多就能有药效的🥹 https://t.co/DQG99n0YIr"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2033288525076889600"
+          ]
+        },
+        "author_id": "1659962043460354050",
+        "conversation_id": "2033470325057319291",
+        "created_at": "2026-03-16T09:08:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-16T10:08:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033470325057319291"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DQG99n0YIr",
+              "end": 110,
+              "expanded_url": "https://x.com/SalviaSWC/status/2033470325057319291/photo/1",
+              "media_key": "3_2033288525076889600",
+              "start": 87,
+              "url": "https://t.co/DQG99n0YIr"
+            },
+            {
+              "display_url": "x.com/SalviaSWC/stat…",
+              "end": 134,
+              "expanded_url": "https://twitter.com/SalviaSWC/status/2033138863435071635",
+              "start": 111,
+              "url": "https://t.co/iLDSJSbyX2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033470325057319291",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 269,
+          "like_count": 12,
+          "quote_count": 2,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033138863435071635",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "药物报告连载day6——解离剂\n\n好欸，窝野喜欢解离剂能够让人彻底消失的感觉，那种彻底的逃离感🤤\n\n不过文中的660mg右美沙芬的剂量感觉太大了，不需要那么多就能有药效的🥹 https://t.co/DQG99n0YIr https://t.co/iLDSJSbyX2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-27T05:58:17.000Z",
+        "description": "我好像在哪见过你｜💊 SH｜被block就是你的错",
+        "id": "1949348575378644992",
+        "location": "メジコン",
+        "name": "永雏布丁",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031639335355990017/gySUFS_N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 36,
+          "like_count": 33,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 85
+        },
+        "username": "Ace_Purin",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "07|上海|退役OIer|计算机💻|虚无主义者🥺|\n\n会发各种东西🎲|非必要不键政🏳️|不卖药🚫|欢迎任何人🌈|包容各种做法☮|互fo🉑哦🥰|没回fo的话，请私信我哦📬|\n\n脑婆:@DXM8964LXM\n\n丨药物知识开源化💊|来FreeODwiki看看吧！|Say Know to Drugs 😼|",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 101,
+                "start": 90,
+                "username": "DXM8964LXM"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "freeodwiki.org",
+                "end": 23,
+                "expanded_url": "https://freeodwiki.org",
+                "start": 0,
+                "url": "https://t.co/20q0OtAMFL"
+              }
+            ]
+          }
+        },
+        "id": "1659962043460354050",
+        "name": "鼠尾草～🌿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009567905659092992/cvZN-2cJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3348,
+          "following_count": 957,
+          "like_count": 21135,
+          "listed_count": 10,
+          "media_count": 363,
+          "tweet_count": 6226
+        },
+        "url": "https://t.co/20q0OtAMFL",
+        "username": "SalviaSWC",
+        "verified": false
+      }
+    ]
+  }
+}

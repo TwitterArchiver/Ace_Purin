@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1949348575378644992",
+    "conversation_id": "2039383027231703320",
+    "created_at": "2026-04-02T16:23:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-02T17:23:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039740617417523584"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1752630016159207424",
+          "start": 0,
+          "username": "yfgyfy19453"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039740617417523584",
+    "in_reply_to_user_id": "1752630016159207424",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039658585483891189",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yfgyfy19453 全部都是躯体化"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1949348575378644992",
+        "conversation_id": "2039383027231703320",
+        "created_at": "2026-04-02T16:23:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T17:23:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039740617417523584"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1752630016159207424",
+              "start": 0,
+              "username": "yfgyfy19453"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039740617417523584",
+        "in_reply_to_user_id": "1752630016159207424",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039658585483891189",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yfgyfy19453 全部都是躯体化"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1752630016159207424",
+        "conversation_id": "2039383027231703320",
+        "created_at": "2026-04-02T10:57:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T11:57:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039658585483891189"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1949348575378644992",
+              "start": 0,
+              "username": "Ace_Purin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039658585483891189",
+        "in_reply_to_user_id": "1949348575378644992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 192,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039383027231703320",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ace_Purin 很多时候不舒服都自认为是没有休息好，虽然我现在也没搞懂我是不是真有病，反正问其他在院里呆过的然后发现症状全对上了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-27T05:58:17.000Z",
+        "description": "如果能成为你害怕失去的人就好了｜💊 SH｜被block就是你的错",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ace_purin",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ace_purin",
+                "start": 0,
+                "url": "https://t.co/PkWlzvseLZ"
+              }
+            ]
+          }
+        },
+        "id": "1949348575378644992",
+        "location": "メジコン",
+        "name": "永雏布丁",
+        "pinned_tweet_id": "2033851547843719390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031639335355990017/gySUFS_N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 76,
+          "following_count": 101,
+          "like_count": 621,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 565
+        },
+        "url": "https://t.co/PkWlzvseLZ",
+        "username": "Ace_Purin",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-31T09:49:21.000Z",
+        "description": "没有朋友…",
+        "id": "1752630016159207424",
+        "name": "阿黎🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014392595481542656/O785Q_47_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 33,
+          "like_count": 274,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 229
+        },
+        "username": "yfgyfy19453",
+        "verified": false
+      }
+    ]
+  }
+}

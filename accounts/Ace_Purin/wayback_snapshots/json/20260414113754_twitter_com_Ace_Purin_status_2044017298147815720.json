@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1949348575378644992",
+    "conversation_id": "2043984445913608687",
+    "created_at": "2026-04-14T11:37:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-14T12:37:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044017298147815720"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1419384632810917888",
+          "start": 0,
+          "username": "PHeeead"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044017298147815720",
+    "in_reply_to_user_id": "1419384632810917888",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043984445913608687",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@PHeeead 🫂小宝宝不是你的错，累了不舒服了就应该休息一下，是这个不让人休息的世界不对"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1082,
+        "media_key": "3_2043984443690627076",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HF2xBaSasAQHpex.jpg",
+        "width": 1097
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1949348575378644992",
+        "conversation_id": "2043984445913608687",
+        "created_at": "2026-04-14T11:37:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T12:37:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044017298147815720"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1419384632810917888",
+              "start": 0,
+              "username": "PHeeead"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044017298147815720",
+        "in_reply_to_user_id": "1419384632810917888",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043984445913608687",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PHeeead 🫂小宝宝不是你的错，累了不舒服了就应该休息一下，是这个不让人休息的世界不对"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2043984443690627076"
+          ]
+        },
+        "author_id": "1419384632810917888",
+        "conversation_id": "2043984445913608687",
+        "created_at": "2026-04-14T09:27:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T10:27:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043984445913608687"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/smJsp0XqX1",
+              "end": 151,
+              "expanded_url": "https://x.com/PHeeead/status/2043984445913608687/photo/1",
+              "media_key": "3_2043984443690627076",
+              "start": 128,
+              "url": "https://t.co/smJsp0XqX1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043984445913608687",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 37,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "又想死了 我这几天看论文字全是花的 走路也走不好 也完全不想做论文，好恶心，好难，很多我都不会，好想放弃，好想哭。今天本来是想好好休息的，前几天过得都很混乱，但每次我想好好休息时 就会一堆事找上来，凭什么总是这样。\n而且发什么问号呢 亏我之前对他那么客气 https://t.co/smJsp0XqX1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-27T05:58:17.000Z",
+        "description": "如果能成为你害怕失去的人就好了｜💊 SH｜被block就是你的错",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ace_purin",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ace_purin",
+                "start": 0,
+                "url": "https://t.co/PkWlzvseLZ"
+              }
+            ]
+          }
+        },
+        "id": "1949348575378644992",
+        "location": "メジコン",
+        "name": "永雏布丁",
+        "pinned_tweet_id": "2033851547843719390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041031144146423808/f-TPgWl2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 106,
+          "following_count": 146,
+          "like_count": 1472,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 991
+        },
+        "url": "https://t.co/PkWlzvseLZ",
+        "username": "Ace_Purin",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-25T19:51:08.000Z",
+        "description": "Love/有病的碎碎念/随笔/有空就会点赞评论但一发病就很爱删帖/互fo/ Miss you so much",
+        "id": "1419384632810917888",
+        "name": "𝑭𝑫",
+        "pinned_tweet_id": "2036148355575980365",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040706333725642752/MD9Pl6X6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 20,
+          "like_count": 1143,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 143
+        },
+        "username": "PHeeead",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1949348575378644992",
+    "conversation_id": "2066943347621814396",
+    "created_at": "2026-06-17T01:49:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T02:49:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067062158186475566"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1419384632810917888",
+          "start": 0,
+          "username": "PHeeead"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067062158186475566",
+    "in_reply_to_user_id": "1419384632810917888",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066943347621814396",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@PHeeead 可以变成一个脑残然后啥也不想✌️"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1949348575378644992",
+        "conversation_id": "2066943347621814396",
+        "created_at": "2026-06-17T01:49:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T02:49:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067062158186475566"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1419384632810917888",
+              "start": 0,
+              "username": "PHeeead"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067062158186475566",
+        "in_reply_to_user_id": "1419384632810917888",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066943347621814396",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PHeeead 可以变成一个脑残然后啥也不想✌️"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1419384632810917888",
+        "conversation_id": "2066943347621814396",
+        "created_at": "2026-06-16T17:57:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T18:57:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066943347621814396"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2066943347621814396",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 71,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "！我发现我劳拉西没吃完，还留一点但这药到底有什么用？！给仇人用然后让他把一米外的所有东西都看成两个吗，说是给我治睡眠障碍的结果除了副作用啥用没有，最重要的是不论什么剂量都有那个副作用太神奇了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-27T05:58:17.000Z",
+        "description": "喜欢@qngshu988723424｜💊 SH｜被block就是你的错",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 2,
+                "username": "qngshu988723424"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ace_purin",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ace_purin",
+                "start": 0,
+                "url": "https://t.co/0tokBnS6A6"
+              }
+            ]
+          }
+        },
+        "id": "1949348575378644992",
+        "location": "メジコン",
+        "name": "永雏布丁",
+        "pinned_tweet_id": "2033851547843719390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041031144146423808/f-TPgWl2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 238,
+          "following_count": 273,
+          "like_count": 3331,
+          "listed_count": 0,
+          "media_count": 80,
+          "tweet_count": 2280
+        },
+        "url": "https://t.co/0tokBnS6A6",
+        "username": "Ace_Purin",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-25T19:51:08.000Z",
+        "description": "互fo OK/有空就会点赞评论但一发病就很爱删帖",
+        "id": "1419384632810917888",
+        "name": "𝑭𝑫",
+        "pinned_tweet_id": "2036148355575980365",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044849182922706944/41ooDRo1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 31,
+          "like_count": 2574,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 250
+        },
+        "username": "PHeeead",
+        "verified": false
+      }
+    ]
+  }
+}

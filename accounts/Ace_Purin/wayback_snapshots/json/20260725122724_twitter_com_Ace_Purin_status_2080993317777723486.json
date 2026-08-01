@@ -1,0 +1,305 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2080681465826914304"
+      ],
+      "media_source_tweet_id": [
+        "2080681550015078607"
+      ]
+    },
+    "author_id": "1949348575378644992",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2080993317777723486",
+    "created_at": "2026-07-25T12:27:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T13:27:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080993317777723486"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1658468118497472514",
+          "start": 3,
+          "username": "muskinpingvirus"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ZdUsWtEg6I",
+          "end": 64,
+          "expanded_url": "https://x.com/muskinpingvirus/status/2080681550015078607/video/1",
+          "media_key": "13_2080681465826914304",
+          "start": 41,
+          "url": "https://t.co/ZdUsWtEg6I"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080993317777723486",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 14
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080681550015078607",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @muskinpingvirus: 🥹你再信我一次，我家鸟也会后空翻，真的 https://t.co/ZdUsWtEg6I"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 5666,
+        "height": 476,
+        "media_key": "13_2080681465826914304",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2080681465826914304/img/giQ1VCLIdwJUg756.jpg",
+        "public_metrics": {
+          "view_count": 9095
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2080681465826914304/vid/avc1/480x270/yvH9AXb2zrtiVags.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2080681465826914304/vid/avc1/848x476/gcJpqACWIDs1Yx7z.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2080681465826914304/pl/DlM83fpPM7XPllFk.m3u8?tag=14"
+          }
+        ],
+        "width": 848
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2080681465826914304"
+          ]
+        },
+        "author_id": "1658468118497472514",
+        "conversation_id": "2080681550015078607",
+        "created_at": "2026-07-24T15:48:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T16:48:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080681550015078607"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZdUsWtEg6I",
+              "end": 43,
+              "expanded_url": "https://x.com/muskinpingvirus/status/2080681550015078607/video/1",
+              "media_key": "13_2080681465826914304",
+              "start": 20,
+              "url": "https://t.co/ZdUsWtEg6I"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080681550015078607",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 18,
+          "impression_count": 25470,
+          "like_count": 202,
+          "quote_count": 5,
+          "reply_count": 28,
+          "retweet_count": 14
+        },
+        "reply_settings": "everyone",
+        "text": "🥹你再信我一次，我家鸟也会后空翻，真的 https://t.co/ZdUsWtEg6I"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2080681465826914304"
+          ],
+          "media_source_tweet_id": [
+            "2080681550015078607"
+          ]
+        },
+        "author_id": "1949348575378644992",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2080993317777723486",
+        "created_at": "2026-07-25T12:27:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T13:27:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080993317777723486"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1658468118497472514",
+              "start": 3,
+              "username": "muskinpingvirus"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZdUsWtEg6I",
+              "end": 64,
+              "expanded_url": "https://x.com/muskinpingvirus/status/2080681550015078607/video/1",
+              "media_key": "13_2080681465826914304",
+              "start": 41,
+              "url": "https://t.co/ZdUsWtEg6I"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080993317777723486",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 14
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080681550015078607",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @muskinpingvirus: 🥹你再信我一次，我家鸟也会后空翻，真的 https://t.co/ZdUsWtEg6I"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-27T05:58:17.000Z",
+        "description": "爱人@qngshu988723424｜💊 SH｜被block就是你的错",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 2,
+                "username": "qngshu988723424"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ace_purin",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ace_purin",
+                "start": 0,
+                "url": "https://t.co/PkWlzvseLZ"
+              }
+            ]
+          }
+        },
+        "id": "1949348575378644992",
+        "location": "メジコン",
+        "name": "永雏布丁",
+        "pinned_tweet_id": "2033851547843719390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041031144146423808/f-TPgWl2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 274,
+          "following_count": 333,
+          "like_count": 3762,
+          "listed_count": 0,
+          "media_count": 90,
+          "tweet_count": 2608
+        },
+        "url": "https://t.co/PkWlzvseLZ",
+        "username": "Ace_Purin",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-16T13:43:22.000Z",
+        "description": "",
+        "id": "1658468118497472514",
+        "name": "凉拌见手青（😭推友寻回中）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039558914417782784/DbyHDvd5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 811,
+          "following_count": 922,
+          "like_count": 10299,
+          "listed_count": 6,
+          "media_count": 1360,
+          "tweet_count": 6516
+        },
+        "url": "",
+        "username": "muskinpingvirus",
+        "verified": false
+      }
+    ]
+  }
+}

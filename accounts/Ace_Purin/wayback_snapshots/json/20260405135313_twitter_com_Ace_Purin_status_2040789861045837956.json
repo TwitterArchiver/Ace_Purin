@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1949348575378644992",
+    "conversation_id": "2040789861045837956",
+    "created_at": "2026-04-05T13:53:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-05T14:53:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2040789861045837956"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/umxn0_/status/…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/umxn0_/status/2040709098384327105",
+          "start": 5,
+          "url": "https://t.co/aYoAf5UI5O"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040789861045837956",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040709098384327105",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "还有教程 https://t.co/aYoAf5UI5O"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 20486,
+        "height": 1056,
+        "media_key": "13_2040709032441434112",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2040709032441434112/img/3FCTJ8AEDRLQhriB.jpg",
+        "public_metrics": {
+          "view_count": 7211
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2040709032441434112/vid/avc1/320x468/jHDv_UG-38Bm_u2L.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2040709032441434112/vid/avc1/480x704/BNNfBoYQtzyNFjLl.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2040709032441434112/vid/avc1/720x1056/pXMK4kIs-bifPpQ8.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2040709032441434112/pl/ScrnF9GPG3axlpE3.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1949348575378644992",
+        "conversation_id": "2040789861045837956",
+        "created_at": "2026-04-05T13:53:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T14:53:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040789861045837956"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/umxn0_/status/…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/umxn0_/status/2040709098384327105",
+              "start": 5,
+              "url": "https://t.co/aYoAf5UI5O"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040789861045837956",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040709098384327105",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "还有教程 https://t.co/aYoAf5UI5O"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2040709032441434112"
+          ]
+        },
+        "author_id": "2012166619347513344",
+        "conversation_id": "2040709098384327105",
+        "created_at": "2026-04-05T08:32:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T09:32:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040709098384327105"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bgK1dtT8wE",
+              "end": 48,
+              "expanded_url": "https://x.com/umxn0_/status/2040709098384327105/video/1",
+              "media_key": "13_2040709032441434112",
+              "start": 25,
+              "url": "https://t.co/bgK1dtT8wE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040709098384327105",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 269,
+          "impression_count": 16939,
+          "like_count": 562,
+          "quote_count": 16,
+          "reply_count": 0,
+          "retweet_count": 58
+        },
+        "reply_settings": "everyone",
+        "text": "알티 떳던거 올리긔 궁금하신분들 다시보시긔! https://t.co/bgK1dtT8wE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-27T05:58:17.000Z",
+        "description": "如果能成为你害怕失去的人就好了｜💊 SH｜被block就是你的错",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ace_purin",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ace_purin",
+                "start": 0,
+                "url": "https://t.co/PkWlzvseLZ"
+              }
+            ]
+          }
+        },
+        "id": "1949348575378644992",
+        "location": "メジコン",
+        "name": "永雏布丁",
+        "pinned_tweet_id": "2033851547843719390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040486756001427457/g14bHHET_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 89,
+          "following_count": 125,
+          "like_count": 818,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 676
+        },
+        "url": "https://t.co/PkWlzvseLZ",
+        "username": "Ace_Purin",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-16T14:14:52.000Z",
+        "description": "@_zumx0 이거 내 전계정인데 아는 사람 잇음 걸어줘 안거르니까 그냥 걸어주 좋아",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 7,
+                "start": 0,
+                "username": "_zumx0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pushoong.com/ask/7024804977/",
+                "end": 23,
+                "expanded_url": "https://pushoong.com/ask/7024804977/",
+                "start": 0,
+                "url": "https://t.co/nOpDEfl5hC"
+              }
+            ]
+          }
+        },
+        "id": "2012166619347513344",
+        "name": "유밍 || 전계정영정",
+        "pinned_tweet_id": "2040626556343849236",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012166789195767809/FberoUfC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 129,
+          "following_count": 125,
+          "like_count": 440,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 46
+        },
+        "url": "https://t.co/nOpDEfl5hC",
+        "username": "umxn0_",
+        "verified": false
+      }
+    ]
+  }
+}

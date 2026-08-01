@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1949348575378644992",
+    "conversation_id": "2036431637760844084",
+    "created_at": "2026-03-24T13:15:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-24T14:15:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2036431637760844084"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/unamomouna/sta…",
+          "end": 51,
+          "expanded_url": "https://twitter.com/unamomouna/status/2035966019915661320",
+          "start": 28,
+          "url": "https://t.co/oL8X3mVcYA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036431637760844084",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035966019915661320",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "现实中这样搞的有一个算一个全是表演型人格这种出轨最狠了 https://t.co/oL8X3mVcYA"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1949348575378644992",
+        "conversation_id": "2036431637760844084",
+        "created_at": "2026-03-24T13:15:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T14:15:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036431637760844084"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/unamomouna/sta…",
+              "end": 51,
+              "expanded_url": "https://twitter.com/unamomouna/status/2035966019915661320",
+              "start": 28,
+              "url": "https://t.co/oL8X3mVcYA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036431637760844084",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035966019915661320",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "现实中这样搞的有一个算一个全是表演型人格这种出轨最狠了 https://t.co/oL8X3mVcYA"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3384787759",
+        "conversation_id": "2035966019915661320",
+        "created_at": "2026-03-23T06:25:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T07:25:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2035966019915661320"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2035966019915661320",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 384,
+          "impression_count": 4530168,
+          "like_count": 5082,
+          "quote_count": 1166,
+          "reply_count": 82,
+          "retweet_count": 368
+        },
+        "reply_settings": "everyone",
+        "text": "【浮気しない彼氏ランキング】\n1位 ロック画面が「彼女の写真」"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-27T05:58:17.000Z",
+        "description": "如果能成为你害怕失去的人就好了｜💊 SH｜被block就是你的错",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ace_purin",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ace_purin",
+                "start": 0,
+                "url": "https://t.co/PkWlzvseLZ"
+              }
+            ]
+          }
+        },
+        "id": "1949348575378644992",
+        "location": "メジコン",
+        "name": "永雏布丁",
+        "pinned_tweet_id": "2033851547843719390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031639335355990017/gySUFS_N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46,
+          "following_count": 73,
+          "like_count": 293,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 351
+        },
+        "url": "https://t.co/PkWlzvseLZ",
+        "username": "Ace_Purin",
+        "verified": false
+      },
+      {
+        "created_at": "2015-08-29T19:29:04.000Z",
+        "description": "報われたいし幸せになりたい",
+        "id": "3384787759",
+        "name": "うな👶🏻ྀི",
+        "pinned_tweet_id": "1943185669767205058",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1939964761275293696/6erpPh1V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23919,
+          "following_count": 17,
+          "like_count": 1131,
+          "listed_count": 63,
+          "media_count": 1,
+          "tweet_count": 146
+        },
+        "username": "unamomouna",
+        "verified": false
+      }
+    ]
+  }
+}

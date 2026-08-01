@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1949348575378644992",
+    "conversation_id": "2040002393258250245",
+    "created_at": "2026-04-03T09:44:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-03T10:44:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040002393258250245"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1986291014370545665",
+          "start": 3,
+          "username": "pleasehelp070"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040002393258250245",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039977180554473835",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @pleasehelp070: 有南方朋友最近一直在犯蠢的不要压力他们了好吗？梅雨季来了我们脑子已经开始泡发了，你如果压力我们，我们的前额叶就会像紫菜蛋花汤一样淡淡地碎开，变成鼻涕流出来。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1949348575378644992",
+        "conversation_id": "2040002393258250245",
+        "created_at": "2026-04-03T09:44:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T10:44:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040002393258250245"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1986291014370545665",
+              "start": 3,
+              "username": "pleasehelp070"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040002393258250245",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039977180554473835",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @pleasehelp070: 有南方朋友最近一直在犯蠢的不要压力他们了好吗？梅雨季来了我们脑子已经开始泡发了，你如果压力我们，我们的前额叶就会像紫菜蛋花汤一样淡淡地碎开，变成鼻涕流出来。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986291014370545665",
+        "conversation_id": "2039977180554473835",
+        "created_at": "2026-04-03T08:03:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T09:03:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039977180554473835"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2039977180554473835",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 60,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "有南方朋友最近一直在犯蠢的不要压力他们了好吗？梅雨季来了我们脑子已经开始泡发了，你如果压力我们，我们的前额叶就会像紫菜蛋花汤一样淡淡地碎开，变成鼻涕流出来。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-27T05:58:17.000Z",
+        "description": "如果能成为你害怕失去的人就好了｜💊 SH｜被block就是你的错",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ace_purin",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ace_purin",
+                "start": 0,
+                "url": "https://t.co/PkWlzvseLZ"
+              }
+            ]
+          }
+        },
+        "id": "1949348575378644992",
+        "location": "メジコン",
+        "name": "永雏布丁",
+        "pinned_tweet_id": "2033851547843719390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031639335355990017/gySUFS_N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 77,
+          "following_count": 106,
+          "like_count": 672,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 595
+        },
+        "url": "https://t.co/PkWlzvseLZ",
+        "username": "Ace_Purin",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-06T04:34:36.000Z",
+        "description": "碎碎念病み垢/不登校💊休学/解离中ASD&ADHD双极性障碍/交流障碍 メンヘラ/是互联网天使✝️ 💕༘♡ ⋆｡˚",
+        "id": "1986291014370545665",
+        "location": "internet",
+        "name": "🍥ame❤️‍🩹",
+        "pinned_tweet_id": "2039757612854751364",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038643124965400576/KKnqCtKl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 164,
+          "following_count": 186,
+          "like_count": 1259,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 264
+        },
+        "username": "pleasehelp070",
+        "verified": false
+      }
+    ]
+  }
+}

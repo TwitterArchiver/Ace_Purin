@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1949348575378644992",
+    "conversation_id": "2064016975295336920",
+    "created_at": "2026-06-08T16:13:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T17:13:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064017923421974797"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1419384632810917888",
+          "start": 0,
+          "username": "PHeeead"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064017923421974797",
+    "in_reply_to_user_id": "1419384632810917888",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064016975295336920",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@PHeeead 🫳🫳抱抱"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 467,
+        "media_key": "3_2064016972816523264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKTcgEsbIAAMeEM.jpg",
+        "width": 1119
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1949348575378644992",
+        "conversation_id": "2064016975295336920",
+        "created_at": "2026-06-08T16:13:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T17:13:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064017923421974797"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1419384632810917888",
+              "start": 0,
+              "username": "PHeeead"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064017923421974797",
+        "in_reply_to_user_id": "1419384632810917888",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064016975295336920",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PHeeead 🫳🫳抱抱"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064016972816523264"
+          ]
+        },
+        "author_id": "1419384632810917888",
+        "conversation_id": "2064016975295336920",
+        "created_at": "2026-06-08T16:09:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T17:09:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064016975295336920"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JBQE2MYdra",
+              "end": 27,
+              "expanded_url": "https://x.com/PHeeead/status/2064016975295336920/photo/1",
+              "media_key": "3_2064016972816523264",
+              "start": 4,
+              "url": "https://t.co/JBQE2MYdra"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064016975295336920",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "又在哭 https://t.co/JBQE2MYdra"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-27T05:58:17.000Z",
+        "description": "喜欢@qngshu988723424｜💊 SH｜被block就是你的错",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 2,
+                "username": "qngshu988723424"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ace_purin",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ace_purin",
+                "start": 0,
+                "url": "https://t.co/0tokBnS6A6"
+              }
+            ]
+          }
+        },
+        "id": "1949348575378644992",
+        "location": "メジコン",
+        "name": "永雏布丁",
+        "pinned_tweet_id": "2033851547843719390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041031144146423808/f-TPgWl2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 221,
+          "following_count": 263,
+          "like_count": 3097,
+          "listed_count": 0,
+          "media_count": 79,
+          "tweet_count": 2115
+        },
+        "url": "https://t.co/0tokBnS6A6",
+        "username": "Ace_Purin",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-25T19:51:08.000Z",
+        "description": "有病的碎碎念/有空就会点赞评论但一发病就很爱删帖",
+        "id": "1419384632810917888",
+        "name": "𝑭𝑫",
+        "pinned_tweet_id": "2036148355575980365",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044849182922706944/41ooDRo1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 20,
+          "like_count": 1903,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 184
+        },
+        "username": "PHeeead",
+        "verified": false
+      }
+    ]
+  }
+}

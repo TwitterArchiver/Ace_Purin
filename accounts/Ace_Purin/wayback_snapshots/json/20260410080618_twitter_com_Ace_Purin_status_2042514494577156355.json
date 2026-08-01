@@ -1,0 +1,302 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2042226909275467776"
+      ],
+      "media_source_tweet_id": [
+        "2042227091874414712"
+      ]
+    },
+    "author_id": "1949348575378644992",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2042514494577156355",
+    "created_at": "2026-04-10T08:06:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-10T09:06:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042514494577156355"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1357283574026674178",
+          "start": 3,
+          "username": "DqccerapXVhEx4N"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/oNFTGVnKh7",
+          "end": 69,
+          "expanded_url": "https://x.com/DqccerapXVhEx4N/status/2042227091874414712/video/1",
+          "media_key": "13_2042226909275467776",
+          "start": 46,
+          "url": "https://t.co/oNFTGVnKh7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042514494577156355",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1107
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042227091874414712",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @DqccerapXVhEx4N: ギドラちゃん\n\n右→お水飲みたい🤤\n左←お水嫌🤢 https://t.co/oNFTGVnKh7"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 28336,
+        "height": 1280,
+        "media_key": "13_2042226909275467776",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2042226909275467776/img/CR7XTXpuMO86dUyG.jpg",
+        "public_metrics": {
+          "view_count": 276740
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2042226909275467776/vid/avc1/320x568/0z6p6Un2tyElRdXx.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2042226909275467776/vid/avc1/480x852/8zTYi2hCQ1rxLFyP.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2042226909275467776/vid/avc1/720x1280/7Y4ylSBAZOsjLDQC.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2042226909275467776/pl/pitFs1i6gph0Uu1P.m3u8?v=589"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2042226909275467776"
+          ],
+          "media_source_tweet_id": [
+            "2042227091874414712"
+          ]
+        },
+        "author_id": "1949348575378644992",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2042514494577156355",
+        "created_at": "2026-04-10T08:06:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T09:06:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042514494577156355"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1357283574026674178",
+              "start": 3,
+              "username": "DqccerapXVhEx4N"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/oNFTGVnKh7",
+              "end": 69,
+              "expanded_url": "https://x.com/DqccerapXVhEx4N/status/2042227091874414712/video/1",
+              "media_key": "13_2042226909275467776",
+              "start": 46,
+              "url": "https://t.co/oNFTGVnKh7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042514494577156355",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1107
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042227091874414712",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @DqccerapXVhEx4N: ギドラちゃん\n\n右→お水飲みたい🤤\n左←お水嫌🤢 https://t.co/oNFTGVnKh7"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2042226909275467776"
+          ]
+        },
+        "author_id": "1357283574026674178",
+        "conversation_id": "2042227091874414712",
+        "created_at": "2026-04-09T13:04:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T14:04:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042227091874414712"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oNFTGVnKh7",
+              "end": 48,
+              "expanded_url": "https://x.com/DqccerapXVhEx4N/status/2042227091874414712/video/1",
+              "media_key": "13_2042226909275467776",
+              "start": 25,
+              "url": "https://t.co/oNFTGVnKh7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042227091874414712",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1317,
+          "impression_count": 842138,
+          "like_count": 14184,
+          "quote_count": 146,
+          "reply_count": 19,
+          "retweet_count": 1107
+        },
+        "reply_settings": "everyone",
+        "text": "ギドラちゃん\n\n右→お水飲みたい🤤\n左←お水嫌🤢 https://t.co/oNFTGVnKh7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-27T05:58:17.000Z",
+        "description": "如果能成为你害怕失去的人就好了｜💊 SH｜被block就是你的错",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ace_purin",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ace_purin",
+                "start": 0,
+                "url": "https://t.co/PkWlzvseLZ"
+              }
+            ]
+          }
+        },
+        "id": "1949348575378644992",
+        "location": "メジコン",
+        "name": "永雏布丁",
+        "pinned_tweet_id": "2033851547843719390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041031144146423808/f-TPgWl2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 101,
+          "following_count": 140,
+          "like_count": 1179,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 845
+        },
+        "url": "https://t.co/PkWlzvseLZ",
+        "username": "Ace_Purin",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-04T11:03:27.000Z",
+        "description": "無言フォロー失礼します。無言フォローお気軽に。爬虫類多め。好きな事つぶやくだけ",
+        "id": "1357283574026674178",
+        "location": "Japan",
+        "name": "メタ",
+        "pinned_tweet_id": "1982312315824349388",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1709413253775020032/47Ju-3Eh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2103,
+          "following_count": 1066,
+          "like_count": 21966,
+          "listed_count": 19,
+          "media_count": 1488,
+          "tweet_count": 3483
+        },
+        "username": "DqccerapXVhEx4N",
+        "verified": false
+      }
+    ]
+  }
+}

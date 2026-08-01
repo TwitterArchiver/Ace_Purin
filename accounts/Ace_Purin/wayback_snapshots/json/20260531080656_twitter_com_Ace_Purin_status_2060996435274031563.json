@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1949348575378644992",
+    "conversation_id": "2060362399048482956",
+    "created_at": "2026-05-31T08:06:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-31T09:06:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060996435274031563"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2060398402345857024",
+          "start": 0,
+          "username": "jmwk5n"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060996435274031563",
+    "in_reply_to_user_id": "2060398402345857024",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060553774981140847",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jmwk5n 吹吹你的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1949348575378644992",
+        "conversation_id": "2060362399048482956",
+        "created_at": "2026-05-31T08:06:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T09:06:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060996435274031563"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2060398402345857024",
+              "start": 0,
+              "username": "jmwk5n"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060996435274031563",
+        "in_reply_to_user_id": "2060398402345857024",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060553774981140847",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jmwk5n 吹吹你的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2060398402345857024",
+        "conversation_id": "2060362399048482956",
+        "created_at": "2026-05-30T02:47:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T03:47:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060553774981140847"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1949348575378644992",
+              "start": 0,
+              "username": "Ace_Purin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060553774981140847",
+        "in_reply_to_user_id": "1949348575378644992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060362399048482956",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ace_Purin 为什么没有我这种吹牛逼为什么没有我这种吹牛逼的？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-27T05:58:17.000Z",
+        "description": "喜欢@qngshu988723424｜💊 SH｜被block就是你的错",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 2,
+                "username": "qngshu988723424"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ace_purin",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ace_purin",
+                "start": 0,
+                "url": "https://t.co/0tokBnS6A6"
+              }
+            ]
+          }
+        },
+        "id": "1949348575378644992",
+        "location": "メジコン",
+        "name": "永雏布丁",
+        "pinned_tweet_id": "2033851547843719390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041031144146423808/f-TPgWl2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 211,
+          "following_count": 246,
+          "like_count": 2923,
+          "listed_count": 0,
+          "media_count": 74,
+          "tweet_count": 2026
+        },
+        "url": "https://t.co/0tokBnS6A6",
+        "username": "Ace_Purin",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-29T16:31:16.000Z",
+        "description": "欢迎大家找我一起聊天，一起玩。",
+        "id": "2060398402345857024",
+        "name": "jm",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060685354655502338/kFlFrhSQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 2,
+          "like_count": 2,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 227
+        },
+        "username": "jmwk5n",
+        "verified": false
+      }
+    ]
+  }
+}

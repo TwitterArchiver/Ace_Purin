@@ -1,0 +1,357 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2039258675295219713",
+        "3_2039259048315674624"
+      ],
+      "media_source_tweet_id": [
+        "2039259277869867160",
+        "2039259277869867160"
+      ]
+    },
+    "author_id": "1949348575378644992",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2039323733270331598",
+    "created_at": "2026-04-01T12:47:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-01T13:47:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039323733270331598"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2023973682079821824",
+          "start": 3,
+          "username": "mau_chan04"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/F5V98aMssz",
+          "end": 59,
+          "expanded_url": "https://x.com/mau_chan04/status/2039259277869867160/photo/1",
+          "media_key": "3_2039258675295219713",
+          "start": 36,
+          "url": "https://t.co/F5V98aMssz"
+        },
+        {
+          "display_url": "pic.x.com/F5V98aMssz",
+          "end": 59,
+          "expanded_url": "https://x.com/mau_chan04/status/2039259277869867160/photo/1",
+          "media_key": "3_2039259048315674624",
+          "start": 36,
+          "url": "https://t.co/F5V98aMssz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039323733270331598",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 30
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039259277869867160",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mau_chan04: 【金八゜ブあるある】\n←序盤　 後半→ https://t.co/F5V98aMssz"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 675,
+        "media_key": "3_2039258675295219713",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEzm9fIa8AE2YDw.jpg",
+        "width": 1200
+      },
+      {
+        "height": 736,
+        "media_key": "3_2039259048315674624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEznTMvbYAAn1_k.jpg",
+        "width": 736
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2039258675295219713",
+            "3_2039259048315674624"
+          ],
+          "media_source_tweet_id": [
+            "2039259277869867160",
+            "2039259277869867160"
+          ]
+        },
+        "author_id": "1949348575378644992",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2039323733270331598",
+        "created_at": "2026-04-01T12:47:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T13:47:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039323733270331598"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2023973682079821824",
+              "start": 3,
+              "username": "mau_chan04"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/F5V98aMssz",
+              "end": 59,
+              "expanded_url": "https://x.com/mau_chan04/status/2039259277869867160/photo/1",
+              "media_key": "3_2039258675295219713",
+              "start": 36,
+              "url": "https://t.co/F5V98aMssz"
+            },
+            {
+              "display_url": "pic.x.com/F5V98aMssz",
+              "end": 59,
+              "expanded_url": "https://x.com/mau_chan04/status/2039259277869867160/photo/1",
+              "media_key": "3_2039259048315674624",
+              "start": 36,
+              "url": "https://t.co/F5V98aMssz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039323733270331598",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 30
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039259277869867160",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mau_chan04: 【金八゜ブあるある】\n←序盤　 後半→ https://t.co/F5V98aMssz"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2039258675295219713",
+            "3_2039259048315674624"
+          ]
+        },
+        "author_id": "2023973682079821824",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2039259277869867160",
+        "created_at": "2026-04-01T08:31:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T09:31:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039259277869867160"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/F5V98aMssz",
+              "end": 43,
+              "expanded_url": "https://x.com/mau_chan04/status/2039259277869867160/photo/1",
+              "media_key": "3_2039258675295219713",
+              "start": 20,
+              "url": "https://t.co/F5V98aMssz"
+            },
+            {
+              "display_url": "pic.x.com/F5V98aMssz",
+              "end": 43,
+              "expanded_url": "https://x.com/mau_chan04/status/2039259277869867160/photo/1",
+              "media_key": "3_2039259048315674624",
+              "start": 20,
+              "url": "https://t.co/F5V98aMssz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039259277869867160",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 26,
+          "impression_count": 6064,
+          "like_count": 434,
+          "quote_count": 6,
+          "reply_count": 2,
+          "retweet_count": 30
+        },
+        "reply_settings": "everyone",
+        "text": "【金八゜ブあるある】\n←序盤　 後半→ https://t.co/F5V98aMssz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-27T05:58:17.000Z",
+        "description": "如果能成为你害怕失去的人就好了｜💊 SH｜被block就是你的错",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ace_purin",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ace_purin",
+                "start": 0,
+                "url": "https://t.co/PkWlzvseLZ"
+              }
+            ]
+          }
+        },
+        "id": "1949348575378644992",
+        "location": "メジコン",
+        "name": "永雏布丁",
+        "pinned_tweet_id": "2033851547843719390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031639335355990017/gySUFS_N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 72,
+          "following_count": 99,
+          "like_count": 532,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 513
+        },
+        "url": "https://t.co/PkWlzvseLZ",
+        "username": "Ace_Purin",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-18T04:11:54.000Z",
+        "description": "ヤ⁹中男児からちゃんです。\n本垢▶@kkkkkara810\nさぶ→@DPJCIBeLbp24089",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 17,
+                "username": "kkkkkara810"
+              },
+              {
+                "end": 49,
+                "start": 33,
+                "username": "DPJCIBeLbp24089"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "寝れないし起きれない.com",
+                "end": 23,
+                "expanded_url": "https://xn--n8ja0a2b2fd7ue9090hex1e.com",
+                "start": 0,
+                "url": "https://t.co/4W4q9xjQcw"
+              }
+            ]
+          }
+        },
+        "id": "2023973682079821824",
+        "location": "元なまこ、ゆあです",
+        "name": "ヤ9中非行人生後悔基地外自傷行為緊急搬送希死念慮他責家庭裁判所鑑別保護観察少年",
+        "pinned_tweet_id": "2036292166155378802",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036288891616100352/Q-p653L8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1136,
+          "following_count": 55,
+          "like_count": 964,
+          "listed_count": 2,
+          "media_count": 67,
+          "tweet_count": 768
+        },
+        "url": "https://t.co/4W4q9xjQcw",
+        "username": "mau_chan04",
+        "verified": false
+      }
+    ]
+  }
+}

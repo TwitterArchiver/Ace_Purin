@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2049550288424738816"
+      ],
+      "media_source_tweet_id": [
+        "2049550292429988213"
+      ]
+    },
+    "author_id": "1949348575378644992",
+    "conversation_id": "2049713027642171546",
+    "created_at": "2026-04-30T04:50:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-30T05:50:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049713027642171546"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2012631283898187776",
+          "start": 3,
+          "username": "youy1qwq"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/CZj7aW9vom",
+          "end": 41,
+          "expanded_url": "https://x.com/youy1qwq/status/2049550292429988213/photo/1",
+          "media_key": "3_2049550288424738816",
+          "start": 18,
+          "url": "https://t.co/CZj7aW9vom"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049713027642171546",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 20
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049550292429988213",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @youy1qwq: 还真是 https://t.co/CZj7aW9vom"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 619,
+        "media_key": "3_2049550288424738816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHF3INrbIAAekyJ.jpg",
+        "width": 1236
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049550288424738816"
+          ],
+          "media_source_tweet_id": [
+            "2049550292429988213"
+          ]
+        },
+        "author_id": "1949348575378644992",
+        "conversation_id": "2049713027642171546",
+        "created_at": "2026-04-30T04:50:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T05:50:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049713027642171546"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2012631283898187776",
+              "start": 3,
+              "username": "youy1qwq"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/CZj7aW9vom",
+              "end": 41,
+              "expanded_url": "https://x.com/youy1qwq/status/2049550292429988213/photo/1",
+              "media_key": "3_2049550288424738816",
+              "start": 18,
+              "url": "https://t.co/CZj7aW9vom"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049713027642171546",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 20
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049550292429988213",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @youy1qwq: 还真是 https://t.co/CZj7aW9vom"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049550288424738816"
+          ]
+        },
+        "author_id": "2012631283898187776",
+        "conversation_id": "2049550292429988213",
+        "created_at": "2026-04-29T18:04:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T19:04:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049550292429988213"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CZj7aW9vom",
+              "end": 27,
+              "expanded_url": "https://x.com/youy1qwq/status/2049550292429988213/photo/1",
+              "media_key": "3_2049550288424738816",
+              "start": 4,
+              "url": "https://t.co/CZj7aW9vom"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049550292429988213",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 15,
+          "impression_count": 29079,
+          "like_count": 587,
+          "quote_count": 2,
+          "reply_count": 14,
+          "retweet_count": 20
+        },
+        "reply_settings": "everyone",
+        "text": "还真是 https://t.co/CZj7aW9vom"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-27T05:58:17.000Z",
+        "description": "如果能成为你害怕失去的人就好了｜💊 SH｜被block就是你的错",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ace_purin",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ace_purin",
+                "start": 0,
+                "url": "https://t.co/PkWlzvseLZ"
+              }
+            ]
+          }
+        },
+        "id": "1949348575378644992",
+        "location": "メジコン",
+        "name": "永雏布丁",
+        "pinned_tweet_id": "2033851547843719390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041031144146423808/f-TPgWl2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 135,
+          "following_count": 176,
+          "like_count": 2081,
+          "listed_count": 0,
+          "media_count": 56,
+          "tweet_count": 1424
+        },
+        "url": "https://t.co/PkWlzvseLZ",
+        "username": "Ace_Purin",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "pinned_tweet_id": "2020120359257665781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11777,
+          "following_count": 1713,
+          "like_count": 3950,
+          "listed_count": 18,
+          "media_count": 1570,
+          "tweet_count": 2074
+        },
+        "username": "youy1qwq",
+        "verified": true
+      }
+    ]
+  }
+}

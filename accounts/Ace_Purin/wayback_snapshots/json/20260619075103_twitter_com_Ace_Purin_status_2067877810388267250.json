@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1949348575378644992",
+    "conversation_id": "2067877810388267250",
+    "created_at": "2026-06-19T07:51:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T08:51:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2067877810388267250"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/drugs515/statu…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/drugs515/status/2067696345444675870",
+          "start": 5,
+          "url": "https://t.co/EVoln6gFZo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067877810388267250",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067696345444675870",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我全都要 https://t.co/EVoln6gFZo"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1949348575378644992",
+        "conversation_id": "2067877810388267250",
+        "created_at": "2026-06-19T07:51:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T08:51:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067877810388267250"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/drugs515/statu…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/drugs515/status/2067696345444675870",
+              "start": 5,
+              "url": "https://t.co/EVoln6gFZo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067877810388267250",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067696345444675870",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我全都要 https://t.co/EVoln6gFZo"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2062231036566634496",
+        "conversation_id": "2067696345444675870",
+        "created_at": "2026-06-18T19:49:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T20:49:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067696345444675870"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2067696345444675870",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 93,
+          "impression_count": 13387,
+          "like_count": 366,
+          "quote_count": 9,
+          "reply_count": 20,
+          "retweet_count": 18
+        },
+        "reply_settings": "everyone",
+        "text": "the drugs ur gonna fuck with the most are def predetermined by your baseline neurological state\n\nif ur neurotic/anxious - benzos/alcohol\n\nadd/adhd kind of type - stims\n\nlow serotonin - molly\n\nlow baseline opioid levels (eg high sensitivity to pain) - opioids\n\nit makes sense"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-27T05:58:17.000Z",
+        "description": "喜欢@qngshu988723424｜💊 SH｜被block就是你的错",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 2,
+                "username": "qngshu988723424"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ace_purin",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ace_purin",
+                "start": 0,
+                "url": "https://t.co/0tokBnS6A6"
+              }
+            ]
+          }
+        },
+        "id": "1949348575378644992",
+        "location": "メジコン",
+        "name": "永雏布丁",
+        "pinned_tweet_id": "2033851547843719390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041031144146423808/f-TPgWl2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 242,
+          "following_count": 279,
+          "like_count": 3387,
+          "listed_count": 0,
+          "media_count": 82,
+          "tweet_count": 2307
+        },
+        "url": "https://t.co/0tokBnS6A6",
+        "username": "Ace_Purin",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-03T17:57:03.000Z",
+        "description": "я убил в себе ребенка запинав его ногами /20/",
+        "id": "2062231036566634496",
+        "name": "Drug Addicted Degen",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062943864772784128/JMTQaM_H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 134,
+          "following_count": 44,
+          "like_count": 366,
+          "listed_count": 1,
+          "media_count": 17,
+          "tweet_count": 771
+        },
+        "url": "",
+        "username": "drugs515",
+        "verified": false
+      }
+    ]
+  }
+}

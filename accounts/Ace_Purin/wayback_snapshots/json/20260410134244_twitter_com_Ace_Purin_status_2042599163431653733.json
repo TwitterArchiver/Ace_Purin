@@ -1,0 +1,434 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2042100042077442048",
+        "3_2042100042085883904"
+      ],
+      "media_source_tweet_id": [
+        "2042100048599666904",
+        "2042100048599666904"
+      ]
+    },
+    "author_id": "1949348575378644992",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Visual Arts",
+          "id": "1046577790353428480",
+          "name": "Visual arts"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1265660441822281728",
+          "name": "Art"
+        }
+      }
+    ],
+    "conversation_id": "2042599163431653733",
+    "created_at": "2026-04-10T13:42:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-10T14:42:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042599163431653733"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1992025396246888448",
+          "start": 3,
+          "username": "Adachis"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/tCXH7JQ6eL",
+          "end": 128,
+          "expanded_url": "https://x.com/Adachis/status/2042100048599666904/photo/1",
+          "media_key": "3_2042100042077442048",
+          "start": 105,
+          "url": "https://t.co/tCXH7JQ6eL"
+        },
+        {
+          "display_url": "pic.x.com/tCXH7JQ6eL",
+          "end": 128,
+          "expanded_url": "https://x.com/Adachis/status/2042100048599666904/photo/1",
+          "media_key": "3_2042100042085883904",
+          "start": 105,
+          "url": "https://t.co/tCXH7JQ6eL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042599163431653733",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 483
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042100048599666904",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Adachis: HES SO UGLY HOW DO PEOPLE DRAW I CANT DO THIS IM GONNA CRY I JUST WANNA START MAKING ART 😭😭 https://t.co/tCXH7JQ6eL"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2042100042077442048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFb_KzPWEAA2SKx.jpg",
+        "width": 1724
+      },
+      {
+        "height": 464,
+        "media_key": "3_2042100042085883904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFb_KzRW4AA2cog.jpg",
+        "width": 416
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042100042077442048",
+            "3_2042100042085883904"
+          ],
+          "media_source_tweet_id": [
+            "2042100048599666904",
+            "2042100048599666904"
+          ]
+        },
+        "author_id": "1949348575378644992",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "2042599163431653733",
+        "created_at": "2026-04-10T13:42:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T14:42:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042599163431653733"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1992025396246888448",
+              "start": 3,
+              "username": "Adachis"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/tCXH7JQ6eL",
+              "end": 128,
+              "expanded_url": "https://x.com/Adachis/status/2042100048599666904/photo/1",
+              "media_key": "3_2042100042077442048",
+              "start": 105,
+              "url": "https://t.co/tCXH7JQ6eL"
+            },
+            {
+              "display_url": "pic.x.com/tCXH7JQ6eL",
+              "end": 128,
+              "expanded_url": "https://x.com/Adachis/status/2042100048599666904/photo/1",
+              "media_key": "3_2042100042085883904",
+              "start": 105,
+              "url": "https://t.co/tCXH7JQ6eL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042599163431653733",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 483
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042100048599666904",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Adachis: HES SO UGLY HOW DO PEOPLE DRAW I CANT DO THIS IM GONNA CRY I JUST WANNA START MAKING ART 😭😭 https://t.co/tCXH7JQ6eL"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042100042077442048",
+            "3_2042100042085883904"
+          ]
+        },
+        "author_id": "1992025396246888448",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "2042100048599666904",
+        "created_at": "2026-04-09T04:39:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T05:39:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042100048599666904"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tCXH7JQ6eL",
+              "end": 115,
+              "expanded_url": "https://x.com/Adachis/status/2042100048599666904/photo/1",
+              "media_key": "3_2042100042077442048",
+              "start": 92,
+              "url": "https://t.co/tCXH7JQ6eL"
+            },
+            {
+              "display_url": "pic.x.com/tCXH7JQ6eL",
+              "end": 115,
+              "expanded_url": "https://x.com/Adachis/status/2042100048599666904/photo/1",
+              "media_key": "3_2042100042085883904",
+              "start": 92,
+              "url": "https://t.co/tCXH7JQ6eL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042100048599666904",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 237,
+          "impression_count": 83520,
+          "like_count": 5213,
+          "quote_count": 54,
+          "reply_count": 67,
+          "retweet_count": 483
+        },
+        "reply_settings": "everyone",
+        "text": "HES SO UGLY HOW DO PEOPLE DRAW I CANT DO THIS IM GONNA CRY I JUST WANNA START MAKING ART 😭😭 https://t.co/tCXH7JQ6eL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-27T05:58:17.000Z",
+        "description": "如果能成为你害怕失去的人就好了｜💊 SH｜被block就是你的错",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ace_purin",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ace_purin",
+                "start": 0,
+                "url": "https://t.co/PkWlzvseLZ"
+              }
+            ]
+          }
+        },
+        "id": "1949348575378644992",
+        "location": "メジコン",
+        "name": "永雏布丁",
+        "pinned_tweet_id": "2033851547843719390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041031144146423808/f-TPgWl2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 103,
+          "following_count": 142,
+          "like_count": 1246,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 875
+        },
+        "url": "https://t.co/PkWlzvseLZ",
+        "username": "Ace_Purin",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-22T00:21:05.000Z",
+        "description": "XG • Persona • J-Horror",
+        "id": "1992025396246888448",
+        "location": "Inside a TV",
+        "name": "🚨ᴀᴅᴀᴄʜɪ²🚨",
+        "pinned_tweet_id": "2041719543341408764",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041724163287871489/_t_jrvCS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 396,
+          "following_count": 2643,
+          "like_count": 22241,
+          "listed_count": 1,
+          "media_count": 237,
+          "tweet_count": 738
+        },
+        "username": "Adachis",
+        "verified": false
+      }
+    ]
+  }
+}

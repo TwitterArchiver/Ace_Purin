@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1949348575378644992",
+    "conversation_id": "2058082532705570960",
+    "created_at": "2026-05-23T08:50:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-23T09:50:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058108175812096322"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "289298525",
+          "start": 0,
+          "username": "jiandu23333"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058108175812096322",
+    "in_reply_to_user_id": "289298525",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058082532705570960",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jiandu23333 耶咦"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2058082529819951104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI_HKBxbAAAmB1r.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1949348575378644992",
+        "conversation_id": "2058082532705570960",
+        "created_at": "2026-05-23T08:50:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T09:50:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058108175812096322"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "289298525",
+              "start": 0,
+              "username": "jiandu23333"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058108175812096322",
+        "in_reply_to_user_id": "289298525",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058082532705570960",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jiandu23333 耶咦"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058082529819951104"
+          ]
+        },
+        "author_id": "289298525",
+        "conversation_id": "2058082532705570960",
+        "created_at": "2026-05-23T07:08:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T08:08:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058082532705570960"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MA41MQr3Nk",
+              "end": 23,
+              "expanded_url": "https://x.com/jiandu23333/status/2058082532705570960/photo/1",
+              "media_key": "3_2058082529819951104",
+              "start": 0,
+              "url": "https://t.co/MA41MQr3Nk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058082532705570960",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 42,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/MA41MQr3Nk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-27T05:58:17.000Z",
+        "description": "喜欢@qngshu988723424｜💊 SH｜被block就是你的错",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 2,
+                "username": "qngshu988723424"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ace_purin",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ace_purin",
+                "start": 0,
+                "url": "https://t.co/0tokBnS6A6"
+              }
+            ]
+          }
+        },
+        "id": "1949348575378644992",
+        "location": "メジコン",
+        "name": "永雏布丁",
+        "pinned_tweet_id": "2033851547843719390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041031144146423808/f-TPgWl2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 189,
+          "following_count": 226,
+          "like_count": 2708,
+          "listed_count": 0,
+          "media_count": 69,
+          "tweet_count": 1898
+        },
+        "url": "https://t.co/0tokBnS6A6",
+        "username": "Ace_Purin",
+        "verified": false
+      },
+      {
+        "created_at": "2011-04-28T11:50:45.000Z",
+        "description": "非常好吃的饼酱/顺男/大一/INTP/2006.11.06出厂/19+/轻度游戏爱好/ 東方/互fo私信/应急联系TG:https://t.co/92LpqENzXE 颓废中/提问箱在这↓/不回消息就是在上课/",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/jiandu23333/",
+                "end": 83,
+                "expanded_url": "http://t.me/jiandu23333/",
+                "start": 60,
+                "url": "https://t.co/92LpqENzXE"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jiandu23333",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jiandu23333",
+                "start": 0,
+                "url": "https://t.co/uJDpdOozk8"
+              }
+            ]
+          }
+        },
+        "id": "289298525",
+        "location": "Hong Kong",
+        "name": "饼酱",
+        "pinned_tweet_id": "2057000915958485201",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056953754373787648/LG4lBeDA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 77,
+          "following_count": 249,
+          "like_count": 4442,
+          "listed_count": 0,
+          "media_count": 58,
+          "tweet_count": 193
+        },
+        "url": "https://t.co/uJDpdOozk8",
+        "username": "jiandu23333",
+        "verified": false
+      }
+    ]
+  }
+}

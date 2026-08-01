@@ -1,0 +1,161 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2033535226396438528"
+      ]
+    },
+    "author_id": "1949348575378644992",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2033535235410079877",
+    "created_at": "2026-03-16T13:25:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-16T14:25:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2033535235410079877"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/oDNun8NIlr",
+          "end": 32,
+          "expanded_url": "https://x.com/Ace_Purin/status/2033535235410079877/photo/1",
+          "media_key": "3_2033535226396438528",
+          "start": 9,
+          "url": "https://t.co/oDNun8NIlr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033535235410079877",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我看手机是这样的 https://t.co/oDNun8NIlr"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2033535226396438528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDiRg6eacAANC7V.jpg",
+        "width": 944
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2033535226396438528"
+          ]
+        },
+        "author_id": "1949348575378644992",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2033535235410079877",
+        "created_at": "2026-03-16T13:25:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-16T14:25:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033535235410079877"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oDNun8NIlr",
+              "end": 32,
+              "expanded_url": "https://x.com/Ace_Purin/status/2033535235410079877/photo/1",
+              "media_key": "3_2033535226396438528",
+              "start": 9,
+              "url": "https://t.co/oDNun8NIlr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033535235410079877",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我看手机是这样的 https://t.co/oDNun8NIlr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-27T05:58:17.000Z",
+        "description": "我好像在哪见过你｜💊 SH｜被block就是你的错",
+        "id": "1949348575378644992",
+        "location": "メジコン",
+        "name": "永雏布丁",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031639335355990017/gySUFS_N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 42,
+          "like_count": 55,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 107
+        },
+        "username": "Ace_Purin",
+        "verified": false
+      }
+    ]
+  }
+}

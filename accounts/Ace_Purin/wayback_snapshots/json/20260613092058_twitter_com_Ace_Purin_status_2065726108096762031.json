@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1949348575378644992",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10045225402",
+          "name": "X"
+        }
+      }
+    ],
+    "conversation_id": "2065726108096762031",
+    "created_at": "2026-06-13T09:20:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T10:20:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2065726108096762031"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/akechigowou/st…",
+          "end": 45,
+          "expanded_url": "https://twitter.com/akechigowou/status/2065182529137598599",
+          "start": 22,
+          "url": "https://t.co/lDBY2nlJit"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065726108096762031",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065182529137598599",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "警察真的会因为我在微博上发坏消息就来我家。 https://t.co/lDBY2nlJit"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1949348575378644992",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2065726108096762031",
+        "created_at": "2026-06-13T09:20:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T10:20:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065726108096762031"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/akechigowou/st…",
+              "end": 45,
+              "expanded_url": "https://twitter.com/akechigowou/status/2065182529137598599",
+              "start": 22,
+              "url": "https://t.co/lDBY2nlJit"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065726108096762031",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065182529137598599",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "警察真的会因为我在微博上发坏消息就来我家。 https://t.co/lDBY2nlJit"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984990109025112064",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2065182529137598599",
+        "created_at": "2026-06-11T21:20:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T22:20:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065182529137598599"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2065182529137598599",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 53,
+          "impression_count": 36472,
+          "like_count": 2826,
+          "quote_count": 34,
+          "reply_count": 101,
+          "retweet_count": 272
+        },
+        "reply_settings": "everyone",
+        "text": "are the police actually gonna come to my house if i tweet bad things"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-27T05:58:17.000Z",
+        "description": "喜欢@qngshu988723424｜💊 SH｜被block就是你的错",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 2,
+                "username": "qngshu988723424"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ace_purin",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ace_purin",
+                "start": 0,
+                "url": "https://t.co/0tokBnS6A6"
+              }
+            ]
+          }
+        },
+        "id": "1949348575378644992",
+        "location": "メジコン",
+        "name": "永雏布丁",
+        "pinned_tweet_id": "2033851547843719390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041031144146423808/f-TPgWl2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 235,
+          "following_count": 272,
+          "like_count": 3241,
+          "listed_count": 0,
+          "media_count": 79,
+          "tweet_count": 2222
+        },
+        "url": "https://t.co/0tokBnS6A6",
+        "username": "Ace_Purin",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-02T14:25:14.000Z",
+        "description": "shed building twitter , , bmi 14.0\nhe/him 16                  \npriv @asketchygoro",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 81,
+                "start": 68,
+                "username": "asketchygoro"
+              }
+            ]
+          }
+        },
+        "id": "1984990109025112064",
+        "location": "no dni ibf",
+        "name": "siel",
+        "pinned_tweet_id": "2052915690206638507",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064659728278450176/zWdb-jEy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3055,
+          "following_count": 2710,
+          "like_count": 31742,
+          "listed_count": 37,
+          "media_count": 254,
+          "tweet_count": 5821
+        },
+        "username": "akechigowou",
+        "verified": false
+      }
+    ]
+  }
+}

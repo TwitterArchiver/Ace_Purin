@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1949348575378644992",
+    "conversation_id": "2082448119078535445",
+    "created_at": "2026-07-29T13:07:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T14:07:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082452905207222706"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2071829712306118656",
+          "start": 0,
+          "username": "PHeeeead"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082452905207222706",
+    "in_reply_to_user_id": "2071829712306118656",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082448119078535445",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@PHeeeead 🫂🫂辛苦了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1949348575378644992",
+        "conversation_id": "2082448119078535445",
+        "created_at": "2026-07-29T13:07:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T14:07:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082452905207222706"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2071829712306118656",
+              "start": 0,
+              "username": "PHeeeead"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082452905207222706",
+        "in_reply_to_user_id": "2071829712306118656",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082448119078535445",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PHeeeead 🫂🫂辛苦了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2071829712306118656",
+        "conversation_id": "2082448119078535445",
+        "created_at": "2026-07-29T12:48:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T13:48:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082448119078535445"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2082448119078535445",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 31,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我不明白为什么人的命途为什么会这么的多舛。每次拿到手好点的牌我都忍不住的窃喜这把肯定能成。就在我还在美美幻想的时候。意外发现对面比我还要好上十倍。三下五除二全都给我弄死过去了。我不理解也不懂。说好的人人平等呢。我怎么一点儿在这个世界里面没体会到。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-27T05:58:17.000Z",
+        "description": "爱人@qngshu988723424｜💊 SH｜被block就是你的错",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 2,
+                "username": "qngshu988723424"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ace_purin",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ace_purin",
+                "start": 0,
+                "url": "https://t.co/PkWlzvseLZ"
+              }
+            ]
+          }
+        },
+        "id": "1949348575378644992",
+        "location": "メジコン",
+        "name": "永雏布丁",
+        "pinned_tweet_id": "2033851547843719390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041031144146423808/f-TPgWl2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 326,
+          "following_count": 383,
+          "like_count": 3984,
+          "listed_count": 0,
+          "media_count": 98,
+          "tweet_count": 2762
+        },
+        "url": "https://t.co/PkWlzvseLZ",
+        "username": "Ace_Purin",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-30T05:36:15.000Z",
+        "description": "精神病 ,大多时候不清醒、无力。除了黄推都会回fo🖤 @PalomoLim",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 27,
+                "username": "PalomoLim"
+              }
+            ]
+          }
+        },
+        "id": "2071829712306118656",
+        "name": "𝑭𝑫",
+        "pinned_tweet_id": "2072021687835689395",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071830638424997888/sWq9AkOw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 79,
+          "following_count": 77,
+          "like_count": 4263,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 221
+        },
+        "url": "",
+        "username": "PHeeeead",
+        "verified": false
+      }
+    ]
+  }
+}

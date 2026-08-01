@@ -1,0 +1,279 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1949348575378644992",
+    "conversation_id": "2058433806835777749",
+    "created_at": "2026-05-24T10:25:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-24T11:25:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058494470421946742"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1810962908987396096",
+          "start": 0,
+          "username": "SakurazakiAiko"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058494470421946742",
+    "in_reply_to_user_id": "1810962908987396096",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058433806835777749",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SakurazakiAiko 原…原汤化原食"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1233,
+        "media_key": "3_2058433774371872768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJEGnJsaIAAZYaL.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2058433797788684288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJEGog7aUAADUZK.jpg",
+        "width": 2027
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1949348575378644992",
+        "conversation_id": "2058433806835777749",
+        "created_at": "2026-05-24T10:25:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T11:25:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058494470421946742"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1810962908987396096",
+              "start": 0,
+              "username": "SakurazakiAiko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058494470421946742",
+        "in_reply_to_user_id": "1810962908987396096",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058433806835777749",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SakurazakiAiko 原…原汤化原食"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058433774371872768",
+            "3_2058433797788684288"
+          ]
+        },
+        "author_id": "1810962908987396096",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2058433806835777749",
+        "created_at": "2026-05-24T06:23:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T07:23:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058433806835777749"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/o98WB0Uh8G",
+              "end": 72,
+              "expanded_url": "https://x.com/SakurazakiAiko/status/2058433806835777749/photo/1",
+              "media_key": "3_2058433774371872768",
+              "start": 49,
+              "url": "https://t.co/o98WB0Uh8G"
+            },
+            {
+              "display_url": "pic.x.com/o98WB0Uh8G",
+              "end": 72,
+              "expanded_url": "https://x.com/SakurazakiAiko/status/2058433806835777749/photo/1",
+              "media_key": "3_2058433797788684288",
+              "start": 49,
+              "url": "https://t.co/o98WB0Uh8G"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058433806835777749",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 166,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "不要學喝普瑞原漿，我喝普瑞原漿一晚，直接喝暈過去早上倒了三小時\n\n打遊戲都飄得不行，不要學這個呀 https://t.co/o98WB0Uh8G"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-27T05:58:17.000Z",
+        "description": "喜欢@qngshu988723424｜💊 SH｜被block就是你的错",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 2,
+                "username": "qngshu988723424"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ace_purin",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ace_purin",
+                "start": 0,
+                "url": "https://t.co/0tokBnS6A6"
+              }
+            ]
+          }
+        },
+        "id": "1949348575378644992",
+        "location": "メジコン",
+        "name": "永雏布丁",
+        "pinned_tweet_id": "2033851547843719390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041031144146423808/f-TPgWl2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 191,
+          "following_count": 227,
+          "like_count": 2747,
+          "listed_count": 0,
+          "media_count": 70,
+          "tweet_count": 1923
+        },
+        "url": "https://t.co/0tokBnS6A6",
+        "username": "Ace_Purin",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-10T09:03:21.000Z",
+        "description": "@LunaticNight06 （就是原來的 @Poetry_Luna ）和 @Partono8964 ，她們都是我的所愛\nHRT🏳️‍⚧️三年半的小資歷，毫無行動力的廢物魚魚蒸，滿腦子粉紅泡泡 不切實際的戀愛腦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 0,
+                "username": "LunaticNight06"
+              },
+              {
+                "end": 35,
+                "start": 23,
+                "username": "Poetry_Luna"
+              },
+              {
+                "end": 51,
+                "start": 39,
+                "username": "Partono8964"
+              }
+            ]
+          }
+        },
+        "id": "1810962908987396096",
+        "location": "Silverymoon",
+        "name": "SakurazakiAiko🌸🍥",
+        "pinned_tweet_id": "2022941637668933844",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040085700612362240/VSSbNBT0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 405,
+          "following_count": 111,
+          "like_count": 16470,
+          "listed_count": 1,
+          "media_count": 119,
+          "tweet_count": 4305
+        },
+        "username": "SakurazakiAiko",
+        "verified": false
+      }
+    ]
+  }
+}

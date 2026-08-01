@@ -1,0 +1,310 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1949348575378644992",
+    "conversation_id": "2066092849024864646",
+    "created_at": "2026-06-14T10:56:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T11:56:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066112590611443889"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1733217384050384896",
+          "start": 0,
+          "username": "KK_Paqu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066112590611443889",
+    "in_reply_to_user_id": "1733217384050384896",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066092849024864646",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KK_Paqu 好漂亮！我很喜欢配色🤤"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2066092835074678785",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKw8fKObIAEBm9Z.jpg",
+        "width": 1535
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2066092835070472192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKw8fKNa8AAw_Zn.jpg",
+        "width": 1535
+      },
+      {
+        "height": 735,
+        "media_key": "3_2066092835074678786",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKw8fKObIAItBU4.jpg",
+        "width": 1099
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2066092835070410752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKw8fKNaAAAIYAA.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1949348575378644992",
+        "conversation_id": "2066092849024864646",
+        "created_at": "2026-06-14T10:56:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T11:56:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066112590611443889"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1733217384050384896",
+              "start": 0,
+              "username": "KK_Paqu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066112590611443889",
+        "in_reply_to_user_id": "1733217384050384896",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066092849024864646",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KK_Paqu 好漂亮！我很喜欢配色🤤"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066092835074678785",
+            "3_2066092835070472192",
+            "3_2066092835074678786",
+            "3_2066092835070410752"
+          ]
+        },
+        "author_id": "1733217384050384896",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          }
+        ],
+        "conversation_id": "2066092849024864646",
+        "created_at": "2026-06-14T09:38:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T10:38:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066092849024864646"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 9,
+              "start": 2,
+              "tag": "Sombra"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/TNlWl5sYwf",
+              "end": 48,
+              "expanded_url": "https://x.com/KK_Paqu/status/2066092849024864646/photo/1",
+              "media_key": "3_2066092835074678785",
+              "start": 25,
+              "url": "https://t.co/TNlWl5sYwf"
+            },
+            {
+              "display_url": "pic.x.com/TNlWl5sYwf",
+              "end": 48,
+              "expanded_url": "https://x.com/KK_Paqu/status/2066092849024864646/photo/1",
+              "media_key": "3_2066092835070472192",
+              "start": 25,
+              "url": "https://t.co/TNlWl5sYwf"
+            },
+            {
+              "display_url": "pic.x.com/TNlWl5sYwf",
+              "end": 48,
+              "expanded_url": "https://x.com/KK_Paqu/status/2066092849024864646/photo/1",
+              "media_key": "3_2066092835074678786",
+              "start": 25,
+              "url": "https://t.co/TNlWl5sYwf"
+            },
+            {
+              "display_url": "pic.x.com/TNlWl5sYwf",
+              "end": 48,
+              "expanded_url": "https://x.com/KK_Paqu/status/2066092849024864646/photo/1",
+              "media_key": "3_2066092835070410752",
+              "start": 25,
+              "url": "https://t.co/TNlWl5sYwf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066092849024864646",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "爱 #Sombra  TV 发力了 超喜欢新美甲 https://t.co/TNlWl5sYwf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-27T05:58:17.000Z",
+        "description": "喜欢@qngshu988723424｜💊 SH｜被block就是你的错",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 2,
+                "username": "qngshu988723424"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ace_purin",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ace_purin",
+                "start": 0,
+                "url": "https://t.co/0tokBnS6A6"
+              }
+            ]
+          }
+        },
+        "id": "1949348575378644992",
+        "location": "メジコン",
+        "name": "永雏布丁",
+        "pinned_tweet_id": "2033851547843719390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041031144146423808/f-TPgWl2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 237,
+          "following_count": 273,
+          "like_count": 3272,
+          "listed_count": 0,
+          "media_count": 79,
+          "tweet_count": 2239
+        },
+        "url": "https://t.co/0tokBnS6A6",
+        "username": "Ace_Purin",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-08T20:10:25.000Z",
+        "description": "Oktopus-Typ-Seite. Kein Sozialkram, draußen bleiben! Bock auf meine Army-Maske? Zeig's dir, aber zahle Provision! Cool, oder?@482xxnay说让我学中文！\nthey 随你喜欢 oc 游戏",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 134,
+                "start": 125,
+                "username": "482xxnay"
+              }
+            ]
+          }
+        },
+        "id": "1733217384050384896",
+        "location": "Tyrol, AUT",
+        "name": "盐和肉鸦都被制了3.0",
+        "pinned_tweet_id": "1733249302708064727",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063849171778682880/Rht4UaWo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 149,
+          "following_count": 176,
+          "like_count": 631,
+          "listed_count": 0,
+          "media_count": 61,
+          "tweet_count": 470
+        },
+        "username": "KK_Paqu",
+        "verified": false
+      }
+    ]
+  }
+}

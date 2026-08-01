@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1949348575378644992",
+    "conversation_id": "2080007011463537052",
+    "created_at": "2026-07-22T19:08:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-22T20:08:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080007011463537052"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2014977858561556480",
+          "start": 3,
+          "username": "ayogiovanna"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080007011463537052",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 156
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079495793732465103",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ayogiovanna: A friend of mine is autistic. He once apologized for talking too much, then apologized for being too quiet ten minutes lat…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1949348575378644992",
+        "conversation_id": "2080007011463537052",
+        "created_at": "2026-07-22T19:08:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T20:08:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080007011463537052"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2014977858561556480",
+              "start": 3,
+              "username": "ayogiovanna"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080007011463537052",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 156
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079495793732465103",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ayogiovanna: A friend of mine is autistic. He once apologized for talking too much, then apologized for being too quiet ten minutes lat…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2014977858561556480",
+        "conversation_id": "2079495793732465103",
+        "created_at": "2026-07-21T09:16:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T10:16:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079495793732465103"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2079495793732465103",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 292,
+          "impression_count": 53820,
+          "like_count": 2726,
+          "quote_count": 12,
+          "reply_count": 9,
+          "retweet_count": 156
+        },
+        "reply_settings": "everyone",
+        "text": "A friend of mine is autistic. He once apologized for talking too much, then apologized for being too quiet ten minutes later. That really changed how I think about masking"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-27T05:58:17.000Z",
+        "description": "爱人@qngshu988723424｜💊 SH｜被block就是你的错",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 2,
+                "username": "qngshu988723424"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ace_purin",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ace_purin",
+                "start": 0,
+                "url": "https://t.co/PkWlzvseLZ"
+              }
+            ]
+          }
+        },
+        "id": "1949348575378644992",
+        "location": "メジコン",
+        "name": "永雏布丁",
+        "pinned_tweet_id": "2033851547843719390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041031144146423808/f-TPgWl2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 264,
+          "following_count": 322,
+          "like_count": 3709,
+          "listed_count": 0,
+          "media_count": 87,
+          "tweet_count": 2574
+        },
+        "url": "https://t.co/PkWlzvseLZ",
+        "username": "Ace_Purin",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-24T08:25:47.000Z",
+        "description": "Always in my head space.\n\n55403",
+        "id": "2014977858561556480",
+        "name": "𝓐⭑",
+        "pinned_tweet_id": "2079990719649837442",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036346824840069120/TpCT5Gu6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1484,
+          "following_count": 560,
+          "like_count": 20659,
+          "listed_count": 3,
+          "media_count": 57,
+          "tweet_count": 13890
+        },
+        "url": "",
+        "username": "ayogiovanna",
+        "verified": true
+      }
+    ]
+  }
+}

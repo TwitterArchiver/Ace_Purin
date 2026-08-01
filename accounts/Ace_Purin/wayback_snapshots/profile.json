@@ -1,0 +1,20 @@
+{
+  "name": "永雏布丁",
+  "username": "@Ace_Purin",
+  "bio": "爱人@qngshu988723424｜💊 SH｜被block就是你的错",
+  "location": "メジコン",
+  "link": "https://ngl.link/ace_purin",
+  "avatar": "avatar/avatar.jpg",
+  "banner": "avatar/1500x500.jpg",
+  "pinned": "",
+  "bio_entities": {
+    "mentions": [
+      {
+        "end": 18,
+        "start": 2,
+        "username": "qngshu988723424"
+      }
+    ]
+  },
+  "_avatar_source": "https://pbs.twimg.com/profile_images/2041031144146423808/f-TPgWl2_normal.jpg"
+}

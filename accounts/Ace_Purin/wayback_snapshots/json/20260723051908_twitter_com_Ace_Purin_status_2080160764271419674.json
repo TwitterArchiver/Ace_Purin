@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1949348575378644992",
+    "conversation_id": "2079612982938739164",
+    "created_at": "2026-07-23T05:19:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T06:19:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080160764271419674"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1966372495440941056",
+          "start": 0,
+          "username": "hw14vAWcAK58107"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080160764271419674",
+    "in_reply_to_user_id": "1966372495440941056",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080046906160615567",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hw14vAWcAK58107 这世界上还有很多的低谷"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1949348575378644992",
+        "conversation_id": "2079612982938739164",
+        "created_at": "2026-07-23T05:19:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T06:19:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080160764271419674"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1966372495440941056",
+              "start": 0,
+              "username": "hw14vAWcAK58107"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080160764271419674",
+        "in_reply_to_user_id": "1966372495440941056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080046906160615567",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hw14vAWcAK58107 这世界上还有很多的低谷"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1966372495440941056",
+        "conversation_id": "2079612982938739164",
+        "created_at": "2026-07-22T21:46:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T22:46:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080046906160615567"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1949348575378644992",
+              "start": 0,
+              "username": "Ace_Purin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080046906160615567",
+        "in_reply_to_user_id": "1949348575378644992",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079612982938739164",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ace_Purin o后感"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-27T05:58:17.000Z",
+        "description": "爱人@qngshu988723424｜💊 SH｜被block就是你的错",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 2,
+                "username": "qngshu988723424"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ace_purin",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ace_purin",
+                "start": 0,
+                "url": "https://t.co/PkWlzvseLZ"
+              }
+            ]
+          }
+        },
+        "id": "1949348575378644992",
+        "location": "メジコン",
+        "name": "永雏布丁",
+        "pinned_tweet_id": "2033851547843719390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041031144146423808/f-TPgWl2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 267,
+          "following_count": 325,
+          "like_count": 3715,
+          "listed_count": 0,
+          "media_count": 88,
+          "tweet_count": 2581
+        },
+        "url": "https://t.co/PkWlzvseLZ",
+        "username": "Ace_Purin",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-12T05:25:25.000Z",
+        "description": "无人在意的音游人|and不知道怎么写简介遂摆烂的|求互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ask83110",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ask83110",
+                "start": 0,
+                "url": "https://t.co/1BlIGSzGaL"
+              }
+            ]
+          }
+        },
+        "id": "1966372495440941056",
+        "location": "Koto-ku, Tokyo",
+        "name": "﹋o﹋",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044483905995350016/eVpd5b6T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49,
+          "following_count": 281,
+          "like_count": 101,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 171
+        },
+        "url": "https://t.co/1BlIGSzGaL",
+        "username": "hw14vAWcAK58107",
+        "verified": false
+      }
+    ]
+  }
+}

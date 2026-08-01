@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1949348575378644992",
+    "conversation_id": "2041423505611427987",
+    "created_at": "2026-04-08T09:43:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-08T10:43:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041814208191590550"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1920438574715154432",
+          "start": 0,
+          "username": "fayoubaike002"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041814208191590550",
+    "in_reply_to_user_id": "1920438574715154432",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041423505611427987",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fayoubaike002 我和鸡对视一眼，相拥而舞。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 746,
+        "media_key": "3_2041423502310531072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFSX3ANaYAAgkjA.jpg",
+        "width": 603
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1949348575378644992",
+        "conversation_id": "2041423505611427987",
+        "created_at": "2026-04-08T09:43:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T10:43:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041814208191590550"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1920438574715154432",
+              "start": 0,
+              "username": "fayoubaike002"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041814208191590550",
+        "in_reply_to_user_id": "1920438574715154432",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041423505611427987",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fayoubaike002 我和鸡对视一眼，相拥而舞。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041423502310531072"
+          ]
+        },
+        "author_id": "1920438574715154432",
+        "conversation_id": "2041423505611427987",
+        "created_at": "2026-04-07T07:51:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T08:51:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041423505611427987"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "DPT 小妹妹口服DPT，旭日下丢了性命。 她以为那是甜蜜的晨露，却成了永别的毒吻。 我在DPT的幻觉里和女鬼拥抱一万年 基本信息 受体结合 DPT的主要作用靶点是5-HT2A受体。在啮齿类行为模型中，选择性5-HT2A拮抗剂M100907对DPT行为效应的阻断是功能性不可逾越的，有力地证明了5-HT2A受体是DPT的核心作用位点。同时，5-HT1A拮抗剂WAY-100635也能产生可逾越的拮...",
+              "display_url": "fayou.fyi/%E5%85%B6%E4%B…",
+              "end": 82,
+              "expanded_url": "https://fayou.fyi/%E5%85%B6%E4%BB%96%E7%89%A9%E8%B4%A8/1277.html",
+              "start": 59,
+              "status": 200,
+              "title": "DPT",
+              "unwound_url": "https://fayou.fyi/%E5%85%B6%E4%BB%96%E7%89%A9%E8%B4%A8/1277.html",
+              "url": "https://t.co/YXvgzIE6rF"
+            },
+            {
+              "display_url": "pic.x.com/hCR2JdTwri",
+              "end": 106,
+              "expanded_url": "https://x.com/fayoubaike002/status/2041423505611427987/photo/1",
+              "media_key": "3_2041423502310531072",
+              "start": 83,
+              "url": "https://t.co/hCR2JdTwri"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041423505611427987",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 1057,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "小妹妹口服DPT，旭日下丢了性命。\n\n她以为那是甜蜜的晨露，却成了永别的毒吻。\n\n我在DPT的幻觉里和鸡哥拥抱一万年\nhttps://t.co/YXvgzIE6rF https://t.co/hCR2JdTwri"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-27T05:58:17.000Z",
+        "description": "如果能成为你害怕失去的人就好了｜💊 SH｜被block就是你的错",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ace_purin",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ace_purin",
+                "start": 0,
+                "url": "https://t.co/PkWlzvseLZ"
+              }
+            ]
+          }
+        },
+        "id": "1949348575378644992",
+        "location": "メジコン",
+        "name": "永雏布丁",
+        "pinned_tweet_id": "2033851547843719390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041031144146423808/f-TPgWl2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 94,
+          "following_count": 129,
+          "like_count": 1021,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 761
+        },
+        "url": "https://t.co/PkWlzvseLZ",
+        "username": "Ace_Purin",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-08T11:20:19.000Z",
+        "description": "TG交流群：https://t.co/Q0S9z9tNVv\nDC交流群：https://t.co/HId4n2CV2B",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/weizhanersheng…",
+                "end": 29,
+                "expanded_url": "https://t.me/weizhanersheng666",
+                "start": 6,
+                "url": "https://t.co/Q0S9z9tNVv"
+              },
+              {
+                "display_url": "discord.gg/XmNt8AXCEb",
+                "end": 59,
+                "expanded_url": "https://discord.gg/XmNt8AXCEb",
+                "start": 36,
+                "url": "https://t.co/HId4n2CV2B"
+              }
+            ]
+          }
+        },
+        "id": "1920438574715154432",
+        "name": "救赎百科",
+        "pinned_tweet_id": "2036728396714311988",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036726953869549568/CsU2778i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 184,
+          "following_count": 250,
+          "like_count": 48,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 96
+        },
+        "username": "fayoubaike002",
+        "verified": false
+      }
+    ]
+  }
+}

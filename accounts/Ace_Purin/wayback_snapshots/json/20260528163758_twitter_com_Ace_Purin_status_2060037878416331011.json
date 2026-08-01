@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2060035829649776640"
+      ],
+      "media_source_tweet_id": [
+        "2060035849631526953"
+      ]
+    },
+    "author_id": "1949348575378644992",
+    "conversation_id": "2060037878416331011",
+    "created_at": "2026-05-28T16:37:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T17:37:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060037878416331011"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1632832954421633029",
+          "start": 3,
+          "username": "482xxnay"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/wAXjrpQ4n5",
+          "end": 59,
+          "expanded_url": "https://x.com/482xxnay/status/2060035849631526953/photo/1",
+          "media_key": "3_2060035829649776640",
+          "start": 36,
+          "url": "https://t.co/wAXjrpQ4n5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060037878416331011",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060035849631526953",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @482xxnay: 我没保护好它\n2021.10–2026.5 https://t.co/wAXjrpQ4n5"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2060035829649776640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJa3rCraIAABLzK.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060035829649776640"
+          ],
+          "media_source_tweet_id": [
+            "2060035849631526953"
+          ]
+        },
+        "author_id": "1949348575378644992",
+        "conversation_id": "2060037878416331011",
+        "created_at": "2026-05-28T16:37:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T17:37:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060037878416331011"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1632832954421633029",
+              "start": 3,
+              "username": "482xxnay"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/wAXjrpQ4n5",
+              "end": 59,
+              "expanded_url": "https://x.com/482xxnay/status/2060035849631526953/photo/1",
+              "media_key": "3_2060035829649776640",
+              "start": 36,
+              "url": "https://t.co/wAXjrpQ4n5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060037878416331011",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060035849631526953",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @482xxnay: 我没保护好它\n2021.10–2026.5 https://t.co/wAXjrpQ4n5"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060035829649776640"
+          ]
+        },
+        "author_id": "1632832954421633029",
+        "conversation_id": "2060035849631526953",
+        "created_at": "2026-05-28T16:29:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T17:29:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060035849631526953"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wAXjrpQ4n5",
+              "end": 45,
+              "expanded_url": "https://x.com/482xxnay/status/2060035849631526953/photo/1",
+              "media_key": "3_2060035829649776640",
+              "start": 22,
+              "url": "https://t.co/wAXjrpQ4n5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060035849631526953",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我没保护好它\n2021.10–2026.5 https://t.co/wAXjrpQ4n5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-27T05:58:17.000Z",
+        "description": "喜欢@qngshu988723424｜💊 SH｜被block就是你的错",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 2,
+                "username": "qngshu988723424"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ace_purin",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ace_purin",
+                "start": 0,
+                "url": "https://t.co/0tokBnS6A6"
+              }
+            ]
+          }
+        },
+        "id": "1949348575378644992",
+        "location": "メジコン",
+        "name": "永雏布丁",
+        "pinned_tweet_id": "2033851547843719390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041031144146423808/f-TPgWl2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 205,
+          "following_count": 245,
+          "like_count": 2888,
+          "listed_count": 0,
+          "media_count": 74,
+          "tweet_count": 2003
+        },
+        "url": "https://t.co/0tokBnS6A6",
+        "username": "Ace_Purin",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-06T19:58:19.000Z",
+        "description": "no way…！my life is so suck\n各类型一次性电子烟 烟弹 烟杆 锐克五六代杆子正品还有其他的杆子 冰熊 等 青海+10运费 禁发西藏/新疆/海南 库存消耗快 备注请填写主口味和备用口味 售后需要一口气的开箱视频不然没有视频拒绝守候 请拍摄第一次使用 不接急单 不接急单 如果可以请给我一些客返哦",
+        "id": "1632832954421633029",
+        "name": "im gay（yan的电子烟版）",
+        "pinned_tweet_id": "2052774374865006816",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052762986327240704/uZOTKK3r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 109,
+          "following_count": 532,
+          "like_count": 3979,
+          "listed_count": 0,
+          "media_count": 277,
+          "tweet_count": 4256
+        },
+        "username": "482xxnay",
+        "verified": false
+      }
+    ]
+  }
+}

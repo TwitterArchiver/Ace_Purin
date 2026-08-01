@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1949348575378644992",
+    "conversation_id": "2041865488154935557",
+    "created_at": "2026-04-10T04:02:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-10T05:02:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042453032756265149"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1971168102349144065",
+          "start": 0,
+          "username": "anni90083291396"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042453032756265149",
+    "in_reply_to_user_id": "1971168102349144065",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042435565543727223",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@anni90083291396 对哇对哇我们都是小朋友；；"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1949348575378644992",
+        "conversation_id": "2041865488154935557",
+        "created_at": "2026-04-10T04:02:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T05:02:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042453032756265149"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1971168102349144065",
+              "start": 0,
+              "username": "anni90083291396"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042453032756265149",
+        "in_reply_to_user_id": "1971168102349144065",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042435565543727223",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@anni90083291396 对哇对哇我们都是小朋友；；"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1971168102349144065",
+        "conversation_id": "2041865488154935557",
+        "created_at": "2026-04-10T02:52:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T03:52:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042435565543727223"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1949348575378644992",
+              "start": 0,
+              "username": "Ace_Purin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042435565543727223",
+        "in_reply_to_user_id": "1949348575378644992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041865488154935557",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ace_Purin 马上21了还是活的很懵逼，真的感觉自己只有16岁"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-27T05:58:17.000Z",
+        "description": "如果能成为你害怕失去的人就好了｜💊 SH｜被block就是你的错",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ace_purin",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ace_purin",
+                "start": 0,
+                "url": "https://t.co/PkWlzvseLZ"
+              }
+            ]
+          }
+        },
+        "id": "1949348575378644992",
+        "location": "メジコン",
+        "name": "永雏布丁",
+        "pinned_tweet_id": "2033851547843719390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041031144146423808/f-TPgWl2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 100,
+          "following_count": 137,
+          "like_count": 1155,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 830
+        },
+        "url": "https://t.co/PkWlzvseLZ",
+        "username": "Ace_Purin",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-25T11:01:25.000Z",
+        "description": "我爱你们",
+        "id": "1971168102349144065",
+        "location": "Kowloon City District",
+        "name": "anni",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038670308534833152/IEH2YiXr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 55,
+          "like_count": 141,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 87
+        },
+        "username": "anni90083291396",
+        "verified": false
+      }
+    ]
+  }
+}

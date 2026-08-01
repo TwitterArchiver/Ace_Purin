@@ -1,0 +1,438 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2042877819533787136"
+      ],
+      "media_source_tweet_id": [
+        "2042877869034975596"
+      ]
+    },
+    "author_id": "1949348575378644992",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "839543165002506240",
+          "name": "Anime"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839543165002506240",
+          "name": "Anime"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1297951101136732160",
+          "name": "Animation & comics"
+        }
+      }
+    ],
+    "conversation_id": "2043325768919560290",
+    "created_at": "2026-04-12T13:50:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-12T14:50:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043325768919560290"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1370466691940036609",
+          "start": 3,
+          "username": "anime_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/iUyrlQm43T",
+          "end": 72,
+          "expanded_url": "https://x.com/anime_/status/2042877869034975596/video/1",
+          "media_key": "7_2042877819533787136",
+          "start": 49,
+          "url": "https://t.co/iUyrlQm43T"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043325768919560290",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1514
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042877869034975596",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @anime_: One of the best confessions in anime https://t.co/iUyrlQm43T"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 88520,
+        "height": 888,
+        "media_key": "7_2042877819533787136",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2042877819533787136/pu/img/-2CaqgXCAL9ia4KS.jpg",
+        "public_metrics": {
+          "view_count": 123866
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2042877819533787136/pu/vid/avc1/476x270/x6-pv5rRFdLyARqZ.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2042877819533787136/pu/vid/avc1/634x360/VcAXTnwMECPD3GZU.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2042877819533787136/pu/vid/avc1/1268x720/g6QEQJO0SD600S9G.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2042877819533787136/pu/pl/mq7CKc56xn8MUT8U.m3u8?tag=12&v=cfe"
+          }
+        ],
+        "width": 1566
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2042877819533787136"
+          ],
+          "media_source_tweet_id": [
+            "2042877869034975596"
+          ]
+        },
+        "author_id": "1949348575378644992",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          }
+        ],
+        "conversation_id": "2043325768919560290",
+        "created_at": "2026-04-12T13:50:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T14:50:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043325768919560290"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1370466691940036609",
+              "start": 3,
+              "username": "anime_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/iUyrlQm43T",
+              "end": 72,
+              "expanded_url": "https://x.com/anime_/status/2042877869034975596/video/1",
+              "media_key": "7_2042877819533787136",
+              "start": 49,
+              "url": "https://t.co/iUyrlQm43T"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043325768919560290",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1514
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042877869034975596",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @anime_: One of the best confessions in anime https://t.co/iUyrlQm43T"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2042877819533787136"
+          ]
+        },
+        "author_id": "1370466691940036609",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          }
+        ],
+        "conversation_id": "2042877869034975596",
+        "created_at": "2026-04-11T08:10:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T09:10:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042877869034975596"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/iUyrlQm43T",
+              "end": 60,
+              "expanded_url": "https://x.com/anime_/status/2042877869034975596/video/1",
+              "media_key": "7_2042877819533787136",
+              "start": 37,
+              "url": "https://t.co/iUyrlQm43T"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042877869034975596",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1429,
+          "impression_count": 287542,
+          "like_count": 10890,
+          "quote_count": 157,
+          "reply_count": 26,
+          "retweet_count": 1514
+        },
+        "reply_settings": "everyone",
+        "text": "One of the best confessions in anime https://t.co/iUyrlQm43T"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-27T05:58:17.000Z",
+        "description": "如果能成为你害怕失去的人就好了｜💊 SH｜被block就是你的错",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ace_purin",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ace_purin",
+                "start": 0,
+                "url": "https://t.co/PkWlzvseLZ"
+              }
+            ]
+          }
+        },
+        "id": "1949348575378644992",
+        "location": "メジコン",
+        "name": "永雏布丁",
+        "pinned_tweet_id": "2033851547843719390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041031144146423808/f-TPgWl2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 106,
+          "following_count": 146,
+          "like_count": 1396,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 939
+        },
+        "url": "https://t.co/PkWlzvseLZ",
+        "username": "Ace_Purin",
+        "verified": false
+      },
+      {
+        "created_at": "2021-03-12T20:08:48.000Z",
+        "description": "aesthetic anime clips & images",
+        "id": "1370466691940036609",
+        "name": "Anime Aesthetics",
+        "pinned_tweet_id": "2041820867454284026",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1879794189543559168/DGGYw4iM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1852793,
+          "following_count": 75,
+          "like_count": 5866,
+          "listed_count": 2602,
+          "media_count": 13640,
+          "tweet_count": 14320
+        },
+        "username": "anime_",
+        "verified": true
+      }
+    ]
+  }
+}
