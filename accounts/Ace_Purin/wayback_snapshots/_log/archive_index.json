@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-08-07T15:15:14",
+  "last_updated": "2026-08-07T15:20:55",
   "html": {
     "https://web.archive.org/web/20260315073700if_/https://twitter.com/Ace_Purin/status/2033085036560527635": {
       "status": "done",
@@ -16708,22 +16708,22 @@
       "last_updated": "2026-08-01T01:22:29"
     },
     "https://pbs.twimg.com/profile_images/2008114252100538368/sA3Yh79k_normal.jpg": {
-      "status": "failed",
+      "status": "failed_all",
       "referenced_by": [
         "20260318015124_twitter_com_Ace_Purin_status_2034085228361486522.json"
       ],
-      "last_updated": "2026-08-01T02:51:30",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260318015124im_/https://pbs.twimg.com/profile_images/2008114252100538368/sA3Yh79k_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f7a1b2c0a70>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 4
+      "last_updated": "2026-08-07T15:15:39",
+      "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260318015124if_/https://pbs.twimg.com/profile_images/2008114252100538368/sA3Yh79k_normal.jpg",
+      "miss_count": 5
     },
     "https://pbs.twimg.com/profile_images/2021274026342219777/2qlrKqWg_normal.jpg": {
       "status": "failed",
       "referenced_by": [
         "20260318015138_twitter_com_Ace_Purin_status_2034085288700744019.json"
       ],
-      "last_updated": "2026-08-01T02:51:33",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260318015138im_/https://pbs.twimg.com/profile_images/2021274026342219777/2qlrKqWg_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f7a1b2c27b0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 4
+      "last_updated": "2026-08-07T15:16:02",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260318015138if_/https://pbs.twimg.com/profile_images/2021274026342219777/2qlrKqWg_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f35c0a2e240>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 6
     },
     "https://pbs.twimg.com/profile_images/1979282587441823744/rJVAp01e_normal.jpg": {
       "status": "done",
@@ -16737,9 +16737,9 @@
       "referenced_by": [
         "20260318015212_twitter_com_Ace_Purin_status_2034085431403499840.json"
       ],
-      "last_updated": "2026-08-01T02:51:38",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260318015212if_/https://pbs.twimg.com/profile_images/2031277869650030596/7go7NnSm_normal.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f7a1b79dd00>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 4
+      "last_updated": "2026-08-07T15:16:05",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260318015212if_/https://pbs.twimg.com/profile_images/2031277869650030596/7go7NnSm_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f35c0a2f8c0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 6
     },
     "https://pbs.twimg.com/profile_images/2031290772440641536/QNkKbty9_normal.jpg": {
       "status": "done",
@@ -16913,18 +16913,18 @@
         "20260328142123_twitter_com_Ace_Purin_status_2037897846813610244.json",
         "20260328155435_twitter_com_Ace_Purin_status_2037921300602409146.json"
       ],
-      "last_updated": "2026-08-01T02:51:42",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260328155435im_/https://pbs.twimg.com/profile_images/2028751493055356928/inRXyw9r_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f7a1b79c830>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 4
+      "last_updated": "2026-08-07T15:16:08",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260328155435if_/https://pbs.twimg.com/profile_images/2028751493055356928/inRXyw9r_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f35c0a9ca10>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 6
     },
     "https://pbs.twimg.com/profile_images/1995903518566436864/d9Gh6QGY_normal.jpg": {
-      "status": "failed",
+      "status": "failed_all",
       "referenced_by": [
         "20260320095310_twitter_com_Ace_Purin_status_2034931244350546273.json"
       ],
-      "last_updated": "2026-08-01T02:51:45",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260320095310im_/https://pbs.twimg.com/profile_images/1995903518566436864/d9Gh6QGY_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f7a1b7ba120>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 4
+      "last_updated": "2026-08-07T15:15:39",
+      "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260320095310if_/https://pbs.twimg.com/profile_images/1995903518566436864/d9Gh6QGY_normal.jpg",
+      "miss_count": 5
     },
     "https://pbs.twimg.com/profile_images/2010660572497666048/CL2FTU_a_normal.jpg": {
       "status": "done",
@@ -16954,18 +16954,18 @@
         "20260321151208_twitter_com_Ace_Purin_status_2035373903636545952.json",
         "20260321170140_twitter_com_Ace_Purin_status_2035401469118312668.json"
       ],
-      "last_updated": "2026-08-01T02:51:49",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260321170140im_/https://pbs.twimg.com/profile_images/2032725124051513344/DLkqnTjr_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f7a1b79dca0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 4
+      "last_updated": "2026-08-07T15:16:14",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260321170140if_/https://pbs.twimg.com/profile_images/2032725124051513344/DLkqnTjr_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f35c0a2c2f0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 6
     },
     "https://pbs.twimg.com/profile_images/2026510670276026368/bnaYubwV_normal.jpg": {
       "status": "failed",
       "referenced_by": [
         "20260321151326_twitter_com_Ace_Purin_status_2035374229676573171.json"
       ],
-      "last_updated": "2026-08-01T02:51:52",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260321151326im_/https://pbs.twimg.com/profile_images/2026510670276026368/bnaYubwV_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f7a1b7bb260>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 4
+      "last_updated": "2026-08-07T15:16:17",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260321151326if_/https://pbs.twimg.com/profile_images/2026510670276026368/bnaYubwV_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f35c0a5b170>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 6
     },
     "https://pbs.twimg.com/profile_images/2024930192469200896/-5swOKf5_normal.jpg": {
       "status": "done",
@@ -17032,9 +17032,9 @@
       "referenced_by": [
         "20260324074027_twitter_com_Ace_Purin_status_2036347395760660499.json"
       ],
-      "last_updated": "2026-08-01T02:51:56",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260324074027im_/https://pbs.twimg.com/profile_images/2030533545626877952/XkC0-vBT_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f7a1b79fa40>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 4
+      "last_updated": "2026-08-07T15:16:23",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260324074027if_/https://pbs.twimg.com/profile_images/2030533545626877952/XkC0-vBT_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f35c0a9ede0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 6
     },
     "https://pbs.twimg.com/profile_images/2027609748909256704/xHIVymX5_normal.jpg": {
       "status": "done",
@@ -17304,18 +17304,18 @@
       "referenced_by": [
         "20260326160650_twitter_com_Ace_Purin_status_2037199607785238659.json"
       ],
-      "last_updated": "2026-08-01T02:51:59",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260326160650im_/https://pbs.twimg.com/profile_images/2035916441590145024/0vM7mXrF_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f7a1b2c1a00>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 4
+      "last_updated": "2026-08-07T15:16:27",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260326160650if_/https://pbs.twimg.com/profile_images/2035916441590145024/0vM7mXrF_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f35c0a5b800>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 6
     },
     "https://pbs.twimg.com/profile_images/2027247205061636096/iY8G1qRV_normal.jpg": {
       "status": "failed",
       "referenced_by": [
         "20260326160730_twitter_com_Ace_Purin_status_2037199773900693614.json"
       ],
-      "last_updated": "2026-08-01T02:52:02",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260326160730im_/https://pbs.twimg.com/profile_images/2027247205061636096/iY8G1qRV_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f7a1b7b8950>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 4
+      "last_updated": "2026-08-07T15:16:30",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260326160730if_/https://pbs.twimg.com/profile_images/2027247205061636096/iY8G1qRV_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f35c0a9f530>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 6
     },
     "https://pbs.twimg.com/profile_images/2026791231880368129/j4ztiHVS_normal.jpg": {
       "status": "failed",
@@ -17328,18 +17328,18 @@
         "20260409174627_twitter_com_Ace_Purin_status_2042298108219179310.json",
         "20260415041529_twitter_com_Ace_Purin_status_2044268348217966689.json"
       ],
-      "last_updated": "2026-08-01T02:52:06",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260415041529im_/https://pbs.twimg.com/profile_images/2026791231880368129/j4ztiHVS_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f7a1b7e0530>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 4
+      "last_updated": "2026-08-07T15:16:36",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260415041529if_/https://pbs.twimg.com/profile_images/2026791231880368129/j4ztiHVS_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f35c0a2f2c0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 6
     },
     "https://pbs.twimg.com/profile_images/2026695659236241410/ysqN-8vg_normal.jpg": {
       "status": "failed",
       "referenced_by": [
         "20260326160827_twitter_com_Ace_Purin_status_2037200016339853726.json"
       ],
-      "last_updated": "2026-08-01T02:52:10",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260326160827im_/https://pbs.twimg.com/profile_images/2026695659236241410/ysqN-8vg_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f7a1b7b91f0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 4
+      "last_updated": "2026-08-07T15:16:39",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260326160827if_/https://pbs.twimg.com/profile_images/2026695659236241410/ysqN-8vg_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f35c0a9db80>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 6
     },
     "https://pbs.twimg.com/profile_images/2036856496693403648/jb5WTIzP_normal.jpg": {
       "status": "done",
@@ -17355,9 +17355,9 @@
       "referenced_by": [
         "20260326160916_twitter_com_Ace_Purin_status_2037200219683905782.json"
       ],
-      "last_updated": "2026-08-01T02:52:13",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260326160916im_/https://pbs.twimg.com/profile_images/2036389650022146048/4C5Gkl0k_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f7a1b7e1130>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 4
+      "last_updated": "2026-08-07T15:16:43",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260326160916if_/https://pbs.twimg.com/profile_images/2036389650022146048/4C5Gkl0k_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f35c0a2da90>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 6
     },
     "https://pbs.twimg.com/profile_images/2031566012886429702/U5IORxIC_normal.jpg": {
       "status": "done",
@@ -17371,9 +17371,9 @@
       "referenced_by": [
         "20260326163210_twitter_com_Ace_Purin_status_2037205981898371113.json"
       ],
-      "last_updated": "2026-08-01T02:52:17",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260326163210im_/https://pbs.twimg.com/profile_images/2036098917797085184/9CsP6fu1_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f7a1b7b9580>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 4
+      "last_updated": "2026-08-07T15:16:47",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260326163210if_/https://pbs.twimg.com/profile_images/2036098917797085184/9CsP6fu1_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f35c090e660>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 6
     },
     "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg": {
       "status": "done",
@@ -17388,9 +17388,9 @@
       "referenced_by": [
         "20260328103415_twitter_com_Ace_Purin_status_2037840684917694836.json"
       ],
-      "last_updated": "2026-08-01T02:52:21",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260328103415im_/https://pbs.twimg.com/profile_images/1872566376185159680/LeyBFSAN_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f7a1b7e11c0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 4
+      "last_updated": "2026-08-07T15:16:52",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260328103415if_/https://pbs.twimg.com/profile_images/1872566376185159680/LeyBFSAN_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f35c0a9eb40>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 6
     },
     "https://pbs.twimg.com/profile_images/2037235493235286017/y6T_YAue_normal.jpg": {
       "status": "done",
@@ -17522,9 +17522,9 @@
         "20260428144022_twitter_com_Ace_Purin_status_2049136646231331175.json",
         "20260503012430_twitter_com_Ace_Purin_status_2050748299783897335.json"
       ],
-      "last_updated": "2026-08-01T02:52:25",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260503012430im_/https://pbs.twimg.com/profile_images/2038643162152144896/_KGKt9oH_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f7a1b7bb710>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 4
+      "last_updated": "2026-08-07T15:16:58",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260503012430if_/https://pbs.twimg.com/profile_images/2038643162152144896/_KGKt9oH_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f35c0ae1bb0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 6
     },
     "https://pbs.twimg.com/profile_images/2017682861751734274/47Gq_c2i_normal.jpg": {
       "status": "done",
@@ -17586,9 +17586,9 @@
       "referenced_by": [
         "20260401004504_twitter_com_Ace_Purin_status_2039141966320144542.json"
       ],
-      "last_updated": "2026-08-01T02:52:28",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260401004504im_/https://pbs.twimg.com/profile_images/2034998306628354048/41zkLwrU_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f7a1b2c1880>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 4
+      "last_updated": "2026-08-07T15:17:02",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260401004504if_/https://pbs.twimg.com/profile_images/2034998306628354048/41zkLwrU_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f35c0ae2180>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 6
     },
     "https://pbs.twimg.com/profile_images/2022153470095302657/6fWkX3GZ_normal.jpg": {
       "status": "failed",
@@ -17601,9 +17601,9 @@
         "20260410082857_twitter_com_Ace_Purin_status_2042520194929824215.json",
         "20260421090506_twitter_com_Ace_Purin_status_2046515557697253699.json"
       ],
-      "last_updated": "2026-08-01T02:52:31",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260421090506im_/https://pbs.twimg.com/profile_images/2022153470095302657/6fWkX3GZ_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f7a1b7e2de0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 4
+      "last_updated": "2026-08-07T15:17:05",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260421090506if_/https://pbs.twimg.com/profile_images/2022153470095302657/6fWkX3GZ_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f35c0ae16a0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 6
     },
     "https://pbs.twimg.com/profile_images/2036920103540056067/FkWRXzWf_normal.jpg": {
       "status": "failed",
@@ -17612,18 +17612,18 @@
         "20260401074031_twitter_com_Ace_Purin_status_2039246517836578901.json",
         "20260401160730_twitter_com_Ace_Purin_status_2039374103447237090.json"
       ],
-      "last_updated": "2026-08-01T02:52:35",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260401160730im_/https://pbs.twimg.com/profile_images/2036920103540056067/FkWRXzWf_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f7a1b7b89b0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 4
+      "last_updated": "2026-08-07T15:17:10",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260401160730if_/https://pbs.twimg.com/profile_images/2036920103540056067/FkWRXzWf_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f35c0a9ef30>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 6
     },
     "https://pbs.twimg.com/profile_images/2038698420756729857/Mtx3ZDGJ_normal.jpg": {
       "status": "failed",
       "referenced_by": [
         "20260401081343_twitter_com_Ace_Purin_status_2039254871602528266.json"
       ],
-      "last_updated": "2026-08-01T02:52:38",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260401081343im_/https://pbs.twimg.com/profile_images/2038698420756729857/Mtx3ZDGJ_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f7a1b7e0e60>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 4
+      "last_updated": "2026-08-07T15:17:14",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260401081343if_/https://pbs.twimg.com/profile_images/2038698420756729857/Mtx3ZDGJ_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f35c0a2e450>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 6
     },
     "https://pbs.twimg.com/profile_images/2032645675612254208/588yugtP_normal.jpg": {
       "status": "done",
@@ -17639,9 +17639,9 @@
       "referenced_by": [
         "20260401124721_twitter_com_Ace_Purin_status_2039323733270331598.json"
       ],
-      "last_updated": "2026-08-01T02:52:42",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260401124721im_/https://pbs.twimg.com/profile_images/2036288891616100352/Q-p653L8_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f7a1b7b8560>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 4
+      "last_updated": "2026-08-07T15:17:18",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260401124721if_/https://pbs.twimg.com/profile_images/2036288891616100352/Q-p653L8_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f35c0a2ca10>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 6
     },
     "https://pbs.twimg.com/profile_images/1800150816738959360/xESixo3a_normal.jpg": {
       "status": "done",
@@ -17656,18 +17656,18 @@
         "20260401170202_twitter_com_Ace_Purin_status_2039387825733521807.json",
         "20260409174954_twitter_com_Ace_Purin_status_2042298976071004572.json"
       ],
-      "last_updated": "2026-08-01T02:52:46",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260409174954im_/https://pbs.twimg.com/profile_images/2036801868295458817/jvpoWDKD_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f7a1b2c3ce0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 4
+      "last_updated": "2026-08-07T15:17:21",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260409174954if_/https://pbs.twimg.com/profile_images/2036801868295458817/jvpoWDKD_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f35c0ae2d20>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 6
     },
     "https://pbs.twimg.com/profile_images/2038246939880484864/4SZfRpvf_normal.jpg": {
       "status": "failed",
       "referenced_by": [
         "20260402032048_twitter_com_Ace_Purin_status_2039543542989881432.json"
       ],
-      "last_updated": "2026-08-01T02:52:50",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260402032048im_/https://pbs.twimg.com/profile_images/2038246939880484864/4SZfRpvf_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f7a1b7e3950>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 4
+      "last_updated": "2026-08-07T15:17:24",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260402032048if_/https://pbs.twimg.com/profile_images/2038246939880484864/4SZfRpvf_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f35c0ae3590>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 6
     },
     "https://pbs.twimg.com/profile_images/2004661650092359680/DqSlreCz_normal.jpg": {
       "status": "done",
@@ -17727,9 +17727,9 @@
         "20260402162130_twitter_com_Ace_Purin_status_2039740013081178222.json",
         "20260403221604_twitter_com_Ace_Purin_status_2040191632046494081.json"
       ],
-      "last_updated": "2026-08-01T02:52:53",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260403221604im_/https://pbs.twimg.com/profile_images/2039724542588055552/epI7Xmf1_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f7a1b2c11f0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 4
+      "last_updated": "2026-08-07T15:17:27",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260403221604if_/https://pbs.twimg.com/profile_images/2039724542588055552/epI7Xmf1_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f35c0a9f530>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 6
     },
     "https://pbs.twimg.com/profile_images/2010211267487903748/tFQVT1zi_normal.jpg": {
       "status": "done",
@@ -17780,9 +17780,9 @@
       "referenced_by": [
         "20260402162546_twitter_com_Ace_Purin_status_2039741087313735975.json"
       ],
-      "last_updated": "2026-08-01T02:52:57",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260402162546im_/https://pbs.twimg.com/profile_images/2000972907124555778/SFlpMs9L_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f7a1b7bbbf0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 4
+      "last_updated": "2026-08-07T15:17:32",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260402162546if_/https://pbs.twimg.com/profile_images/2000972907124555778/SFlpMs9L_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f35c0a5ac30>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 6
     },
     "https://pbs.twimg.com/profile_images/2036114093430718464/BsvFxq28_normal.jpg": {
       "status": "done",
@@ -17868,9 +17868,9 @@
         "20260403094542_twitter_com_Ace_Purin_status_2040002796976808368.json",
         "20260403110150_twitter_com_Ace_Purin_status_2040021953336254682.json"
       ],
-      "last_updated": "2026-08-01T02:53:00",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260403110150im_/https://pbs.twimg.com/profile_images/2039212303745421312/yNpBqqWm_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f7a1b2c19d0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 4
+      "last_updated": "2026-08-07T15:17:37",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260403110150if_/https://pbs.twimg.com/profile_images/2039212303745421312/yNpBqqWm_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f35c090c740>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 6
     },
     "https://pbs.twimg.com/profile_images/1866221283123568640/XpOyylTL_normal.jpg": {
       "status": "done",
@@ -17887,9 +17887,9 @@
       "referenced_by": [
         "20260403092611_twitter_com_Ace_Purin_status_2039997883404145140.json"
       ],
-      "last_updated": "2026-08-01T02:53:04",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260403092611im_/https://pbs.twimg.com/profile_images/2038939171126177792/8QoQIgca_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f7a1b7ba7e0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 4
+      "last_updated": "2026-08-07T15:17:40",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260403092611if_/https://pbs.twimg.com/profile_images/2038939171126177792/8QoQIgca_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f35c0a5bec0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 6
     },
     "https://pbs.twimg.com/profile_images/2009290585430274048/oAhjPj-W_normal.jpg": {
       "status": "done",
@@ -17906,9 +17906,9 @@
         "20260403122646_twitter_com_Ace_Purin_status_2040043328096653758.json",
         "20260404054117_twitter_com_Ace_Purin_status_2040303675722408188.json"
       ],
-      "last_updated": "2026-08-01T02:53:07",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260404054117im_/https://pbs.twimg.com/profile_images/2034880696112775168/1fqk4zfG_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f7a1b7e26c0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 4
+      "last_updated": "2026-08-07T15:17:46",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260404054117if_/https://pbs.twimg.com/profile_images/2034880696112775168/1fqk4zfG_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f35c0a2dcd0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 6
     },
     "https://pbs.twimg.com/profile_images/1998525205774467072/XD6uOnT7_normal.jpg": {
       "status": "done",
@@ -18025,9 +18025,9 @@
       "referenced_by": [
         "20260404190334_twitter_com_Ace_Purin_status_2040505575990235539.json"
       ],
-      "last_updated": "2026-08-01T02:53:11",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260404190334im_/https://pbs.twimg.com/profile_images/2038451865759936512/HbtV6dov_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f7a1bbdb500>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 4
+      "last_updated": "2026-08-07T15:17:52",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260404190334if_/https://pbs.twimg.com/profile_images/2038451865759936512/HbtV6dov_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f35c090f3e0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 6
     },
     "https://pbs.twimg.com/profile_images/2037784680137887744/9SSN76oE_normal.jpg": {
       "status": "done",
@@ -18168,9 +18168,9 @@
       "referenced_by": [
         "20260405135421_twitter_com_Ace_Purin_status_2040790145683890203.json"
       ],
-      "last_updated": "2026-08-01T02:53:14",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260405135421im_/https://pbs.twimg.com/profile_images/2040535697426440192/OSVtYMmN_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f7a1b7ba9f0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 4
+      "last_updated": "2026-08-07T15:17:55",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260405135421if_/https://pbs.twimg.com/profile_images/2040535697426440192/OSVtYMmN_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f35c0a5bfb0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 6
     },
     "https://pbs.twimg.com/profile_images/1917047544313679872/akAJkXe1_normal.jpg": {
       "status": "done",
@@ -20324,9 +20324,9 @@
       "referenced_by": [
         "20260407141033_twitter_com_Ace_Purin_status_2041518998966423953.json"
       ],
-      "last_updated": "2026-08-01T02:53:18",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260407141033im_/https://pbs.twimg.com/profile_images/2040417784971001856/HVUfHILV_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f7a1b2c3260>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 4
+      "last_updated": "2026-08-07T15:18:00",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260407141033if_/https://pbs.twimg.com/profile_images/2040417784971001856/HVUfHILV_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f35c0a5b530>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 6
     },
     "https://pbs.twimg.com/profile_images/2019270494755909632/aAtLQpY-_normal.jpg": {
       "status": "done",
@@ -20341,9 +20341,9 @@
       "referenced_by": [
         "20260407141431_twitter_com_Ace_Purin_status_2041519996652937598.json"
       ],
-      "last_updated": "2026-08-01T02:53:21",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260407141431im_/https://pbs.twimg.com/profile_images/2039264349282603008/_wWEfmzr_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f7a1b7e32c0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 4
+      "last_updated": "2026-08-07T15:18:03",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260407141431if_/https://pbs.twimg.com/profile_images/2039264349282603008/_wWEfmzr_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f35c0a2ede0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 6
     },
     "https://pbs.twimg.com/profile_images/2021249179717337092/VySpXjeJ_normal.jpg": {
       "status": "done",
@@ -20357,18 +20357,18 @@
       "referenced_by": [
         "20260408090607_twitter_com_Ace_Purin_status_2041804772211356110.json"
       ],
-      "last_updated": "2026-08-01T02:53:25",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260408090607im_/https://pbs.twimg.com/profile_images/2036958159752093696/WskK3X1C_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f7a1b2c21e0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 4
+      "last_updated": "2026-08-07T15:18:05",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260408090607if_/https://pbs.twimg.com/profile_images/2036958159752093696/WskK3X1C_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f35c0a2d160>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 6
     },
     "https://pbs.twimg.com/profile_images/2036726953869549568/CsU2778i_normal.jpg": {
       "status": "failed",
       "referenced_by": [
         "20260408094336_twitter_com_Ace_Purin_status_2041814208191590550.json"
       ],
-      "last_updated": "2026-08-01T02:53:29",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260408094336im_/https://pbs.twimg.com/profile_images/2036726953869549568/CsU2778i_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f7a1b7e2c90>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 4
+      "last_updated": "2026-08-07T15:18:09",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260408094336if_/https://pbs.twimg.com/profile_images/2036726953869549568/CsU2778i_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f35c090d760>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 6
     },
     "https://pbs.twimg.com/profile_images/2041579235350077440/8fAzCTT4_normal.jpg": {
       "status": "done",
@@ -20507,9 +20507,9 @@
         "20260410040429_twitter_com_Ace_Purin_status_2042453640527692171.json",
         "20260412104033_twitter_com_Ace_Purin_status_2043278089086796106.json"
       ],
-      "last_updated": "2026-08-01T02:53:33",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260412104033im_/https://pbs.twimg.com/profile_images/2042261076784324608/REshVnsP_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f7a1b7b8a10>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 4
+      "last_updated": "2026-08-07T15:18:12",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260412104033if_/https://pbs.twimg.com/profile_images/2042261076784324608/REshVnsP_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f35c090d910>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 6
     },
     "https://pbs.twimg.com/profile_images/2041031195132301312/7FZtDrf1_normal.jpg": {
       "status": "done",
@@ -20605,9 +20605,9 @@
       "referenced_by": [
         "20260410134244_twitter_com_Ace_Purin_status_2042599163431653733.json"
       ],
-      "last_updated": "2026-08-01T02:53:36",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260410134244im_/https://pbs.twimg.com/profile_images/2041724163287871489/_t_jrvCS_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f7a1b7bb4a0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 4
+      "last_updated": "2026-08-07T15:18:17",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260410134244if_/https://pbs.twimg.com/profile_images/2041724163287871489/_t_jrvCS_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f35c0a2eae0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 6
     },
     "https://pbs.twimg.com/profile_images/2030888878903898112/ZWmyempb_normal.jpg": {
       "status": "done",
@@ -20633,9 +20633,9 @@
       "referenced_by": [
         "20260411132409_twitter_com_Ace_Purin_status_2042956873356447996.json"
       ],
-      "last_updated": "2026-08-01T02:53:40",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260411132409im_/https://pbs.twimg.com/profile_images/2042473034955603968/VbNwFFnR_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f7a1b7e1730>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 4
+      "last_updated": "2026-08-07T15:18:20",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260411132409if_/https://pbs.twimg.com/profile_images/2042473034955603968/VbNwFFnR_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f35c090f410>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 6
     },
     "https://pbs.twimg.com/profile_images/2039334250491895808/MTfKeMwB_normal.jpg": {
       "status": "done",
@@ -20649,9 +20649,9 @@
       "referenced_by": [
         "20260411133029_twitter_com_Ace_Purin_status_2042958465904316545.json"
       ],
-      "last_updated": "2026-08-01T02:53:44",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260411133029im_/https://pbs.twimg.com/profile_images/2026528085546512389/e5Yvw4fG_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f7a1b79d280>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 4
+      "last_updated": "2026-08-07T15:18:23",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260411133029if_/https://pbs.twimg.com/profile_images/2026528085546512389/e5Yvw4fG_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f35c0a9dd90>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 6
     },
     "https://pbs.twimg.com/profile_images/1698381116388868096/mNqD6ClK_normal.jpg": {
       "status": "done",
@@ -20680,9 +20680,9 @@
       "referenced_by": [
         "20260412081839_twitter_com_Ace_Purin_status_2043242380095308249.json"
       ],
-      "last_updated": "2026-08-01T02:53:47",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260412081839im_/https://pbs.twimg.com/profile_images/2032515716726067200/iPwyaz61_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f7a1b2c3f80>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 4
+      "last_updated": "2026-08-07T15:18:27",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260412081839if_/https://pbs.twimg.com/profile_images/2032515716726067200/iPwyaz61_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f35c090faa0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 6
     },
     "https://pbs.twimg.com/profile_images/2033801204548202497/I1inRSAX_normal.jpg": {
       "status": "done",
@@ -20725,9 +20725,9 @@
         "20260412151104_twitter_com_Ace_Purin_status_2043346166944059755.json",
         "20260413161011_twitter_com_Ace_Purin_status_2043723430726623440.json"
       ],
-      "last_updated": "2026-08-01T02:53:51",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260413161011im_/https://pbs.twimg.com/profile_images/2041015244408119296/bvU7l2hs_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f7a1b79fe30>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 4
+      "last_updated": "2026-08-07T15:18:31",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260413161011if_/https://pbs.twimg.com/profile_images/2041015244408119296/bvU7l2hs_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f35c0ae2660>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 6
     },
     "https://pbs.twimg.com/profile_images/2031794264976605190/YG02D00I_normal.jpg": {
       "status": "done",
@@ -20779,9 +20779,9 @@
       "referenced_by": [
         "20260413094139_twitter_com_Ace_Purin_status_2043625655175414241.json"
       ],
-      "last_updated": "2026-08-01T02:53:55",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260413094139im_/https://pbs.twimg.com/profile_images/1903358372835102720/tDTb-dOA_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f7a1b2c0170>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 4
+      "last_updated": "2026-08-07T15:18:35",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260413094139if_/https://pbs.twimg.com/profile_images/1903358372835102720/tDTb-dOA_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f35c0ae0cb0>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 6
     },
     "https://pbs.twimg.com/profile_images/2040793488061861888/h0unB2hS_normal.jpg": {
       "status": "done",
@@ -21065,9 +21065,9 @@
       "referenced_by": [
         "20260418040830_twitter_com_Ace_Purin_status_2045353752757252289.json"
       ],
-      "last_updated": "2026-08-01T02:53:58",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260418040830im_/https://pbs.twimg.com/profile_images/1975697751305605120/m5TSe3-9_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f7a1b79c650>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 4
+      "last_updated": "2026-08-07T15:18:38",
+      "last_reason": "ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260418040830if_/https://pbs.twimg.com/profile_images/1975697751305605120/m5TSe3-9_normal.jpg (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f35c0a9c410>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "miss_count": 6
     },
     "https://pbs.twimg.com/profile_images/2017077429718962176/L9u42tt__normal.jpg": {
       "status": "done",
@@ -21100,13 +21100,13 @@
       "last_updated": "2026-08-01T01:22:39"
     },
     "https://pbs.twimg.com/profile_images/2045743075327463424/GBVgyivn_normal.jpg": {
-      "status": "failed",
+      "status": "failed_all",
       "referenced_by": [
         "20260419074426_twitter_com_Ace_Purin_status_2045770485515079995.json"
       ],
-      "last_updated": "2026-08-01T02:54:02",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260419074426im_/https://pbs.twimg.com/profile_images/2045743075327463424/GBVgyivn_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f7a1b7e35c0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 4
+      "last_updated": "2026-08-07T15:18:42",
+      "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260419074426if_/https://pbs.twimg.com/profile_images/2045743075327463424/GBVgyivn_normal.jpg",
+      "miss_count": 6
     },
     "https://pbs.twimg.com/profile_images/2041014657167802368/WOq5BhqV_normal.jpg": {
       "status": "done",
@@ -21154,14 +21154,14 @@
       "last_updated": "2026-08-01T01:22:39"
     },
     "https://pbs.twimg.com/profile_images/2043588276389322752/v3VfQHO7_normal.jpg": {
-      "status": "failed",
+      "status": "failed_all",
       "referenced_by": [
         "20260420170627_twitter_com_Ace_Purin_status_2046274309094862906.json",
         "20260429161003_twitter_com_Ace_Purin_status_2049521605991354435.json"
       ],
-      "last_updated": "2026-08-01T02:54:06",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260429161003im_/https://pbs.twimg.com/profile_images/2043588276389322752/v3VfQHO7_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f7a1b79eb10>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 4
+      "last_updated": "2026-08-07T15:18:44",
+      "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260429161003if_/https://pbs.twimg.com/profile_images/2043588276389322752/v3VfQHO7_normal.jpg",
+      "miss_count": 6
     },
     "https://pbs.twimg.com/profile_images/2033881825312215040/hgSEkGmd_normal.jpg": {
       "status": "done",
@@ -21274,9 +21274,9 @@
       "referenced_by": [
         "20260423122717_twitter_com_Ace_Purin_status_2047291217231360181.json"
       ],
-      "last_updated": "2026-08-01T02:54:10",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260423122717im_/https://pbs.twimg.com/profile_images/2045709915797499904/1KyU_bd__400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f7a1b79e450>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 4
+      "last_updated": "2026-08-07T15:18:50",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260423122717if_/https://pbs.twimg.com/profile_images/2045709915797499904/1KyU_bd__normal.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f35c0ae2ea0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 6
     },
     "https://pbs.twimg.com/profile_images/2040863571916316672/ydcUg0hA_normal.jpg": {
       "status": "done",
@@ -21423,9 +21423,9 @@
         "20260504202902_twitter_com_Ace_Purin_status_2051398718726058451.json",
         "20260505112315_twitter_com_Ace_Purin_status_2051623755529789541.json"
       ],
-      "last_updated": "2026-08-01T02:54:13",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260505112315im_/https://pbs.twimg.com/profile_images/2047689825734770688/T5pSPjsn_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f7a1b79d4c0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 4
+      "last_updated": "2026-08-07T15:18:53",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260505112315im_/https://pbs.twimg.com/profile_images/2047689825734770688/T5pSPjsn_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f35c0a9cb00>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 6
     },
     "https://pbs.twimg.com/profile_images/2038619700847071232/6s0yTHOZ_normal.jpg": {
       "status": "done",
@@ -21591,9 +21591,9 @@
         "20260503010225_twitter_com_Ace_Purin_status_2050742741035073873.json",
         "20260503123858_twitter_com_Ace_Purin_status_2050918034181951808.json"
       ],
-      "last_updated": "2026-08-01T02:54:17",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260503123858im_/https://pbs.twimg.com/profile_images/1902047683457822720/JCNa0cDK_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f7a1b7e0980>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 4
+      "last_updated": "2026-08-07T15:18:59",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260503123858im_/https://pbs.twimg.com/profile_images/1902047683457822720/JCNa0cDK_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f35c0a9c590>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 6
     },
     "https://pbs.twimg.com/profile_images/2028815256949342208/hoWGdF7B_normal.jpg": {
       "status": "done",
@@ -21621,18 +21621,18 @@
       "referenced_by": [
         "20260503131003_twitter_com_Ace_Purin_status_2050925857477410948.json"
       ],
-      "last_updated": "2026-08-01T02:54:21",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260503131003im_/https://pbs.twimg.com/profile_images/2050895137711308800/8lIUBwwC_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f7a1b79f470>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 4
+      "last_updated": "2026-08-07T15:19:03",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260503131003im_/https://pbs.twimg.com/profile_images/2050895137711308800/8lIUBwwC_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f35c0ae2b10>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 6
     },
     "https://pbs.twimg.com/profile_images/2048210890999431168/2DR7TA3K_normal.jpg": {
       "status": "failed",
       "referenced_by": [
         "20260503131003_twitter_com_Ace_Purin_status_2050925857477410948.json"
       ],
-      "last_updated": "2026-08-01T02:54:25",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260503131003im_/https://pbs.twimg.com/profile_images/2048210890999431168/2DR7TA3K_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f7a1b7e0800>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 4
+      "last_updated": "2026-08-07T15:19:07",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260503131003im_/https://pbs.twimg.com/profile_images/2048210890999431168/2DR7TA3K_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f35c090cf80>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 6
     },
     "https://pbs.twimg.com/profile_images/2036639177761333249/V3qDiwX6_normal.jpg": {
       "status": "done",
@@ -21694,9 +21694,9 @@
       "referenced_by": [
         "20260504094054_twitter_com_Ace_Purin_status_2051235613333155893.json"
       ],
-      "last_updated": "2026-08-01T02:54:29",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260504094054im_/https://pbs.twimg.com/profile_images/2040964718878433280/anUmYhbX_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f7a1ba34d70>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 4
+      "last_updated": "2026-08-07T15:19:11",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260504094054im_/https://pbs.twimg.com/profile_images/2040964718878433280/anUmYhbX_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f35c0d3a990>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 6
     },
     "https://pbs.twimg.com/profile_images/1761010277162864640/PGZHn1CA_normal.jpg": {
       "status": "done",
@@ -21732,9 +21732,9 @@
       "referenced_by": [
         "20260504161545_twitter_com_Ace_Purin_status_2051334979670643172.json"
       ],
-      "last_updated": "2026-08-01T02:54:32",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260504161545im_/https://pbs.twimg.com/profile_images/2048721432314613760/MGSseNfJ_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f7a1b79edb0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 4
+      "last_updated": "2026-08-07T15:19:18",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260504161545im_/https://pbs.twimg.com/profile_images/2048721432314613760/MGSseNfJ_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f35c0a5bbf0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 6
     },
     "https://pbs.twimg.com/profile_images/2046649877283901440/KYxuEqRD_normal.jpg": {
       "status": "done",
@@ -21807,9 +21807,9 @@
       "referenced_by": [
         "20260507092314_twitter_com_Ace_Purin_status_2052318329143222636.json"
       ],
-      "last_updated": "2026-08-01T02:54:35",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260507092314im_/https://pbs.twimg.com/profile_images/1697939239374348288/9XtULhCN_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f7a1b79c110>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 4
+      "last_updated": "2026-08-07T15:19:23",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260507092314im_/https://pbs.twimg.com/profile_images/1697939239374348288/9XtULhCN_normal.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f35c0ae0a40>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 6
     },
     "https://pbs.twimg.com/profile_images/1941981282226855936/9T4K3Wht_normal.jpg": {
       "status": "done",
@@ -21952,9 +21952,9 @@
       "referenced_by": [
         "20260521071725_twitter_com_Ace_Purin_status_2057360096963985671.json"
       ],
-      "last_updated": "2026-08-01T02:54:39",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260521071725im_/https://pbs.twimg.com/profile_images/2057317273950355456/u18eyqBj_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f7a1b7e05f0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 4
+      "last_updated": "2026-08-07T15:19:27",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260521071725im_/https://pbs.twimg.com/profile_images/2057317273950355456/u18eyqBj_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f35c090ccb0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 6
     },
     "https://pbs.twimg.com/profile_images/2057086395647467520/sWF89eQg_normal.jpg": {
       "status": "done",
@@ -21968,9 +21968,9 @@
       "referenced_by": [
         "20260521071903_twitter_com_Ace_Purin_status_2057360507288559958.json"
       ],
-      "last_updated": "2026-08-01T02:54:42",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260521071903im_/https://pbs.twimg.com/profile_images/2036450967441514496/XQNBjgdK_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f7a1b7e2000>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 4
+      "last_updated": "2026-08-07T15:19:34",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260521071903im_/https://pbs.twimg.com/profile_images/2036450967441514496/XQNBjgdK_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f35c0a5af60>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 6
     },
     "https://pbs.twimg.com/profile_images/1929216346065432576/O26W5Svg_normal.jpg": {
       "status": "done",
@@ -21984,9 +21984,9 @@
       "referenced_by": [
         "20260521072132_twitter_com_Ace_Purin_status_2057361131463905579.json"
       ],
-      "last_updated": "2026-08-01T02:54:46",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260521072132im_/https://pbs.twimg.com/profile_images/2056332088157372416/v6HeaNE4_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f7a1b79c1a0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 4
+      "last_updated": "2026-08-07T15:19:38",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260521072132im_/https://pbs.twimg.com/profile_images/2056332088157372416/v6HeaNE4_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f35c0a2e6f0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 6
     },
     "https://pbs.twimg.com/profile_images/2057360829020794880/Ltocs0aH_normal.jpg": {
       "status": "failed",
@@ -21994,9 +21994,9 @@
         "20260521073020_twitter_com_Ace_Purin_status_2057363347490963614.json",
         "20260521131051_twitter_com_Ace_Purin_status_2057449038732313007.json"
       ],
-      "last_updated": "2026-08-01T02:54:50",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260521131051im_/https://pbs.twimg.com/profile_images/2057360829020794880/Ltocs0aH_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f7a1b2c2630>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 4
+      "last_updated": "2026-08-07T15:19:44",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260521131051im_/https://pbs.twimg.com/profile_images/2057360829020794880/Ltocs0aH_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f35c0d3b860>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 6
     },
     "https://pbs.twimg.com/profile_images/2020730915618783232/7lPauWxP_normal.jpg": {
       "status": "done",
@@ -22067,9 +22067,9 @@
       "referenced_by": [
         "20260524100011_twitter_com_Ace_Purin_status_2058488220430835862.json"
       ],
-      "last_updated": "2026-08-01T02:54:53",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260524100011im_/https://pbs.twimg.com/profile_images/2037030819785809920/-T8HpH-0_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f7a1b79eba0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 4
+      "last_updated": "2026-08-07T15:19:49",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260524100011im_/https://pbs.twimg.com/profile_images/2037030819785809920/-T8HpH-0_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f35c0a2d490>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 6
     },
     "https://pbs.twimg.com/profile_images/2040085700612362240/VSSbNBT0_normal.jpg": {
       "status": "done",
@@ -22083,9 +22083,9 @@
       "referenced_by": [
         "20260524111651_twitter_com_Ace_Purin_status_2058507513176412272.json"
       ],
-      "last_updated": "2026-08-01T02:55:00",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260524111651if_/https://pbs.twimg.com/profile_images/2056381618231918592/K69HyFD2_normal.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f7a1b2c1d60>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 4
+      "last_updated": "2026-08-07T15:19:54",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260524111651im_/https://pbs.twimg.com/profile_images/2056381618231918592/K69HyFD2_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f35c0a9f800>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 6
     },
     "https://pbs.twimg.com/profile_images/2058139565706354688/a9VoHTY9_normal.jpg": {
       "status": "done",
@@ -22219,9 +22219,9 @@
       "referenced_by": [
         "20260528163323_twitter_com_Ace_Purin_status_2060036725263745489.json"
       ],
-      "last_updated": "2026-08-01T02:55:04",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260528163323im_/https://pbs.twimg.com/profile_images/2056094606811676672/tadB-uUj_normal.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f7a1b79e480>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 4
+      "last_updated": "2026-08-07T15:19:59",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260528163323im_/https://pbs.twimg.com/profile_images/2056094606811676672/tadB-uUj_normal.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f35c0a9c620>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 6
     },
     "https://pbs.twimg.com/profile_images/2040999312478621696/QZAhsYwI_normal.jpg": {
       "status": "done",
@@ -22354,9 +22354,9 @@
         "20260607063928_twitter_com_Ace_Purin_status_2063511141297565865.json",
         "20260608133051_twitter_com_Ace_Purin_status_2063977056782909599.json"
       ],
-      "last_updated": "2026-08-01T02:55:07",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260608133051im_/https://pbs.twimg.com/profile_images/2059238444832890881/rPPqXFAk_normal.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f7a1b2c30b0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 4
+      "last_updated": "2026-08-07T15:20:04",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260608133051im_/https://pbs.twimg.com/profile_images/2059238444832890881/rPPqXFAk_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f35c0ae10d0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 6
     },
     "https://pbs.twimg.com/profile_images/2059996986619625472/s6iWlroV_normal.jpg": {
       "status": "done",
@@ -22549,9 +22549,9 @@
       "referenced_by": [
         "20260610005905_twitter_com_Ace_Purin_status_2064512644766417362.json"
       ],
-      "last_updated": "2026-08-01T02:55:15",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260610005905im_/https://pbs.twimg.com/profile_images/2064367420962230273/DtZ_e2zv_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f7a1b79c650>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 4
+      "last_updated": "2026-08-07T15:20:08",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260610005905im_/https://pbs.twimg.com/profile_images/2064367420962230273/DtZ_e2zv_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f35c093f7a0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 6
     },
     "https://pbs.twimg.com/profile_images/2038313682460192768/aOXw17N0_normal.jpg": {
       "status": "done",
@@ -22714,9 +22714,9 @@
       "referenced_by": [
         "20260613063941_twitter_com_Ace_Purin_status_2065685521108754499.json"
       ],
-      "last_updated": "2026-08-01T02:55:18",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260613063941im_/https://pbs.twimg.com/profile_images/2064692522446946304/h8OnSvTb_normal.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f7a1b79d730>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 4
+      "last_updated": "2026-08-07T15:20:16",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260613063941im_/https://pbs.twimg.com/profile_images/2064692522446946304/h8OnSvTb_normal.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f35c0a5ba70>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 6
     },
     "https://pbs.twimg.com/profile_images/2064659728278450176/zWdb-jEy_normal.jpg": {
       "status": "done",
@@ -22739,9 +22739,9 @@
         "20260614091811_twitter_com_Ace_Purin_status_2066087796226539564.json",
         "20260621060747_twitter_com_Ace_Purin_status_2068576598169944189.json"
       ],
-      "last_updated": "2026-08-01T02:55:22",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260621060747im_/https://pbs.twimg.com/profile_images/2042965905186131975/DXExeqbT_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f7a1b7bb290>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 4
+      "last_updated": "2026-08-07T15:20:21",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260621060747im_/https://pbs.twimg.com/profile_images/2042965905186131975/DXExeqbT_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f35c093c1d0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 6
     },
     "https://pbs.twimg.com/profile_images/1802724008397250560/zT1WlqE2_normal.jpg": {
       "status": "done",
@@ -22783,9 +22783,9 @@
       "referenced_by": [
         "20260615045124_twitter_com_Ace_Purin_status_2066383044848828888.json"
       ],
-      "last_updated": "2026-08-01T02:55:26",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260615045124im_/https://pbs.twimg.com/profile_images/2065751551243886592/8KJyvMdm_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f7a1b79e3f0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 4
+      "last_updated": "2026-08-07T15:20:26",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260615045124im_/https://pbs.twimg.com/profile_images/2065751551243886592/8KJyvMdm_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f35c0ae2510>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 6
     },
     "https://pbs.twimg.com/profile_images/2019766689785954304/3G_ZLfsg_normal.jpg": {
       "status": "done",
@@ -22822,9 +22822,9 @@
       "referenced_by": [
         "20260616124140_twitter_com_Ace_Purin_status_2066863782438293922.json"
       ],
-      "last_updated": "2026-08-01T02:55:29",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260616124140im_/https://pbs.twimg.com/profile_images/2066065535683502080/PU93vVAV_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f7a1b7e3b60>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 4
+      "last_updated": "2026-08-07T15:20:32",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260616124140im_/https://pbs.twimg.com/profile_images/2066065535683502080/PU93vVAV_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f35c0a2d760>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 6
     },
     "https://pbs.twimg.com/profile_images/1996409076876476416/kYNAR_lU_normal.jpg": {
       "status": "done",
@@ -22856,9 +22856,9 @@
       "referenced_by": [
         "20260617065237_twitter_com_Ace_Purin_status_2067138327590117589.json"
       ],
-      "last_updated": "2026-08-01T02:55:33",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260617065237im_/https://pbs.twimg.com/profile_images/2061584587893948416/rQc4GXFU_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f7a1ba36300>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 4
+      "last_updated": "2026-08-07T15:20:36",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260617065237im_/https://pbs.twimg.com/profile_images/2061584587893948416/rQc4GXFU_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f35c0a5b7d0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 6
     },
     "https://pbs.twimg.com/profile_images/2058883784288927744/va7XxYIs_normal.jpg": {
       "status": "done",
@@ -22967,9 +22967,9 @@
       "referenced_by": [
         "20260625000708_twitter_com_Ace_Purin_status_2069935385913008514.json"
       ],
-      "last_updated": "2026-08-01T02:55:36",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260625000708im_/https://pbs.twimg.com/profile_images/2061434409333764096/RRhKNgp3_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f7a1b2c0a10>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 4
+      "last_updated": "2026-08-07T15:20:42",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260625000708im_/https://pbs.twimg.com/profile_images/2061434409333764096/RRhKNgp3_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f35c09b0290>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 6
     },
     "https://pbs.twimg.com/profile_images/2070795717145141248/z-fwyk8C_normal.jpg": {
       "status": "done",
@@ -23059,9 +23059,9 @@
         "20260630101232_twitter_com_Ace_Purin_status_2071899678724272624.json",
         "20260630102336_twitter_com_Ace_Purin_status_2071902464710959388.json"
       ],
-      "last_updated": "2026-08-01T02:55:40",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260630102336im_/https://pbs.twimg.com/profile_images/2071413772636520448/tA0W7oEM_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f7a1b2c1640>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 4
+      "last_updated": "2026-08-07T15:20:47",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260630102336im_/https://pbs.twimg.com/profile_images/2071413772636520448/tA0W7oEM_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f35c0a2dc70>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 6
     },
     "https://pbs.twimg.com/profile_images/2068746223201501184/TohRyGWK_normal.jpg": {
       "status": "done",
@@ -23255,9 +23255,9 @@
       "referenced_by": [
         "20260721023122_twitter_com_Ace_Purin_status_2079393769368301694.json"
       ],
-      "last_updated": "2026-08-01T02:55:44",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260721023122im_/https://pbs.twimg.com/profile_images/2077025612938854400/St-x2IU3_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f7a1b7b9ac0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 4
+      "last_updated": "2026-08-07T15:20:55",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260721023122im_/https://pbs.twimg.com/profile_images/2077025612938854400/St-x2IU3_normal.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f35c0a2dd30>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 6
     },
     "https://pbs.twimg.com/profile_images/2079409125084295168/6KQZscEN_normal.jpg": {
       "status": "done",
@@ -23648,56 +23648,64 @@
       "last_updated": "2026-08-01T01:22:49"
     },
     "https://pbs.twimg.com/profile_images/2045182878871322624/oIgw4S6U_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260720005538_twitter_com_Ace_Purin_status_2079007287880921348.json"
-      ]
+      ],
+      "last_updated": "2026-08-07T15:15:50"
     },
     "https://pbs.twimg.com/profile_images/2077329521846439936/ZnsZIJBB_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260720060148_twitter_com_Ace_Purin_status_2079084337920958579.json",
         "20260720060158_twitter_com_Ace_Purin_status_2079084379624910906.json"
-      ]
+      ],
+      "last_updated": "2026-08-07T15:15:49"
     },
     "https://pbs.twimg.com/profile_images/2068942921869758464/UJ-J2j84_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260721022805_twitter_com_Ace_Purin_status_2079392942339629351.json"
-      ]
+      ],
+      "last_updated": "2026-08-07T15:15:49"
     },
     "https://pbs.twimg.com/profile_images/1878692352975683584/dEx1sD-I_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260721075848_twitter_com_Ace_Purin_status_2079476169179808173.json"
-      ]
+      ],
+      "last_updated": "2026-08-07T15:15:49"
     },
     "https://pbs.twimg.com/profile_images/2078508009702268928/p6S16Kqi_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260729110949_twitter_com_Ace_Purin_status_2082423343802900786.json"
-      ]
+      ],
+      "last_updated": "2026-08-07T15:15:49"
     },
     "https://pbs.twimg.com/profile_images/2011401174277332992/OMauSlmo_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260729162304_twitter_com_Ace_Purin_status_2082502175469772963.json"
-      ]
+      ],
+      "last_updated": "2026-08-07T15:15:50"
     },
     "https://pbs.twimg.com/profile_images/2079327921961832449/xu1NW-M5_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260729162828_twitter_com_Ace_Purin_status_2082503534722036038.json"
-      ]
+      ],
+      "last_updated": "2026-08-07T15:15:50"
     },
     "https://pbs.twimg.com/profile_images/2071631040549122048/Na8Jd86n_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260730192737_twitter_com_Ace_Purin_status_2082911008109281742.json"
-      ]
+      ],
+      "last_updated": "2026-08-07T15:15:50"
     },
     "https://pbs.twimg.com/profile_images/2082969732765065216/Xu07a5Kw_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260731014022_twitter_com_Ace_Purin_status_2083004815106588840.json",
         "20260731105422_twitter_com_Ace_Purin_status_2083144233163313466.json",
@@ -23706,80 +23714,93 @@
         "20260731142452_twitter_com_Ace_Purin_status_2083197207277420626.json",
         "20260801164553_twitter_com_Ace_Purin_status_2083595080041193593.json",
         "20260804082952_twitter_com_Ace_Purin_status_2084557420785959000.json"
-      ]
+      ],
+      "last_updated": "2026-08-07T15:15:50"
     },
     "https://pbs.twimg.com/profile_images/1899626208628801536/EiXTO4-h_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260731073243_twitter_com_Ace_Purin_status_2083093487139111401.json"
-      ]
+      ],
+      "last_updated": "2026-08-07T15:15:50"
     },
     "https://pbs.twimg.com/profile_images/1252153959390883840/FxHTPYec_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260731073604_twitter_com_Ace_Purin_status_2083094326981402913.json"
-      ]
+      ],
+      "last_updated": "2026-08-07T15:15:51"
     },
     "https://pbs.twimg.com/profile_images/2082910912965746688/osT0rLKY_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260731080408_twitter_com_Ace_Purin_status_2083101393255292940.json"
-      ]
+      ],
+      "last_updated": "2026-08-07T15:15:50"
     },
     "https://pbs.twimg.com/profile_images/2081208317226242048/8YVIk6XV_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260731092909_twitter_com_Ace_Purin_status_2083122787288547573.json",
         "20260801164259_twitter_com_Ace_Purin_status_2083594350307823690.json"
-      ]
+      ],
+      "last_updated": "2026-08-07T15:15:50"
     },
     "https://pbs.twimg.com/profile_images/2076000289099046912/XGLbQTfV_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260801164259_twitter_com_Ace_Purin_status_2083594350307823690.json"
-      ]
+      ],
+      "last_updated": "2026-08-07T15:15:50"
     },
     "https://pbs.twimg.com/profile_images/2082067992100175872/Ob1KRjKj_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260801164259_twitter_com_Ace_Purin_status_2083594350307823690.json"
-      ]
+      ],
+      "last_updated": "2026-08-07T15:15:51"
     },
     "https://pbs.twimg.com/profile_images/2066367050923307008/Sr9dXPTL_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260801164259_twitter_com_Ace_Purin_status_2083594350307823690.json"
-      ]
+      ],
+      "last_updated": "2026-08-07T15:15:50"
     },
     "https://pbs.twimg.com/profile_images/2036865851232837634/fcXyptuJ_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260801164259_twitter_com_Ace_Purin_status_2083594350307823690.json"
-      ]
+      ],
+      "last_updated": "2026-08-07T15:15:50"
     },
     "https://pbs.twimg.com/profile_images/2067259278705201152/al7txUpd_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260801164523_twitter_com_Ace_Purin_status_2083594955264782519.json"
-      ]
+      ],
+      "last_updated": "2026-08-07T15:15:50"
     },
     "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260803173106_twitter_com_Ace_Purin_status_2084331237741912176.json"
-      ]
+      ],
+      "last_updated": "2026-08-07T15:15:50"
     },
     "https://pbs.twimg.com/profile_images/2083483535604928512/Vk5bHOBp_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260804121912_twitter_com_Ace_Purin_status_2084615134186754364.json"
-      ]
+      ],
+      "last_updated": "2026-08-07T15:15:51"
     },
     "https://pbs.twimg.com/profile_images/2050427976786010112/u0ceyAKE_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260804122456_twitter_com_Ace_Purin_status_2084616577132191944.json"
-      ]
+      ],
+      "last_updated": "2026-08-07T15:15:51"
     }
   },
   "media": {
@@ -24821,7 +24842,7 @@
       "last_updated": "2026-08-01T01:22:29"
     },
     "20260318015124_twitter_com_Ace_Purin_status_2034085228361486522.json": {
-      "status": "failed",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -24830,7 +24851,7 @@
           "https://pbs.twimg.com/profile_images/2008114252100538368/sA3Yh79k_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-07T15:15:13",
+      "last_updated": "2026-08-07T15:15:39",
       "miss_count": 4
     },
     "20260318015138_twitter_com_Ace_Purin_status_2034085288700744019.json": {
@@ -25749,7 +25770,7 @@
       "last_updated": "2026-08-01T01:22:29"
     },
     "20260320095310_twitter_com_Ace_Purin_status_2034931244350546273.json": {
-      "status": "failed",
+      "status": "done",
       "depends_on": {
         "images": [
           "https://pbs.twimg.com/media/HDyZGBCawAE2hPP.jpg"
@@ -25760,7 +25781,7 @@
           "https://pbs.twimg.com/profile_images/1995903518566436864/d9Gh6QGY_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-07T15:15:13",
+      "last_updated": "2026-08-07T15:15:39",
       "miss_count": 4
     },
     "20260320100947_twitter_com_Ace_Purin_status_2034935426688196723.json": {
@@ -37103,7 +37124,7 @@
       "last_updated": "2026-08-01T01:22:36"
     },
     "20260419074426_twitter_com_Ace_Purin_status_2045770485515079995.json": {
-      "status": "failed",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -37112,7 +37133,7 @@
           "https://pbs.twimg.com/profile_images/2045743075327463424/GBVgyivn_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-07T15:15:13",
+      "last_updated": "2026-08-07T15:18:42",
       "miss_count": 4
     },
     "20260419074546_twitter_com_Ace_Purin_status_2045770820006621529.json": {
@@ -37744,7 +37765,7 @@
       "last_updated": "2026-08-01T01:22:39"
     },
     "20260420170627_twitter_com_Ace_Purin_status_2046274309094862906.json": {
-      "status": "failed",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -37753,7 +37774,7 @@
           "https://pbs.twimg.com/profile_images/2043588276389322752/v3VfQHO7_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-07T15:15:13",
+      "last_updated": "2026-08-07T15:18:44",
       "miss_count": 4
     },
     "20260420170714_twitter_com_Ace_Purin_status_2046274504717193683.json": {
@@ -40605,7 +40626,7 @@
       "last_updated": "2026-08-01T01:22:36"
     },
     "20260429161003_twitter_com_Ace_Purin_status_2049521605991354435.json": {
-      "status": "failed",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -40614,7 +40635,7 @@
           "https://pbs.twimg.com/profile_images/2043588276389322752/v3VfQHO7_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-07T15:15:13",
+      "last_updated": "2026-08-07T15:18:44",
       "miss_count": 4
     },
     "20260429162147_twitter_com_Ace_Purin_status_2049524555451109875.json": {
@@ -55314,7 +55335,7 @@
       "last_updated": "2026-08-07T14:59:28"
     },
     "20260720005538_twitter_com_Ace_Purin_status_2079007287880921348.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -55323,7 +55344,7 @@
           "https://pbs.twimg.com/profile_images/2045182878871322624/oIgw4S6U_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-07T15:15:13"
+      "last_updated": "2026-08-07T15:15:50"
     },
     "20260720032829_twitter_com_Ace_Purin_status_2079045753809633401.json": {
       "status": "done",
@@ -55338,7 +55359,7 @@
       "last_updated": "2026-08-07T14:59:28"
     },
     "20260720060148_twitter_com_Ace_Purin_status_2079084337920958579.json": {
-      "status": "unknown",
+      "status": "failed",
       "depends_on": {
         "images": [
           "https://pbs.twimg.com/media/HNRoaNLWsAAFKUi.jpg"
@@ -55349,10 +55370,10 @@
           "https://pbs.twimg.com/profile_images/2077329521846439936/ZnsZIJBB_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-07T15:15:13"
+      "last_updated": "2026-08-07T15:15:49"
     },
     "20260720060158_twitter_com_Ace_Purin_status_2079084379624910906.json": {
-      "status": "unknown",
+      "status": "failed",
       "depends_on": {
         "images": [
           "https://pbs.twimg.com/media/HNRoaNLWsAAFKUi.jpg"
@@ -55363,7 +55384,7 @@
           "https://pbs.twimg.com/profile_images/2077329521846439936/ZnsZIJBB_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-07T15:15:13"
+      "last_updated": "2026-08-07T15:15:49"
     },
     "20260721021733_twitter_com_Ace_Purin_status_2079390293862879627.json": {
       "status": "done",
@@ -55377,7 +55398,7 @@
       "last_updated": "2026-08-07T14:59:28"
     },
     "20260721022805_twitter_com_Ace_Purin_status_2079392942339629351.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -55386,7 +55407,7 @@
           "https://pbs.twimg.com/profile_images/2068942921869758464/UJ-J2j84_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-07T15:15:13"
+      "last_updated": "2026-08-07T15:15:49"
     },
     "20260721065529_twitter_com_Ace_Purin_status_2079460237833371786.json": {
       "status": "done",
@@ -55400,7 +55421,7 @@
       "last_updated": "2026-08-07T14:59:28"
     },
     "20260721075848_twitter_com_Ace_Purin_status_2079476169179808173.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [
           "https://pbs.twimg.com/media/HNq2sg5aEAAs6Fs.jpg"
@@ -55411,7 +55432,7 @@
           "https://pbs.twimg.com/profile_images/1878692352975683584/dEx1sD-I_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-07T15:15:13"
+      "last_updated": "2026-08-07T15:15:49"
     },
     "20260721081009_twitter_com_Ace_Purin_status_2079479028768199000.json": {
       "status": "done",
@@ -55519,7 +55540,7 @@
       "last_updated": "2026-08-07T14:59:29"
     },
     "20260729110949_twitter_com_Ace_Purin_status_2082423343802900786.json": {
-      "status": "unknown",
+      "status": "failed",
       "depends_on": {
         "images": [
           "https://pbs.twimg.com/media/HOUmlKjbUAAjz5s.jpg"
@@ -55530,7 +55551,7 @@
           "https://pbs.twimg.com/profile_images/2078508009702268928/p6S16Kqi_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-07T15:15:13"
+      "last_updated": "2026-08-07T15:15:49"
     },
     "20260729111442_twitter_com_Ace_Purin_status_2082424573296001292.json": {
       "status": "done",
@@ -55673,7 +55694,7 @@
       "last_updated": "2026-08-07T14:59:31"
     },
     "20260729162304_twitter_com_Ace_Purin_status_2082502175469772963.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -55682,7 +55703,7 @@
           "https://pbs.twimg.com/profile_images/2011401174277332992/OMauSlmo_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-07T15:15:13"
+      "last_updated": "2026-08-07T15:15:50"
     },
     "20260729162534_twitter_com_Ace_Purin_status_2082502806813172207.json": {
       "status": "done",
@@ -55733,7 +55754,7 @@
       "last_updated": "2026-08-07T14:59:31"
     },
     "20260729162828_twitter_com_Ace_Purin_status_2082503534722036038.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -55742,7 +55763,7 @@
           "https://pbs.twimg.com/profile_images/2079327921961832449/xu1NW-M5_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-07T15:15:13"
+      "last_updated": "2026-08-07T15:15:50"
     },
     "20260729164639_twitter_com_Ace_Purin_status_2082508111399862697.json": {
       "status": "done",
@@ -55955,7 +55976,7 @@
       "last_updated": "2026-08-07T14:59:31"
     },
     "20260730192737_twitter_com_Ace_Purin_status_2082911008109281742.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -55964,7 +55985,7 @@
           "https://pbs.twimg.com/profile_images/2071631040549122048/Na8Jd86n_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-07T15:15:13"
+      "last_updated": "2026-08-07T15:15:50"
     },
     "20260730192757_twitter_com_Ace_Purin_status_2082911089789178100.json": {
       "status": "done",
@@ -55993,7 +56014,7 @@
       "last_updated": "2026-08-07T14:59:31"
     },
     "20260731014022_twitter_com_Ace_Purin_status_2083004815106588840.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [
           "https://pbs.twimg.com/media/HOgyin3a4AEexIC.jpg",
@@ -56007,7 +56028,7 @@
           "https://pbs.twimg.com/profile_images/2082969732765065216/Xu07a5Kw_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-07T15:15:13"
+      "last_updated": "2026-08-07T15:15:50"
     },
     "20260731014140_twitter_com_Ace_Purin_status_2083005139544330512.json": {
       "status": "done",
@@ -56046,7 +56067,7 @@
       "last_updated": "2026-08-07T14:59:32"
     },
     "20260731073243_twitter_com_Ace_Purin_status_2083093487139111401.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -56055,10 +56076,10 @@
           "https://pbs.twimg.com/profile_images/1899626208628801536/EiXTO4-h_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-07T15:15:13"
+      "last_updated": "2026-08-07T15:15:50"
     },
     "20260731073604_twitter_com_Ace_Purin_status_2083094326981402913.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [
           "https://pbs.twimg.com/media/Gwt0fdvXMAQ6MBx.png",
@@ -56070,7 +56091,7 @@
           "https://pbs.twimg.com/profile_images/1252153959390883840/FxHTPYec_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-07T15:15:13"
+      "last_updated": "2026-08-07T15:15:51"
     },
     "20260731073643_twitter_com_Ace_Purin_status_2083094491364507730.json": {
       "status": "done",
@@ -56178,7 +56199,7 @@
       "last_updated": "2026-08-07T14:59:32"
     },
     "20260731080408_twitter_com_Ace_Purin_status_2083101393255292940.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -56187,7 +56208,7 @@
           "https://pbs.twimg.com/profile_images/2082910912965746688/osT0rLKY_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-07T15:15:13"
+      "last_updated": "2026-08-07T15:15:50"
     },
     "20260731080444_twitter_com_Ace_Purin_status_2083101542945853490.json": {
       "status": "done",
@@ -56438,7 +56459,7 @@
       "last_updated": "2026-08-07T14:59:32"
     },
     "20260731092909_twitter_com_Ace_Purin_status_2083122787288547573.json": {
-      "status": "unknown",
+      "status": "failed",
       "depends_on": {
         "images": [
           "https://pbs.twimg.com/media/HOi2glXacAMGIlp.jpg"
@@ -56449,7 +56470,7 @@
           "https://pbs.twimg.com/profile_images/2081208317226242048/8YVIk6XV_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-07T15:15:13"
+      "last_updated": "2026-08-07T15:15:50"
     },
     "20260731104117_twitter_com_Ace_Purin_status_2083140940416655618.json": {
       "status": "done",
@@ -56476,7 +56497,7 @@
       "last_updated": "2026-08-07T14:59:32"
     },
     "20260731105422_twitter_com_Ace_Purin_status_2083144233163313466.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -56485,10 +56506,10 @@
           "https://pbs.twimg.com/profile_images/2082969732765065216/Xu07a5Kw_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-07T15:15:13"
+      "last_updated": "2026-08-07T15:15:50"
     },
     "20260731105438_twitter_com_Ace_Purin_status_2083144300511347122.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -56497,10 +56518,10 @@
           "https://pbs.twimg.com/profile_images/2082969732765065216/Xu07a5Kw_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-07T15:15:13"
+      "last_updated": "2026-08-07T15:15:50"
     },
     "20260731105519_twitter_com_Ace_Purin_status_2083144469428457664.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -56509,7 +56530,7 @@
           "https://pbs.twimg.com/profile_images/2082969732765065216/Xu07a5Kw_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-07T15:15:13"
+      "last_updated": "2026-08-07T15:15:50"
     },
     "20260731105911_twitter_com_Ace_Purin_status_2083145445564711003.json": {
       "status": "done",
@@ -56560,7 +56581,7 @@
       "last_updated": "2026-08-07T14:59:32"
     },
     "20260731142452_twitter_com_Ace_Purin_status_2083197207277420626.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -56569,7 +56590,7 @@
           "https://pbs.twimg.com/profile_images/2082969732765065216/Xu07a5Kw_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-07T15:15:13"
+      "last_updated": "2026-08-07T15:15:50"
     },
     "20260731142710_twitter_com_Ace_Purin_status_2083197785780998599.json": {
       "status": "done",
@@ -56623,7 +56644,7 @@
       "last_updated": "2026-08-07T14:59:32"
     },
     "20260801164259_twitter_com_Ace_Purin_status_2083594350307823690.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [
           "https://pbs.twimg.com/media/HOpqAuHaoAADNJM.jpg"
@@ -56639,7 +56660,7 @@
           "https://pbs.twimg.com/profile_images/2036865851232837634/fcXyptuJ_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-07T15:15:13"
+      "last_updated": "2026-08-07T15:15:51"
     },
     "20260801164426_twitter_com_Ace_Purin_status_2083594715480592457.json": {
       "status": "done",
@@ -56678,7 +56699,7 @@
       "last_updated": "2026-08-07T14:59:32"
     },
     "20260801164523_twitter_com_Ace_Purin_status_2083594955264782519.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [
           "https://pbs.twimg.com/media/HBTDv6AbcAMxTpy.jpg"
@@ -56689,7 +56710,7 @@
           "https://pbs.twimg.com/profile_images/2067259278705201152/al7txUpd_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-07T15:15:13"
+      "last_updated": "2026-08-07T15:15:50"
     },
     "20260801164535_twitter_com_Ace_Purin_status_2083595004602376450.json": {
       "status": "done",
@@ -56704,7 +56725,7 @@
       "last_updated": "2026-08-07T14:59:32"
     },
     "20260801164553_twitter_com_Ace_Purin_status_2083595080041193593.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -56713,7 +56734,7 @@
           "https://pbs.twimg.com/profile_images/2082969732765065216/Xu07a5Kw_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-07T15:15:13"
+      "last_updated": "2026-08-07T15:15:50"
     },
     "20260801164853_twitter_com_Ace_Purin_status_2083595836408352874.json": {
       "status": "done",
@@ -56729,7 +56750,7 @@
       "last_updated": "2026-08-07T14:59:32"
     },
     "20260803173106_twitter_com_Ace_Purin_status_2084331237741912176.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -56739,7 +56760,7 @@
           "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-07T15:15:13"
+      "last_updated": "2026-08-07T15:15:50"
     },
     "20260803173159_twitter_com_Ace_Purin_status_2084331458328662112.json": {
       "status": "done",
@@ -56790,7 +56811,7 @@
       "last_updated": "2026-08-07T14:59:32"
     },
     "20260804082952_twitter_com_Ace_Purin_status_2084557420785959000.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -56799,7 +56820,7 @@
           "https://pbs.twimg.com/profile_images/2082969732765065216/Xu07a5Kw_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-07T15:15:13"
+      "last_updated": "2026-08-07T15:15:50"
     },
     "20260804083346_twitter_com_Ace_Purin_status_2084558399635878237.json": {
       "status": "done",
@@ -56855,7 +56876,7 @@
       "last_updated": "2026-08-07T14:59:33"
     },
     "20260804121912_twitter_com_Ace_Purin_status_2084615134186754364.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [
           "https://pbs.twimg.com/media/HO3dfUvaAAAtMaR.jpg"
@@ -56866,7 +56887,7 @@
           "https://pbs.twimg.com/profile_images/2083483535604928512/Vk5bHOBp_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-07T15:15:13"
+      "last_updated": "2026-08-07T15:15:51"
     },
     "20260804122109_twitter_com_Ace_Purin_status_2084615624165363950.json": {
       "status": "done",
@@ -56880,7 +56901,7 @@
       "last_updated": "2026-08-07T14:59:32"
     },
     "20260804122456_twitter_com_Ace_Purin_status_2084616577132191944.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -56889,7 +56910,7 @@
           "https://pbs.twimg.com/profile_images/2050427976786010112/u0ceyAKE_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-07T15:15:13"
+      "last_updated": "2026-08-07T15:15:51"
     },
     "20260806101905_twitter_com_Ace_Purin_status_2085309681078329829.json": {
       "status": "done",
