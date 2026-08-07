@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-08-07T15:14:53",
+  "last_updated": "2026-08-07T15:15:14",
   "html": {
     "https://web.archive.org/web/20260315073700if_/https://twitter.com/Ace_Purin/status/2033085036560527635": {
       "status": "done",
@@ -15607,7 +15607,7 @@
       "referenced_by": [
         "20260413094139_twitter_com_Ace_Purin_status_2043625655175414241.json"
       ],
-      "last_updated": "2026-08-01T02:27:56"
+      "last_updated": "2026-08-07T15:15:13"
     },
     "https://video.twimg.com/amplify_video/2044081115364048896/vid/avc1/720x1280/BaEPBhQpbLJXm40U.mp4": {
       "status": "done",
@@ -15628,7 +15628,7 @@
       "referenced_by": [
         "20260421090506_twitter_com_Ace_Purin_status_2046515557697253699.json"
       ],
-      "last_updated": "2026-08-01T02:27:56"
+      "last_updated": "2026-08-07T15:15:13"
     },
     "https://video.twimg.com/amplify_video/2047148434600452096/vid/avc1/720x1280/9Cg41EVAFL1H_G7m.mp4": {
       "status": "done",
@@ -15780,10 +15780,11 @@
       "last_updated": "2026-08-01T01:21:45"
     },
     "https://video.twimg.com/amplify_video/2082505063952719872/vid/avc1/720x1280/oSmfWZsD_OIUzdRh.mp4": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260730032908_twitter_com_Ace_Purin_status_2082669796588663113.json"
-      ]
+      ],
+      "last_updated": "2026-08-07T15:15:14"
     }
   },
   "avatars": {
@@ -24578,8 +24579,8 @@
           "https://pbs.twimg.com/profile_images/1987482127756410880/kunx4knz_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-07T14:59:13",
-      "miss_count": 3
+      "last_updated": "2026-08-07T15:15:13",
+      "miss_count": 4
     },
     "20260316161849_twitter_com_Ace_Purin_status_2033578746310172691.json": {
       "status": "done",
@@ -24829,8 +24830,8 @@
           "https://pbs.twimg.com/profile_images/2008114252100538368/sA3Yh79k_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-07T14:58:59",
-      "miss_count": 3
+      "last_updated": "2026-08-07T15:15:13",
+      "miss_count": 4
     },
     "20260318015138_twitter_com_Ace_Purin_status_2034085288700744019.json": {
       "status": "failed",
@@ -24842,8 +24843,8 @@
           "https://pbs.twimg.com/profile_images/2021274026342219777/2qlrKqWg_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-07T14:58:59",
-      "miss_count": 3
+      "last_updated": "2026-08-07T15:15:13",
+      "miss_count": 4
     },
     "20260318015147_twitter_com_Ace_Purin_status_2034085324666949723.json": {
       "status": "done",
@@ -24868,8 +24869,8 @@
           "https://pbs.twimg.com/profile_images/2031290772440641536/QNkKbty9_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-07T14:58:59",
-      "miss_count": 3
+      "last_updated": "2026-08-07T15:15:13",
+      "miss_count": 4
     },
     "20260318015319_twitter_com_Ace_Purin_status_2034085709506875397.json": {
       "status": "done",
@@ -25286,8 +25287,8 @@
           "https://pbs.twimg.com/profile_images/2033478951478444032/LGRq8oP__normal.jpg"
         ]
       },
-      "last_updated": "2026-08-07T14:59:03",
-      "miss_count": 3
+      "last_updated": "2026-08-07T15:15:13",
+      "miss_count": 4
     },
     "20260319042523_twitter_com_Ace_Purin_status_2034486367099719827.json": {
       "status": "done",
@@ -25445,8 +25446,8 @@
           "https://pbs.twimg.com/profile_images/2016486055135047680/diIlNS0R_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-07T14:59:03",
-      "miss_count": 3
+      "last_updated": "2026-08-07T15:15:13",
+      "miss_count": 4
     },
     "20260319114556_twitter_com_Ace_Purin_status_2034597235904926091.json": {
       "status": "failed",
@@ -25463,8 +25464,8 @@
           "https://pbs.twimg.com/profile_images/2028751493055356928/inRXyw9r_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-07T14:59:00",
-      "miss_count": 3
+      "last_updated": "2026-08-07T15:15:13",
+      "miss_count": 4
     },
     "20260319115058_twitter_com_Ace_Purin_status_2034598500898632081.json": {
       "status": "done",
@@ -25759,8 +25760,8 @@
           "https://pbs.twimg.com/profile_images/1995903518566436864/d9Gh6QGY_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-07T14:58:59",
-      "miss_count": 3
+      "last_updated": "2026-08-07T15:15:13",
+      "miss_count": 4
     },
     "20260320100947_twitter_com_Ace_Purin_status_2034935426688196723.json": {
       "status": "done",
@@ -26102,8 +26103,8 @@
           "https://pbs.twimg.com/profile_images/2032725124051513344/DLkqnTjr_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-07T14:58:59",
-      "miss_count": 3
+      "last_updated": "2026-08-07T15:15:13",
+      "miss_count": 4
     },
     "20260321151208_twitter_com_Ace_Purin_status_2035373903636545952.json": {
       "status": "failed",
@@ -26115,8 +26116,8 @@
           "https://pbs.twimg.com/profile_images/2032725124051513344/DLkqnTjr_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-07T14:58:59",
-      "miss_count": 3
+      "last_updated": "2026-08-07T15:15:13",
+      "miss_count": 4
     },
     "20260321151326_twitter_com_Ace_Purin_status_2035374229676573171.json": {
       "status": "failed",
@@ -26128,8 +26129,8 @@
           "https://pbs.twimg.com/profile_images/2026510670276026368/bnaYubwV_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-07T14:58:59",
-      "miss_count": 3
+      "last_updated": "2026-08-07T15:15:13",
+      "miss_count": 4
     },
     "20260321170140_twitter_com_Ace_Purin_status_2035401469118312668.json": {
       "status": "failed",
@@ -26141,8 +26142,8 @@
           "https://pbs.twimg.com/profile_images/2032725124051513344/DLkqnTjr_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-07T14:58:59",
-      "miss_count": 3
+      "last_updated": "2026-08-07T15:15:13",
+      "miss_count": 4
     },
     "20260321170904_twitter_com_Ace_Purin_status_2035403330227421326.json": {
       "status": "failed",
@@ -26156,8 +26157,8 @@
           "https://pbs.twimg.com/profile_images/2031261581422768132/bD0hjNtE_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-07T14:59:03",
-      "miss_count": 3
+      "last_updated": "2026-08-07T15:15:13",
+      "miss_count": 4
     },
     "20260321171042_twitter_com_Ace_Purin_status_2035403739868307757.json": {
       "status": "done",
@@ -26676,8 +26677,8 @@
           "https://pbs.twimg.com/profile_images/2034869645342076928/m2LinKe5_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-07T14:59:03",
-      "miss_count": 3
+      "last_updated": "2026-08-07T15:15:13",
+      "miss_count": 4
     },
     "20260323035959_twitter_com_Ace_Purin_status_2035929524937072693.json": {
       "status": "done",
@@ -26788,8 +26789,8 @@
           "https://pbs.twimg.com/profile_images/2034987428252196866/6gKdP7qp_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-07T14:59:04",
-      "miss_count": 3
+      "last_updated": "2026-08-07T15:15:13",
+      "miss_count": 4
     },
     "20260323102223_twitter_com_Ace_Purin_status_2036025758620225832.json": {
       "status": "done",
@@ -26836,8 +26837,8 @@
           "https://pbs.twimg.com/profile_images/1987482127756410880/kunx4knz_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-07T14:59:03",
-      "miss_count": 3
+      "last_updated": "2026-08-07T15:15:13",
+      "miss_count": 4
     },
     "20260323113246_twitter_com_Ace_Purin_status_2036043472525021421.json": {
       "status": "failed",
@@ -26853,8 +26854,8 @@
           "https://pbs.twimg.com/profile_images/2011710429840752640/TVZQw9bs_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-07T14:59:10",
-      "miss_count": 3
+      "last_updated": "2026-08-07T15:15:13",
+      "miss_count": 4
     },
     "20260323113819_twitter_com_Ace_Purin_status_2036044870838808821.json": {
       "status": "done",
@@ -27126,8 +27127,8 @@
           "https://pbs.twimg.com/profile_images/2034987428252196866/6gKdP7qp_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-07T14:59:03",
-      "miss_count": 3
+      "last_updated": "2026-08-07T15:15:13",
+      "miss_count": 4
     },
     "20260323172640_twitter_com_Ace_Purin_status_2036132535881834560.json": {
       "status": "done",
@@ -27153,8 +27154,8 @@
           "https://pbs.twimg.com/profile_images/1987482127756410880/kunx4knz_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-07T14:59:06",
-      "miss_count": 3
+      "last_updated": "2026-08-07T15:15:13",
+      "miss_count": 4
     },
     "20260324051908_twitter_com_Ace_Purin_status_2036311831099351542.json": {
       "status": "done",
@@ -27222,8 +27223,8 @@
           "https://pbs.twimg.com/profile_images/2030533545626877952/XkC0-vBT_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-07T14:58:59",
-      "miss_count": 3
+      "last_updated": "2026-08-07T15:15:13",
+      "miss_count": 4
     },
     "20260324105548_twitter_com_Ace_Purin_status_2036396558498062370.json": {
       "status": "done",
@@ -27248,8 +27249,8 @@
           "https://pbs.twimg.com/profile_images/2027609748909256704/xHIVymX5_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-07T14:59:04",
-      "miss_count": 3
+      "last_updated": "2026-08-07T15:15:13",
+      "miss_count": 4
     },
     "20260324113009_twitter_com_Ace_Purin_status_2036405203688366532.json": {
       "status": "done",
@@ -27536,8 +27537,8 @@
           "https://pbs.twimg.com/profile_images/1987482127756410880/kunx4knz_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-07T14:59:14",
-      "miss_count": 3
+      "last_updated": "2026-08-07T15:15:13",
+      "miss_count": 4
     },
     "20260325124050_twitter_com_Ace_Purin_status_2036785378745823580.json": {
       "status": "done",
@@ -27680,8 +27681,8 @@
           "https://pbs.twimg.com/profile_images/2031261581422768132/bD0hjNtE_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-07T14:59:03",
-      "miss_count": 3
+      "last_updated": "2026-08-07T15:15:13",
+      "miss_count": 4
     },
     "20260326104930_twitter_com_Ace_Purin_status_2037119749315031237.json": {
       "status": "done",
@@ -27806,8 +27807,8 @@
           "https://pbs.twimg.com/profile_images/2031639335355990017/gySUFS_N_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-07T14:59:04",
-      "miss_count": 3
+      "last_updated": "2026-08-07T15:15:13",
+      "miss_count": 4
     },
     "20260326140523_twitter_com_Ace_Purin_status_2037169042499498472.json": {
       "status": "done",
@@ -27894,8 +27895,8 @@
           "https://pbs.twimg.com/profile_images/2035916441590145024/0vM7mXrF_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-07T14:58:59",
-      "miss_count": 3
+      "last_updated": "2026-08-07T15:15:13",
+      "miss_count": 4
     },
     "20260326160730_twitter_com_Ace_Purin_status_2037199773900693614.json": {
       "status": "failed",
@@ -27909,8 +27910,8 @@
           "https://pbs.twimg.com/profile_images/2027247205061636096/iY8G1qRV_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-07T14:58:59",
-      "miss_count": 3
+      "last_updated": "2026-08-07T15:15:13",
+      "miss_count": 4
     },
     "20260326160749_twitter_com_Ace_Purin_status_2037199854116728859.json": {
       "status": "failed",
@@ -27922,8 +27923,8 @@
           "https://pbs.twimg.com/profile_images/2026791231880368129/j4ztiHVS_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-07T14:58:59",
-      "miss_count": 3
+      "last_updated": "2026-08-07T15:15:13",
+      "miss_count": 4
     },
     "20260326160827_twitter_com_Ace_Purin_status_2037200016339853726.json": {
       "status": "failed",
@@ -27935,8 +27936,8 @@
           "https://pbs.twimg.com/profile_images/2026695659236241410/ysqN-8vg_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-07T14:58:59",
-      "miss_count": 3
+      "last_updated": "2026-08-07T15:15:13",
+      "miss_count": 4
     },
     "20260326160850_twitter_com_Ace_Purin_status_2037200110376099874.json": {
       "status": "done",
@@ -27960,8 +27961,8 @@
           "https://pbs.twimg.com/profile_images/2036389650022146048/4C5Gkl0k_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-07T14:58:59",
-      "miss_count": 3
+      "last_updated": "2026-08-07T15:15:13",
+      "miss_count": 4
     },
     "20260326161126_twitter_com_Ace_Purin_status_2037200764477858154.json": {
       "status": "done",
@@ -27985,8 +27986,8 @@
           "https://pbs.twimg.com/profile_images/2036098917797085184/9CsP6fu1_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-07T14:58:59",
-      "miss_count": 3
+      "last_updated": "2026-08-07T15:15:13",
+      "miss_count": 4
     },
     "20260326163807_twitter_com_Ace_Purin_status_2037207480347091428.json": {
       "status": "done",
@@ -28217,8 +28218,8 @@
           "https://pbs.twimg.com/profile_images/1872566376185159680/LeyBFSAN_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-07T14:58:59",
-      "miss_count": 3
+      "last_updated": "2026-08-07T15:15:13",
+      "miss_count": 4
     },
     "20260328104514_twitter_com_Ace_Purin_status_2037843449886699541.json": {
       "status": "done",
@@ -28303,8 +28304,8 @@
           "https://pbs.twimg.com/profile_images/2028751493055356928/inRXyw9r_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-07T14:58:59",
-      "miss_count": 3
+      "last_updated": "2026-08-07T15:15:13",
+      "miss_count": 4
     },
     "20260328141630_twitter_com_Ace_Purin_status_2037896616125108644.json": {
       "status": "done",
@@ -28327,8 +28328,8 @@
           "https://pbs.twimg.com/profile_images/2028751493055356928/inRXyw9r_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-07T14:58:59",
-      "miss_count": 3
+      "last_updated": "2026-08-07T15:15:13",
+      "miss_count": 4
     },
     "20260328143013_twitter_com_Ace_Purin_status_2037900070654488748.json": {
       "status": "done",
@@ -28474,8 +28475,8 @@
           "https://pbs.twimg.com/profile_images/2028751493055356928/inRXyw9r_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-07T14:58:59",
-      "miss_count": 3
+      "last_updated": "2026-08-07T15:15:13",
+      "miss_count": 4
     },
     "20260328155824_twitter_com_Ace_Purin_status_2037922259952976133.json": {
       "status": "done",
@@ -28941,8 +28942,8 @@
           "https://pbs.twimg.com/profile_images/2030567969726840832/5gci_IPw_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-07T14:59:03",
-      "miss_count": 3
+      "last_updated": "2026-08-07T15:15:13",
+      "miss_count": 4
     },
     "20260331044450_twitter_com_Ace_Purin_status_2038839916503990620.json": {
       "status": "done",
@@ -28977,8 +28978,8 @@
           "https://pbs.twimg.com/profile_images/2038643162152144896/_KGKt9oH_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-07T14:58:59",
-      "miss_count": 3
+      "last_updated": "2026-08-07T15:15:13",
+      "miss_count": 4
     },
     "20260331053115_twitter_com_Ace_Purin_status_2038851599100166498.json": {
       "status": "done",
@@ -29002,8 +29003,8 @@
           "https://pbs.twimg.com/profile_images/2026791231880368129/j4ztiHVS_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-07T14:58:59",
-      "miss_count": 3
+      "last_updated": "2026-08-07T15:15:13",
+      "miss_count": 4
     },
     "20260331053844_twitter_com_Ace_Purin_status_2038853479595446749.json": {
       "status": "done",
@@ -29064,8 +29065,8 @@
           "https://pbs.twimg.com/profile_images/2038429861929496576/5PTvrZa3_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-07T14:59:06",
-      "miss_count": 3
+      "last_updated": "2026-08-07T15:15:13",
+      "miss_count": 4
     },
     "20260331093054_twitter_com_Ace_Purin_status_2038911907088970122.json": {
       "status": "failed",
@@ -29080,8 +29081,8 @@
           "https://pbs.twimg.com/profile_images/2038429861929496576/5PTvrZa3_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-07T14:59:08",
-      "miss_count": 3
+      "last_updated": "2026-08-07T15:15:13",
+      "miss_count": 4
     },
     "20260331093127_twitter_com_Ace_Purin_status_2038912044473397670.json": {
       "status": "failed",
@@ -29095,8 +29096,8 @@
           "https://pbs.twimg.com/profile_images/2017682861751734274/47Gq_c2i_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-07T14:59:03",
-      "miss_count": 3
+      "last_updated": "2026-08-07T15:15:13",
+      "miss_count": 4
     },
     "20260331093708_twitter_com_Ace_Purin_status_2038913474588549153.json": {
       "status": "done",
@@ -29154,8 +29155,8 @@
           "https://pbs.twimg.com/profile_images/2038643162152144896/_KGKt9oH_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-07T14:58:59",
-      "miss_count": 3
+      "last_updated": "2026-08-07T15:15:13",
+      "miss_count": 4
     },
     "20260331121528_twitter_com_Ace_Purin_status_2038953320027701257.json": {
       "status": "done",
@@ -29338,8 +29339,8 @@
           "https://pbs.twimg.com/profile_images/2034998306628354048/41zkLwrU_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-07T14:58:59",
-      "miss_count": 3
+      "last_updated": "2026-08-07T15:15:13",
+      "miss_count": 4
     },
     "20260401035749_twitter_com_Ace_Purin_status_2039190471470457017.json": {
       "status": "failed",
@@ -29354,8 +29355,8 @@
           "https://pbs.twimg.com/profile_images/2022153470095302657/6fWkX3GZ_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-07T14:59:00",
-      "miss_count": 3
+      "last_updated": "2026-08-07T15:15:13",
+      "miss_count": 4
     },
     "20260401040135_twitter_com_Ace_Purin_status_2039191418615607342.json": {
       "status": "done",
@@ -29427,8 +29428,8 @@
           "https://pbs.twimg.com/profile_images/2036920103540056067/FkWRXzWf_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-07T14:58:59",
-      "miss_count": 3
+      "last_updated": "2026-08-07T15:15:13",
+      "miss_count": 4
     },
     "20260401074031_twitter_com_Ace_Purin_status_2039246517836578901.json": {
       "status": "failed",
@@ -29440,8 +29441,8 @@
           "https://pbs.twimg.com/profile_images/2036920103540056067/FkWRXzWf_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-07T14:58:59",
-      "miss_count": 3
+      "last_updated": "2026-08-07T15:15:13",
+      "miss_count": 4
     },
     "20260401081343_twitter_com_Ace_Purin_status_2039254871602528266.json": {
       "status": "failed",
@@ -29455,8 +29456,8 @@
           "https://pbs.twimg.com/profile_images/2038698420756729857/Mtx3ZDGJ_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-07T14:59:04",
-      "miss_count": 3
+      "last_updated": "2026-08-07T15:15:13",
+      "miss_count": 4
     },
     "20260401093347_twitter_com_Ace_Purin_status_2039275019315122622.json": {
       "status": "done",
@@ -29496,8 +29497,8 @@
           "https://pbs.twimg.com/profile_images/2036288891616100352/Q-p653L8_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-07T14:59:08",
-      "miss_count": 3
+      "last_updated": "2026-08-07T15:15:13",
+      "miss_count": 4
     },
     "20260401124741_twitter_com_Ace_Purin_status_2039323817710088681.json": {
       "status": "done",
@@ -29545,8 +29546,8 @@
           "https://pbs.twimg.com/profile_images/1888630778453729280/vZIfPLyg_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-07T14:59:03",
-      "miss_count": 3
+      "last_updated": "2026-08-07T15:15:13",
+      "miss_count": 4
     },
     "20260401144858_twitter_com_Ace_Purin_status_2039354338766938337.json": {
       "status": "done",
@@ -29610,8 +29611,8 @@
           "https://pbs.twimg.com/profile_images/2036920103540056067/FkWRXzWf_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-07T14:59:00",
-      "miss_count": 3
+      "last_updated": "2026-08-07T15:15:13",
+      "miss_count": 4
     },
     "20260401164228_twitter_com_Ace_Purin_status_2039382902862201142.json": {
       "status": "done",
@@ -29657,8 +29658,8 @@
           "https://pbs.twimg.com/profile_images/2038643162152144896/_KGKt9oH_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-07T14:59:00",
-      "miss_count": 3
+      "last_updated": "2026-08-07T15:15:13",
+      "miss_count": 4
     },
     "20260401170202_twitter_com_Ace_Purin_status_2039387825733521807.json": {
       "status": "failed",
@@ -29670,8 +29671,8 @@
           "https://pbs.twimg.com/profile_images/2036801868295458817/jvpoWDKD_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-07T14:59:00",
-      "miss_count": 3
+      "last_updated": "2026-08-07T15:15:13",
+      "miss_count": 4
     },
     "20260401171819_twitter_com_Ace_Purin_status_2039391922482282791.json": {
       "status": "failed",
@@ -29683,8 +29684,8 @@
           "https://pbs.twimg.com/profile_images/2038643162152144896/_KGKt9oH_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-07T14:59:00",
-      "miss_count": 3
+      "last_updated": "2026-08-07T15:15:13",
+      "miss_count": 4
     },
     "20260401172012_twitter_com_Ace_Purin_status_2039392398334370131.json": {
       "status": "failed",
@@ -29696,8 +29697,8 @@
           "https://pbs.twimg.com/profile_images/2038643162152144896/_KGKt9oH_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-07T14:59:00",
-      "miss_count": 3
+      "last_updated": "2026-08-07T15:15:13",
+      "miss_count": 4
     },
     "20260402005051_twitter_com_Ace_Purin_status_2039505806404862195.json": {
       "status": "done",
@@ -29805,8 +29806,8 @@
           "https://pbs.twimg.com/profile_images/2038246939880484864/4SZfRpvf_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-07T14:59:00",
-      "miss_count": 3
+      "last_updated": "2026-08-07T15:15:13",
+      "miss_count": 4
     },
     "20260402040519_twitter_com_Ace_Purin_status_2039554745703293386.json": {
       "status": "done",
@@ -29869,8 +29870,8 @@
           "https://pbs.twimg.com/profile_images/2026791231880368129/j4ztiHVS_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-07T14:59:04",
-      "miss_count": 3
+      "last_updated": "2026-08-07T15:15:13",
+      "miss_count": 4
     },
     "20260402072043_twitter_com_Ace_Purin_status_2039603921828884986.json": {
       "status": "done",
@@ -30070,8 +30071,8 @@
           "https://pbs.twimg.com/profile_images/2039724542588055552/epI7Xmf1_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-07T14:59:00",
-      "miss_count": 3
+      "last_updated": "2026-08-07T15:15:13",
+      "miss_count": 4
     },
     "20260402162207_twitter_com_Ace_Purin_status_2039740167867822329.json": {
       "status": "done",
@@ -30168,8 +30169,8 @@
           "https://pbs.twimg.com/profile_images/2000972907124555778/SFlpMs9L_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-07T14:59:00",
-      "miss_count": 3
+      "last_updated": "2026-08-07T15:15:13",
+      "miss_count": 4
     },
     "20260402164925_twitter_com_Ace_Purin_status_2039747037525356708.json": {
       "status": "done",
@@ -30414,8 +30415,8 @@
           "https://pbs.twimg.com/profile_images/1866221283123568640/XpOyylTL_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-07T14:59:00",
-      "miss_count": 3
+      "last_updated": "2026-08-07T15:15:13",
+      "miss_count": 4
     },
     "20260403092611_twitter_com_Ace_Purin_status_2039997883404145140.json": {
       "status": "failed",
@@ -30427,8 +30428,8 @@
           "https://pbs.twimg.com/profile_images/2038939171126177792/8QoQIgca_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-07T14:59:00",
-      "miss_count": 3
+      "last_updated": "2026-08-07T15:15:13",
+      "miss_count": 4
     },
     "20260403092630_twitter_com_Ace_Purin_status_2039997963880329442.json": {
       "status": "done",
@@ -30481,8 +30482,8 @@
           "https://pbs.twimg.com/profile_images/1866221283123568640/XpOyylTL_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-07T14:59:00",
-      "miss_count": 3
+      "last_updated": "2026-08-07T15:15:13",
+      "miss_count": 4
     },
     "20260403094239_twitter_com_Ace_Purin_status_2040002029243044043.json": {
       "status": "done",
@@ -30509,8 +30510,8 @@
           "https://pbs.twimg.com/profile_images/2030628768289812480/IQzPG9VM_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-07T14:59:04",
-      "miss_count": 3
+      "last_updated": "2026-08-07T15:15:13",
+      "miss_count": 4
     },
     "20260403094406_twitter_com_Ace_Purin_status_2040002393258250245.json": {
       "status": "done",
@@ -30539,8 +30540,8 @@
           "https://pbs.twimg.com/profile_images/1866221283123568640/XpOyylTL_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-07T14:59:00",
-      "miss_count": 3
+      "last_updated": "2026-08-07T15:15:13",
+      "miss_count": 4
     },
     "20260403104729_twitter_com_Ace_Purin_status_2040018342728347688.json": {
       "status": "done",
@@ -30567,8 +30568,8 @@
           "https://pbs.twimg.com/profile_images/1866221283123568640/XpOyylTL_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-07T14:59:00",
-      "miss_count": 3
+      "last_updated": "2026-08-07T15:15:13",
+      "miss_count": 4
     },
     "20260403110510_twitter_com_Ace_Purin_status_2040022793522495745.json": {
       "status": "done",
@@ -30631,8 +30632,8 @@
           "https://pbs.twimg.com/profile_images/2034880696112775168/1fqk4zfG_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-07T14:59:00",
-      "miss_count": 3
+      "last_updated": "2026-08-07T15:15:13",
+      "miss_count": 4
     },
     "20260403140314_twitter_com_Ace_Purin_status_2040067605361508468.json": {
       "status": "done",
@@ -30866,8 +30867,8 @@
           "https://pbs.twimg.com/profile_images/2039724542588055552/epI7Xmf1_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-07T14:59:00",
-      "miss_count": 3
+      "last_updated": "2026-08-07T15:15:13",
+      "miss_count": 4
     },
     "20260404054117_twitter_com_Ace_Purin_status_2040303675722408188.json": {
       "status": "failed",
@@ -30879,8 +30880,8 @@
           "https://pbs.twimg.com/profile_images/2034880696112775168/1fqk4zfG_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-07T14:59:00",
-      "miss_count": 3
+      "last_updated": "2026-08-07T15:15:13",
+      "miss_count": 4
     },
     "20260404055925_twitter_com_Ace_Purin_status_2040308236621095345.json": {
       "status": "failed",
@@ -30894,8 +30895,8 @@
           "https://pbs.twimg.com/profile_images/2038643162152144896/_KGKt9oH_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-07T14:59:01",
-      "miss_count": 3
+      "last_updated": "2026-08-07T15:15:13",
+      "miss_count": 4
     },
     "20260404070245_twitter_com_Ace_Purin_status_2040324174695284742.json": {
       "status": "failed",
@@ -30910,8 +30911,8 @@
           "https://pbs.twimg.com/profile_images/2038429861929496576/5PTvrZa3_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-07T14:59:08",
-      "miss_count": 3
+      "last_updated": "2026-08-07T15:15:13",
+      "miss_count": 4
     },
     "20260404122100_twitter_com_Ace_Purin_status_2040404264645001644.json": {
       "status": "done",
@@ -30935,8 +30936,8 @@
           "https://pbs.twimg.com/profile_images/2038643162152144896/_KGKt9oH_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-07T14:59:01",
-      "miss_count": 3
+      "last_updated": "2026-08-07T15:15:13",
+      "miss_count": 4
     },
     "20260404122651_twitter_com_Ace_Purin_status_2040405736124231842.json": {
       "status": "done",
@@ -31065,8 +31066,8 @@
           "https://pbs.twimg.com/profile_images/2038643162152144896/_KGKt9oH_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-07T14:59:01",
-      "miss_count": 3
+      "last_updated": "2026-08-07T15:15:13",
+      "miss_count": 4
     },
     "20260404160840_twitter_com_Ace_Purin_status_2040461560632758431.json": {
       "status": "done",
@@ -31143,8 +31144,8 @@
           "https://pbs.twimg.com/profile_images/2038451865759936512/HbtV6dov_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-07T14:59:05",
-      "miss_count": 3
+      "last_updated": "2026-08-07T15:15:13",
+      "miss_count": 4
     },
     "20260404190505_twitter_com_Ace_Purin_status_2040505958036812147.json": {
       "status": "done",
@@ -31192,8 +31193,8 @@
           "https://pbs.twimg.com/profile_images/2038643162152144896/_KGKt9oH_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-07T14:59:07",
-      "miss_count": 3
+      "last_updated": "2026-08-07T15:15:13",
+      "miss_count": 4
     },
     "20260405052758_twitter_com_Ace_Purin_status_2040662710535495706.json": {
       "status": "done",
@@ -31440,8 +31441,8 @@
           "https://pbs.twimg.com/profile_images/2038643162152144896/_KGKt9oH_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-07T14:59:03",
-      "miss_count": 3
+      "last_updated": "2026-08-07T15:15:13",
+      "miss_count": 4
     },
     "20260405112255_twitter_com_Ace_Purin_status_2040752038091587814.json": {
       "status": "done",
@@ -31477,8 +31478,8 @@
           "https://pbs.twimg.com/profile_images/2038643162152144896/_KGKt9oH_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-07T14:59:03",
-      "miss_count": 3
+      "last_updated": "2026-08-07T15:15:13",
+      "miss_count": 4
     },
     "20260405114210_twitter_com_Ace_Purin_status_2040756881619288095.json": {
       "status": "done",
@@ -31508,8 +31509,8 @@
           "https://pbs.twimg.com/profile_images/2040544850903523328/ztRf_Gr3_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-07T14:59:07",
-      "miss_count": 2
+      "last_updated": "2026-08-07T15:15:13",
+      "miss_count": 3
     },
     "20260405131832_twitter_com_Ace_Purin_status_2040781131730329682.json": {
       "status": "done",
@@ -31571,8 +31572,8 @@
           "https://pbs.twimg.com/profile_images/2040535697426440192/OSVtYMmN_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-07T14:59:03",
-      "miss_count": 3
+      "last_updated": "2026-08-07T15:15:13",
+      "miss_count": 4
     },
     "20260405155805_twitter_com_Ace_Purin_status_2040821285681561950.json": {
       "status": "done",
@@ -31681,8 +31682,8 @@
           "https://pbs.twimg.com/profile_images/2038643162152144896/_KGKt9oH_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-07T14:59:03",
-      "miss_count": 3
+      "last_updated": "2026-08-07T15:15:13",
+      "miss_count": 4
     },
     "20260406051003_twitter_com_Ace_Purin_status_2041020590115680329.json": {
       "status": "done",
@@ -31735,8 +31736,8 @@
           "https://pbs.twimg.com/profile_images/2038429861929496576/5PTvrZa3_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-07T14:59:16",
-      "miss_count": 3
+      "last_updated": "2026-08-07T15:15:13",
+      "miss_count": 4
     },
     "20260406092256_twitter_com_Ace_Purin_status_2041084230202204631.json": {
       "status": "done",
@@ -31835,8 +31836,8 @@
           "https://pbs.twimg.com/profile_images/2039522552243228672/01UbFAUs_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-07T14:59:08",
-      "miss_count": 3
+      "last_updated": "2026-08-07T15:15:13",
+      "miss_count": 4
     },
     "20260406144650_twitter_com_Ace_Purin_status_2041165743631548779.json": {
       "status": "done",
@@ -31948,8 +31949,8 @@
           "https://pbs.twimg.com/profile_images/2038429861929496576/5PTvrZa3_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-07T14:59:17",
-      "miss_count": 3
+      "last_updated": "2026-08-07T15:15:13",
+      "miss_count": 4
     },
     "20260406165602_twitter_com_Ace_Purin_status_2041198255695171597.json": {
       "status": "done",
@@ -32009,8 +32010,8 @@
           "https://pbs.twimg.com/profile_images/2038643162152144896/_KGKt9oH_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-07T14:59:03",
-      "miss_count": 3
+      "last_updated": "2026-08-07T15:15:13",
+      "miss_count": 4
     },
     "20260407035444_twitter_com_Ace_Purin_status_2041364024617832533.json": {
       "status": "failed",
@@ -32024,8 +32025,8 @@
           "https://pbs.twimg.com/profile_images/2026791231880368129/j4ztiHVS_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-07T14:59:07",
-      "miss_count": 3
+      "last_updated": "2026-08-07T15:15:13",
+      "miss_count": 4
     },
     "20260407035652_twitter_com_Ace_Purin_status_2041364558439473461.json": {
       "status": "done",
@@ -32230,8 +32231,8 @@
           "https://pbs.twimg.com/profile_images/2040417784971001856/HVUfHILV_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-07T14:59:03",
-      "miss_count": 3
+      "last_updated": "2026-08-07T15:15:13",
+      "miss_count": 4
     },
     "20260407141254_twitter_com_Ace_Purin_status_2041519590795358430.json": {
       "status": "done",
@@ -32259,8 +32260,8 @@
           "https://pbs.twimg.com/profile_images/2039264349282603008/_wWEfmzr_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-07T14:59:07",
-      "miss_count": 3
+      "last_updated": "2026-08-07T15:15:13",
+      "miss_count": 4
     },
     "20260407141701_twitter_com_Ace_Purin_status_2041520624984904031.json": {
       "status": "failed",
@@ -32277,8 +32278,8 @@
           "https://pbs.twimg.com/profile_images/2038429861929496576/5PTvrZa3_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-07T14:59:17",
-      "miss_count": 3
+      "last_updated": "2026-08-07T15:15:13",
+      "miss_count": 4
     },
     "20260407141716_twitter_com_Ace_Purin_status_2041520689384198377.json": {
       "status": "done",
@@ -32332,8 +32333,8 @@
           "https://pbs.twimg.com/profile_images/2021249179717337092/VySpXjeJ_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-07T14:59:16",
-      "miss_count": 3
+      "last_updated": "2026-08-07T15:15:13",
+      "miss_count": 4
     },
     "20260407143257_twitter_com_Ace_Purin_status_2041524634986901713.json": {
       "status": "done",
@@ -32429,8 +32430,8 @@
           "https://pbs.twimg.com/profile_images/2040706333725642752/MD9Pl6X6_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-07T14:59:08",
-      "miss_count": 3
+      "last_updated": "2026-08-07T15:15:13",
+      "miss_count": 4
     },
     "20260408044437_twitter_com_Ace_Purin_status_2041738964265267609.json": {
       "status": "done",
@@ -32469,8 +32470,8 @@
           "https://pbs.twimg.com/profile_images/2026791231880368129/j4ztiHVS_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-07T14:59:07",
-      "miss_count": 3
+      "last_updated": "2026-08-07T15:15:13",
+      "miss_count": 4
     },
     "20260408073458_twitter_com_Ace_Purin_status_2041781836687585330.json": {
       "status": "done",
@@ -32582,8 +32583,8 @@
           "https://pbs.twimg.com/profile_images/2036958159752093696/WskK3X1C_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-07T14:59:08",
-      "miss_count": 3
+      "last_updated": "2026-08-07T15:15:13",
+      "miss_count": 4
     },
     "20260408090955_twitter_com_Ace_Purin_status_2041805730903404886.json": {
       "status": "done",
@@ -32618,8 +32619,8 @@
           "https://pbs.twimg.com/profile_images/2038643162152144896/_KGKt9oH_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-07T14:59:04",
-      "miss_count": 3
+      "last_updated": "2026-08-07T15:15:13",
+      "miss_count": 4
     },
     "20260408093645_twitter_com_Ace_Purin_status_2041812481509908704.json": {
       "status": "failed",
@@ -32633,8 +32634,8 @@
           "https://pbs.twimg.com/profile_images/2038643162152144896/_KGKt9oH_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-07T14:59:04",
-      "miss_count": 3
+      "last_updated": "2026-08-07T15:15:13",
+      "miss_count": 4
     },
     "20260408093846_twitter_com_Ace_Purin_status_2041812990002151867.json": {
       "status": "done",
@@ -32659,8 +32660,8 @@
           "https://pbs.twimg.com/profile_images/2036726953869549568/CsU2778i_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-07T14:59:08",
-      "miss_count": 3
+      "last_updated": "2026-08-07T15:15:13",
+      "miss_count": 4
     },
     "20260408095823_twitter_com_Ace_Purin_status_2041817928170139727.json": {
       "status": "done",
@@ -32868,8 +32869,8 @@
           "https://pbs.twimg.com/profile_images/2041579235350077440/8fAzCTT4_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-07T14:59:18",
-      "miss_count": 3
+      "last_updated": "2026-08-07T15:15:13",
+      "miss_count": 4
     },
     "20260409041747_twitter_com_Ace_Purin_status_2042094600589050312.json": {
       "status": "done",
@@ -33014,8 +33015,8 @@
           "https://pbs.twimg.com/profile_images/2040947920967753728/65O8YdJu_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-07T14:59:15",
-      "miss_count": 3
+      "last_updated": "2026-08-07T15:15:13",
+      "miss_count": 4
     },
     "20260409094845_twitter_com_Ace_Purin_status_2042177890247418184.json": {
       "status": "done",
@@ -33083,8 +33084,8 @@
           "https://pbs.twimg.com/profile_images/2040706333725642752/MD9Pl6X6_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-07T14:59:08",
-      "miss_count": 3
+      "last_updated": "2026-08-07T15:15:13",
+      "miss_count": 4
     },
     "20260409113524_twitter_com_Ace_Purin_status_2042204731049935166.json": {
       "status": "done",
@@ -33161,8 +33162,8 @@
           "https://pbs.twimg.com/profile_images/2040706333725642752/MD9Pl6X6_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-07T14:59:09",
-      "miss_count": 3
+      "last_updated": "2026-08-07T15:15:13",
+      "miss_count": 4
     },
     "20260409151057_twitter_com_Ace_Purin_status_2042258973894832392.json": {
       "status": "done",
@@ -33186,8 +33187,8 @@
           "https://pbs.twimg.com/profile_images/2038643162152144896/_KGKt9oH_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-07T14:59:06",
-      "miss_count": 3
+      "last_updated": "2026-08-07T15:15:13",
+      "miss_count": 4
     },
     "20260409152824_twitter_com_Ace_Purin_status_2042263364626530460.json": {
       "status": "done",
@@ -33321,8 +33322,8 @@
           "https://pbs.twimg.com/profile_images/2039522552243228672/01UbFAUs_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-07T14:59:10",
-      "miss_count": 3
+      "last_updated": "2026-08-07T15:15:13",
+      "miss_count": 4
     },
     "20260409160436_twitter_com_Ace_Purin_status_2042272476399620214.json": {
       "status": "done",
@@ -33390,8 +33391,8 @@
           "https://pbs.twimg.com/profile_images/2026791231880368129/j4ztiHVS_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-07T14:59:20",
-      "miss_count": 3
+      "last_updated": "2026-08-07T15:15:13",
+      "miss_count": 4
     },
     "20260409174644_twitter_com_Ace_Purin_status_2042298176775070118.json": {
       "status": "failed",
@@ -33405,8 +33406,8 @@
           "https://pbs.twimg.com/profile_images/2038429861929496576/5PTvrZa3_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-07T14:59:10",
-      "miss_count": 3
+      "last_updated": "2026-08-07T15:15:13",
+      "miss_count": 4
     },
     "20260409174954_twitter_com_Ace_Purin_status_2042298976071004572.json": {
       "status": "failed",
@@ -33423,8 +33424,8 @@
           "https://pbs.twimg.com/profile_images/2036801868295458817/jvpoWDKD_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-07T14:59:23",
-      "miss_count": 3
+      "last_updated": "2026-08-07T15:15:13",
+      "miss_count": 4
     },
     "20260409175253_twitter_com_Ace_Purin_status_2042299724829802898.json": {
       "status": "done",
@@ -33449,8 +33450,8 @@
           "https://pbs.twimg.com/profile_images/2038429861929496576/5PTvrZa3_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-07T14:59:10",
-      "miss_count": 3
+      "last_updated": "2026-08-07T15:15:13",
+      "miss_count": 4
     },
     "20260409180032_twitter_com_Ace_Purin_status_2042301650187280391.json": {
       "status": "done",
@@ -33545,8 +33546,8 @@
           "https://pbs.twimg.com/profile_images/2042261076784324608/REshVnsP_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-07T14:59:07",
-      "miss_count": 3
+      "last_updated": "2026-08-07T15:15:13",
+      "miss_count": 4
     },
     "20260410040659_twitter_com_Ace_Purin_status_2042454270591807985.json": {
       "status": "failed",
@@ -33560,8 +33561,8 @@
           "https://pbs.twimg.com/profile_images/2038429861929496576/5PTvrZa3_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-07T14:59:11",
-      "miss_count": 3
+      "last_updated": "2026-08-07T15:15:13",
+      "miss_count": 4
     },
     "20260410040936_twitter_com_Ace_Purin_status_2042454927684010292.json": {
       "status": "done",
@@ -33620,8 +33621,8 @@
           "https://pbs.twimg.com/profile_images/2008231012783067136/2V8VLIlL_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-07T14:59:14",
-      "miss_count": 3
+      "last_updated": "2026-08-07T15:15:13",
+      "miss_count": 4
     },
     "20260410043126_twitter_com_Ace_Purin_status_2042460423044415530.json": {
       "status": "done",
@@ -33709,8 +33710,8 @@
           "https://pbs.twimg.com/profile_images/2038643162152144896/_KGKt9oH_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-07T14:59:08",
-      "miss_count": 3
+      "last_updated": "2026-08-07T15:15:13",
+      "miss_count": 4
     },
     "20260410081014_twitter_com_Ace_Purin_status_2042515487238820297.json": {
       "status": "done",
@@ -33803,8 +33804,8 @@
           "https://pbs.twimg.com/profile_images/2022153470095302657/6fWkX3GZ_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-07T14:59:08",
-      "miss_count": 3
+      "last_updated": "2026-08-07T15:15:13",
+      "miss_count": 4
     },
     "20260410083003_twitter_com_Ace_Purin_status_2042520472550805671.json": {
       "status": "done",
@@ -34144,8 +34145,8 @@
           "https://pbs.twimg.com/profile_images/2041724163287871489/_t_jrvCS_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-07T14:59:08",
-      "miss_count": 3
+      "last_updated": "2026-08-07T15:15:13",
+      "miss_count": 4
     },
     "20260410134432_twitter_com_Ace_Purin_status_2042599613182677442.json": {
       "status": "done",
@@ -34266,8 +34267,8 @@
           "https://pbs.twimg.com/profile_images/2038643162152144896/_KGKt9oH_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-07T14:59:11",
-      "miss_count": 3
+      "last_updated": "2026-08-07T15:15:13",
+      "miss_count": 4
     },
     "20260410154412_twitter_com_Ace_Purin_status_2042629731053637881.json": {
       "status": "failed",
@@ -34281,8 +34282,8 @@
           "https://pbs.twimg.com/profile_images/2038658610172157953/Vgc3WGox_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-07T14:59:12",
-      "miss_count": 3
+      "last_updated": "2026-08-07T15:15:13",
+      "miss_count": 4
     },
     "20260410155352_twitter_com_Ace_Purin_status_2042632162730713117.json": {
       "status": "done",
@@ -34327,8 +34328,8 @@
           "https://pbs.twimg.com/profile_images/2038643162152144896/_KGKt9oH_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-07T14:59:08",
-      "miss_count": 3
+      "last_updated": "2026-08-07T15:15:13",
+      "miss_count": 4
     },
     "20260411121135_twitter_com_Ace_Purin_status_2042938609658138999.json": {
       "status": "done",
@@ -34382,8 +34383,8 @@
           "https://pbs.twimg.com/profile_images/2042473034955603968/VbNwFFnR_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-07T14:59:08",
-      "miss_count": 3
+      "last_updated": "2026-08-07T15:15:13",
+      "miss_count": 4
     },
     "20260411132424_twitter_com_Ace_Purin_status_2042956937327968665.json": {
       "status": "done",
@@ -34562,8 +34563,8 @@
           "https://pbs.twimg.com/profile_images/2026528085546512389/e5Yvw4fG_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-07T14:59:08",
-      "miss_count": 3
+      "last_updated": "2026-08-07T15:15:13",
+      "miss_count": 4
     },
     "20260411133528_twitter_com_Ace_Purin_status_2042959721767072225.json": {
       "status": "done",
@@ -34841,8 +34842,8 @@
           "https://pbs.twimg.com/profile_images/1997491540915294208/kFKVZs05_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-07T14:59:12",
-      "miss_count": 3
+      "last_updated": "2026-08-07T15:15:13",
+      "miss_count": 4
     },
     "20260412103730_twitter_com_Ace_Purin_status_2043277320803471643.json": {
       "status": "done",
@@ -34896,8 +34897,8 @@
           "https://pbs.twimg.com/profile_images/2042261076784324608/REshVnsP_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-07T14:59:09",
-      "miss_count": 3
+      "last_updated": "2026-08-07T15:15:13",
+      "miss_count": 4
     },
     "20260412104534_twitter_com_Ace_Purin_status_2043279351383482481.json": {
       "status": "done",
@@ -35009,8 +35010,8 @@
           "https://pbs.twimg.com/profile_images/2041015244408119296/bvU7l2hs_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-07T14:59:08",
-      "miss_count": 3
+      "last_updated": "2026-08-07T15:15:13",
+      "miss_count": 4
     },
     "20260412152823_twitter_com_Ace_Purin_status_2043350523869549007.json": {
       "status": "done",
@@ -35047,8 +35048,8 @@
           "https://pbs.twimg.com/profile_images/2039522552243228672/01UbFAUs_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-07T14:59:12",
-      "miss_count": 3
+      "last_updated": "2026-08-07T15:15:13",
+      "miss_count": 4
     },
     "20260413092010_twitter_com_Ace_Purin_status_2043620247014666582.json": {
       "status": "done",
@@ -35152,8 +35153,8 @@
           "https://pbs.twimg.com/profile_images/2043509775703715840/ZUhNV6-6_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-07T14:59:22",
-      "miss_count": 3
+      "last_updated": "2026-08-07T15:15:13",
+      "miss_count": 4
     },
     "20260413094139_twitter_com_Ace_Purin_status_2043625655175414241.json": {
       "status": "failed",
@@ -35167,8 +35168,8 @@
           "https://pbs.twimg.com/profile_images/1903358372835102720/tDTb-dOA_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-07T14:59:08",
-      "miss_count": 3
+      "last_updated": "2026-08-07T15:15:13",
+      "miss_count": 4
     },
     "20260413095142_twitter_com_Ace_Purin_status_2043628184328155153.json": {
       "status": "done",
@@ -35274,8 +35275,8 @@
           "https://pbs.twimg.com/profile_images/2038643162152144896/_KGKt9oH_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-07T14:59:12",
-      "miss_count": 3
+      "last_updated": "2026-08-07T15:15:13",
+      "miss_count": 4
     },
     "20260413154149_twitter_com_Ace_Purin_status_2043716293791257072.json": {
       "status": "done",
@@ -35321,8 +35322,8 @@
           "https://pbs.twimg.com/profile_images/2041015244408119296/bvU7l2hs_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-07T14:59:08",
-      "miss_count": 3
+      "last_updated": "2026-08-07T15:15:13",
+      "miss_count": 4
     },
     "20260413161414_twitter_com_Ace_Purin_status_2043724453205696658.json": {
       "status": "done",
@@ -35373,8 +35374,8 @@
           "https://pbs.twimg.com/profile_images/2040706333725642752/MD9Pl6X6_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-07T14:59:12",
-      "miss_count": 3
+      "last_updated": "2026-08-07T15:15:13",
+      "miss_count": 4
     },
     "20260414043923_twitter_com_Ace_Purin_status_2043911975445594450.json": {
       "status": "done",
@@ -35615,8 +35616,8 @@
           "https://pbs.twimg.com/profile_images/2040706333725642752/MD9Pl6X6_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-07T14:59:12",
-      "miss_count": 3
+      "last_updated": "2026-08-07T15:15:13",
+      "miss_count": 4
     },
     "20260414113938_twitter_com_Ace_Purin_status_2044017733281689720.json": {
       "status": "done",
@@ -35640,8 +35641,8 @@
           "https://pbs.twimg.com/profile_images/2038643162152144896/_KGKt9oH_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-07T14:59:09",
-      "miss_count": 3
+      "last_updated": "2026-08-07T15:15:13",
+      "miss_count": 4
     },
     "20260414115020_twitter_com_Ace_Purin_status_2044020428000395504.json": {
       "status": "done",
@@ -35690,8 +35691,8 @@
           "https://pbs.twimg.com/profile_images/2038643162152144896/_KGKt9oH_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-07T14:59:09",
-      "miss_count": 3
+      "last_updated": "2026-08-07T15:15:13",
+      "miss_count": 4
     },
     "20260414123531_twitter_com_Ace_Purin_status_2044031796195799414.json": {
       "status": "done",
@@ -35781,8 +35782,8 @@
           "https://pbs.twimg.com/profile_images/2041814931683848192/zcl-cu0Y_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-07T14:59:23",
-      "miss_count": 3
+      "last_updated": "2026-08-07T15:15:13",
+      "miss_count": 4
     },
     "20260414161900_twitter_com_Ace_Purin_status_2044088040013103115.json": {
       "status": "done",
@@ -35902,8 +35903,8 @@
           "https://pbs.twimg.com/profile_images/2041579235350077440/8fAzCTT4_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-07T14:59:17",
-      "miss_count": 3
+      "last_updated": "2026-08-07T15:15:13",
+      "miss_count": 4
     },
     "20260415041529_twitter_com_Ace_Purin_status_2044268348217966689.json": {
       "status": "failed",
@@ -35915,8 +35916,8 @@
           "https://pbs.twimg.com/profile_images/2026791231880368129/j4ztiHVS_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-07T14:59:10",
-      "miss_count": 3
+      "last_updated": "2026-08-07T15:15:13",
+      "miss_count": 4
     },
     "20260415041715_twitter_com_Ace_Purin_status_2044268790796693580.json": {
       "status": "done",
@@ -35942,8 +35943,8 @@
           "https://pbs.twimg.com/profile_images/2043551394872041472/YmIL7O7l_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-07T14:59:15",
-      "miss_count": 3
+      "last_updated": "2026-08-07T15:15:13",
+      "miss_count": 4
     },
     "20260415043924_twitter_com_Ace_Purin_status_2044274368046674146.json": {
       "status": "done",
@@ -36031,8 +36032,8 @@
           "https://pbs.twimg.com/profile_images/2043509775703715840/ZUhNV6-6_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-07T14:59:13",
-      "miss_count": 3
+      "last_updated": "2026-08-07T15:15:13",
+      "miss_count": 4
     },
     "20260415171954_twitter_com_Ace_Purin_status_2044465754821870059.json": {
       "status": "done",
@@ -36093,8 +36094,8 @@
           "https://pbs.twimg.com/profile_images/2038643162152144896/_KGKt9oH_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-07T14:59:10",
-      "miss_count": 3
+      "last_updated": "2026-08-07T15:15:13",
+      "miss_count": 4
     },
     "20260415173457_twitter_com_Ace_Purin_status_2044469541405921518.json": {
       "status": "done",
@@ -36341,8 +36342,8 @@
           "https://pbs.twimg.com/profile_images/2038643162152144896/_KGKt9oH_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-07T14:59:10",
-      "miss_count": 3
+      "last_updated": "2026-08-07T15:15:13",
+      "miss_count": 4
     },
     "20260417095131_twitter_com_Ace_Purin_status_2045077689162473547.json": {
       "status": "done",
@@ -36663,8 +36664,8 @@
           "https://pbs.twimg.com/profile_images/1975697751305605120/m5TSe3-9_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-07T14:59:10",
-      "miss_count": 3
+      "last_updated": "2026-08-07T15:15:13",
+      "miss_count": 4
     },
     "20260418040910_twitter_com_Ace_Purin_status_2045353923146571852.json": {
       "status": "done",
@@ -36700,8 +36701,8 @@
           "https://pbs.twimg.com/profile_images/2038643162152144896/_KGKt9oH_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-07T14:59:10",
-      "miss_count": 3
+      "last_updated": "2026-08-07T15:15:13",
+      "miss_count": 4
     },
     "20260418041501_twitter_com_Ace_Purin_status_2045355393241743379.json": {
       "status": "done",
@@ -36729,8 +36730,8 @@
           "https://pbs.twimg.com/profile_images/2045022879562231808/TOsi7poo_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-07T14:59:25",
-      "miss_count": 3
+      "last_updated": "2026-08-07T15:15:13",
+      "miss_count": 4
     },
     "20260418042204_twitter_com_Ace_Purin_status_2045357169101742117.json": {
       "status": "done",
@@ -36756,8 +36757,8 @@
           "https://pbs.twimg.com/profile_images/1888630778453729280/vZIfPLyg_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-07T14:59:14",
-      "miss_count": 3
+      "last_updated": "2026-08-07T15:15:13",
+      "miss_count": 4
     },
     "20260418042553_twitter_com_Ace_Purin_status_2045358129131798945.json": {
       "status": "done",
@@ -36780,8 +36781,8 @@
           "https://pbs.twimg.com/profile_images/2038643162152144896/_KGKt9oH_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-07T14:59:11",
-      "miss_count": 3
+      "last_updated": "2026-08-07T15:15:13",
+      "miss_count": 4
     },
     "20260418043543_twitter_com_Ace_Purin_status_2045360602055590216.json": {
       "status": "done",
@@ -36849,8 +36850,8 @@
           "https://pbs.twimg.com/profile_images/2038643162152144896/_KGKt9oH_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-07T14:59:11",
-      "miss_count": 3
+      "last_updated": "2026-08-07T15:15:13",
+      "miss_count": 4
     },
     "20260418060231_twitter_com_Ace_Purin_status_2045382445462389133.json": {
       "status": "done",
@@ -36876,8 +36877,8 @@
           "https://pbs.twimg.com/profile_images/2038643162152144896/_KGKt9oH_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-07T14:59:12",
-      "miss_count": 3
+      "last_updated": "2026-08-07T15:15:13",
+      "miss_count": 4
     },
     "20260418061745_twitter_com_Ace_Purin_status_2045386280889094459.json": {
       "status": "done",
@@ -36914,8 +36915,8 @@
           "https://pbs.twimg.com/profile_images/2045022879562231808/TOsi7poo_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-07T14:59:15",
-      "miss_count": 3
+      "last_updated": "2026-08-07T15:15:13",
+      "miss_count": 4
     },
     "20260418084747_twitter_com_Ace_Purin_status_2045424037741076639.json": {
       "status": "done",
@@ -36967,8 +36968,8 @@
           "https://pbs.twimg.com/profile_images/2043509775703715840/ZUhNV6-6_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-07T14:59:19",
-      "miss_count": 3
+      "last_updated": "2026-08-07T15:15:13",
+      "miss_count": 4
     },
     "20260418133623_twitter_com_Ace_Purin_status_2045496668188221880.json": {
       "status": "done",
@@ -37111,8 +37112,8 @@
           "https://pbs.twimg.com/profile_images/2045743075327463424/GBVgyivn_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-07T14:59:12",
-      "miss_count": 3
+      "last_updated": "2026-08-07T15:15:13",
+      "miss_count": 4
     },
     "20260419074546_twitter_com_Ace_Purin_status_2045770820006621529.json": {
       "status": "done",
@@ -37267,8 +37268,8 @@
           "https://pbs.twimg.com/profile_images/2043509775703715840/ZUhNV6-6_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-07T14:59:15",
-      "miss_count": 3
+      "last_updated": "2026-08-07T15:15:13",
+      "miss_count": 4
     },
     "20260419173156_twitter_com_Ace_Purin_status_2045918334391296013.json": {
       "status": "done",
@@ -37416,8 +37417,8 @@
           "https://pbs.twimg.com/profile_images/2044497795743420416/BZIdH84d_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-07T14:59:26",
-      "miss_count": 3
+      "last_updated": "2026-08-07T15:15:13",
+      "miss_count": 4
     },
     "20260420105603_twitter_com_Ace_Purin_status_2046181093502746879.json": {
       "status": "failed",
@@ -37431,8 +37432,8 @@
           "https://pbs.twimg.com/profile_images/2023354415944495104/Uixnel15_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-07T14:59:15",
-      "miss_count": 3
+      "last_updated": "2026-08-07T15:15:13",
+      "miss_count": 4
     },
     "20260420105618_twitter_com_Ace_Purin_status_2046181154169176321.json": {
       "status": "done",
@@ -37752,8 +37753,8 @@
           "https://pbs.twimg.com/profile_images/2043588276389322752/v3VfQHO7_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-07T14:59:12",
-      "miss_count": 3
+      "last_updated": "2026-08-07T15:15:13",
+      "miss_count": 4
     },
     "20260420170714_twitter_com_Ace_Purin_status_2046274504717193683.json": {
       "status": "done",
@@ -37842,8 +37843,8 @@
           "https://pbs.twimg.com/profile_images/2022153470095302657/6fWkX3GZ_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-07T14:59:13",
-      "miss_count": 3
+      "last_updated": "2026-08-07T15:15:13",
+      "miss_count": 4
     },
     "20260421090529_twitter_com_Ace_Purin_status_2046515655936196728.json": {
       "status": "done",
@@ -37977,8 +37978,8 @@
           "https://pbs.twimg.com/profile_images/2045022879562231808/TOsi7poo_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-07T14:59:15",
-      "miss_count": 3
+      "last_updated": "2026-08-07T15:15:13",
+      "miss_count": 4
     },
     "20260421113115_twitter_com_Ace_Purin_status_2046552339440689551.json": {
       "status": "failed",
@@ -37990,8 +37991,8 @@
           "https://pbs.twimg.com/profile_images/2038643162152144896/_KGKt9oH_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-07T14:59:13",
-      "miss_count": 3
+      "last_updated": "2026-08-07T15:15:13",
+      "miss_count": 4
     },
     "20260421113518_twitter_com_Ace_Purin_status_2046553358467756266.json": {
       "status": "done",
@@ -38049,8 +38050,8 @@
           "https://pbs.twimg.com/profile_images/2038643162152144896/_KGKt9oH_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-07T14:59:13",
-      "miss_count": 3
+      "last_updated": "2026-08-07T15:15:13",
+      "miss_count": 4
     },
     "20260422041528_twitter_com_Ace_Purin_status_2046805059791700014.json": {
       "status": "done",
@@ -38074,8 +38075,8 @@
           "https://pbs.twimg.com/profile_images/2038643162152144896/_KGKt9oH_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-07T14:59:13",
-      "miss_count": 3
+      "last_updated": "2026-08-07T15:15:13",
+      "miss_count": 4
     },
     "20260422055631_twitter_com_Ace_Purin_status_2046830487419941293.json": {
       "status": "failed",
@@ -38089,8 +38090,8 @@
           "https://pbs.twimg.com/profile_images/2045022879562231808/TOsi7poo_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-07T14:59:16",
-      "miss_count": 3
+      "last_updated": "2026-08-07T15:15:13",
+      "miss_count": 4
     },
     "20260422055720_twitter_com_Ace_Purin_status_2046830694392008749.json": {
       "status": "done",
@@ -38162,8 +38163,8 @@
           "https://pbs.twimg.com/profile_images/2038643162152144896/_KGKt9oH_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-07T14:59:13",
-      "miss_count": 3
+      "last_updated": "2026-08-07T15:15:13",
+      "miss_count": 4
     },
     "20260422091651_twitter_com_Ace_Purin_status_2046880904849854783.json": {
       "status": "done",
@@ -38234,8 +38235,8 @@
           "https://pbs.twimg.com/profile_images/1888630778453729280/vZIfPLyg_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-07T14:59:16",
-      "miss_count": 3
+      "last_updated": "2026-08-07T15:15:13",
+      "miss_count": 4
     },
     "20260422125801_twitter_com_Ace_Purin_status_2046936561825280157.json": {
       "status": "done",
@@ -38285,8 +38286,8 @@
           "https://pbs.twimg.com/profile_images/2041031144146423808/f-TPgWl2_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-07T14:59:20",
-      "miss_count": 3
+      "last_updated": "2026-08-07T15:15:13",
+      "miss_count": 4
     },
     "20260422153851_twitter_com_Ace_Purin_status_2046977038066868442.json": {
       "status": "done",
@@ -38373,8 +38374,8 @@
           "https://pbs.twimg.com/profile_images/2038749547648720896/ATxdcmID_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-07T14:59:17",
-      "miss_count": 3
+      "last_updated": "2026-08-07T15:15:13",
+      "miss_count": 4
     },
     "20260422162327_twitter_com_Ace_Purin_status_2046988263119102094.json": {
       "status": "done",
@@ -38531,8 +38532,8 @@
           "https://pbs.twimg.com/profile_images/2047275597890727936/yfKW1ISI_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-07T14:59:18",
-      "miss_count": 3
+      "last_updated": "2026-08-07T15:15:13",
+      "miss_count": 4
     },
     "20260423122325_twitter_com_Ace_Purin_status_2047290244954050981.json": {
       "status": "done",
@@ -38557,8 +38558,8 @@
           "https://pbs.twimg.com/profile_images/2045709915797499904/1KyU_bd__normal.jpg"
         ]
       },
-      "last_updated": "2026-08-07T14:59:15",
-      "miss_count": 3
+      "last_updated": "2026-08-07T15:15:13",
+      "miss_count": 4
     },
     "20260423122757_twitter_com_Ace_Purin_status_2047291382369501591.json": {
       "status": "done",
@@ -38760,8 +38761,8 @@
           "https://pbs.twimg.com/profile_images/2047275597890727936/yfKW1ISI_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-07T14:59:18",
-      "miss_count": 3
+      "last_updated": "2026-08-07T15:15:13",
+      "miss_count": 4
     },
     "20260424093701_twitter_com_Ace_Purin_status_2047610757127557304.json": {
       "status": "done",
@@ -38842,8 +38843,8 @@
           "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-07T14:59:18",
-      "miss_count": 3
+      "last_updated": "2026-08-07T15:15:13",
+      "miss_count": 4
     },
     "20260424121905_twitter_com_Ace_Purin_status_2047651539482001878.json": {
       "status": "done",
@@ -38935,8 +38936,8 @@
           "https://pbs.twimg.com/profile_images/2038643162152144896/_KGKt9oH_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-07T14:59:15",
-      "miss_count": 3
+      "last_updated": "2026-08-07T15:15:13",
+      "miss_count": 4
     },
     "20260424145023_twitter_com_Ace_Purin_status_2047689615373643807.json": {
       "status": "done",
@@ -39015,8 +39016,8 @@
           "https://pbs.twimg.com/profile_images/2038643162152144896/_KGKt9oH_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-07T14:59:15",
-      "miss_count": 3
+      "last_updated": "2026-08-07T15:15:13",
+      "miss_count": 4
     },
     "20260424154935_twitter_com_Ace_Purin_status_2047704515265331322.json": {
       "status": "failed",
@@ -39028,8 +39029,8 @@
           "https://pbs.twimg.com/profile_images/2038643162152144896/_KGKt9oH_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-07T14:59:15",
-      "miss_count": 3
+      "last_updated": "2026-08-07T15:15:13",
+      "miss_count": 4
     },
     "20260424160647_twitter_com_Ace_Purin_status_2047708844990849503.json": {
       "status": "failed",
@@ -39042,8 +39043,8 @@
           "https://pbs.twimg.com/profile_images/2038643162152144896/_KGKt9oH_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-07T14:59:15",
-      "miss_count": 3
+      "last_updated": "2026-08-07T15:15:13",
+      "miss_count": 4
     },
     "20260424161400_twitter_com_Ace_Purin_status_2047710660642173152.json": {
       "status": "done",
@@ -39254,8 +39255,8 @@
           "https://pbs.twimg.com/profile_images/2041579235350077440/8fAzCTT4_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-07T14:59:18",
-      "miss_count": 3
+      "last_updated": "2026-08-07T15:15:13",
+      "miss_count": 4
     },
     "20260425111152_twitter_com_Ace_Purin_status_2047997013065961601.json": {
       "status": "done",
@@ -39314,8 +39315,8 @@
           "https://pbs.twimg.com/profile_images/2040669525604212736/vauyoVIL_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-07T14:59:18",
-      "miss_count": 3
+      "last_updated": "2026-08-07T15:15:13",
+      "miss_count": 4
     },
     "20260425112841_twitter_com_Ace_Purin_status_2048001246477635919.json": {
       "status": "failed",
@@ -39329,8 +39330,8 @@
           "https://pbs.twimg.com/profile_images/2040669525604212736/vauyoVIL_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-07T14:59:19",
-      "miss_count": 3
+      "last_updated": "2026-08-07T15:15:13",
+      "miss_count": 4
     },
     "20260425113250_twitter_com_Ace_Purin_status_2048002288531525798.json": {
       "status": "done",
@@ -39549,8 +39550,8 @@
           "https://pbs.twimg.com/profile_images/2035314704307081216/71U1ftM3_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-07T14:59:15",
-      "miss_count": 3
+      "last_updated": "2026-08-07T15:15:13",
+      "miss_count": 4
     },
     "20260425170216_twitter_com_Ace_Purin_status_2048085195224748484.json": {
       "status": "done",
@@ -39652,8 +39653,8 @@
           "https://pbs.twimg.com/profile_images/2035314704307081216/71U1ftM3_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-07T14:59:15",
-      "miss_count": 3
+      "last_updated": "2026-08-07T15:15:13",
+      "miss_count": 4
     },
     "20260426082928_twitter_com_Ace_Purin_status_2048318530404462685.json": {
       "status": "done",
@@ -39786,8 +39787,8 @@
           "https://pbs.twimg.com/profile_images/2031380479656730624/btRtgWSN_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-07T14:59:24",
-      "miss_count": 3
+      "last_updated": "2026-08-07T15:15:13",
+      "miss_count": 4
     },
     "20260426093816_twitter_com_Ace_Purin_status_2048335846026441056.json": {
       "status": "done",
@@ -40128,8 +40129,8 @@
           "https://pbs.twimg.com/profile_images/2038643162152144896/_KGKt9oH_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-07T14:59:16",
-      "miss_count": 3
+      "last_updated": "2026-08-07T15:15:13",
+      "miss_count": 4
     },
     "20260428044853_twitter_com_Ace_Purin_status_2048987794803142996.json": {
       "status": "done",
@@ -40356,8 +40357,8 @@
           "https://pbs.twimg.com/profile_images/2047689825734770688/T5pSPjsn_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-07T14:59:16",
-      "miss_count": 3
+      "last_updated": "2026-08-07T15:15:13",
+      "miss_count": 4
     },
     "20260428131034_twitter_com_Ace_Purin_status_2049114047623438679.json": {
       "status": "done",
@@ -40394,8 +40395,8 @@
           "https://pbs.twimg.com/profile_images/2038643162152144896/_KGKt9oH_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-07T14:59:16",
-      "miss_count": 3
+      "last_updated": "2026-08-07T15:15:13",
+      "miss_count": 4
     },
     "20260428152427_twitter_com_Ace_Purin_status_2049147739813089369.json": {
       "status": "done",
@@ -40470,8 +40471,8 @@
           "https://pbs.twimg.com/profile_images/2008231012783067136/2V8VLIlL_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-07T14:59:19",
-      "miss_count": 3
+      "last_updated": "2026-08-07T15:15:13",
+      "miss_count": 4
     },
     "20260429055034_twitter_com_Ace_Purin_status_2049365705754382533.json": {
       "status": "done",
@@ -40505,8 +40506,8 @@
           "https://pbs.twimg.com/profile_images/2047689825734770688/T5pSPjsn_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-07T14:59:16",
-      "miss_count": 3
+      "last_updated": "2026-08-07T15:15:13",
+      "miss_count": 4
     },
     "20260429071935_twitter_com_Ace_Purin_status_2049388107062231054.json": {
       "status": "done",
@@ -40543,8 +40544,8 @@
           "https://pbs.twimg.com/profile_images/2041579235350077440/8fAzCTT4_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-07T14:59:23",
-      "miss_count": 3
+      "last_updated": "2026-08-07T15:15:13",
+      "miss_count": 4
     },
     "20260429123146_twitter_com_Ace_Purin_status_2049466671187030499.json": {
       "status": "done",
@@ -40613,8 +40614,8 @@
           "https://pbs.twimg.com/profile_images/2043588276389322752/v3VfQHO7_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-07T14:59:16",
-      "miss_count": 3
+      "last_updated": "2026-08-07T15:15:13",
+      "miss_count": 4
     },
     "20260429162147_twitter_com_Ace_Purin_status_2049524555451109875.json": {
       "status": "done",
@@ -40794,8 +40795,8 @@
           "https://pbs.twimg.com/profile_images/2035262095277862912/s0vuE8mi_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-07T14:59:19",
-      "miss_count": 3
+      "last_updated": "2026-08-07T15:15:13",
+      "miss_count": 4
     },
     "20260430044246_twitter_com_Ace_Purin_status_2049711032323674440.json": {
       "status": "done",
@@ -41215,8 +41216,8 @@
           "https://pbs.twimg.com/profile_images/2047689825734770688/T5pSPjsn_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-07T14:59:16",
-      "miss_count": 3
+      "last_updated": "2026-08-07T15:15:13",
+      "miss_count": 4
     },
     "20260502123233_twitter_com_Ace_Purin_status_2050554031492530576.json": {
       "status": "done",
@@ -41518,8 +41519,8 @@
           "https://pbs.twimg.com/profile_images/1902047683457822720/JCNa0cDK_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-07T14:59:16",
-      "miss_count": 3
+      "last_updated": "2026-08-07T15:15:13",
+      "miss_count": 4
     },
     "20260503011536_twitter_com_Ace_Purin_status_2050746060478583287.json": {
       "status": "done",
@@ -41542,8 +41543,8 @@
           "https://pbs.twimg.com/profile_images/2038643162152144896/_KGKt9oH_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-07T14:59:16",
-      "miss_count": 3
+      "last_updated": "2026-08-07T15:15:13",
+      "miss_count": 4
     },
     "20260503013248_twitter_com_Ace_Purin_status_2050750387280630003.json": {
       "status": "done",
@@ -41699,8 +41700,8 @@
           "https://pbs.twimg.com/profile_images/1902047683457822720/JCNa0cDK_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-07T14:59:16",
-      "miss_count": 3
+      "last_updated": "2026-08-07T15:15:13",
+      "miss_count": 4
     },
     "20260503124002_twitter_com_Ace_Purin_status_2050918305712767062.json": {
       "status": "done",
@@ -41775,8 +41776,8 @@
           "https://pbs.twimg.com/profile_images/2048210890999431168/2DR7TA3K_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-07T14:59:16",
-      "miss_count": 3
+      "last_updated": "2026-08-07T15:15:13",
+      "miss_count": 4
     },
     "20260503133336_twitter_com_Ace_Purin_status_2050931786369442043.json": {
       "status": "done",
@@ -41977,8 +41978,8 @@
           "https://pbs.twimg.com/profile_images/2050074118356434944/ebr8JW3N_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-07T14:59:23",
-      "miss_count": 3
+      "last_updated": "2026-08-07T15:15:13",
+      "miss_count": 4
     },
     "20260503154352_twitter_com_Ace_Purin_status_2050964565874430304.json": {
       "status": "done",
@@ -42228,8 +42229,8 @@
           "https://pbs.twimg.com/profile_images/1979709468096053248/NP6_6sIl_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-07T14:59:28",
-      "miss_count": 3
+      "last_updated": "2026-08-07T15:15:13",
+      "miss_count": 4
     },
     "20260503185428_twitter_com_Ace_Purin_status_2051012534187299217.json": {
       "status": "done",
@@ -42278,8 +42279,8 @@
           "https://pbs.twimg.com/profile_images/2041031144146423808/f-TPgWl2_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-07T14:59:20",
-      "miss_count": 3
+      "last_updated": "2026-08-07T15:15:13",
+      "miss_count": 4
     },
     "20260503194138_twitter_com_Ace_Purin_status_2051024403224502417.json": {
       "status": "done",
@@ -42375,8 +42376,8 @@
           "https://pbs.twimg.com/profile_images/2040964718878433280/anUmYhbX_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-07T14:59:17",
-      "miss_count": 3
+      "last_updated": "2026-08-07T15:15:13",
+      "miss_count": 4
     },
     "20260504094518_twitter_com_Ace_Purin_status_2051236718322545074.json": {
       "status": "done",
@@ -42426,8 +42427,8 @@
           "https://pbs.twimg.com/profile_images/2047689825734770688/T5pSPjsn_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-07T14:59:17",
-      "miss_count": 3
+      "last_updated": "2026-08-07T15:15:13",
+      "miss_count": 4
     },
     "20260504125106_twitter_com_Ace_Purin_status_2051283475672760652.json": {
       "status": "done",
@@ -42466,8 +42467,8 @@
           "https://pbs.twimg.com/profile_images/1971248808110727168/N67JCK6y_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-07T14:59:21",
-      "miss_count": 3
+      "last_updated": "2026-08-07T15:15:13",
+      "miss_count": 4
     },
     "20260504130203_twitter_com_Ace_Purin_status_2051286233855496600.json": {
       "status": "done",
@@ -42536,8 +42537,8 @@
           "https://pbs.twimg.com/profile_images/2047689825734770688/T5pSPjsn_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-07T14:59:17",
-      "miss_count": 3
+      "last_updated": "2026-08-07T15:15:13",
+      "miss_count": 4
     },
     "20260504143430_twitter_com_Ace_Purin_status_2051309496849555462.json": {
       "status": "done",
@@ -42733,8 +42734,8 @@
           "https://pbs.twimg.com/profile_images/2048721432314613760/MGSseNfJ_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-07T14:59:17",
-      "miss_count": 3
+      "last_updated": "2026-08-07T15:15:13",
+      "miss_count": 4
     },
     "20260504164032_twitter_com_Ace_Purin_status_2051341213568258245.json": {
       "status": "done",
@@ -42937,8 +42938,8 @@
           "https://pbs.twimg.com/profile_images/2047689825734770688/T5pSPjsn_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-07T14:59:17",
-      "miss_count": 3
+      "last_updated": "2026-08-07T15:15:13",
+      "miss_count": 4
     },
     "20260504202933_twitter_com_Ace_Purin_status_2051398849428894066.json": {
       "status": "done",
@@ -43121,8 +43122,8 @@
           "https://pbs.twimg.com/profile_images/2041579235350077440/8fAzCTT4_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-07T14:59:20",
-      "miss_count": 3
+      "last_updated": "2026-08-07T15:15:13",
+      "miss_count": 4
     },
     "20260505112053_twitter_com_Ace_Purin_status_2051623161863840067.json": {
       "status": "done",
@@ -43170,8 +43171,8 @@
           "https://pbs.twimg.com/profile_images/2047689825734770688/T5pSPjsn_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-07T14:59:18",
-      "miss_count": 3
+      "last_updated": "2026-08-07T15:15:13",
+      "miss_count": 4
     },
     "20260505112547_twitter_com_Ace_Purin_status_2051624395337277769.json": {
       "status": "done",
@@ -43315,8 +43316,8 @@
           "https://pbs.twimg.com/profile_images/1807176546215768064/SgBCkgp3_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-07T14:59:22",
-      "miss_count": 3
+      "last_updated": "2026-08-07T15:15:13",
+      "miss_count": 4
     },
     "20260505132510_twitter_com_Ace_Purin_status_2051654436536348977.json": {
       "status": "done",
@@ -43453,8 +43454,8 @@
           "https://pbs.twimg.com/profile_images/2041014657167802368/WOq5BhqV_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-07T14:59:22",
-      "miss_count": 2
+      "last_updated": "2026-08-07T15:15:13",
+      "miss_count": 3
     },
     "20260507082002_twitter_com_Ace_Purin_status_2052302424342429748.json": {
       "status": "done",
@@ -43492,8 +43493,8 @@
           "https://pbs.twimg.com/profile_images/2050074118356434944/ebr8JW3N_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-07T14:59:18",
-      "miss_count": 3
+      "last_updated": "2026-08-07T15:15:13",
+      "miss_count": 4
     },
     "20260507093513_twitter_com_Ace_Purin_status_2052321342578733093.json": {
       "status": "done",
@@ -43578,8 +43579,8 @@
           "https://pbs.twimg.com/profile_images/2030628768289812480/IQzPG9VM_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-07T14:59:24",
-      "miss_count": 3
+      "last_updated": "2026-08-07T15:15:13",
+      "miss_count": 4
     },
     "20260507131904_twitter_com_Ace_Purin_status_2052377679605957065.json": {
       "status": "done",
@@ -43717,8 +43718,8 @@
           "https://pbs.twimg.com/profile_images/2046931114242215936/xp72f0kT_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-07T14:59:26",
-      "miss_count": 3
+      "last_updated": "2026-08-07T15:15:13",
+      "miss_count": 4
     },
     "20260507163923_twitter_com_Ace_Purin_status_2052428091251921232.json": {
       "status": "failed",
@@ -43733,8 +43734,8 @@
           "https://pbs.twimg.com/profile_images/2046931114242215936/xp72f0kT_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-07T14:59:26",
-      "miss_count": 3
+      "last_updated": "2026-08-07T15:15:13",
+      "miss_count": 4
     },
     "20260507170058_twitter_com_Ace_Purin_status_2052433520853958906.json": {
       "status": "done",
@@ -43796,8 +43797,8 @@
           "https://pbs.twimg.com/profile_images/2039202416600784896/t_XmGIR0_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-07T14:59:21",
-      "miss_count": 3
+      "last_updated": "2026-08-07T15:15:13",
+      "miss_count": 4
     },
     "20260507174710_twitter_com_Ace_Purin_status_2052445147791831317.json": {
       "status": "done",
@@ -43903,8 +43904,8 @@
           "https://pbs.twimg.com/profile_images/2046931114242215936/xp72f0kT_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-07T14:59:22",
-      "miss_count": 3
+      "last_updated": "2026-08-07T15:15:13",
+      "miss_count": 4
     },
     "20260508174841_twitter_com_Ace_Purin_status_2052807918186267124.json": {
       "status": "failed",
@@ -43919,8 +43920,8 @@
           "https://pbs.twimg.com/profile_images/2052762986327240704/uZOTKK3r_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-07T14:59:22",
-      "miss_count": 3
+      "last_updated": "2026-08-07T15:15:13",
+      "miss_count": 4
     },
     "20260508174848_twitter_com_Ace_Purin_status_2052807946451734974.json": {
       "status": "failed",
@@ -43938,8 +43939,8 @@
           "https://pbs.twimg.com/profile_images/2046931114242215936/xp72f0kT_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-07T14:59:36",
-      "miss_count": 3
+      "last_updated": "2026-08-07T15:15:13",
+      "miss_count": 4
     },
     "20260508174910_twitter_com_Ace_Purin_status_2052808037719843297.json": {
       "status": "failed",
@@ -43957,8 +43958,8 @@
           "https://pbs.twimg.com/profile_images/2046931114242215936/xp72f0kT_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-07T14:59:33",
-      "miss_count": 3
+      "last_updated": "2026-08-07T15:15:13",
+      "miss_count": 4
     },
     "20260508175414_twitter_com_Ace_Purin_status_2052809316009411012.json": {
       "status": "done",
@@ -44555,8 +44556,8 @@
           "https://pbs.twimg.com/profile_images/2057317273950355456/u18eyqBj_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-07T14:59:20",
-      "miss_count": 3
+      "last_updated": "2026-08-07T15:15:13",
+      "miss_count": 4
     },
     "20260521071842_twitter_com_Ace_Purin_status_2057360420642676920.json": {
       "status": "done",
@@ -44580,8 +44581,8 @@
           "https://pbs.twimg.com/profile_images/2036450967441514496/XQNBjgdK_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-07T14:59:20",
-      "miss_count": 3
+      "last_updated": "2026-08-07T15:15:13",
+      "miss_count": 4
     },
     "20260521071930_twitter_com_Ace_Purin_status_2057360619381416103.json": {
       "status": "done",
@@ -44617,8 +44618,8 @@
           "https://pbs.twimg.com/profile_images/2056332088157372416/v6HeaNE4_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-07T14:59:20",
-      "miss_count": 3
+      "last_updated": "2026-08-07T15:15:13",
+      "miss_count": 4
     },
     "20260521073020_twitter_com_Ace_Purin_status_2057363347490963614.json": {
       "status": "failed",
@@ -44633,8 +44634,8 @@
           "https://pbs.twimg.com/profile_images/2057360829020794880/Ltocs0aH_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-07T14:59:21",
-      "miss_count": 3
+      "last_updated": "2026-08-07T15:15:13",
+      "miss_count": 4
     },
     "20260521080508_twitter_com_Ace_Purin_status_2057372105348710878.json": {
       "status": "done",
@@ -44719,8 +44720,8 @@
           "https://pbs.twimg.com/profile_images/2057360829020794880/Ltocs0aH_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-07T14:59:20",
-      "miss_count": 3
+      "last_updated": "2026-08-07T15:15:13",
+      "miss_count": 4
     },
     "20260521131100_twitter_com_Ace_Purin_status_2057449079756747241.json": {
       "status": "done",
@@ -45153,8 +45154,8 @@
           "https://pbs.twimg.com/profile_images/2009833410047442944/5k2FyQ9V_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-07T14:59:24",
-      "miss_count": 3
+      "last_updated": "2026-08-07T15:15:13",
+      "miss_count": 4
     },
     "20260523171933_twitter_com_Ace_Purin_status_2058236402534691093.json": {
       "status": "done",
@@ -45338,8 +45339,8 @@
           "https://pbs.twimg.com/profile_images/2037030819785809920/-T8HpH-0_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-07T14:59:20",
-      "miss_count": 3
+      "last_updated": "2026-08-07T15:15:13",
+      "miss_count": 4
     },
     "20260524102312_twitter_com_Ace_Purin_status_2058494014798942406.json": {
       "status": "done",
@@ -45365,8 +45366,8 @@
           "https://pbs.twimg.com/profile_images/2040085700612362240/VSSbNBT0_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-07T14:59:28",
-      "miss_count": 3
+      "last_updated": "2026-08-07T15:15:13",
+      "miss_count": 4
     },
     "20260524104027_twitter_com_Ace_Purin_status_2058498354846523644.json": {
       "status": "done",
@@ -45401,8 +45402,8 @@
           "https://pbs.twimg.com/profile_images/2056381618231918592/K69HyFD2_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-07T14:59:20",
-      "miss_count": 3
+      "last_updated": "2026-08-07T15:15:13",
+      "miss_count": 4
     },
     "20260524111748_twitter_com_Ace_Purin_status_2058507756097986718.json": {
       "status": "done",
@@ -45498,8 +45499,8 @@
           "https://pbs.twimg.com/profile_images/2026815407924146176/vkUaIZbG_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-07T14:59:24",
-      "miss_count": 3
+      "last_updated": "2026-08-07T15:15:13",
+      "miss_count": 4
     },
     "20260525094811_twitter_com_Ace_Purin_status_2058847588192051348.json": {
       "status": "done",
@@ -45785,8 +45786,8 @@
           "https://pbs.twimg.com/profile_images/2058139565706354688/a9VoHTY9_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-07T14:59:28",
-      "miss_count": 3
+      "last_updated": "2026-08-07T15:15:13",
+      "miss_count": 4
     },
     "20260527015015_twitter_com_Ace_Purin_status_2059452089215135959.json": {
       "status": "done",
@@ -45909,8 +45910,8 @@
           "https://pbs.twimg.com/profile_images/2046931114242215936/xp72f0kT_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-07T14:59:28",
-      "miss_count": 3
+      "last_updated": "2026-08-07T15:15:13",
+      "miss_count": 4
     },
     "20260527141211_twitter_com_Ace_Purin_status_2059638803263078908.json": {
       "status": "done",
@@ -46131,8 +46132,8 @@
           "https://pbs.twimg.com/profile_images/2059316638772867073/W3cWE-C9_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-07T14:59:25",
-      "miss_count": 3
+      "last_updated": "2026-08-07T15:15:13",
+      "miss_count": 4
     },
     "20260528044400_twitter_com_Ace_Purin_status_2059858202590871589.json": {
       "status": "done",
@@ -46186,8 +46187,8 @@
           "https://pbs.twimg.com/profile_images/2058139565706354688/a9VoHTY9_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-07T14:59:29",
-      "miss_count": 3
+      "last_updated": "2026-08-07T15:15:13",
+      "miss_count": 4
     },
     "20260528091047_twitter_com_Ace_Purin_status_2059925341666512898.json": {
       "status": "done",
@@ -46312,8 +46313,8 @@
           "https://pbs.twimg.com/profile_images/2056094606811676672/tadB-uUj_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-07T14:59:22",
-      "miss_count": 3
+      "last_updated": "2026-08-07T15:15:13",
+      "miss_count": 4
     },
     "20260528163626_twitter_com_Ace_Purin_status_2060037491550503258.json": {
       "status": "done",
@@ -46351,8 +46352,8 @@
           "https://pbs.twimg.com/profile_images/2052762986327240704/uZOTKK3r_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-07T14:59:28",
-      "miss_count": 3
+      "last_updated": "2026-08-07T15:15:13",
+      "miss_count": 4
     },
     "20260528163830_twitter_com_Ace_Purin_status_2060038011497398726.json": {
       "status": "failed",
@@ -46366,8 +46367,8 @@
           "https://pbs.twimg.com/profile_images/2052762986327240704/uZOTKK3r_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-07T14:59:25",
-      "miss_count": 3
+      "last_updated": "2026-08-07T15:15:13",
+      "miss_count": 4
     },
     "20260528180247_twitter_com_Ace_Purin_status_2060059222344347668.json": {
       "status": "failed",
@@ -46381,8 +46382,8 @@
           "https://pbs.twimg.com/profile_images/2040999312478621696/QZAhsYwI_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-07T14:59:26",
-      "miss_count": 3
+      "last_updated": "2026-08-07T15:15:13",
+      "miss_count": 4
     },
     "20260529064842_twitter_com_Ace_Purin_status_2060251971186294866.json": {
       "status": "done",
@@ -46435,8 +46436,8 @@
           "https://pbs.twimg.com/profile_images/2052762986327240704/uZOTKK3r_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-07T14:59:36",
-      "miss_count": 3
+      "last_updated": "2026-08-07T15:15:13",
+      "miss_count": 4
     },
     "20260529085604_twitter_com_Ace_Purin_status_2060284023705116820.json": {
       "status": "done",
@@ -46546,8 +46547,8 @@
           "https://pbs.twimg.com/profile_images/2052762986327240704/uZOTKK3r_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-07T14:59:26",
-      "miss_count": 3
+      "last_updated": "2026-08-07T15:15:13",
+      "miss_count": 4
     },
     "20260529164033_twitter_com_Ace_Purin_status_2060400917711827180.json": {
       "status": "done",
@@ -46773,8 +46774,8 @@
           "https://pbs.twimg.com/profile_images/2061789935728734208/S4bJ2e2j_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-07T14:59:26",
-      "miss_count": 3
+      "last_updated": "2026-08-07T15:15:13",
+      "miss_count": 4
     },
     "20260603074915_twitter_com_Ace_Purin_status_2062079149859328497.json": {
       "status": "done",
@@ -46932,8 +46933,8 @@
           "https://pbs.twimg.com/profile_images/2063212011329323008/2BGj_Fsb_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-07T14:59:26",
-      "miss_count": 3
+      "last_updated": "2026-08-07T15:15:13",
+      "miss_count": 4
     },
     "20260606130114_twitter_com_Ace_Purin_status_2063244825168871714.json": {
       "status": "done",
@@ -47039,8 +47040,8 @@
           "https://pbs.twimg.com/profile_images/2063212011329323008/2BGj_Fsb_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-07T14:59:28",
-      "miss_count": 3
+      "last_updated": "2026-08-07T15:15:13",
+      "miss_count": 4
     },
     "20260607055049_twitter_com_Ace_Purin_status_2063498897620873689.json": {
       "status": "done",
@@ -47093,8 +47094,8 @@
           "https://pbs.twimg.com/profile_images/2059238444832890881/rPPqXFAk_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-07T14:59:24",
-      "miss_count": 3
+      "last_updated": "2026-08-07T15:15:13",
+      "miss_count": 4
     },
     "20260607073617_twitter_com_Ace_Purin_status_2063525439910597081.json": {
       "status": "done",
@@ -47133,8 +47134,8 @@
           "https://pbs.twimg.com/profile_images/2063212011329323008/2BGj_Fsb_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-07T14:59:36",
-      "miss_count": 3
+      "last_updated": "2026-08-07T15:15:13",
+      "miss_count": 4
     },
     "20260608012233_twitter_com_Ace_Purin_status_2063793774053257423.json": {
       "status": "done",
@@ -47267,8 +47268,8 @@
           "https://pbs.twimg.com/profile_images/2063849171778682880/Rht4UaWo_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-07T14:59:31",
-      "miss_count": 3
+      "last_updated": "2026-08-07T15:15:13",
+      "miss_count": 4
     },
     "20260608075721_twitter_com_Ace_Purin_status_2063893126629228596.json": {
       "status": "done",
@@ -47366,8 +47367,8 @@
           "https://pbs.twimg.com/profile_images/2059238444832890881/rPPqXFAk_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-07T14:59:24",
-      "miss_count": 3
+      "last_updated": "2026-08-07T15:15:13",
+      "miss_count": 4
     },
     "20260608144638_twitter_com_Ace_Purin_status_2063996128467833109.json": {
       "status": "done",
@@ -47453,8 +47454,8 @@
           "https://pbs.twimg.com/profile_images/2044849182922706944/41ooDRo1_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-07T14:59:28",
-      "miss_count": 3
+      "last_updated": "2026-08-07T15:15:13",
+      "miss_count": 4
     },
     "20260608161650_twitter_com_Ace_Purin_status_2064018827650973741.json": {
       "status": "done",
@@ -47745,8 +47746,8 @@
           "https://pbs.twimg.com/profile_images/2061738946804232192/Ao13zHDD_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-07T14:59:37",
-      "miss_count": 3
+      "last_updated": "2026-08-07T15:15:13",
+      "miss_count": 4
     },
     "20260609062300_twitter_com_Ace_Purin_status_2064231769411330480.json": {
       "status": "done",
@@ -47973,8 +47974,8 @@
           "https://pbs.twimg.com/profile_images/2064367420962230273/DtZ_e2zv_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-07T14:59:24",
-      "miss_count": 3
+      "last_updated": "2026-08-07T15:15:13",
+      "miss_count": 4
     },
     "20260610005913_twitter_com_Ace_Purin_status_2064512675611353453.json": {
       "status": "done",
@@ -48050,8 +48051,8 @@
           "https://pbs.twimg.com/profile_images/2050902154840256512/B6qRr2gl_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-07T14:59:31",
-      "miss_count": 3
+      "last_updated": "2026-08-07T15:15:13",
+      "miss_count": 4
     },
     "20260610040948_twitter_com_Ace_Purin_status_2064560639398560105.json": {
       "status": "done",
@@ -48271,8 +48272,8 @@
           "https://pbs.twimg.com/profile_images/2059942253020459008/BuhfSavd_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-07T14:59:28",
-      "miss_count": 3
+      "last_updated": "2026-08-07T15:15:13",
+      "miss_count": 4
     },
     "20260610133340_twitter_com_Ace_Purin_status_2064702538742640811.json": {
       "status": "done",
@@ -48413,8 +48414,8 @@
           "https://pbs.twimg.com/profile_images/2052386249051422721/32J8Hjfa_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-07T14:59:28",
-      "miss_count": 3
+      "last_updated": "2026-08-07T15:15:13",
+      "miss_count": 4
     },
     "20260611144735_twitter_com_Ace_Purin_status_2065083531177644052.json": {
       "status": "done",
@@ -48752,8 +48753,8 @@
           "https://pbs.twimg.com/profile_images/2064692522446946304/h8OnSvTb_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-07T14:59:25",
-      "miss_count": 3
+      "last_updated": "2026-08-07T15:15:13",
+      "miss_count": 4
     },
     "20260613071039_twitter_com_Ace_Purin_status_2065693315778175271.json": {
       "status": "done",
@@ -48952,8 +48953,8 @@
           "https://pbs.twimg.com/profile_images/2042965905186131975/DXExeqbT_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-07T14:59:25",
-      "miss_count": 3
+      "last_updated": "2026-08-07T15:15:13",
+      "miss_count": 4
     },
     "20260614100146_twitter_com_Ace_Purin_status_2066098764885225667.json": {
       "status": "done",
@@ -49015,8 +49016,8 @@
           "https://pbs.twimg.com/profile_images/2063849171778682880/Rht4UaWo_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-07T14:59:41",
-      "miss_count": 3
+      "last_updated": "2026-08-07T15:15:13",
+      "miss_count": 4
     },
     "20260614113441_twitter_com_Ace_Purin_status_2066122148692029885.json": {
       "status": "done",
@@ -49213,8 +49214,8 @@
           "https://pbs.twimg.com/profile_images/2065751551243886592/8KJyvMdm_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-07T14:59:31",
-      "miss_count": 3
+      "last_updated": "2026-08-07T15:15:13",
+      "miss_count": 4
     },
     "20260615045219_twitter_com_Ace_Purin_status_2066383275841732883.json": {
       "status": "done",
@@ -49270,8 +49271,8 @@
           "https://pbs.twimg.com/profile_images/2053503237328941056/f1Yda8hz_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-07T14:59:40",
-      "miss_count": 3
+      "last_updated": "2026-08-07T15:15:13",
+      "miss_count": 4
     },
     "20260615083424_twitter_com_Ace_Purin_status_2066439166406074676.json": {
       "status": "done",
@@ -49394,8 +49395,8 @@
           "https://pbs.twimg.com/profile_images/1966263377233403904/aqrIK04U_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-07T14:59:31",
-      "miss_count": 3
+      "last_updated": "2026-08-07T15:15:13",
+      "miss_count": 4
     },
     "20260616065356_twitter_com_Ace_Purin_status_2066776271506547022.json": {
       "status": "done",
@@ -49447,8 +49448,8 @@
           "https://pbs.twimg.com/profile_images/2066822182257537025/9KIQBK5V_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-07T14:59:31",
-      "miss_count": 3
+      "last_updated": "2026-08-07T15:15:13",
+      "miss_count": 4
     },
     "20260616120549_twitter_com_Ace_Purin_status_2066854756946190715.json": {
       "status": "done",
@@ -49493,8 +49494,8 @@
           "https://pbs.twimg.com/profile_images/2066065535683502080/PU93vVAV_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-07T14:59:26",
-      "miss_count": 3
+      "last_updated": "2026-08-07T15:15:13",
+      "miss_count": 4
     },
     "20260616125437_twitter_com_Ace_Purin_status_2066867037981552929.json": {
       "status": "done",
@@ -49594,8 +49595,8 @@
           "https://pbs.twimg.com/profile_images/2061584587893948416/rQc4GXFU_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-07T14:59:26",
-      "miss_count": 3
+      "last_updated": "2026-08-07T15:15:13",
+      "miss_count": 4
     },
     "20260617065248_twitter_com_Ace_Purin_status_2067138373484150847.json": {
       "status": "done",
@@ -50240,8 +50241,8 @@
           "https://pbs.twimg.com/profile_images/2042965905186131975/DXExeqbT_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-07T14:59:26",
-      "miss_count": 3
+      "last_updated": "2026-08-07T15:15:13",
+      "miss_count": 4
     },
     "20260621060803_twitter_com_Ace_Purin_status_2068576662049161708.json": {
       "status": "done",
@@ -50589,8 +50590,8 @@
           "https://pbs.twimg.com/profile_images/2044849182922706944/41ooDRo1_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-07T14:59:32",
-      "miss_count": 3
+      "last_updated": "2026-08-07T15:15:13",
+      "miss_count": 4
     },
     "20260624084042_twitter_com_Ace_Purin_status_2069702242886914430.json": {
       "status": "done",
@@ -50673,8 +50674,8 @@
           "https://pbs.twimg.com/profile_images/2061434409333764096/RRhKNgp3_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-07T14:59:26",
-      "miss_count": 3
+      "last_updated": "2026-08-07T15:15:13",
+      "miss_count": 4
     },
     "20260625102007_twitter_com_Ace_Purin_status_2070089650094694814.json": {
       "status": "done",
@@ -50906,8 +50907,8 @@
           "https://pbs.twimg.com/profile_images/1999341990119636996/dagPjNfz_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-07T14:59:35",
-      "miss_count": 3
+      "last_updated": "2026-08-07T15:15:13",
+      "miss_count": 4
     },
     "20260627182519_twitter_com_Ace_Purin_status_2070936529682448506.json": {
       "status": "done",
@@ -51194,8 +51195,8 @@
           "https://pbs.twimg.com/profile_images/2071413772636520448/tA0W7oEM_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-07T14:59:26",
-      "miss_count": 3
+      "last_updated": "2026-08-07T15:15:13",
+      "miss_count": 4
     },
     "20260630101613_twitter_com_Ace_Purin_status_2071900606592438495.json": {
       "status": "done",
@@ -51233,8 +51234,8 @@
           "https://pbs.twimg.com/profile_images/2071413772636520448/tA0W7oEM_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-07T14:59:27",
-      "miss_count": 3
+      "last_updated": "2026-08-07T15:15:13",
+      "miss_count": 4
     },
     "20260630103303_twitter_com_Ace_Purin_status_2071904843846038002.json": {
       "status": "done",
@@ -51369,8 +51370,8 @@
           "https://pbs.twimg.com/profile_images/2072982306843975680/7GHub_t4_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-07T14:59:30",
-      "miss_count": 3
+      "last_updated": "2026-08-07T15:15:13",
+      "miss_count": 4
     },
     "20260704123720_twitter_com_Ace_Purin_status_2073385669926486370.json": {
       "status": "done",
@@ -51527,8 +51528,8 @@
           "https://pbs.twimg.com/profile_images/2072982306843975680/7GHub_t4_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-07T14:59:31",
-      "miss_count": 3
+      "last_updated": "2026-08-07T15:15:13",
+      "miss_count": 4
     },
     "20260706164148_twitter_com_Ace_Purin_status_2074171967742365765.json": {
       "status": "done",
@@ -51785,8 +51786,8 @@
           "https://pbs.twimg.com/profile_images/2017539398498455559/yoqs9-Hg_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-07T14:59:31",
-      "miss_count": 3
+      "last_updated": "2026-08-07T15:15:13",
+      "miss_count": 4
     },
     "20260715042403_twitter_com_Ace_Purin_status_2077247801768157662.json": {
       "status": "done",
@@ -51871,8 +51872,8 @@
           "https://pbs.twimg.com/profile_images/2068746223201501184/TohRyGWK_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-07T14:59:32",
-      "miss_count": 3
+      "last_updated": "2026-08-07T15:15:13",
+      "miss_count": 4
     },
     "20260715070230_twitter_com_Ace_Purin_status_2077287676911472772.json": {
       "status": "done",
@@ -52139,8 +52140,8 @@
           "https://pbs.twimg.com/profile_images/2072982306843975680/7GHub_t4_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-07T14:59:32",
-      "miss_count": 3
+      "last_updated": "2026-08-07T15:15:13",
+      "miss_count": 4
     },
     "20260719110341_twitter_com_Ace_Purin_status_2078797922335142368.json": {
       "status": "done",
@@ -52559,8 +52560,8 @@
           "https://pbs.twimg.com/profile_images/2061329806676131840/dbADJoMO_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-07T14:59:36",
-      "miss_count": 3
+      "last_updated": "2026-08-07T15:15:13",
+      "miss_count": 4
     },
     "20260720060832_twitter_com_Ace_Purin_status_2079086033778639281.json": {
       "status": "done",
@@ -52681,8 +52682,8 @@
           "https://pbs.twimg.com/profile_images/2077025612938854400/St-x2IU3_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-07T14:59:28",
-      "miss_count": 3
+      "last_updated": "2026-08-07T15:15:13",
+      "miss_count": 4
     },
     "20260721053903_twitter_com_Ace_Purin_status_2079441003174359491.json": {
       "status": "failed",
@@ -52696,8 +52697,8 @@
           "https://pbs.twimg.com/profile_images/2079409125084295168/6KQZscEN_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-07T14:59:32",
-      "miss_count": 3
+      "last_updated": "2026-08-07T15:15:13",
+      "miss_count": 4
     },
     "20260721054129_twitter_com_Ace_Purin_status_2079441611541381273.json": {
       "status": "done",
@@ -54853,8 +54854,8 @@
           "https://pbs.twimg.com/profile_images/2072982306843975680/7GHub_t4_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-07T14:59:32",
-      "miss_count": 3
+      "last_updated": "2026-08-07T15:15:13",
+      "miss_count": 4
     },
     "20260729105023_twitter_com_Ace_Purin_status_2082418451872936131.json": {
       "status": "done",
@@ -55322,7 +55323,7 @@
           "https://pbs.twimg.com/profile_images/2045182878871322624/oIgw4S6U_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-07T14:59:28"
+      "last_updated": "2026-08-07T15:15:13"
     },
     "20260720032829_twitter_com_Ace_Purin_status_2079045753809633401.json": {
       "status": "done",
@@ -55348,7 +55349,7 @@
           "https://pbs.twimg.com/profile_images/2077329521846439936/ZnsZIJBB_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-07T14:59:31"
+      "last_updated": "2026-08-07T15:15:13"
     },
     "20260720060158_twitter_com_Ace_Purin_status_2079084379624910906.json": {
       "status": "unknown",
@@ -55362,7 +55363,7 @@
           "https://pbs.twimg.com/profile_images/2077329521846439936/ZnsZIJBB_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-07T14:59:31"
+      "last_updated": "2026-08-07T15:15:13"
     },
     "20260721021733_twitter_com_Ace_Purin_status_2079390293862879627.json": {
       "status": "done",
@@ -55385,7 +55386,7 @@
           "https://pbs.twimg.com/profile_images/2068942921869758464/UJ-J2j84_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-07T14:59:28"
+      "last_updated": "2026-08-07T15:15:13"
     },
     "20260721065529_twitter_com_Ace_Purin_status_2079460237833371786.json": {
       "status": "done",
@@ -55410,7 +55411,7 @@
           "https://pbs.twimg.com/profile_images/1878692352975683584/dEx1sD-I_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-07T14:59:29"
+      "last_updated": "2026-08-07T15:15:13"
     },
     "20260721081009_twitter_com_Ace_Purin_status_2079479028768199000.json": {
       "status": "done",
@@ -55529,7 +55530,7 @@
           "https://pbs.twimg.com/profile_images/2078508009702268928/p6S16Kqi_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-07T14:59:32"
+      "last_updated": "2026-08-07T15:15:13"
     },
     "20260729111442_twitter_com_Ace_Purin_status_2082424573296001292.json": {
       "status": "done",
@@ -55681,7 +55682,7 @@
           "https://pbs.twimg.com/profile_images/2011401174277332992/OMauSlmo_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-07T14:59:31"
+      "last_updated": "2026-08-07T15:15:13"
     },
     "20260729162534_twitter_com_Ace_Purin_status_2082502806813172207.json": {
       "status": "done",
@@ -55741,7 +55742,7 @@
           "https://pbs.twimg.com/profile_images/2079327921961832449/xu1NW-M5_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-07T14:59:31"
+      "last_updated": "2026-08-07T15:15:13"
     },
     "20260729164639_twitter_com_Ace_Purin_status_2082508111399862697.json": {
       "status": "done",
@@ -55812,7 +55813,7 @@
       "last_updated": "2026-08-07T14:59:31"
     },
     "20260730032908_twitter_com_Ace_Purin_status_2082669796588663113.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [
@@ -55823,7 +55824,7 @@
           "https://pbs.twimg.com/profile_images/2058466100543922176/kBBfangc_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-07T14:59:31"
+      "last_updated": "2026-08-07T15:15:14"
     },
     "20260730050505_twitter_com_Ace_Purin_status_2082693944413163628.json": {
       "status": "done",
@@ -55887,8 +55888,8 @@
           "https://pbs.twimg.com/profile_images/2041031144146423808/f-TPgWl2_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-07T14:59:34",
-      "miss_count": 1
+      "last_updated": "2026-08-07T15:15:13",
+      "miss_count": 2
     },
     "20260730053023_twitter_com_Ace_Purin_status_2082700309831557259.json": {
       "status": "done",
@@ -55963,7 +55964,7 @@
           "https://pbs.twimg.com/profile_images/2071631040549122048/Na8Jd86n_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-07T14:59:31"
+      "last_updated": "2026-08-07T15:15:13"
     },
     "20260730192757_twitter_com_Ace_Purin_status_2082911089789178100.json": {
       "status": "done",
@@ -56006,7 +56007,7 @@
           "https://pbs.twimg.com/profile_images/2082969732765065216/Xu07a5Kw_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-07T14:59:33"
+      "last_updated": "2026-08-07T15:15:13"
     },
     "20260731014140_twitter_com_Ace_Purin_status_2083005139544330512.json": {
       "status": "done",
@@ -56054,7 +56055,7 @@
           "https://pbs.twimg.com/profile_images/1899626208628801536/EiXTO4-h_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-07T14:59:32"
+      "last_updated": "2026-08-07T15:15:13"
     },
     "20260731073604_twitter_com_Ace_Purin_status_2083094326981402913.json": {
       "status": "unknown",
@@ -56069,7 +56070,7 @@
           "https://pbs.twimg.com/profile_images/1252153959390883840/FxHTPYec_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-07T14:59:32"
+      "last_updated": "2026-08-07T15:15:13"
     },
     "20260731073643_twitter_com_Ace_Purin_status_2083094491364507730.json": {
       "status": "done",
@@ -56186,7 +56187,7 @@
           "https://pbs.twimg.com/profile_images/2082910912965746688/osT0rLKY_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-07T14:59:32"
+      "last_updated": "2026-08-07T15:15:13"
     },
     "20260731080444_twitter_com_Ace_Purin_status_2083101542945853490.json": {
       "status": "done",
@@ -56448,7 +56449,7 @@
           "https://pbs.twimg.com/profile_images/2081208317226242048/8YVIk6XV_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-07T14:59:35"
+      "last_updated": "2026-08-07T15:15:13"
     },
     "20260731104117_twitter_com_Ace_Purin_status_2083140940416655618.json": {
       "status": "done",
@@ -56484,7 +56485,7 @@
           "https://pbs.twimg.com/profile_images/2082969732765065216/Xu07a5Kw_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-07T14:59:32"
+      "last_updated": "2026-08-07T15:15:13"
     },
     "20260731105438_twitter_com_Ace_Purin_status_2083144300511347122.json": {
       "status": "unknown",
@@ -56496,7 +56497,7 @@
           "https://pbs.twimg.com/profile_images/2082969732765065216/Xu07a5Kw_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-07T14:59:32"
+      "last_updated": "2026-08-07T15:15:13"
     },
     "20260731105519_twitter_com_Ace_Purin_status_2083144469428457664.json": {
       "status": "unknown",
@@ -56508,7 +56509,7 @@
           "https://pbs.twimg.com/profile_images/2082969732765065216/Xu07a5Kw_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-07T14:59:32"
+      "last_updated": "2026-08-07T15:15:13"
     },
     "20260731105911_twitter_com_Ace_Purin_status_2083145445564711003.json": {
       "status": "done",
@@ -56568,7 +56569,7 @@
           "https://pbs.twimg.com/profile_images/2082969732765065216/Xu07a5Kw_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-07T14:59:32"
+      "last_updated": "2026-08-07T15:15:13"
     },
     "20260731142710_twitter_com_Ace_Purin_status_2083197785780998599.json": {
       "status": "done",
@@ -56638,7 +56639,7 @@
           "https://pbs.twimg.com/profile_images/2036865851232837634/fcXyptuJ_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-07T14:59:32"
+      "last_updated": "2026-08-07T15:15:13"
     },
     "20260801164426_twitter_com_Ace_Purin_status_2083594715480592457.json": {
       "status": "done",
@@ -56688,7 +56689,7 @@
           "https://pbs.twimg.com/profile_images/2067259278705201152/al7txUpd_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-07T14:59:32"
+      "last_updated": "2026-08-07T15:15:13"
     },
     "20260801164535_twitter_com_Ace_Purin_status_2083595004602376450.json": {
       "status": "done",
@@ -56712,7 +56713,7 @@
           "https://pbs.twimg.com/profile_images/2082969732765065216/Xu07a5Kw_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-07T14:59:32"
+      "last_updated": "2026-08-07T15:15:13"
     },
     "20260801164853_twitter_com_Ace_Purin_status_2083595836408352874.json": {
       "status": "done",
@@ -56738,7 +56739,7 @@
           "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-07T14:59:32"
+      "last_updated": "2026-08-07T15:15:13"
     },
     "20260803173159_twitter_com_Ace_Purin_status_2084331458328662112.json": {
       "status": "done",
@@ -56798,7 +56799,7 @@
           "https://pbs.twimg.com/profile_images/2082969732765065216/Xu07a5Kw_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-07T14:59:32"
+      "last_updated": "2026-08-07T15:15:13"
     },
     "20260804083346_twitter_com_Ace_Purin_status_2084558399635878237.json": {
       "status": "done",
@@ -56865,7 +56866,7 @@
           "https://pbs.twimg.com/profile_images/2083483535604928512/Vk5bHOBp_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-07T14:59:33"
+      "last_updated": "2026-08-07T15:15:13"
     },
     "20260804122109_twitter_com_Ace_Purin_status_2084615624165363950.json": {
       "status": "done",
@@ -56888,7 +56889,7 @@
           "https://pbs.twimg.com/profile_images/2050427976786010112/u0ceyAKE_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-07T14:59:32"
+      "last_updated": "2026-08-07T15:15:13"
     },
     "20260806101905_twitter_com_Ace_Purin_status_2085309681078329829.json": {
       "status": "done",
