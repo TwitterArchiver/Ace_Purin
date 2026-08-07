@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1949348575378644992",
+    "conversation_id": "2083111826867581160",
+    "created_at": "2026-07-31T10:54:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T11:54:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083144233163313466"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1771182467128635392",
+          "start": 0,
+          "username": "PP_Konig"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083144233163313466",
+    "in_reply_to_user_id": "1771182467128635392",
+    "lang": "et",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083141742317199496",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@PP_Konig Purindust"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1949348575378644992",
+        "conversation_id": "2083111826867581160",
+        "created_at": "2026-07-31T10:54:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T11:54:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083144233163313466"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1771182467128635392",
+              "start": 0,
+              "username": "PP_Konig"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083144233163313466",
+        "in_reply_to_user_id": "1771182467128635392",
+        "lang": "et",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083141742317199496",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PP_Konig Purindust"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1771182467128635392",
+        "conversation_id": "2083111826867581160",
+        "created_at": "2026-07-31T10:44:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T11:44:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083141742317199496"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1949348575378644992",
+              "start": 0,
+              "username": "Ace_Purin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083141742317199496",
+        "in_reply_to_user_id": "1949348575378644992",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083111826867581160",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ace_Purin 布丁尘"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-27T05:58:17.000Z",
+        "description": "爱人@qngshu988723424｜💊 SH｜被block就是你的错",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 2,
+                "username": "qngshu988723424"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ace_purin",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ace_purin",
+                "start": 0,
+                "url": "https://t.co/PkWlzvseLZ"
+              }
+            ]
+          }
+        },
+        "id": "1949348575378644992",
+        "location": "メジコン",
+        "name": "永雏布丁",
+        "pinned_tweet_id": "2033851547843719390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041031144146423808/f-TPgWl2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 360,
+          "following_count": 402,
+          "like_count": 4090,
+          "listed_count": 0,
+          "media_count": 103,
+          "tweet_count": 2834
+        },
+        "url": "https://t.co/PkWlzvseLZ",
+        "username": "Ace_Purin",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-22T14:29:56.000Z",
+        "description": "they 立场温和 有些绝望 喜欢游戏 动画片 饲养照顾宠物 烹饪拍摄 药物知识 自我治疗精神病中 随你喜好 叫我盐 肉鸦 都可以",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+cLa7Bq6d2Hw0Z…",
+                "end": 23,
+                "expanded_url": "https://t.me/+cLa7Bq6d2Hw0ZGZl",
+                "start": 0,
+                "url": "https://t.co/wDoKzriQ9u"
+              }
+            ]
+          }
+        },
+        "id": "1771182467128635392",
+        "name": "鹽momiji🐦‍⬛",
+        "pinned_tweet_id": "2082970433289408754",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082969732765065216/Xu07a5Kw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 156,
+          "like_count": 1052,
+          "listed_count": 0,
+          "media_count": 227,
+          "tweet_count": 2912
+        },
+        "url": "https://t.co/wDoKzriQ9u",
+        "username": "PP_Konig",
+        "verified": false
+      }
+    ]
+  }
+}

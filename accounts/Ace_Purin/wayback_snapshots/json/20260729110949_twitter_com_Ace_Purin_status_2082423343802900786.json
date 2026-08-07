@@ -1,0 +1,297 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2082112822658682880"
+      ],
+      "media_source_tweet_id": [
+        "2082112831726760267"
+      ]
+    },
+    "author_id": "1949348575378644992",
+    "conversation_id": "2082423343802900786",
+    "created_at": "2026-07-29T11:09:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T12:09:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082423343802900786"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2013233628847980544",
+          "start": 3,
+          "username": "Asukai_Yuki"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/m7OxoYDrpT",
+          "end": 72,
+          "expanded_url": "https://x.com/Asukai_Yuki/status/2082112831726760267/photo/1",
+          "media_key": "3_2082112822658682880",
+          "start": 49,
+          "url": "https://t.co/m7OxoYDrpT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082423343802900786",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082112831726760267",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Asukai_Yuki: ↑\n互关互转交友大欢迎～\n无任何额外收获除我会喜欢你的🚪：52 https://t.co/m7OxoYDrpT"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2082112822658682880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOUmlKjbUAAjz5s.jpg",
+        "width": 1338
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082112822658682880"
+          ]
+        },
+        "author_id": "2013233628847980544",
+        "conversation_id": "2082112831726760267",
+        "created_at": "2026-07-28T14:35:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T15:35:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082112831726760267"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/m7OxoYDrpT",
+              "end": 55,
+              "expanded_url": "https://x.com/Asukai_Yuki/status/2082112831726760267/photo/1",
+              "media_key": "3_2082112822658682880",
+              "start": 32,
+              "url": "https://t.co/m7OxoYDrpT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082112831726760267",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 475,
+          "like_count": 11,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "↑\n互关互转交友大欢迎～\n无任何额外收获除我会喜欢你的🚪：52 https://t.co/m7OxoYDrpT"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082112822658682880"
+          ],
+          "media_source_tweet_id": [
+            "2082112831726760267"
+          ]
+        },
+        "author_id": "1949348575378644992",
+        "conversation_id": "2082423343802900786",
+        "created_at": "2026-07-29T11:09:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T12:09:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082423343802900786"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2013233628847980544",
+              "start": 3,
+              "username": "Asukai_Yuki"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/m7OxoYDrpT",
+              "end": 72,
+              "expanded_url": "https://x.com/Asukai_Yuki/status/2082112831726760267/photo/1",
+              "media_key": "3_2082112822658682880",
+              "start": 49,
+              "url": "https://t.co/m7OxoYDrpT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082423343802900786",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082112831726760267",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Asukai_Yuki: ↑\n互关互转交友大欢迎～\n无任何额外收获除我会喜欢你的🚪：52 https://t.co/m7OxoYDrpT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-27T05:58:17.000Z",
+        "description": "爱人@qngshu988723424｜💊 SH｜被block就是你的错",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 2,
+                "username": "qngshu988723424"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ace_purin",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ace_purin",
+                "start": 0,
+                "url": "https://t.co/PkWlzvseLZ"
+              }
+            ]
+          }
+        },
+        "id": "1949348575378644992",
+        "location": "メジコン",
+        "name": "永雏布丁",
+        "pinned_tweet_id": "2033851547843719390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041031144146423808/f-TPgWl2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 319,
+          "following_count": 374,
+          "like_count": 3956,
+          "listed_count": 0,
+          "media_count": 92,
+          "tweet_count": 2734
+        },
+        "url": "https://t.co/PkWlzvseLZ",
+        "username": "Ace_Purin",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-19T12:54:43.000Z",
+        "description": "＝飞鸟井郁希/yuki | 🏳️‍⚧️🏳️‍🌈enby | 餐券女 | 天真的和感伤的吉他手 | 红色担当❤️ | 滚男oc | re0，昴公但是i昴草昴\n\n前世 @SUNSET_ROCK_\n好朋友：@0803SUHONG @zou_hua62172 @hynsug_aaugcx",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 95,
+                "start": 82,
+                "username": "SUNSET_ROCK_"
+              },
+              {
+                "end": 111,
+                "start": 100,
+                "username": "0803SUHONG"
+              },
+              {
+                "end": 125,
+                "start": 112,
+                "username": "zou_hua62172"
+              },
+              {
+                "end": 140,
+                "start": 126,
+                "username": "hynsug_aaugcx"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mikanseinonatsu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mikanseinonatsu",
+                "start": 0,
+                "url": "https://t.co/1wmN2eVRYQ"
+              }
+            ]
+          }
+        },
+        "id": "2013233628847980544",
+        "location": "纯绿🚪52/99/150没福利纯圈钱",
+        "name": "飞鸟井郁希",
+        "pinned_tweet_id": "2082112831726760267",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078508009702268928/p6S16Kqi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 486,
+          "following_count": 256,
+          "like_count": 395,
+          "listed_count": 1,
+          "media_count": 312,
+          "tweet_count": 3206
+        },
+        "url": "https://t.co/1wmN2eVRYQ",
+        "username": "Asukai_Yuki",
+        "verified": false
+      }
+    ]
+  }
+}

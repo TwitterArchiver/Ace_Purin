@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2082505063952719872"
+      ],
+      "media_source_tweet_id": [
+        "2082505098576699576"
+      ]
+    },
+    "author_id": "1949348575378644992",
+    "conversation_id": "2082669796588663113",
+    "created_at": "2026-07-30T03:29:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T04:29:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082669796588663113"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2058448404645318657",
+          "start": 3,
+          "username": "tiredowl_12"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/jqOtzHNiO7",
+          "end": 102,
+          "expanded_url": "https://x.com/tiredowl_12/status/2082505098576699576/video/1",
+          "media_key": "13_2082505063952719872",
+          "start": 79,
+          "url": "https://t.co/jqOtzHNiO7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082669796588663113",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1905
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082505098576699576",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tiredowl_12: He looks like a perfectly golden brown piece of warm toast :) https://t.co/jqOtzHNiO7"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 16966,
+        "height": 1280,
+        "media_key": "13_2082505063952719872",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2082505063952719872/img/naFs6vZBG5W2h1V8.jpg",
+        "public_metrics": {
+          "view_count": 71756
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2082505063952719872/vid/avc1/320x568/Fx3X13NY7k28bpj9.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2082505063952719872/vid/avc1/480x852/g7mZ-MQFWZx9ifoz.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2082505063952719872/vid/avc1/720x1280/oSmfWZsD_OIUzdRh.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2082505063952719872/pl/BPWf3dNvNJg1E91d.m3u8?v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2082505063952719872"
+          ]
+        },
+        "author_id": "2058448404645318657",
+        "conversation_id": "2082505098576699576",
+        "created_at": "2026-07-29T16:34:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T17:34:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082505098576699576"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jqOtzHNiO7",
+              "end": 85,
+              "expanded_url": "https://x.com/tiredowl_12/status/2082505098576699576/video/1",
+              "media_key": "13_2082505063952719872",
+              "start": 62,
+              "url": "https://t.co/jqOtzHNiO7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082505098576699576",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1508,
+          "impression_count": 212950,
+          "like_count": 15017,
+          "quote_count": 141,
+          "reply_count": 22,
+          "retweet_count": 1905
+        },
+        "reply_settings": "everyone",
+        "text": "He looks like a perfectly golden brown piece of warm toast :) https://t.co/jqOtzHNiO7"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2082505063952719872"
+          ],
+          "media_source_tweet_id": [
+            "2082505098576699576"
+          ]
+        },
+        "author_id": "1949348575378644992",
+        "conversation_id": "2082669796588663113",
+        "created_at": "2026-07-30T03:29:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T04:29:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082669796588663113"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2058448404645318657",
+              "start": 3,
+              "username": "tiredowl_12"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/jqOtzHNiO7",
+              "end": 102,
+              "expanded_url": "https://x.com/tiredowl_12/status/2082505098576699576/video/1",
+              "media_key": "13_2082505063952719872",
+              "start": 79,
+              "url": "https://t.co/jqOtzHNiO7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082669796588663113",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1905
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082505098576699576",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tiredowl_12: He looks like a perfectly golden brown piece of warm toast :) https://t.co/jqOtzHNiO7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-27T05:58:17.000Z",
+        "description": "爱人@qngshu988723424｜💊 SH｜被block就是你的错",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 2,
+                "username": "qngshu988723424"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ace_purin",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ace_purin",
+                "start": 0,
+                "url": "https://t.co/PkWlzvseLZ"
+              }
+            ]
+          }
+        },
+        "id": "1949348575378644992",
+        "location": "メジコン",
+        "name": "永雏布丁",
+        "pinned_tweet_id": "2033851547843719390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041031144146423808/f-TPgWl2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 340,
+          "following_count": 393,
+          "like_count": 4009,
+          "listed_count": 0,
+          "media_count": 98,
+          "tweet_count": 2783
+        },
+        "url": "https://t.co/PkWlzvseLZ",
+        "username": "Ace_Purin",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-24T07:23:00.000Z",
+        "description": "cute birds and animals memes",
+        "id": "2058448404645318657",
+        "name": "tired owl",
+        "pinned_tweet_id": "2079881083865518228",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058466100543922176/kBBfangc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 621,
+          "following_count": 200,
+          "like_count": 1128,
+          "listed_count": 2,
+          "media_count": 186,
+          "tweet_count": 242
+        },
+        "url": "",
+        "username": "tiredowl_12",
+        "verified": false
+      }
+    ]
+  }
+}

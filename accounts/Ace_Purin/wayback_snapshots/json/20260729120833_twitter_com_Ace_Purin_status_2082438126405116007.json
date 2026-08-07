@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2082438094771617792",
+        "3_2082438094788366336",
+        "3_2082438094356414464",
+        "3_2082438094763257856"
+      ]
+    },
+    "author_id": "1949348575378644992",
+    "conversation_id": "2082438126405116007",
+    "created_at": "2026-07-29T12:08:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T13:08:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2082438126405116007"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/d5m8FoldY0",
+          "end": 162,
+          "expanded_url": "https://x.com/Ace_Purin/status/2082438126405116007/photo/1",
+          "media_key": "3_2082438094771617792",
+          "start": 139,
+          "url": "https://t.co/d5m8FoldY0"
+        },
+        {
+          "display_url": "pic.x.com/d5m8FoldY0",
+          "end": 162,
+          "expanded_url": "https://x.com/Ace_Purin/status/2082438126405116007/photo/1",
+          "media_key": "3_2082438094788366336",
+          "start": 139,
+          "url": "https://t.co/d5m8FoldY0"
+        },
+        {
+          "display_url": "pic.x.com/d5m8FoldY0",
+          "end": 162,
+          "expanded_url": "https://x.com/Ace_Purin/status/2082438126405116007/photo/1",
+          "media_key": "3_2082438094356414464",
+          "start": 139,
+          "url": "https://t.co/d5m8FoldY0"
+        },
+        {
+          "display_url": "pic.x.com/d5m8FoldY0",
+          "end": 162,
+          "expanded_url": "https://x.com/Ace_Purin/status/2082438126405116007/photo/1",
+          "media_key": "3_2082438094763257856",
+          "start": 139,
+          "url": "https://t.co/d5m8FoldY0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082438126405116007",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "1.布丁确实好吃喵请大家支持焦糖布丁抹茶布丁以及永雏布丁喵 推荐布歌东京！\n2.对呀太可怕了刚刚命令某个人以后不许睡觉了这样就没关系了🥰一直看着某个人哦\n3.关注永雏布丁喵关注永雏布丁谢谢喵\n4.呜哇！可能不玩😭可能打其他单机多一点但是还是：队友募集中，所以具体是什么斗地主捏 https://t.co/d5m8FoldY0"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 736,
+        "media_key": "3_2082438094771617792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOZOafmagAAVfay.jpg",
+        "width": 1179
+      },
+      {
+        "height": 1053,
+        "media_key": "3_2082438094788366336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOZOafqaEAAYIl0.jpg",
+        "width": 1179
+      },
+      {
+        "height": 682,
+        "media_key": "3_2082438094356414464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOZOaeDbAAA_jxK.jpg",
+        "width": 1179
+      },
+      {
+        "height": 687,
+        "media_key": "3_2082438094763257856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOZOafka8AAyAeL.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082438094771617792",
+            "3_2082438094788366336",
+            "3_2082438094356414464",
+            "3_2082438094763257856"
+          ]
+        },
+        "author_id": "1949348575378644992",
+        "conversation_id": "2082438126405116007",
+        "created_at": "2026-07-29T12:08:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T13:08:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082438126405116007"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/d5m8FoldY0",
+              "end": 162,
+              "expanded_url": "https://x.com/Ace_Purin/status/2082438126405116007/photo/1",
+              "media_key": "3_2082438094771617792",
+              "start": 139,
+              "url": "https://t.co/d5m8FoldY0"
+            },
+            {
+              "display_url": "pic.x.com/d5m8FoldY0",
+              "end": 162,
+              "expanded_url": "https://x.com/Ace_Purin/status/2082438126405116007/photo/1",
+              "media_key": "3_2082438094788366336",
+              "start": 139,
+              "url": "https://t.co/d5m8FoldY0"
+            },
+            {
+              "display_url": "pic.x.com/d5m8FoldY0",
+              "end": 162,
+              "expanded_url": "https://x.com/Ace_Purin/status/2082438126405116007/photo/1",
+              "media_key": "3_2082438094356414464",
+              "start": 139,
+              "url": "https://t.co/d5m8FoldY0"
+            },
+            {
+              "display_url": "pic.x.com/d5m8FoldY0",
+              "end": 162,
+              "expanded_url": "https://x.com/Ace_Purin/status/2082438126405116007/photo/1",
+              "media_key": "3_2082438094763257856",
+              "start": 139,
+              "url": "https://t.co/d5m8FoldY0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082438126405116007",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "1.布丁确实好吃喵请大家支持焦糖布丁抹茶布丁以及永雏布丁喵 推荐布歌东京！\n2.对呀太可怕了刚刚命令某个人以后不许睡觉了这样就没关系了🥰一直看着某个人哦\n3.关注永雏布丁喵关注永雏布丁谢谢喵\n4.呜哇！可能不玩😭可能打其他单机多一点但是还是：队友募集中，所以具体是什么斗地主捏 https://t.co/d5m8FoldY0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-27T05:58:17.000Z",
+        "description": "爱人@qngshu988723424｜💊 SH｜被block就是你的错",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 2,
+                "username": "qngshu988723424"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ace_purin",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ace_purin",
+                "start": 0,
+                "url": "https://t.co/PkWlzvseLZ"
+              }
+            ]
+          }
+        },
+        "id": "1949348575378644992",
+        "location": "メジコン",
+        "name": "永雏布丁",
+        "pinned_tweet_id": "2033851547843719390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041031144146423808/f-TPgWl2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 325,
+          "following_count": 381,
+          "like_count": 3967,
+          "listed_count": 0,
+          "media_count": 93,
+          "tweet_count": 2746
+        },
+        "url": "https://t.co/PkWlzvseLZ",
+        "username": "Ace_Purin",
+        "verified": false
+      }
+    ]
+  }
+}

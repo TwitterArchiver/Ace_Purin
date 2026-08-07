@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2082439206220275712",
+        "3_2082439206216085504",
+        "3_2082439206224429056",
+        "3_2082439206216126464"
+      ]
+    },
+    "author_id": "1949348575378644992",
+    "conversation_id": "2082439236876378334",
+    "created_at": "2026-07-29T12:12:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T13:12:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2082439236876378334"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/5zsSZo9vYq",
+          "end": 142,
+          "expanded_url": "https://x.com/Ace_Purin/status/2082439236876378334/photo/1",
+          "media_key": "3_2082439206220275712",
+          "start": 119,
+          "url": "https://t.co/5zsSZo9vYq"
+        },
+        {
+          "display_url": "pic.x.com/5zsSZo9vYq",
+          "end": 142,
+          "expanded_url": "https://x.com/Ace_Purin/status/2082439236876378334/photo/1",
+          "media_key": "3_2082439206216085504",
+          "start": 119,
+          "url": "https://t.co/5zsSZo9vYq"
+        },
+        {
+          "display_url": "pic.x.com/5zsSZo9vYq",
+          "end": 142,
+          "expanded_url": "https://x.com/Ace_Purin/status/2082439236876378334/photo/1",
+          "media_key": "3_2082439206224429056",
+          "start": 119,
+          "url": "https://t.co/5zsSZo9vYq"
+        },
+        {
+          "display_url": "pic.x.com/5zsSZo9vYq",
+          "end": 142,
+          "expanded_url": "https://x.com/Ace_Purin/status/2082439236876378334/photo/1",
+          "media_key": "3_2082439206216126464",
+          "start": 119,
+          "url": "https://t.co/5zsSZo9vYq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082439236876378334",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "1.草这是什么换头 下辈子太远这辈子好好活吧！\n2.可以直接dm我呀喜欢你😈虽然x的dm坏掉了因为永雏布丁还没有更新但素网页版还能看可以恰个Q喵\n3.你好！我是永雏布丁，设定上是吸血鬼，大概五千岁？！\n4.玩喵玩喵喜欢这个！种地很舒服😈 https://t.co/5zsSZo9vYq"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2082439206220275712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOZPbMEbIAAgDf3.jpg",
+        "width": 1098
+      },
+      {
+        "height": 730,
+        "media_key": "3_2082439206216085504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOZPbMDbMAAcxZA.jpg",
+        "width": 1179
+      },
+      {
+        "height": 712,
+        "media_key": "3_2082439206224429056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOZPbMFagAA14IX.jpg",
+        "width": 1179
+      },
+      {
+        "height": 701,
+        "media_key": "3_2082439206216126464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOZPbMDb0AA9R9-.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082439206220275712",
+            "3_2082439206216085504",
+            "3_2082439206224429056",
+            "3_2082439206216126464"
+          ]
+        },
+        "author_id": "1949348575378644992",
+        "conversation_id": "2082439236876378334",
+        "created_at": "2026-07-29T12:12:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T13:12:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082439236876378334"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5zsSZo9vYq",
+              "end": 142,
+              "expanded_url": "https://x.com/Ace_Purin/status/2082439236876378334/photo/1",
+              "media_key": "3_2082439206220275712",
+              "start": 119,
+              "url": "https://t.co/5zsSZo9vYq"
+            },
+            {
+              "display_url": "pic.x.com/5zsSZo9vYq",
+              "end": 142,
+              "expanded_url": "https://x.com/Ace_Purin/status/2082439236876378334/photo/1",
+              "media_key": "3_2082439206216085504",
+              "start": 119,
+              "url": "https://t.co/5zsSZo9vYq"
+            },
+            {
+              "display_url": "pic.x.com/5zsSZo9vYq",
+              "end": 142,
+              "expanded_url": "https://x.com/Ace_Purin/status/2082439236876378334/photo/1",
+              "media_key": "3_2082439206224429056",
+              "start": 119,
+              "url": "https://t.co/5zsSZo9vYq"
+            },
+            {
+              "display_url": "pic.x.com/5zsSZo9vYq",
+              "end": 142,
+              "expanded_url": "https://x.com/Ace_Purin/status/2082439236876378334/photo/1",
+              "media_key": "3_2082439206216126464",
+              "start": 119,
+              "url": "https://t.co/5zsSZo9vYq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082439236876378334",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "1.草这是什么换头 下辈子太远这辈子好好活吧！\n2.可以直接dm我呀喜欢你😈虽然x的dm坏掉了因为永雏布丁还没有更新但素网页版还能看可以恰个Q喵\n3.你好！我是永雏布丁，设定上是吸血鬼，大概五千岁？！\n4.玩喵玩喵喜欢这个！种地很舒服😈 https://t.co/5zsSZo9vYq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-27T05:58:17.000Z",
+        "description": "爱人@qngshu988723424｜💊 SH｜被block就是你的错",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 2,
+                "username": "qngshu988723424"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ace_purin",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ace_purin",
+                "start": 0,
+                "url": "https://t.co/PkWlzvseLZ"
+              }
+            ]
+          }
+        },
+        "id": "1949348575378644992",
+        "location": "メジコン",
+        "name": "永雏布丁",
+        "pinned_tweet_id": "2033851547843719390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041031144146423808/f-TPgWl2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 325,
+          "following_count": 381,
+          "like_count": 3967,
+          "listed_count": 0,
+          "media_count": 94,
+          "tweet_count": 2747
+        },
+        "url": "https://t.co/PkWlzvseLZ",
+        "username": "Ace_Purin",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,309 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1948779347675918340",
+        "3_1948779367376564226"
+      ],
+      "media_source_tweet_id": [
+        "2082862784648527991",
+        "2082862784648527991"
+      ]
+    },
+    "author_id": "1949348575378644992",
+    "conversation_id": "2083094326981402913",
+    "created_at": "2026-07-31T07:36:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T08:36:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083094326981402913"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1251867613052973056",
+          "start": 3,
+          "username": "TranslatedCats"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/SDW6KxjLjq",
+          "end": 117,
+          "expanded_url": "https://x.com/TranslatedCats/status/2082862784648527991/photo/1",
+          "media_key": "3_1948779347675918340",
+          "start": 94,
+          "url": "https://t.co/SDW6KxjLjq"
+        },
+        {
+          "display_url": "pic.x.com/SDW6KxjLjq",
+          "end": 117,
+          "expanded_url": "https://x.com/TranslatedCats/status/2082862784648527991/photo/1",
+          "media_key": "3_1948779367376564226",
+          "start": 94,
+          "url": "https://t.co/SDW6KxjLjq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083094326981402913",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6393
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082862784648527991",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @TranslatedCats: He is happy with and without the apple.. we have a lot to learn from him. https://t.co/SDW6KxjLjq"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 689,
+        "media_key": "3_1948779347675918340",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gwt0fdvXMAQ6MBx.png",
+        "width": 557
+      },
+      {
+        "height": 688,
+        "media_key": "3_1948779367376564226",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gwt0gnIXMAI5BAI.png",
+        "width": 556
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1948779347675918340",
+            "3_1948779367376564226"
+          ]
+        },
+        "author_id": "1251867613052973056",
+        "conversation_id": "2082862784648527991",
+        "created_at": "2026-07-30T16:16:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T17:16:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082862784648527991"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SDW6KxjLjq",
+              "end": 97,
+              "expanded_url": "https://x.com/TranslatedCats/status/2082862784648527991/photo/1",
+              "media_key": "3_1948779347675918340",
+              "start": 74,
+              "url": "https://t.co/SDW6KxjLjq"
+            },
+            {
+              "display_url": "pic.x.com/SDW6KxjLjq",
+              "end": 97,
+              "expanded_url": "https://x.com/TranslatedCats/status/2082862784648527991/photo/1",
+              "media_key": "3_1948779367376564226",
+              "start": 74,
+              "url": "https://t.co/SDW6KxjLjq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082862784648527991",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2723,
+          "impression_count": 717076,
+          "like_count": 54797,
+          "quote_count": 181,
+          "reply_count": 68,
+          "retweet_count": 6395
+        },
+        "reply_settings": "everyone",
+        "text": "He is happy with and without the apple.. we have a lot to learn from him. https://t.co/SDW6KxjLjq"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1948779347675918340",
+            "3_1948779367376564226"
+          ],
+          "media_source_tweet_id": [
+            "2082862784648527991",
+            "2082862784648527991"
+          ]
+        },
+        "author_id": "1949348575378644992",
+        "conversation_id": "2083094326981402913",
+        "created_at": "2026-07-31T07:36:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T08:36:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083094326981402913"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1251867613052973056",
+              "start": 3,
+              "username": "TranslatedCats"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/SDW6KxjLjq",
+              "end": 117,
+              "expanded_url": "https://x.com/TranslatedCats/status/2082862784648527991/photo/1",
+              "media_key": "3_1948779347675918340",
+              "start": 94,
+              "url": "https://t.co/SDW6KxjLjq"
+            },
+            {
+              "display_url": "pic.x.com/SDW6KxjLjq",
+              "end": 117,
+              "expanded_url": "https://x.com/TranslatedCats/status/2082862784648527991/photo/1",
+              "media_key": "3_1948779367376564226",
+              "start": 94,
+              "url": "https://t.co/SDW6KxjLjq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083094326981402913",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6393
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082862784648527991",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @TranslatedCats: He is happy with and without the apple.. we have a lot to learn from him. https://t.co/SDW6KxjLjq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-27T05:58:17.000Z",
+        "description": "爱人@qngshu988723424｜💊 SH｜被block就是你的错",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 2,
+                "username": "qngshu988723424"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ace_purin",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ace_purin",
+                "start": 0,
+                "url": "https://t.co/PkWlzvseLZ"
+              }
+            ]
+          }
+        },
+        "id": "1949348575378644992",
+        "location": "メジコン",
+        "name": "永雏布丁",
+        "pinned_tweet_id": "2033851547843719390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041031144146423808/f-TPgWl2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 359,
+          "following_count": 401,
+          "like_count": 4049,
+          "listed_count": 0,
+          "media_count": 101,
+          "tweet_count": 2801
+        },
+        "url": "https://t.co/PkWlzvseLZ",
+        "username": "Ace_Purin",
+        "verified": false
+      },
+      {
+        "created_at": "2020-04-19T13:37:58.000Z",
+        "description": "Cats with machine/automatic/AI translated captions. (Turn off auto-translate for funnier tweets)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ko-fi.com/translatedcats/",
+                "end": 23,
+                "expanded_url": "https://ko-fi.com/translatedcats/",
+                "start": 0,
+                "url": "https://t.co/mWjRb4VO2G"
+              }
+            ]
+          }
+        },
+        "id": "1251867613052973056",
+        "location": "UK",
+        "name": "translated cats",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1252153959390883840/FxHTPYec_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 355312,
+          "following_count": 2890,
+          "like_count": 15062,
+          "listed_count": 1989,
+          "media_count": 14116,
+          "tweet_count": 18128
+        },
+        "url": "https://t.co/mWjRb4VO2G",
+        "username": "TranslatedCats",
+        "verified": false
+      }
+    ]
+  }
+}

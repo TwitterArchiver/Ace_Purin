@@ -1,0 +1,183 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2082443502240337920",
+        "3_2082443502257127424"
+      ]
+    },
+    "author_id": "1949348575378644992",
+    "conversation_id": "2082443515561418779",
+    "created_at": "2026-07-29T12:29:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T13:29:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2082443515561418779"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/tLHVqCbVIg",
+          "end": 167,
+          "expanded_url": "https://x.com/Ace_Purin/status/2082443515561418779/photo/1",
+          "media_key": "3_2082443502240337920",
+          "start": 144,
+          "url": "https://t.co/tLHVqCbVIg"
+        },
+        {
+          "display_url": "pic.x.com/tLHVqCbVIg",
+          "end": 167,
+          "expanded_url": "https://x.com/Ace_Purin/status/2082443515561418779/photo/1",
+          "media_key": "3_2082443502257127424",
+          "start": 144,
+          "url": "https://t.co/tLHVqCbVIg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082443515561418779",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "1. 亲爱的我吃过了，您想我就过来，我这就过去看您，我好想您，我心里一直装着您，您装着我我就过来陪陪您，好的，我真的放不下您，您一个人在家也要保重身体，亲爱的我也很想您，您说想我我就过去，我在路上等您消息。爱您的宝贝。亲爱的我先收拾一下，马上就过来，您等我。\n2.三岁还不算晚！抓住机会 https://t.co/tLHVqCbVIg"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1292,
+        "media_key": "3_2082443502240337920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOZTVP_bEAA-cHm.jpg",
+        "width": 1179
+      },
+      {
+        "height": 717,
+        "media_key": "3_2082443502257127424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOZTVQDbQAAY9hF.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082443502240337920",
+            "3_2082443502257127424"
+          ]
+        },
+        "author_id": "1949348575378644992",
+        "conversation_id": "2082443515561418779",
+        "created_at": "2026-07-29T12:29:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T13:29:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082443515561418779"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tLHVqCbVIg",
+              "end": 167,
+              "expanded_url": "https://x.com/Ace_Purin/status/2082443515561418779/photo/1",
+              "media_key": "3_2082443502240337920",
+              "start": 144,
+              "url": "https://t.co/tLHVqCbVIg"
+            },
+            {
+              "display_url": "pic.x.com/tLHVqCbVIg",
+              "end": 167,
+              "expanded_url": "https://x.com/Ace_Purin/status/2082443515561418779/photo/1",
+              "media_key": "3_2082443502257127424",
+              "start": 144,
+              "url": "https://t.co/tLHVqCbVIg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082443515561418779",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "1. 亲爱的我吃过了，您想我就过来，我这就过去看您，我好想您，我心里一直装着您，您装着我我就过来陪陪您，好的，我真的放不下您，您一个人在家也要保重身体，亲爱的我也很想您，您说想我我就过去，我在路上等您消息。爱您的宝贝。亲爱的我先收拾一下，马上就过来，您等我。\n2.三岁还不算晚！抓住机会 https://t.co/tLHVqCbVIg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-27T05:58:17.000Z",
+        "description": "爱人@qngshu988723424｜💊 SH｜被block就是你的错",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 2,
+                "username": "qngshu988723424"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ace_purin",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ace_purin",
+                "start": 0,
+                "url": "https://t.co/PkWlzvseLZ"
+              }
+            ]
+          }
+        },
+        "id": "1949348575378644992",
+        "location": "メジコン",
+        "name": "永雏布丁",
+        "pinned_tweet_id": "2033851547843719390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041031144146423808/f-TPgWl2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 325,
+          "following_count": 381,
+          "like_count": 3977,
+          "listed_count": 0,
+          "media_count": 97,
+          "tweet_count": 2756
+        },
+        "url": "https://t.co/PkWlzvseLZ",
+        "username": "Ace_Purin",
+        "verified": false
+      }
+    ]
+  }
+}
