@@ -1,7 +1,7 @@
 {
   "name": "永雏布丁",
   "username": "@Ace_Purin",
-  "bio": "爱人@qngshu988723424｜💊 SH｜被block就是你的错",
+  "bio": "最近在当失德主播｜爱人@qngshu988723424 好妈咪@PP_Konig｜💊 SH｜被block就是你的错",
   "location": "メジコン",
   "link": "https://ngl.link/ace_purin",
   "avatar": "avatar/avatar.jpg",
@@ -10,9 +10,14 @@
   "bio_entities": {
     "mentions": [
       {
-        "end": 18,
-        "start": 2,
+        "end": 27,
+        "start": 11,
         "username": "qngshu988723424"
+      },
+      {
+        "end": 40,
+        "start": 31,
+        "username": "PP_Konig"
       }
     ]
   },
