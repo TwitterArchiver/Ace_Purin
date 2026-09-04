@@ -1,0 +1,180 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1949348575378644992",
+    "conversation_id": "2085662577305272525",
+    "created_at": "2026-08-07T13:28:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-07T14:28:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085719662533455958"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1900779126245769216",
+          "start": 0,
+          "username": "fawpv25"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085719662533455958",
+    "in_reply_to_user_id": "1900779126245769216",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085662577305272525",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fawpv25 🥲对。"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2085662577305272525].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2085662577305272525",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2085662577305272525"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1949348575378644992",
+        "conversation_id": "2085662577305272525",
+        "created_at": "2026-08-07T13:28:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T14:28:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085719662533455958"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1900779126245769216",
+              "start": 0,
+              "username": "fawpv25"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085719662533455958",
+        "in_reply_to_user_id": "1900779126245769216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085662577305272525",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fawpv25 🥲对。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-27T05:58:17.000Z",
+        "description": "爱人@qngshu988723424｜💊 SH｜被block就是你的错",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 2,
+                "username": "qngshu988723424"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ace_purin",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ace_purin",
+                "start": 0,
+                "url": "https://t.co/PkWlzvseLZ"
+              }
+            ]
+          }
+        },
+        "id": "1949348575378644992",
+        "location": "メジコン",
+        "name": "永雏布丁",
+        "pinned_tweet_id": "2033851547843719390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041031144146423808/f-TPgWl2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 378,
+          "following_count": 416,
+          "like_count": 4130,
+          "listed_count": 0,
+          "media_count": 104,
+          "tweet_count": 2869
+        },
+        "url": "https://t.co/PkWlzvseLZ",
+        "username": "Ace_Purin",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-15T05:20:44.000Z",
+        "description": "如果你知道怎么变成一只乌鸦，请告诉我/致力于成为你们的互联网好朋鸦/艺术就是生命/我们的诞生不是为了被疼痛感束缚/学习像人类一样地活下去。",
+        "id": "1900779126245769216",
+        "name": "天使墜地窒息死亡",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006613154210721792/8FPJv03i_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 112,
+          "following_count": 317,
+          "like_count": 19068,
+          "listed_count": 0,
+          "media_count": 126,
+          "tweet_count": 5491
+        },
+        "url": "",
+        "username": "fawpv25",
+        "verified": false
+      }
+    ]
+  }
+}

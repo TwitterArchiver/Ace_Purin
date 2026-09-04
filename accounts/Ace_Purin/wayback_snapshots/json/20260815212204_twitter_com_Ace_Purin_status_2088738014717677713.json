@@ -1,0 +1,132 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1949348575378644992",
+    "conversation_id": "2088738014717677713",
+    "created_at": "2026-08-15T21:22:04.000Z",
+    "display_text_range": [
+      0,
+      89
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-15T22:22:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2088738014717677713"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2088738014717677713",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "你们知道吗我直播途中默默来了24t右美沙芬本来想下播爽一下结果因为直播前有事让我吃了1mg劳拉1.6mg四字常见苯二氮卓类药物然后我下播就躺在床上成大傻逼了闭上眼睛再睁开就是现在"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1949348575378644992",
+        "conversation_id": "2088738014717677713",
+        "created_at": "2026-08-15T21:22:04.000Z",
+        "display_text_range": [
+          0,
+          89
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T22:22:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088738014717677713"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2088738014717677713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你们知道吗我直播途中默默来了24t右美沙芬本来想下播爽一下结果因为直播前有事让我吃了1mg劳拉1.6mg四字常见苯二氮卓类药物然后我下播就躺在床上成大傻逼了闭上眼睛再睁开就是现在"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-07-27T05:58:17.000Z",
+        "description": "爱人@qngshu988723424｜💊 SH｜被block就是你的错",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 2,
+                "username": "qngshu988723424"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ace_purin",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ace_purin",
+                "start": 0,
+                "url": "https://t.co/PkWlzvseLZ"
+              }
+            ]
+          }
+        },
+        "id": "1949348575378644992",
+        "is_identity_verified": false,
+        "location": "メジコン",
+        "most_recent_tweet_id": "2088738014717677713",
+        "name": "永雏布丁",
+        "pinned_tweet_id": "2033851547843719390",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1949348575378644992/1773215594",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041031144146423808/f-TPgWl2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 371,
+          "following_count": 406,
+          "like_count": 4198,
+          "listed_count": 0,
+          "media_count": 104,
+          "tweet_count": 2925
+        },
+        "url": "https://t.co/PkWlzvseLZ",
+        "username": "Ace_Purin",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

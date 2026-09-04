@@ -1,0 +1,324 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2087382471356846080"
+      ],
+      "media_source_tweet_id": [
+        "2087382498926026765"
+      ]
+    },
+    "author_id": "1949348575378644992",
+    "conversation_id": "2087815753332564158",
+    "created_at": "2026-08-13T08:17:19.000Z",
+    "display_text_range": [
+      0,
+      70
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-13T09:17:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087815753332564158"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1500313037622099968",
+          "start": 3,
+          "username": "shmrkln"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/hghfDdZ2Z0",
+          "end": 70,
+          "expanded_url": "https://x.com/shmrkln/status/2087382498926026765/video/1",
+          "media_key": "13_2087382471356846080",
+          "start": 47,
+          "url": "https://t.co/hghfDdZ2Z0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087815753332564158",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "13_2087382471356846080"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 228
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087382498926026765",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @shmrkln: 【愛人10日目】\nぐりぐりぐりぐり🤣🤣🤣\n\n※速度は変えてませんw https://t.co/hghfDdZ2Z0"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10520,
+        "height": 1008,
+        "media_key": "13_2087382471356846080",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2087382471356846080/img/06kSa5rA3AZrIHcN.jpg",
+        "public_metrics": {
+          "view_count": 13299
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2087382471356846080/vid/avc1/320x448/Ze71EkyICKtTGa86.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2087382471356846080/vid/avc1/480x672/Ow5JLzwLvvsgosI7.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2087382471356846080/vid/avc1/720x1008/kFRgB7rjQsQMXWmN.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2087382471356846080/pl/FqP1aAb2Z2-jESSo.m3u8?v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2087382471356846080"
+          ]
+        },
+        "author_id": "1500313037622099968",
+        "conversation_id": "2087382498926026765",
+        "created_at": "2026-08-12T03:35:44.000Z",
+        "display_text_range": [
+          0,
+          33
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T04:35:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087382498926026765"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hghfDdZ2Z0",
+              "end": 57,
+              "expanded_url": "https://x.com/shmrkln/status/2087382498926026765/video/1",
+              "media_key": "13_2087382471356846080",
+              "start": 34,
+              "url": "https://t.co/hghfDdZ2Z0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087382498926026765",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "13_2087382471356846080"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 204,
+          "impression_count": 35964,
+          "like_count": 2444,
+          "quote_count": 9,
+          "reply_count": 13,
+          "retweet_count": 228
+        },
+        "reply_settings": "everyone",
+        "text": "【愛人10日目】\nぐりぐりぐりぐり🤣🤣🤣\n\n※速度は変えてませんw https://t.co/hghfDdZ2Z0"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2087382471356846080"
+          ],
+          "media_source_tweet_id": [
+            "2087382498926026765"
+          ]
+        },
+        "author_id": "1949348575378644992",
+        "conversation_id": "2087815753332564158",
+        "created_at": "2026-08-13T08:17:19.000Z",
+        "display_text_range": [
+          0,
+          70
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T09:17:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087815753332564158"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1500313037622099968",
+              "start": 3,
+              "username": "shmrkln"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/hghfDdZ2Z0",
+              "end": 70,
+              "expanded_url": "https://x.com/shmrkln/status/2087382498926026765/video/1",
+              "media_key": "13_2087382471356846080",
+              "start": 47,
+              "url": "https://t.co/hghfDdZ2Z0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087815753332564158",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "13_2087382471356846080"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 228
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087382498926026765",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @shmrkln: 【愛人10日目】\nぐりぐりぐりぐり🤣🤣🤣\n\n※速度は変えてませんw https://t.co/hghfDdZ2Z0"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-07-27T05:58:17.000Z",
+        "description": "爱人@qngshu988723424｜💊 SH｜被block就是你的错",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 2,
+                "username": "qngshu988723424"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ace_purin",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ace_purin",
+                "start": 0,
+                "url": "https://t.co/PkWlzvseLZ"
+              }
+            ]
+          }
+        },
+        "id": "1949348575378644992",
+        "is_identity_verified": false,
+        "location": "メジコン",
+        "most_recent_tweet_id": "2087815753332564158",
+        "name": "永雏布丁",
+        "pinned_tweet_id": "2033851547843719390",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1949348575378644992/1773215594",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041031144146423808/f-TPgWl2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 375,
+          "following_count": 413,
+          "like_count": 4177,
+          "listed_count": 0,
+          "media_count": 104,
+          "tweet_count": 2899
+        },
+        "url": "https://t.co/PkWlzvseLZ",
+        "username": "Ace_Purin",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-03-06T03:34:58.000Z",
+        "description": "オカメインコ8羽(4羽はわが家生まれ)🐥建築関係会社員(繁忙期は低浮上)🐤爆笑ネタ大好き♡タメ口OK気にしないd('∀'*)✨お気軽に見てってね😆",
+        "id": "1500313037622099968",
+        "is_identity_verified": false,
+        "location": "大阪府",
+        "most_recent_tweet_id": "2087809536300335137",
+        "name": "うたおと🍊",
+        "pinned_tweet_id": "2007315190468251694",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1500313037622099968/1672678881",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1610511980619788288/1yEyO7Z3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2416,
+          "following_count": 753,
+          "like_count": 108757,
+          "listed_count": 23,
+          "media_count": 1271,
+          "tweet_count": 14121
+        },
+        "url": "",
+        "username": "shmrkln",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
